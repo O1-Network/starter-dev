@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+  	<meta charset="utf-8">
+  	<meta name="description" content="Your description goes here">
+  	<meta name="keywords" content="one, two, three">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<title>Starter</title>
+
+
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<header>
+			<span>Starter</span>
+		</header>
+		<div>
+			<span class="login">Login</span>
+		</div>
+		<div class="toggle">
+			<span id="developer">Developer</span>
+			<span id="business">Business</span>
+		</div>
+		<section>
+			<div>
+				<span class="login">Login to your account:</span>
+				<span>Login using social network</span>
+			</div>
+			<div class="socialNetwork">
+				<ul>
+					<li>
+						<!--the below <a> tags reference the social media login page. 
+						We will need to either get a snipit of the social media logos or retrieve them by
+						some other way so users can click on them-->
+						<a href="https://www.linkedin.com/checkpoint/lg/sign-in-another-account"></a>
+					</li>
+					<li>
+						<a href="https://accounts.google.com/ServiceLogin/identifier?elo=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"></a>
+					</li>
+					<li>
+						<a href="https://github.com/login"></a>
+					</li>
+				</ul>
+			</div>
+			<div>
+				<label for="name">Username</label>	
+				<br>
+				<input type="text" id="name" name="name">
+				<br>
+				<label for="password">password</label>
+				<a href="forgotPassword.html">Forgot?</a>	
+				<br>
+				<input type="password" id="password" name="password">
+				<br>
+				<input type="checkbox">
+				<label for="keepMeLoggedIn">Keep me logged in</label>
+				<br>
+				<button>Login</button>
+				<br>
+				<span>Not a member?</span> <a href="signup.html">Signup</a> <!--we need the correct signup link-->
+			</div>
+		</section>
+
+		<script type="text/javascript" src="script.js"></script>
+	</body>
+</html>
