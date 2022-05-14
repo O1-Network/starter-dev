@@ -1,7 +1,7 @@
 .grid-container {
     display: grid;
     /* why hate */  
-    grid-template-columns: repeat(6 1fr);
+    grid-template-columns: repeat(6,1fr);
     gap: 15px;
 }
 
@@ -22,16 +22,24 @@
 }
 
 .navLink {
-    color: lightgreen;
+    color: black;
+
+    height: 30%;
+}
+
+.navLink {
+    transition-duration: 0.4s;
 }
 
 .navLink:hover {
-    color: green;
+    background-color: #4CAF50; /* Green */
+    color: white;
+    border-radius: 10px;
 }
 
 .banner-container {    
     display: grid;
-    grid-template-columns: repeat(6 1fr);
+    grid-template-columns: repeat(6,1fr);
 }
 
 

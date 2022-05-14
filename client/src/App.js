@@ -5,16 +5,12 @@ import './style.css';
 const App = () => {
   return (
     <div>
-
       <nav class="col-full grid-container">
         <h1 class="col-1">Starter</h1>
 
-        <a class="col-5 navLink" href="#">Login</a>
-        <a class="col-6 navLink" href="#">Sign Up</a>
-          
+        <button class="col-5 navLink" href="#">Login</button>
+        <button class="col-6 navLink" href="#">Sign Up</button>
       </nav>
-      
-
 
       <div class="banner-container">
         
@@ -26,11 +22,6 @@ const App = () => {
           <img class="banner-image" src="https://placekitten.com/200/300"></img>
         
       </div>
-
-
-
-
-
       <MainSection />
       
     </div>
