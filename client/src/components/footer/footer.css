@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+}
+footer {
+  display: flex;
+  justify-content: space-around;
+}
+.footer-links {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+}
+.footer-links article {
+  display: flex;
+  flex-direction: column;
+}
+.footer-links ul {
+  display: flex;
+  flex-direction: column;
+}
