@@ -1,17 +1,17 @@
 import './MainSection.css';
 
-const MainSection = () => {
+const MainSection = (props) => {
   return (
     <div className="main-section">
 
       <div id="intro">
-        <h3>Business</h3>
+        <h3>{props.sectionType.type}</h3>
         <p>
           This is a bunch of information that sounds good to a business and encourages them to work with us.
           This section talks about the benefits of getting technology like websites, internal business tools,
           databases, and many other options.
         </p>
-        <a href="#">Get Started</a>
+        <a href="www.github.com">Get Started</a>
       </div>
 
       <div id="video">
@@ -35,7 +35,7 @@ const MainSection = () => {
           for businesses and nonprofits to get more information about the products and services
           available, the charity work, etc etc etc.
         </p>
-        <a href="#">Learn More</a>
+        <a href="www.github.com">Learn More</a>
       </div>
 
     </div>
