@@ -1,3 +1,10 @@
+/* General Style Rules *//* General Style Rules *//* General Style Rules *//* General Style Rules */
+.app-container {
+    margin: 0 200px 0 200px;
+    font-family: arial;
+}
+
+/* Navigation Styles *//* Navigation Styles *//* Navigation Styles *//* Navigation Styles *//* Navigation Styles */
 .grid-container {
     display: grid;
     /* why hate */  
@@ -21,6 +28,10 @@
     grid-column: 6;
 }
 
+.header {
+    font-size: 3rem;
+}
+
 .navLink {
     color: lightgreen;
 }
@@ -29,12 +40,11 @@
     color: green;
 }
 
+/* Banner Styles *//* Banner Styles *//* Banner Styles *//* Banner Styles *//* Banner Styles *//* Banner Styles */
 .banner-container {    
     display: grid;
     grid-template-columns: repeat(6 1fr);
 }
-
-
 
 .banner-headings{
     grid-column-start: 1;

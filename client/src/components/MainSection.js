@@ -11,7 +11,7 @@ const MainSection = (props) => {
           This section talks about the benefits of getting technology like websites, internal business tools,
           databases, and many other options.
         </p>
-        <a href="www.github.com">Get Started</a>
+        <a href="https://github.com/">Get Started</a>
       </div>
 
       <div id="video">
@@ -35,7 +35,7 @@ const MainSection = (props) => {
           for businesses and nonprofits to get more information about the products and services
           available, the charity work, etc etc etc.
         </p>
-        <a href="www.github.com">Learn More</a>
+        <a href="https://github.com/">Learn More</a>
       </div>
 
     </div>

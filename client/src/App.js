@@ -1,8 +1,10 @@
 import React, { useState } from 'react';
-import Intro from './components/Intro';
-import MainSection from './components/MainSection';
+
 import Navigation from './components/Navigation';
+import Intro from './components/Intro';
 import Toggle from './components/Toggle';
+import MainSection from './components/MainSection';
+
 import './style.css';
 
 const App = () => {
@@ -34,15 +36,13 @@ const App = () => {
   } 
 
   return (
-    <div>
+    <div className="app-container">
 
-      <Navigation/>
+      <Nav />
       
       <Intro/>
 
-      <Toggle handleClick={handleClick} type={sectionType}/>
-      
-      <MainSection sectionType = {sectionType} />
+      <MainSection />
       
     </div>
   );
