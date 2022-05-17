@@ -1,11 +1,11 @@
 import './MainSection.css';
 
-const MainSection = () => {
+const MainSection = (props) => {
   return (
     <div className="main-section">
 
       <div id="intro">
-        <h3>Business</h3>
+        <h3>{props.sectionType.type}</h3>
         <p>
           This is a bunch of information that sounds good to a business and encourages them to work with us.
           This section talks about the benefits of getting technology like websites, internal business tools,
