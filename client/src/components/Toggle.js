@@ -1,7 +1,7 @@
 const Toggle = (props) => {
 
     return(
-        <div>
+        <div id="toggle">
             <button id="business-button" onClick={props.handleClick}>
                 Business
             </button>
