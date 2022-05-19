@@ -1,0 +1,54 @@
+.col-full{
+    display:flex;
+    justify-content: space-between;
+}
+.col-full h1{
+    font-size:50px;
+    color: rgb(176, 235, 254);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    
+}
+
+.btns-container {
+    padding: 8px 16px;
+    width:fit-content;
+    display: flex;
+    border-radius: 25px;
+    justify-content: space-around;
+    text-decoration: none;
+    align-items: center;
+}
+
+.navLink-buttons {
+    padding: 9px 4px;
+    width:90px;
+    font-size: 20px;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: none;
+    margin: 1px;
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.SignUp {
+    background-color: lightcoral;
+    border-radius:0 10px 10px 0 ;
+}
+.Login {
+    background-color: rgb(134, 217, 245);
+    border-radius: 10px 0 0 10px;
+}
+.SignUp:hover{
+    background-color: rgb(251, 211, 211);
+    color: black;
+
+}
+.Login:hover{
+    background-color:rgb(210, 240, 249);
+    color: rgb(12, 12, 12);
+
+}
+
+

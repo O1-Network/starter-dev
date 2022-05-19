@@ -1,37 +1,46 @@
-import React from 'react';
+import React, { useState } from 'react';
+import './App.css';
+import Navigation from './components/Navigation';
+import Intro from './components/Intro';
+import Toggle from './components/Toggle';
 import MainSection from './components/MainSection';
-import './style.css';
+
+import BusinessData from './data/business.json';
+import DeveloperData from './data/developer.json';
+
+console.log(BusinessData)
 
 const App = () => {
+
+  const[sectionType, setSectionType] = useState(DeveloperData);
+
+  console.log(sectionType)
+
+  const handleClick = (e) => {
+    console.log(e);
+    console.log(e.target);
+
+
+    if(e.target.id === "developer-button"){
+      setSectionType(DeveloperData);
+    } else {
+      setSectionType(BusinessData);
+    }
+  } 
+
   return (
-    <div>
-      <nav class="col-full grid-container">
-        <h1 class="col-1">Starter</h1>
+    <div className="app-container">
 
-        <button class="col-5 navLink" href="#">Login</button>
-        <button class="col-6 navLink" href="#">Sign Up</button>
-      </nav>
+      <Navigation />
+      
+      <Intro/>
 
-      <div class="banner-container">
-        
-          <div class="banner-headings">
-            <h3>First Line of Text</h3>
-            <h3>Second Line of Text</h3>
-          </div>
-          
-          <img class="banner-image" src="https://placekitten.com/200/300"></img>
-        
-      </div>
-      <MainSection />
+      <Toggle handleClick={handleClick} />
+
+      <MainSection sectionType={sectionType} />
       
     </div>
   );
 }
-
-/*class NavLinks extends React.Component {
-  createLinks() {
-    
-  }
-}*/
 
 export default App;

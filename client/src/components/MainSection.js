@@ -1,41 +1,37 @@
 import './MainSection.css';
 
-const MainSection = () => {
+const MainSection = (props) => {
   return (
-    <div className="main-section">
+    <div className="main_container">
 
-      <div id="intro">
-        <h3>Business</h3>
+      <div id="main_description">
+        <h3>{props.sectionType.type}</h3>
         <p>
-          This is a bunch of information that sounds good to a business and encourages them to work with us.
-          This section talks about the benefits of getting technology like websites, internal business tools,
-          databases, and many other options.
+          {props.sectionType.text}
         </p>
-        <a href="#">Get Started</a>
+        <a href="https://github.com/">Get Started</a>
       </div>
 
-      <div id="video">
+      <div id="main_video">
         <iframe
           width="420"
           height="315"
-          src="https://www.youtube.com/embed/tgbNymZ7vqY"
+          src={props.sectionType.video}
         />
       </div>
 
-      <div id="image">
+      <div id="main_image">
         <img
-          src="http://via.placeholder.com/360x240"
-          alt="business placeholder"
+          src={props.sectionType.img}
+          alt={props.sectionType.imgAlt}
         />
       </div>
 
-      <div id="learn-more">
+      <div id="main_learn-more">
         <p>
-          If you want to see or hear more, click this link. This link is going to open up more options
-          for businesses and nonprofits to get more information about the products and services
-          available, the charity work, etc etc etc.
+          {props.sectionType.learn}
         </p>
-        <a href="#">Learn More</a>
+        <a href="https://github.com/">Learn More</a>
       </div>
 
     </div>

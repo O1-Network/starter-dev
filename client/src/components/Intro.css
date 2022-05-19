@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+h2 {
+    font-size: 2.2rem;
+    font-family: 'Roboto', sans-serif;
+}
+
+div#intro{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+
+}
+
+#intro-statement {
+    width: 50%;
+    text-align: left;
+    padding: 30px;
+    letter-spacing: 0.2rem;
+    line-height: 3rem;
+}
