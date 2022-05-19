@@ -10,3 +10,7 @@ input[type="submit"]{
       font-weight: bold;
       box-shadow: 5px 5px 1px 1px #06568f;
   }
+
+form{
+display: inline;
+}
