@@ -1,10 +1,15 @@
+import React from 'react';
 const Navigation = () => {
     return (
         <nav className="col-full grid-container">
             <h1 className="col-1">Starter</h1>
 
-            <a className="col-5-navLink" href="www.github.com">Login</a>
-            <a className="col-6-navLink" href="www.github.com">Sign Up</a>     
+            <form action="www.github.com" className="intro-nav-links">
+                <input type="submit" value="Login" />
+            </form>
+            <form action="www.github.com" className="intro-nav-links">
+                <input type="submit" value="Sign up" />
+            </form>      
         </nav>
     )
 }

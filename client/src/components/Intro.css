@@ -1,0 +1,12 @@
+input[type="submit"]{
+    margin: 5;
+    background-color:#5ac6f2;
+      font-family: Arial;
+      color: black;
+      font-size: large;
+      border-radius: 3px;
+      border-color: #06568f;
+      padding: 5px;
+      font-weight: bold;
+      box-shadow: 5px 5px 1px 1px #06568f;
+  }
