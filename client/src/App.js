@@ -8,28 +8,23 @@ import MainSection from './components/MainSection';
 import BusinessData from './data/business.json';
 import DeveloperData from './data/developer.json';
 
-console.log(BusinessData)
-
 const App = () => {
 
   const[sectionType, setSectionType] = useState(DeveloperData);
 
-  console.log(sectionType)
-
   const handleClick = (e) => {
-    console.log(e);
-    console.log(e.target);
-
 
     if(e.target.id === "developer-button"){
       setSectionType(DeveloperData);
     } else {
       setSectionType(BusinessData);
     }
-  } 
+  }
 
   return (
     <div className="app-container">
+
+      <a className="link" href="https://github.com/">Get Started</a>
 
       <Navigation />
       
