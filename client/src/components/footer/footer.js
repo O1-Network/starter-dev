@@ -10,10 +10,10 @@ export default function Footer() {
         <article>
           <h3>Links</h3>
           <ul>
-            <a href='#'>Link</a>
-            <a href='#'>Link</a>
-            <a href='#'>Link</a>
-            <a href='#'>Link</a>
+            <li><a href='#'>Link</a></li>
+            <li><a href='#'>Link</a></li>
+            <li><a href='#'>Link</a></li>
+            <li><a href='#'>Link</a></li>
           </ul>
         </article>
         <article>
