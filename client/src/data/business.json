@@ -1,0 +1,9 @@
+{
+  "type": "Business demo type",
+  "text": "This is a bunch of information that sounds good to a business and encourages them to work with us. This section talks about the benefits of getting technology like websites, internal business tools, databases, and many other options.",
+  "details": "This is the business info",
+  "video": "https://www.youtube.com/embed/tgbNymZ7vqY",
+  "img": "http://via.placeholder.com/360x240",
+  "imgAlt": "business placeholder",
+  "learn": "If you want to see or hear more, click this link. This link is going to open up more options for businesses and nonprofits to get more information about the products and services available, the charity work, etc etc etc."
+}
