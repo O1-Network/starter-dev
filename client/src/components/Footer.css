@@ -6,6 +6,9 @@
 a {
   text-decoration: none;
 }
+ul {
+  list-style: none;
+}
 footer {
   display: flex;
   justify-content: space-around;
