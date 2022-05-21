@@ -1,7 +1,8 @@
-import React from 'react';
+import "./Navigation.css"
 const Navigation = () => {
     return (
         <nav className="col-full grid-container">
+            
             <h1 className="col-1">Starter</h1>
 
             <form action="www.github.com" className="intro-nav-links">

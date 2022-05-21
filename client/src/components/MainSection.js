@@ -5,33 +5,38 @@ const MainSection = (props) => {
     <div className="main_container">
 
       <div id="main_description">
-        <h3>{props.sectionType.type}</h3>
-        <p>
+        <h3 className="title">{props.sectionType.type}</h3>
+        <p className="text">
           {props.sectionType.text}
         </p>
-        <a href="https://github.com/">Get Started</a>
       </div>
 
       <div id="main_video">
-        <iframe
-          width="420"
-          height="315"
-          src={props.sectionType.video}
-        />
+        <section className="main_video-flexbox">
+          <iframe
+            title="NewVideo"
+            className="main_video-intro"
+            
+            src={props.sectionType.video}
+          />
+        
+        </section>
       </div>
 
       <div id="main_image">
         <img
+          className="image"
           src={props.sectionType.img}
           alt={props.sectionType.imgAlt}
         />
       </div>
 
-      <div id="main_learn-more">
-        <p>
-          {props.sectionType.learn}
+      {/* Create a visual to indicate to users that there is more information below */}
+      <div id="main_description_2">
+        <h3 className="title">{props.sectionType.type}</h3>
+        <p className="text">
+          {props.sectionType.text}
         </p>
-        <a href="https://github.com/">Learn More</a>
       </div>
 
     </div>

@@ -1,0 +1,9 @@
+{
+  "type": "Developer demo type",
+  "text": "This is a bunch of information about the benefits of using this website for a developer. Developers should use this site because they will be benefited in all of these ways.",
+  "details": "This is the developer info",
+  "video": "https://www.youtube.com/embed/tgbNymZ7vqY",
+  "img": "http://via.placeholder.com/360x240",
+  "imgAlt": "developer placeholder",
+  "learn": "If you want to see or hear more, click this link. This link is going to open up more options for developers to get more information about the products and services available, etc etc etc."
+}
