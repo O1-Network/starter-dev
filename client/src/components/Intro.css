@@ -6,16 +6,33 @@ h2 {
     display: flex;
     flex-direction: row;
     margin: 100px 0;
+    min-width: 1000px;
+    
 }
 
 #intro-statement {
+    min-width:300px ;
+    min-height: 200px;
     width: 50%;
-    text-align: left;
-    padding: 30px;
+    height: 30%;
+    margin-top:3.5%;
+    text-align: center;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 60px;
     letter-spacing: 0.2rem;
-    line-height: 3rem;
+    line-height: 2.2rem;
+    font-size: 4vw;
+    font-weight: 600;
+    background-color: rgba(0, 0, 0, 0.1);
+    text-shadow: 2px 2px rgba(0, 0, 0, 0.15);
+    box-shadow: 10px 10px 5px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
 }
 
 #intro-image {
-    max-width: 50%;
+    margin:20px;
+    width: 50%;
+    height: 50%;
+    box-shadow: 10px 10px 5px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
 }

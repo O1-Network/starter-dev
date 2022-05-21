@@ -9,13 +9,62 @@
     display:flex;
     justify-content: space-between;
 }
-.col-full h1{
-    font-size:50px;
-    color: rgb(176, 235, 254);
-    font-family: Arial, Helvetica, sans-serif;
-    margin-left: 10px;
-    
-}
+.col-full h1 {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    display: block;
+    color: #cf1b1b;
+    font-size: 124px;
+    letter-spacing: 8px;
+    cursor: pointer;
+  }
+  
+  .col-full h1::before {
+    content: "Starter";
+    position: absolute;
+    color: transparent;
+    background-image: repeating-linear-gradient(
+      45deg,
+      transparent 0,
+      transparent 2px,
+      white 2px,
+      white 4px
+    );
+    -webkit-background-clip: text;
+    top: 0px;
+    left: 0;
+    z-index: -1;
+    transition: 1s;
+  }
+  
+  .col-full h1::after {
+    content: "Starter";
+    position: absolute;
+    color: transparent;
+    background-image: repeating-linear-gradient(
+      135deg,
+      transparent 0,
+      transparent 2px,
+      white 2px,
+      white 4px
+    );
+    -webkit-background-clip: text;
+    top: 0px;
+    left: 0px;
+    transition: 1s;
+  }
+  
+  .col-full h1:hover:before {
+    top: 10px;
+    left: 10px;
+  }
+  
+  .col-full h1:hover:after {
+    top: -10px;
+    left: -10px;
+  } 
 
 .btns-container {
     padding: 8px 16px;
