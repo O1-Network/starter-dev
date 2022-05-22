@@ -4,79 +4,37 @@
 /* BRAND STYLING TASKS */
     /* Do this */
     /* Do that */
-
-.col-full{
-    display:flex;
-    justify-content: space-between;
-}
-.col-full h1 {
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    display: block;
-    color: #cf1b1b;
-    font-size: 124px;
-    letter-spacing: 8px;
-    cursor: pointer;
+    .clearfix::after {
+      content: "";
+      clear: both;
+      display: table;
+   }
+  .header{
+    min-width: 1150px;
+  }
+  .col-full h1{
+    margin-top: 20px;
+      font-size:50px;
+      color: rgb(176, 235, 254);
+      font-family: Arial, Helvetica, sans-serif;
+       float:left;
+       display: block;
+  
   }
   
-  .col-full h1::before {
-    content: "Starter";
-    position: absolute;
-    color: transparent;
-    background-image: repeating-linear-gradient(
-      45deg,
-      transparent 0,
-      transparent 2px,
-      white 2px,
-      white 4px
-    );
-    -webkit-background-clip: text;
-    top: 0px;
-    left: 0;
-    z-index: -1;
-    transition: 1s;
+  .btns-container {
+      float: right;
+      padding: 8px 16px;
+      width:fit-content;
+      margin-top: 30px;
+      border-radius: 25px;
+      justify-content: space-around;
+      text-decoration: none;
+      align-items: center;
+      display: block;
   }
   
-  .col-full h1::after {
-    content: "Starter";
-    position: absolute;
-    color: transparent;
-    background-image: repeating-linear-gradient(
-      135deg,
-      transparent 0,
-      transparent 2px,
-      white 2px,
-      white 4px
-    );
-    -webkit-background-clip: text;
-    top: 0px;
-    left: 0px;
-    transition: 1s;
-  }
-  
-  .col-full h1:hover:before {
-    top: 10px;
-    left: 10px;
-  }
-  
-  .col-full h1:hover:after {
-    top: -10px;
-    left: -10px;
-  } 
-
-.btns-container {
-    padding: 8px 16px;
-    width:fit-content;
-    display: flex;
-    border-radius: 25px;
-    justify-content: space-around;
-    text-decoration: none;
-    align-items: center;
-}
-
-.navLink-buttons {
+  .navLink-buttons {
     padding: 9px 4px;
     width:90px;
     font-size: 20px;
@@ -106,5 +64,4 @@
     color: rgb(12, 12, 12);
 
 }
-
-
+  

@@ -1,8 +1,13 @@
+ @media only screen and (min-width: 1100px) {
 .app-container {
-  margin: 0 20%;
+  max-width: 1600px;
+  margin-left:auto;
+  margin-right:auto;
+  min-width: 1401px;
   font-family: 'Roboto', sans-serif;
-  
+  background-color: rgb(248, 234, 234);
 }
+} 
 
 .link {
   padding: 50px;
