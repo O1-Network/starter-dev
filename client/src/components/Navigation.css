@@ -16,10 +16,11 @@
 
 .header {
   min-width: 600px;
+  margin-top: 20px;
 }
   .col-full h1{
     padding-left: 50px;
-    margin-top: 20px;
+    
     font-size:50px;
     color: rgb(176, 235, 254);
     font-family: Arial, Helvetica, sans-serif;
@@ -31,7 +32,6 @@
       float: right;
       padding: 8px 16px;
       width:fit-content;
-      margin-top: 30px;
       border-radius: 25px;
       justify-content: space-around;
       text-decoration: none;
@@ -41,8 +41,8 @@
   }
   
   .navLink-buttons {
-    padding: 9px 4px;
-    width:90px;
+    padding: 9px 16px;
+    /* width:90px; */
     font-size: 20px;
     color:rgb(255, 255, 255);
     text-align: center;
@@ -59,6 +59,7 @@
 .Login {
     background-color: rgb(134, 217, 245);
     border-radius: 10px 0 0 10px;
+    
 }
 .SignUp:hover{
     background-color: rgb(251, 211, 211);
