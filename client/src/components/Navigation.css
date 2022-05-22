@@ -9,17 +9,22 @@
       clear: both;
       display: table;
    }
-  .header{
+   @media only screen and (min-width: 1100px)  {.header{
     min-width: 1150px;
   }
+}
+
+.header {
+  min-width: 600px;
+}
   .col-full h1{
+    padding-left: 50px;
     margin-top: 20px;
-      font-size:50px;
-      color: rgb(176, 235, 254);
-      font-family: Arial, Helvetica, sans-serif;
-       float:left;
-       display: block;
-  
+    font-size:50px;
+    color: rgb(176, 235, 254);
+    font-family: Arial, Helvetica, sans-serif;
+    float:left;
+    display: block;
   }
   
   .btns-container {
@@ -32,6 +37,7 @@
       text-decoration: none;
       align-items: center;
       display: block;
+      padding-right: 50px;
   }
   
   .navLink-buttons {
