@@ -15,12 +15,13 @@
 }
 
 .header {
+  height: 120px;
   min-width: 600px;
-  margin-top: 20px;
-}
+  background-color: rgba(251, 249, 219, 0.316);
+} 
   .col-full h1{
+    margin-top: 20px;
     padding-left: 50px;
-    
     font-size:50px;
     color: rgb(176, 235, 254);
     font-family: Arial, Helvetica, sans-serif;
@@ -29,6 +30,7 @@
   }
   
   .btns-container {
+      margin-top: 28px;
       float: right;
       padding: 8px 16px;
       width:fit-content;

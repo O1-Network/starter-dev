@@ -1,10 +1,11 @@
 #toggle{
-    background-color: rgb(253, 213, 213);
+    background-color: rgb(241, 250, 255);
 }
 
 #buttoncontainer {
-   width: 100%;
-   
+   width: 80%;
+   margin-left: 10%;
+   margin-right: auto;
 }
 
 #developer-button{
@@ -18,14 +19,14 @@
 }
 
 #developer-button:active{
-        background: #e5e5e5;
+        background: #ff0000;
         -webkit-box-shadow: inset 0px 0px 5px #c1c1c1;
         -moz-box-shadow: inset 0px 0px 5px #c1c1c1;
          box-shadow: inset 0px 0px 5px #c1c1c1;
         outline: none;
 }
 #developer-buton:focus {
-    background: #e5e5e5;
+    background: #d1e7051d;
     outline: none;
     -webkit-box-shadow: inset 0px 0px 5px #c1c1c1;
     -moz-box-shadow: inset 0px 0px 5px #c1c1c1;
@@ -57,3 +58,6 @@
     -moz-box-shadow: inset 0px 0px 5px #c1c1c1;
     box-shadow: inset 0px 0px 5px #c1c1c1;
   }
+
+
+  

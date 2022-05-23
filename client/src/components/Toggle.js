@@ -20,8 +20,8 @@ const Toggle = (props) => {
                 Developer
             </button> */}
 
-            <ButtonGroup id="buttoncontainer" variant="contained" aria-label="outlined primary button group">
-                <Button id="developer-button" onClick={props.handleClick} >Developer</Button>
+            <ButtonGroup id="buttoncontainer"  variant="contained" aria-label="outlined primary button group">
+                <Button  id="developer-button" onClick={props.handleClick} >Developer</Button>
                 <Button id="business-button" onClick={props.handleClick} >Business</Button>
             </ButtonGroup>
         </div>
