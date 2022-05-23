@@ -5,24 +5,36 @@
 }
 a {
   text-decoration: none;
+  color: brown;
 }
 ul {
   list-style: none;
 }
 footer {
+  border-top: .5px solid;
+  background-color: rgba(232, 236, 255, 0.316);
   display: flex;
   justify-content: space-around;
+}
+footer h3{
+  color: brown;
 }
 .footer-links {
   display: flex;
   justify-content: space-between;
   gap: 2rem;
+
 }
 .footer-links article {
   display: flex;
   flex-direction: column;
 }
-.footer-links ul {
+.footer-links li {
   display: flex;
   flex-direction: column;
+  
+}
+#logo-footer
+{
+  width: 20%;
 }

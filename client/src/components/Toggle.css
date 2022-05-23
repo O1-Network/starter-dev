@@ -1,5 +1,6 @@
 #toggle{
     background-color: rgb(241, 250, 255);
+    border-bottom: 1px solid;
 }
 
 #buttoncontainer {
@@ -12,6 +13,7 @@
     background-color: rgb(131, 192, 246);
     width: 50%;
     font-size: 1.3rem;
+   
 }
 
 #developer-button:hover {

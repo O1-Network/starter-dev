@@ -15,15 +15,14 @@
     }
 } */
 
-img {
+#logo {
   width: 20%;
   float: left;
   margin-left: 30px;
 }
 .header {
-
   min-width: 600px;
-  background-color: rgba(242, 205, 220, 0.316);
+  background-color: rgba(232, 236, 255, 0.316);
 } 
   /* .col-full h1{
     width: ;
@@ -37,11 +36,9 @@ img {
   } */
   
   .btns-container {
-      margin-top: 28px;
+      margin-top: 100px;
       float: right;
-      padding: 8px 16px;
       width:fit-content;
-      border-radius: 25px;
       justify-content: space-around;
       text-decoration: none;
       align-items: center;
@@ -57,18 +54,21 @@ img {
     text-align: center;
     text-decoration: none;
     margin: 1px;
-    border-radius: 20px;
+    /* border-radius: 20px; */
     font-family: Arial, Helvetica, sans-serif;
 
 }
 .SignUp {
-    background-color: lightcoral;
-    border-radius:0 10px 10px 0 ;
+    background-color: rgb(134, 217, 245);
+    /* border-radius:0 10px 10px 0 ; */
+    width: 150px;
+    display:inline-block
 }
 .Login {
     background-color: rgb(134, 217, 245);
-    border-radius: 10px 0 0 10px;
-    
+    /* border-radius: 10px 0 0 10px; */
+  width: 150px;
+  display: inline-block;
 }
 .SignUp:hover{
     background-color: rgb(251, 211, 211);

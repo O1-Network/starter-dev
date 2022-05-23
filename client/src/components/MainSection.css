@@ -4,7 +4,6 @@
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   grid-template-rows: 1fr 1fr;
-  border: 2px solid black;
   min-width: 1150px;
   
 }
@@ -19,7 +18,7 @@ font-family: Arial, Helvetica, sans-serif;
   /* border: 1px solid black; */
   padding-top: 52px;
   word-break: normal;
-  background-color: rgb(249, 232, 232);
+  background-color: rgba(232, 236, 255, 0.316);
 }
 
 .title {
@@ -34,18 +33,18 @@ font-family: Arial, Helvetica, sans-serif;
   margin-right: auto;
   font-size: 2rem;
   padding: 30px;
-  padding-bottom: 40px;
   line-height: 2.2rem;
 }
 
 #main_video {
-  background-color: rgb(249, 232, 232);
+  background-color: rgba(232, 236, 255, 0.316);
   grid-column-start: 7;
   grid-column-end: 13;
   grid-row-start: 1;
   grid-row-end: 2;
   /* border: 1px solid black; */
   padding: 10px 10px;
+  padding-top: 40px;
 }
 
 /* .main_video-flexbox {

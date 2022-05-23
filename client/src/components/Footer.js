@@ -4,8 +4,8 @@ export default function Footer() {
   return (
     <footer>
       <div className='logo-container'>
-        <h2>Logo</h2>
-      </div>
+        <h2><img id="logo-footer" alt='STARTER Logo' src={require('../images/logo2.png')}></img></h2>
+        </div>
       <section className='footer-links'>
         <article>
           <h3>Links</h3>
