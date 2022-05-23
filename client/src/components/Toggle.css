@@ -1,0 +1,59 @@
+#toggle{
+    background-color: rgb(253, 213, 213);
+}
+
+#buttoncontainer {
+   width: 100%;
+   
+}
+
+#developer-button{
+    background-color: rgb(131, 192, 246);
+    width: 50%;
+    font-size: 1.3rem;
+}
+
+#developer-button:hover {
+    background-color: rgb(199, 223, 255);
+}
+
+#developer-button:active{
+        background: #e5e5e5;
+        -webkit-box-shadow: inset 0px 0px 5px #c1c1c1;
+        -moz-box-shadow: inset 0px 0px 5px #c1c1c1;
+         box-shadow: inset 0px 0px 5px #c1c1c1;
+        outline: none;
+}
+#developer-buton:focus {
+    background: #e5e5e5;
+    outline: none;
+    -webkit-box-shadow: inset 0px 0px 5px #c1c1c1;
+    -moz-box-shadow: inset 0px 0px 5px #c1c1c1;
+    box-shadow: inset 0px 0px 5px #c1c1c1;
+  }
+
+
+#business-button{
+    background-color: rgb(131, 192, 246);
+    width:50%;
+    font-size: 1.3rem;
+}
+
+#business-button:hover {
+    background-color: rgb(199, 223, 255);
+}
+
+#business-button:active{
+        background: #e5e5e5;
+        -webkit-box-shadow: inset 0px 0px 5px #c1c1c1;
+        -moz-box-shadow: inset 0px 0px 5px #c1c1c1;
+         box-shadow: inset 0px 0px 5px #c1c1c1;
+        outline: none;
+}
+#business-buton:focus {
+    background: #e5e5e5;
+    outline: none;
+    -webkit-box-shadow: inset 0px 0px 5px #c1c1c1;
+    -moz-box-shadow: inset 0px 0px 5px #c1c1c1;
+    box-shadow: inset 0px 0px 5px #c1c1c1;
+  }
