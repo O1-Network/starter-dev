@@ -1,25 +1,13 @@
 import * as React from 'react';
-import Button from '@mui/material/Button';
-import ButtonGroup from '@mui/material/ButtonGroup';
 
 const Toggle = (props) => {
 
     return (
         <div id="toggle">
-
-            {/* Depreciated */}
-            {/* <button id="business-button" onClick={props.handleClick}>
-                Business
-            </button>
-
-            <button id="developer-button" onClick={props.handleClick}>
-                Developer
-            </button> */}
-
-            <ButtonGroup variant="contained" aria-label="outlined primary button group">
-                <Button id="developer-button" onClick={props.handleClick} >Developer</Button>
-                <Button id="business-button" onClick={props.handleClick} >Business</Button>
-            </ButtonGroup>
+            <div variant="contained" aria-label="outlined primary button group">
+                <button id="developer-button" onClick={props.handleClick} >Developer</button>
+                <button id="business-button" onClick={props.handleClick} >Business</button>
+            </div>
         </div>
     )
 }
