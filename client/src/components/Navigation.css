@@ -1,25 +1,35 @@
 nav {
-    position: absolute;
-    height: 120px;
-    left: 302px;
-    right: 300px;
+    /* position: relative; */
+    height: 100%;
     top: 0px;
+    border: 1px solid #000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
 
     background: #F2FCFF;
 }
 
-.brand-name {
-    position: absolute;
-    width: 249px;
-    height: 87px;
-    left: 0px;
-    top: 17px;
+.nav-menu {
+    display: flex;
+    align-items: center;
+    margin-right: 0.5rem;
+}
 
+.brand-name {
+    display: flex;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
     font-size: 72px;
-    line-height: 87px;
+    line-height: 80px;
+
+    align-items: center;
+    display: flex;
+    cursor: pointer;
+    margin: 0.5rem 0.5rem;
+    padding: 0 10%;
 
     color: #BA1200;
 
@@ -30,16 +40,19 @@ form {
     background: #F2FCFF;
     box-shadow: -1px -1px 3px rgba(255, 230, 230, 0.5), -3px -3px 5px rgba(255, 230, 230, 0.5), 3px 3px 5px rgba(51, 0, 0, 0.3), 1px 1px 3px rgba(51, 0, 0, 0.3);
     border-radius: 5px;
+    margin-inline: 1rem;
+    margin-right: 1rem;
 }
 
 input[value="Login"] {
-    position: absolute;
+    /* position: absolute; */
     width: 110px;
     height: 34px;
     left: 566px;
     top: 43px;
 
     border-style: none;
+    cursor: pointer;
 
     background: #F2FCFF;
     box-shadow: -1px -1px 3px rgba(255, 230, 230, 0.5), -3px -3px 5px rgba(255, 230, 230, 0.5), 3px 3px 5px rgba(51, 0, 0, 0.3), 1px 1px 3px rgba(51, 0, 0, 0.3);
@@ -55,13 +68,14 @@ input[value="Login"] {
 }
 
 input[value="Sign up"] {
-    position: absolute;
+    /* position: absolute; */
     width: 110px;
     height: 34px;
     left: 709px;
     top: 43px;
 
     border-style: none;
+    cursor: pointer;
 
     background: #F2FCFF;
     box-shadow: -3px -3px 5px rgba(255, 230, 230, 0.5), -1px -1px 3px rgba(255, 230, 230, 0.5), 1px 1px 3px rgba(53, 0, 0, 0.3), 3px 3px 5px rgba(51, 0, 0, 0.3);
