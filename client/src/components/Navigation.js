@@ -1,16 +1,19 @@
-import "./Navigation.css"
+import "./Navigation.css";
+
 const Navigation = () => {
     return (
-        <nav className="col-full grid-container">
-            
-            <h1 className="col-1">Starter</h1>
+        <nav>
+            <h1 className="brand-name">Starter</h1>
+            <div className="nav-menu">
+                <form action="www.github.com" id="login">
+                    <input type="submit" value="Login" />
+                </form>
 
-            <form action="www.github.com" className="intro-nav-links">
-                <input type="submit" value="Login" />
-            </form>
-            <form action="www.github.com" className="intro-nav-links">
-                <input type="submit" value="Sign up" />
-            </form>      
+                <form action="www.github.com" id="signup">
+                    <input type="submit" value="Sign up" />
+                </form>   
+            </div>
+              
         </nav>
     )
 }
