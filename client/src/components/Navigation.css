@@ -1,7 +1,84 @@
-.col-5-navLink, .col-6-navLink{
-    background-color: aqua;
-    font-family: Tahoma;
-    font-size: medium;
-    border-radius: 5px;
-    border-color: #06568f;
+/* Navigation should be fixed to the top */
+/* Get Started needs to be better positioned */
+
+/* BRAND STYLING TASKS */
+    /* Do this */
+    /* Do that */
+    .clearfix::after {
+      content: "";
+      clear: both;
+      display: table;
+   }
+/* @media only screen and (min-width: 1100px)  {
+.header{
+    min-width: 1150px;
+    }
+} */
+
+#logo {
+  width: 20%;
+  float: left;
+  margin-left: 30px;
 }
+.header {
+  min-width: 600px;
+  background-color: rgba(232, 236, 255, 0.316);
+} 
+  /* .col-full h1{
+    width: ;
+    margin-top: 20px;
+    padding-left: 50px;
+    font-size:50px;
+    color: rgb(176, 235, 254);
+    font-family: Arial, Helvetica, sans-serif;
+    float:left;
+    display: block;
+  } */
+  
+  .btns-container {
+      margin-top: 100px;
+      float: right;
+      width:fit-content;
+      justify-content: space-around;
+      text-decoration: none;
+      align-items: center;
+      display: block;
+      padding-right: 50px;
+  }
+  
+  .navLink-buttons {
+    padding: 9px 16px;
+    /* width:90px; */
+    font-size: 20px;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: none;
+    margin: 1px;
+    /* border-radius: 20px; */
+    font-family: Arial, Helvetica, sans-serif;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.SignUp {
+    background-color: rgb(134, 217, 245);
+    /* border-radius:0 10px 10px 0 ; */
+    width: 150px;
+    display:inline-block
+}
+.Login {
+    background-color: rgb(134, 217, 245);
+    /* border-radius: 10px 0 0 10px; */
+  width: 150px;
+  display: inline-block;
+}
+.SignUp:hover{
+    background-color: rgb(251, 211, 211);
+    color: black;
+
+}
+.Login:hover{
+    background-color:rgb(210, 240, 249);
+    color: rgb(12, 12, 12);
+
+}
+  

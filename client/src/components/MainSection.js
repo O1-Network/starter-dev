@@ -12,15 +12,10 @@ const MainSection = (props) => {
       </div>
 
       <div id="main_video">
-        <section className="main_video-flexbox">
-          <iframe
-            title="NewVideo"
-            className="main_video-intro"
-            
-            src={props.sectionType.video}
+          <iframe title="NewVideo" className="main_video-intro"
+          src={props.sectionType.video}
           />
         
-        </section>
       </div>
 
       <div id="main_image">

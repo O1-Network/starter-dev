@@ -1,18 +1,38 @@
+#main_video {
+  background-color: rgba(232, 236, 255, 0.316);
+  display: grid; 
+  place-items: center; 
+  padding:1rem;
+}
+.image {
+  padding:1rem;
+  aspect-ratio: 16/9;
+  width: 100%;
+}
+.main_video-intro {
+  aspect-ratio: 16/9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width:150px; 
+  height:auto;
+    
+}
+
+@media only screen and (min-width: 1100px){
 .main_container {
   display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  grid-template-rows: 1fr 1fr;
-  border: 2px solid black;
+  grid-template-columns: repeat(2, 1fr);
+  min-width: 1150px;
+  
+}
 }
 
 #main_description {
-  grid-column-start: 1;
-  grid-column-end: 7;
-  grid-row-start: 1;
-  grid-row-end: 2;
-  border: 1px solid black;
+  font-family: Arial, Helvetica, sans-serif;
   padding-top: 52px;
-  word-break: break-all;
+  word-break: normal;
+  background-color: rgba(232, 236, 255, 0.316);
 }
 
 .title {
@@ -21,67 +41,57 @@
 }
 
 .text {
-  font-size: 1.5rem;
-  padding: 20px;
-  line-height: 2.5rem;
+  color:rgb(0, 0, 0);
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 2rem;
+  padding: 30px;
+  line-height: 2.2rem;
 }
 
 #main_video {
-  grid-column-start: 7;
-  grid-column-end: 13;
-  grid-row-start: 1;
-  grid-row-end: 2;
-  border: 1px solid black;
-  background-color: purple;
-  padding: 10px 10px;
+  background-color: rgba(232, 236, 255, 0.316);
+  display: grid; 
+  place-items: center; 
 }
 
-
-
-
-.main_video-flexbox {
+/* .main_video-flexbox {
   display: flex;
   flex-direction: column;
   align-items: center;
   background-color: rgba(128, 255, 212);
   border: 5px solid white;
-  
   border-top: 50px solid transparent;
   border-right: 100px solid gold;
   border-bottom: 50px solid transparent;
   border-left: 100px solid gold;
-}
+} */
 
 .main_video-intro {
-  margin: 0px;
-  border: 10px;
-  
-  height: 400px;
+  aspect-ratio: 16/9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: 100%; 
-  border: 2px solid white;
-  
+  height:auto;
+    
 }
 
 #main_image {
-  grid-column-start: 1;
-  grid-column-end: 7;
-  grid-row-start: 2;
-  grid-row-end: 3;
-  border: 1px solid black;
+  display: grid;
+  object-fit: cover;
+  place-items: center;
+  background-color: rgba(232, 245, 255, 0.748);
  
 }
 
-.image {
-  padding: 30px;
-  width: 70%;
-}
+
 
 #main_description_2 {
-  grid-column-start: 7;
-  grid-column-end: 13;
-  grid-row-start: 2;
-  grid-row-end: 3;
-  border: 1px solid black;
+  
+  /* border: 1px solid black; */
   padding-top: 52px;
-  word-break: break-all;
+  word-break: none;
+  background-color: rgba(232, 245, 255, 0.748);
 } 
