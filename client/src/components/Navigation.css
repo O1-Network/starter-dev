@@ -16,13 +16,14 @@
 } */
 
 #logo {
-  width: 20%;
+  width: 15%;
   float: left;
-  margin-left: 30px;
+  margin-left: 10%;
 }
 .header {
   min-width: 600px;
-  background-color: rgba(232, 236, 255, 0.316);
+  background-color: rgb(31, 59, 204);
+  /* background-color: rgb(23, 12, 146); */
 } 
   /* .col-full h1{
     width: ;
@@ -36,14 +37,14 @@
   } */
   
   .btns-container {
-      margin-top: 100px;
+      margin-top: 10px;
       float: right;
       width:fit-content;
       justify-content: space-around;
       text-decoration: none;
       align-items: center;
       display: block;
-      padding-right: 50px;
+      padding-right: 10px;
   }
   
   .navLink-buttons {
@@ -54,20 +55,20 @@
     text-align: center;
     text-decoration: none;
     margin: 1px;
-    /* border-radius: 20px; */
+    border-radius: 20px;
     font-family: Arial, Helvetica, sans-serif;
 
 }
 .SignUp {
-    background-color: rgb(134, 217, 245);
-    /* border-radius:0 10px 10px 0 ; */
-    width: 150px;
+    background-color: rgb(113, 160, 255);
+    border-radius:0 10px 10px 0 ;
+    width: 100px;
     display:inline-block
 }
 .Login {
-    background-color: rgb(134, 217, 245);
+  background-color: rgb(113, 160, 255);
     /* border-radius: 10px 0 0 10px; */
-  width: 150px;
+  width: 120px;
   display: inline-block;
 }
 .SignUp:hover{
