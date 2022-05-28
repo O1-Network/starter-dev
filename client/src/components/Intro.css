@@ -1,60 +1,31 @@
-/* input[type="submit"]{
-    margin: 5px;
-    background-color:#5ac6f2;
-      font-family: Arial;
-      color: black;
-      font-size: large;
-      border-radius: 3px;
-      border-color: #06568f;
-      padding: 5px;
-      font-weight: bold;
-      box-shadow: 5px 5px 1px 1px #06568f;
-  }
-
-form{
-display: inline;
-}
-input[type="submit"]:hover{
-    margin: 5px;
-    background-color:#79cced;
-    font-family: Arial;
-    color: #404040;
-    font-size: large;
-    border-radius: 3px;
-    border-color: #404040;
-    padding: 5px;
-    font-weight: bold;
-    box-shadow: 5px 5px 1px 1px #2b6894;
-  }
-input[type="submit"]:active{
-margin: 5px;
-background-color:white;
-font-family: Arial;
-color: 	#C0C0C0;
-font-size: large;
-border-radius: 3px;
-border-color: 	#C0C0C0;
-padding: 5px;
-font-weight: bold;
-box-shadow: 5px 5px 1px 1px grey;
-} */
-
 .intro {
-  display: flex;
-  width: 100%;
-  box-sizing: inherit;
-  flex-direction: row;
-  justify-content: space-between;
+  position: absolute;
+  height: 278px;
+  left: 0px;
+  right: 0px;
+  top: 120px;
+
+  background-image: url(../images/placeholder.jpg);
 }
 
 .intro-statement {
-  display: flex;
-  flex-direction: column;
-  border: 1px solid black;
-  justify-content: center;
-
+  position: absolute;
+  width: 411px;
+  height: 278px;
+  left: 304px;
+  top: 0px;
 }
 
-.intro-image {
-  
+p {
+  font-family: 'Julius Sans One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 39px;
+  /* or 81% */
+  margin: 0 0 35px 0;
+
+  text-align: center;
+
+  color: #FFFFFF;
 }

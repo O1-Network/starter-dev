@@ -1,0 +1,80 @@
+.container-signup {
+  width: 100%;
+  height: 100vh;
+  background-color: #031927;
+  padding: 50px;
+  display: flex;
+  align-self: center;
+}
+
+.form-box {
+margin-left:auto;
+margin-right:auto;
+width: 600px;
+/* Rectangle 1 */
+box-sizing: border-box;
+
+/* Starter - Tertiary 3 */
+background: #2260A1;
+border: 1px solid #000000;
+border-radius: 25px;
+
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+
+}
+
+.form-signup {
+  width:600px;
+  height: 600px;
+  /* box-shadow: -1px -1px 3px rgba(255, 230, 230, 0.5), -3px -3px 5px rgba(255, 230, 230, 0.5), 3px 3px 5px rgba(51, 0, 0, 0.3), 1px 1px 3px rgba(51, 0, 0, 0.3); */
+  border-radius: 5px;
+  margin-right:auto;
+  margin-left:auto;
+}
+
+h2 { 
+   color: red;
+}
+
+.signup-list{
+  display: grid;
+  grid-row: 6;
+ 
+
+}
+
+.rules-errors {
+  background: #2D7CD1;
+  border: 1px dashed #F2FCFF;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.signup-btn {
+  background-color: #073959;
+  color: #F2FCFF;
+  border-radius: 10px;
+  position: absolute;
+  width: 180px;
+  height: 50px;
+  font-size: 18px;
+  font-weight: 700;
+
+  
+}
+
+.back-arrow {
+    color: #C9F0FF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    position: absolute;
+    justify-content: flex-start;
+}

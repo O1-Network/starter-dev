@@ -8,17 +8,15 @@ import Footer from './components/Footer';
 import BusinessData from './data/business.json';
 import DeveloperData from './data/developer.json';
 
+import Signup from './components/Signup';
+import Login from './components/Login';
+
 console.log(BusinessData);
 
 const App = () => {
   const [sectionType, setSectionType] = useState(DeveloperData);
 
-  console.log(sectionType);
-
   const handleClick = (e) => {
-    console.log(e);
-    console.log(e.target);
-
     if (e.target.id === 'developer-button') {
       setSectionType(DeveloperData);
     } else {
@@ -36,7 +34,15 @@ const App = () => {
 
       <MainSection sectionType={sectionType} />
       <Footer />
-    </div>
+
+
+      
+      <Signup />
+      
+      <Login />
+
+      </div>    
+
   );
 };
 

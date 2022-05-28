@@ -1,5 +1,5 @@
-nav {
-    /* position: relative; */
+/* nav {
+    position: relative;
     height: 100%;
     top: 0px;
     border: 1px solid #000;
@@ -45,7 +45,7 @@ form {
 }
 
 input[value="Login"] {
-    /* position: absolute; */
+    position: absolute;
     width: 110px;
     height: 34px;
     left: 566px;
@@ -68,7 +68,7 @@ input[value="Login"] {
 }
 
 input[value="Sign up"] {
-    /* position: absolute; */
+    position: absolute;
     width: 110px;
     height: 34px;
     left: 709px;
@@ -88,4 +88,4 @@ input[value="Sign up"] {
     font-weight: 700;
     font-size: 16px;
     line-height: 19px;
-}
+} */
