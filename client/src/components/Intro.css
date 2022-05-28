@@ -1,12 +1,11 @@
 
 .background {
     /* background-color: rgb(23, 12, 146); */
-    background-color: rgb(31, 59, 204);
+    background-color: #2D7CD1;
 }
 #intro{
     width: 60%;
-    margin-left: auto;
-    margin-right: auto;
+  
     /* background-color: rgba(76, 204, 255, 0.1); */
     /* margin: 100px 0px 0px 2px; */
     display: block;
@@ -15,15 +14,22 @@
 }
 
 #intro-statement {
-    color: orange;
-    width: 65%;
-    margin-left: auto;
-    margin-right:auto;
-    padding: 4rem 1rem 4rem 2rem;
+    color: rgb(255, 255, 255);
+    /* width: 65%; */
+    margin-left: 25%;
+    /* margin-right:40; */
+    /* padding: 4rem 1rem 4rem 2rem;
     font-size: 1.6rem;
     font-weight: 700;
     line-height: 1.3;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+
+
+    font-family: 'Julius Sans One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 39px;
     
 }
 
