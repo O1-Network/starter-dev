@@ -13,7 +13,6 @@ const Navigation = () => {
                     <input type="submit" value="Sign up" />
                 </form>   
             </div>
-              
         </nav>
     )
 }
