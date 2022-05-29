@@ -4,11 +4,15 @@ const Intro = () => {
     return (
         <div className="intro" >
           <div className="intro-statement">
-            <p>The clear path..</p>
-            <p>A jump start..</p>
-            <p>Bridging today,</p>
-            <p>with the future you.</p>
+            <p>If you're business is selected, our team of developers will build you a digital tool that takes your business to the next level.</p>
           </div>
+          <ul className="benefits">
+            <li>Open-source Engineers</li>
+            <li>Partner with a nonprofit</li>
+            <li>Custom tools</li>
+            <li>Meet yours needs</li>
+            <li>Gain an advantage</li>
+          </ul>
         </div>
     );
 }

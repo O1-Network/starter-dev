@@ -1,31 +1,37 @@
 .intro {
-  position: absolute;
-  height: 278px;
-  left: 0px;
-  right: 0px;
-  top: 120px;
-
-  background-image: url(../images/placeholder.jpg);
+  height: auto;
+  background-color: #031927;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
 }
 
 .intro-statement {
-  position: absolute;
-  width: 411px;
-  height: 278px;
-  left: 304px;
-  top: 0px;
+  margin: 0 0 0 20%;
+  width: 30%;
 }
 
 p {
+  margin: 0;
+  padding: 18px 0;
   font-family: 'Julius Sans One';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 48px;
-  line-height: 39px;
-  /* or 81% */
-  margin: 0 0 35px 0;
+  font-size: 36px;
+  letter-spacing: 0.3rem;
+  line-height: 3.5rem;
+  text-align: left;
+  color: #ffffff;
+  text-shadow: -1px -1px 10px #C9F0FF, 1px 1px 10px #000000;
+}
 
-  text-align: center;
+.benefits {
+  color: #C9F0FF;
+  list-style-type: circle;
+  margin: 20px 0 0 150px;
+}
 
-  color: #FFFFFF;
+.benefits li {
+  padding: 20px;
+  font-size: 1.2rem;
+  font-size: 100;
+  letter-spacing: .2rem;
 }
