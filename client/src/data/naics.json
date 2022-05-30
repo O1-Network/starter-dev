@@ -1,0 +1,146 @@
+{
+  "sectors" : [
+    {
+      "name" : "Agriculture, Forestry, Fishing and Hunting",
+      "subsectors" : [
+        {
+          "name" : "Crop Production",
+          "Industry Group" : [
+            {
+              
+            },
+            {
+
+            }
+          ]
+        },
+        {
+          "name" : "Animal Production and Aquaculture"
+        },
+        {
+          "name" : "Forestry and Logging"
+        },
+        {
+          "name" : "Fishing, Hunting and Trapping"
+        },
+        {
+          "name" : "Support Activities for Agriculture and Forestry"
+        }
+      ]
+    },
+    {
+      "name" : "Mining, Quarrying, and Oil and Gas Extraction",
+      "subsectors" : {
+        "name" : "Oil and Gas Extraction"
+      }
+    },
+    {
+      "name" : "Utilities",
+      "subsectors" : {
+        
+      }
+    },
+    {
+      "name" : "Construction",
+      "subsectors" : {
+        
+      }
+    },
+    {
+      "name" : "Manufacturing",
+      "subsectors" : {
+        
+      }
+    },
+    {
+      "name" : "Wholesale Trade",
+      "subsectors" : {
+        
+      }
+    },
+    {
+      "name" : "Retail Trade",
+      "subsectors" : {
+        
+      }
+    },
+    {
+      "name" : "Transportation and Warehousing",
+      "subsectors" : {
+        
+      }
+    },
+    {
+      "name" : "Information",
+      "subsectors" : {
+        
+      }
+    },
+    {
+      "name" : "Finance and Insurance",
+      "subsectors" : {
+        
+      }
+    },
+    {
+      "name" : "Real Estate and Rental and Leasing",
+      "subsectors" : {
+        
+      }
+    },
+    {
+      "name" : "Professional, Scientific, and Technical Services",
+      "subsectors" : {
+        
+      }
+    },
+    {
+      "name" : "Management of Companies and Enterprises",
+      "subsectors" : {
+        
+      }
+    },
+    {
+      "name" : "Administrative and Support and Waste Management and Remediation Services",
+      "subsectors" : {
+        
+      }
+    },
+    {
+      "name" : "Educational Services",
+    "subsectors" : {
+      
+    }
+    },
+    {
+      "name" : "Health Care and Social Assistance",
+      "subsectors" : {
+        
+      }
+    },
+    {
+      "name" : "Arts, Entertainment, and Recreation",
+      "subsectors" : {
+        
+      }
+    },
+    {
+      "name" : "Accommodation and Food Services",
+      "subsectors" : {
+        
+      }
+    },
+    {
+      "name" : "Other Services (except Public Administration)",
+      "subsectors" : {
+        
+      }
+    },
+    {
+      "name" : "Public Administration",
+      "subsectors" : {
+        
+      }
+    }
+  ] 
+}
