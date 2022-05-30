@@ -1,0 +1,29 @@
+For each BENEFIT on the Intro component
+  - Find a fitting image
+  - Create a pitch or value proposition that goes well with the image
+  - Create a slideshow or carousel-like feature that moves through the images and value propositions on a timer
+  - Create a animated transition
+
+1) Wire up React-router or Next.js for navigation
+  - Create the Layout for all pages
+  - Create a page for Signup
+  - Create a page for Login
+  - Create an About page
+  - Create a Contact page
+  - Create a Blog page
+    *** Create a step by step guide for contributors ***
+
+2) Wire up Login button to navigate to the Login page
+2) Wire up the Signup button to navigate to the Signup page
+
+3) Setup Express.js for form authentication and authorization
+4) Setup MongoDB OR Postgres database
+
+5) Setup Passport.js for easy logging and Signup
+
+*** Advanced ***
+Export, parse and restructure data from 2022_NAICS_Structure and store in an efficient data structure OR database
+Import that NAICS data into client to use on the front end
+
+*** Advanced ***
+Convert JavaScript to TypeScript
