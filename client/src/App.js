@@ -59,10 +59,10 @@ const App = () => {
       <About />
       <Contact />
       <Footer />
-
-      {/* <Signup />
+   
+      <Signup />
       
-      <Login /> */}
+      <Login />
 
     </div>    
 
