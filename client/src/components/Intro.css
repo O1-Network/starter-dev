@@ -1,37 +1,67 @@
-.intro {
-  height: auto;
-  background-color: #031927;
-  display: flex;
-  flex-direction: row;
-  justify-content: flex-start;
-}
-
-.intro-statement {
-  margin: 0 0 0 20%;
-  width: 30%;
-}
-
-.value-proposition {
-  margin: 0;
-  padding: 18px 0;
-  font-family: 'Julius Sans One';
-  font-size: 36px;
-  letter-spacing: 0.3rem;
-  line-height: 3.5rem;
-  text-align: left;
-  color: #ffffff;
-  text-shadow: -1px -1px 10px #C9F0FF, 1px 1px 10px #000000;
-}
-
-.benefits {
-  color: #C9F0FF;
-  list-style-type: circle;
-  margin: 20px 0 0 150px;
-}
-
-.benefits li {
-  padding: 20px;
-  font-size: 1.2rem;
-  font-size: 100;
-  letter-spacing: .2rem;
-}
+ 
+  
+  .intro {
+    height: auto;
+    background-color: #031927;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+  
+  .intro-statement {
+    margin: 0 20% 0 20%;
+    width: 80%;
+    background-image: url("https://placeimg.com/640/480/tech" );
+    background-repeat: no-repeat;
+    background-size:cover;
+  }
+  .container{
+   display: flex;
+   flex-direction: column;
+  }
+  .row1{
+    display: flex;
+  
+  }
+  .row2{
+    display: flex;
+  
+  }
+  .empty {
+    z-index: 10;
+    height:100%;
+    width: 50%;
+    background-color: red;
+  }
+  p {
+    margin: 0;
+    padding: 18px 0;
+    font-family: 'Julius Sans One';
+    font-size: 36px;
+    letter-spacing: 0.3rem;
+    line-height: 3.5rem;
+    text-align: left;
+    color: #ffffff;
+    text-shadow: -1px -1px 10px #C9F0FF, 1px 1px 10px #000000;
+  }
+  
+  .benefits {
+    color: #C9F0FF;
+    list-style-type: circle;
+    margin: 20px 0 0 150px;
+  }
+  
+  .benefits li {
+    
+    padding: 20px;
+    font-size: 1.2rem;
+    font-size: 100;
+    letter-spacing: .2rem;
+  }
+  
+  .intro-image{
+    float: left;
+   
+  }
+  
+  
