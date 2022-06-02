@@ -11,6 +11,12 @@ import Login from './components/Login';
 
 import NAICS from './data/naics';
 
+import Blog from './components/Blog';
+
+import About from './components/About';
+
+import Contact from './components/Contact';
+
 const App = () => {
   // let [nextClassification, setNextClassification] = useState(NAICS.sectors);
   // let [classification, setClassification] = useState({
@@ -49,13 +55,16 @@ const App = () => {
 
       <MainSection />
       {/* <Classification classification={classification} nextClassification={nextClassification} handleClassificationModification={handleClassificationModification} /> */}
+      <Blog />
+      <About />
+      <Contact />
       <Footer />
 
       {/* <Signup />
       
       <Login /> */}
 
-      </div>    
+    </div>    
 
   );
 };
