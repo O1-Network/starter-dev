@@ -1,29 +1,37 @@
-For each BENEFIT on the Intro component
+/** WEB DESIGN **//** WEB DESIGN **//** WEB DESIGN **//** WEB DESIGN **//** WEB DESIGN **//** WEB DESIGN **//** WEB DESIGN **//** WEB DESIGN **/
+1. Create Wireframes for Home, Business, Developer, About, Contact and Blog
+2. Create wireframes for Dashboards
+
+
+
+/** ARCHITECTURE **//** ARCHITECTURE **//** ARCHITECTURE **//** ARCHITECTURE **//** ARCHITECTURE **//** ARCHITECTURE **//** ARCHITECTURE **/
+1. Sequence Diagrams for server/database processes
+  - Authentication and Authorization for Signup and Login forms
+2. Build Schemas for our two databases
+  - Developer MongoDB
+  - Business Postgres
+
+
+
+/** STYLING **//** STYLING **//** STYLING **//** STYLING **//** STYLING **//** STYLING **//** STYLING **//** STYLING **//** STYLING **//** STYLING **/
+1. For each BENEFIT on the Intro component
   - Find a fitting image
   - Create a pitch or value proposition that goes well with the image
   - Create a slideshow or carousel-like feature that moves through the images and value propositions on a timer
   - Create a animated transition
+2. Make sure main section doesn't slide under the navigation
+3. Use flexbox to make sure the Footer component is locked to the bottom of the page
+4. Integrate smooth scrolling
+5. Responsive resizing for all components
 
-1) Wire up React-router or Next.js for navigation
-  - Create the Layout for all pages
-  - Create a page for Signup
-  - Create a page for Login
-  - Create an About page
-  - Create a Contact page
-  - Create a Blog page
-    *** Create a step by step guide for contributors ***
 
-2) Wire up Login button to navigate to the Login page
-2) Wire up the Signup button to navigate to the Signup page
 
-3) Setup Express.js for form authentication and authorization
-4) Setup MongoDB OR Postgres database
+/** MARKETING/CONTENT **//** MARKETING/CONTENT **//** MARKETING/CONTENT **//** MARKETING/CONTENT **//** MARKETING/CONTENT **//** MARKETING/CONTENT **/
+1. Create a step by step guide for contributors ***
+2. Create a pitch or value proposition that goes well with the image
 
-5) Setup Passport.js for easy logging and Signup
 
-*** Advanced ***
-Export, parse and restructure data from 2022_NAICS_Structure and store in an efficient data structure OR database
-Import that NAICS data into client to use on the front end
 
-*** Advanced ***
-Convert JavaScript to TypeScript
+/** EXTERNAL TOOLS/APIS **//** EXTERNAL TOOLS/APIS **//** EXTERNAL TOOLS/APIS **//** EXTERNAL TOOLS/APIS **//** EXTERNAL TOOLS/APIS **/
+1. Restructure data from 2022_NAICS_Structure and present in formatted JSON
+2. 1  Import that NAICS data into client to use on the front end

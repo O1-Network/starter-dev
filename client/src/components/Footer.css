@@ -8,12 +8,12 @@ footer {
   padding: 50px 0 50px 20px;
 }
 
-a {
+.footer-link {
   padding-right: 50px;
   text-decoration: none;
   color: rgb(51, 0, 0);
 }
 
-a:hover {
+.footer-link:hover {
   color: rgb(209, 107, 107);
 }

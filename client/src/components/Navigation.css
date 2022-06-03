@@ -1,27 +1,33 @@
-nav {
-    display: flex;
-    /* position: fixed;
+.nav-style {
+    
+    position: fixed;
     top: 0;
     left: 0;
-    right: 0; */
-    margin: 0 20%;
-    justify-content: space-between;
-    align-items: center;
+    right: 0;
 
-    height: 150px;
+
+    z-index: 1000;
+
+    height: auto;
 
     background: #F2FCFF;
 }
 
-.brand-name { 
-    flex-grow: 1;
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 20%;
+}
 
-    padding: 20px;
+.brand-name {
+    flex-grow: 1;
 
     font-family: 'Inter';
     font-style: normal;
     font-weight: 500;
     font-size: 84px;
+    text-decoration: none;
     
     color: #BA1200;
 
@@ -43,6 +49,8 @@ nav {
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
+    text-align: center;
+    text-decoration: none;
 }
 
 .nav-button:hover {
