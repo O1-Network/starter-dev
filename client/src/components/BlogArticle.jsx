@@ -1,4 +1,4 @@
-import './Blog.css';
+import './BlogArticle.css';
 
 const Blog = () => {
   return (
