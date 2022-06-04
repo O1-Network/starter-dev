@@ -1,8 +1,8 @@
-import './BlogArticle.css';
+import { BlogContainer } from './BlogArticleStyles';
 
 const Blog = () => {
   return (
-    <div className="blog-container">
+    <BlogContainer>
       <h1>How to Contribute on this Project</h1>
       <p>When I first started programming, what I wanted more than anything was to collaborate on a team with other developers and gain real-world experience that allowed me to land my dream job, build in-demand and highly sought after skills, and have a safe space to ask questions freely and learn with others.</p>
       <p>The problem is, to gain these things requires being employed by a company doing these things, and those companies don't hire you unless you know how to do those things.</p>
@@ -47,7 +47,7 @@ const Blog = () => {
       <p>A video that guides to setup "starter-dev" working on their local machine </p>
       <h2>Get Involved and Repeat</h2>
       
-    </div>
+    </BlogContainer>
   );
 }
 

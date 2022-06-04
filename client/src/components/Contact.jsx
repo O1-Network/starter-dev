@@ -1,33 +1,40 @@
-import './Contact.css';
+import {
+  ContactContainer,
+  FormContainer,
+  TextInput,
+  SelectInput,
+  TextAreaInput,
+  SubmitButton
+} from './ContactStyles';
 
 const Contact = () => {
   return (
-      <div className="contact-container">
+      <ContactContainer>
         <h1>We would love to hear from you. Please get in touch and reach one of our application specialists. </h1>
-          <div className="container">
+          <FormContainer>
             <form action="action_page.php" >
           
               <label htmlFor="fname">First Name</label>
-              <input type="text" id="fname" name="firstname" placeholder="Your name.." />
+              <TextInput type="text" id="fname" name="firstname" placeholder="Your name.." />
           
               <label htmlFor="lname">Last Name</label>
-              <input type="text" id="lname" name="lastname" placeholder="Your last name.." />
+              <TextInput type="text" id="lname" name="lastname" placeholder="Your last name.." />
           
               <label htmlFor="country">Country</label>
-              <select id="country" name="country">
+              <SelectInput id="country" name="country">
                 <option value="australia">Australia</option>
                 <option value="canada">Canada</option>
                 <option value="usa">USA</option>
-              </select>
+              </SelectInput>
           
               <label htmlFor="subject">Subject</label>
-              <textarea id="subject" name="subject" placeholder="Write something.."></textarea>
+              <TextAreaInput id="subject" name="subject" placeholder="Write something.."></TextAreaInput>
           
-              <input type="submit" value="Submit" />
+              <SubmitButton type="submit" value="Submit" />
           
             </form>
-          </div> 
-      </div>
+          </FormContainer> 
+      </ContactContainer>
     );
 }
 

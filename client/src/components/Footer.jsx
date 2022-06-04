@@ -1,21 +1,17 @@
-import { Route } from 'react-router';
-import { Link } from 'react-router-dom';
+import {
+  FooterElement,
+  FooterLinks,
+  FooterLink
+} from './FooterStyles';
 
-import './Footer.css';
 export default function Footer() {
   return (
-    <footer>
-      <section className='footer-links'>
-        <Link to='/about' className="footer-link">About</Link>
-        <Link to='/contact' className="footer-link">Contact</Link>
-        <Link to='/blog' className="footer-link">Blog</Link>
-      </section>
-    </footer>
+    <FooterElement>
+      <FooterLinks>
+        <FooterLink to='/about'>About</FooterLink>
+        <FooterLink to='/contact'>Contact</FooterLink>
+        <FooterLink to='/blog'>Blog</FooterLink>
+      </FooterLinks>
+    </FooterElement>
   );
 }
-
-{/* <Blog />
-<About />
-<Contact /> */}
-
-{/* <Route path=":id" element={<UserProfile />} /> */}

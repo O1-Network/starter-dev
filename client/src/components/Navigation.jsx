@@ -1,4 +1,9 @@
-import { NavStyle, NavContainer, NavLinkBrand, NavLink } from './NavigationStyles'; 
+import { 
+    NavStyle, 
+    NavContainer, 
+    NavLinkBrand, 
+    NavLink 
+} from './NavigationStyles'; 
 
 const Navigation = () => {
     return (
