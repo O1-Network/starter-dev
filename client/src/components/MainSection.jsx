@@ -1,15 +1,15 @@
-import './MainSection.css';
+import { MainSectionContainer, Question } from './MainSectionStyles';
 
 const MainSection = (props) => {
 
   return (
     <>
-      <div className="main_section-container">
-        <h1 className="main_section-question">What Industry Are You In?</h1>
+      <MainSectionContainer>
+        <Question className="main_section-question">What Industry Are You In?</Question>
         
         
 
-      </div>
+      </MainSectionContainer>
     </>
   );
 };

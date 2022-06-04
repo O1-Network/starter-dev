@@ -1,19 +1,25 @@
+// EXTERNAL MODULES // EXTERNAL MODULES // EXTERNAL MODULES
 import React from 'react';
 import { Routes, Route } from 'react-router';
-import './App.css';
+// LAYOUT // LAYOUT // LAYOUT // LAYOUT // LAYOUT 
 import Navigation from './components/Navigation';
 import Footer from './components/Footer';
+// ROUTES // ROUTES // ROUTES // ROUTES // ROUTES 
 import Home from './pages/Home';
 import Business from './pages/Business';
 import Developer from './pages/Developer';
-import Signup from './components/SignupForm';
-import Login from './components/LoginForm';
-
-import Blog from './components/BlogArticle';
-
 import About from './components/About';
-
 import Contact from './components/Contact';
+import Signup from './pages/Signup';
+import Login from './pages/Login';
+import Blog from './pages/Blog';
+// STYLES // STYLES // STYLES // STYLES // STYLES 
+import {
+  AppContainer,
+  HeaderContainer,
+  RouteContainer,
+  FooterContainer
+} from './AppStyles';
 
 const App = () => {
   // let [nextClassification, setNextClassification] = useState(NAICS.sectors);
@@ -46,11 +52,11 @@ const App = () => {
   // console.log(classification);
 
   return (
-    <div className='app-container'>
-      <div className="header-container">
+    <AppContainer>
+      <HeaderContainer>
         <Navigation />
-      </div>
-      <div className="route-container">
+      </HeaderContainer>
+      <RouteContainer>
         <Routes>
           <Route exact path='/' element={<Home/>}/>
           <Route path='/business' element={<Business/>}/>
@@ -61,11 +67,11 @@ const App = () => {
           <Route path='/blog' element={<Blog/>}/>
           <Route path='/contact' element={<Contact/>}/>
         </Routes>
-      </div>
-      <div className='footer-container'>
+      </RouteContainer>
+      <FooterContainer>
         <Footer />
-      </div>
-    </div>    
+      </FooterContainer>
+    </AppContainer>    
 
   );
 };

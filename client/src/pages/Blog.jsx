@@ -1,9 +1,9 @@
-import Blog from '../components/BlogArticle';
+import BlogArticle from '../components/BlogArticle';
 
 const Blog = () => {
   return (
     <div className="blog-container">
-      <Blog />
+      <BlogArticle />
     </div>
   );
 }
