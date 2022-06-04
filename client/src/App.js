@@ -16,10 +16,39 @@ import About from './components/About';
 import Contact from './components/Contact';
 
 const App = () => {
+  // let [nextClassification, setNextClassification] = useState(NAICS.sectors);
+  // let [classification, setClassification] = useState({
+  //   "sector" : null,
+  //   "subsector" : null,
+  //   "industry_group" : null,
+  //   "industry" : null,
+  //   "detail_industry" : null
+  // });
+
+  // let classificationProperty;
+  // if (classification.sector === null) {
+  //   classificationProperty = "sector";
+  // } else if (classification.subsector === null) {
+  //   classificationProperty = "subsector";
+  // } else if (classification.industry_group === null) {
+  //   classificationProperty = "industry_group";
+  // } else if (classification.industry === null) {
+  //   classificationProperty = "industry";
+  // } else if (classification.detail_industry === null) {
+  //   classificationProperty = "detail_industry";
+  // }
+
+  // const handleClassificationModification = (e) => {
+  //   setClassification({...classification, [classificationProperty] : e.target.innerText });
+  //   setNextClassification(NAICS.sectors[e.target.attributes[0].nodeValue].subsectors)
+  // }
+
+  // console.log(classification);
+
   return (
     <div className='app-container'>
-      <div className='header-container'>
-      <Navigation />
+      <div className="header-container">
+        <Navigation />
       </div>
       <div className="route-container">
         <Routes>
@@ -34,7 +63,7 @@ const App = () => {
         </Routes>
       </div>
       <div className='footer-container'>
-      <Footer />
+        <Footer />
       </div>
     </div>    
 

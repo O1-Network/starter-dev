@@ -1,9 +1,6 @@
 .app-container {
   margin: 0;
   font-family: 'inter', sans-serif;
-  display: flex;
-  flex-direction: column;
-  height: 100vh;
 }
 
 .route-container {
@@ -12,9 +9,13 @@
 }
 
 .header-container {
-  height: 5%;
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
 }
 
 .footer-container {
-  height: 5%;
+  display: block;
 }
