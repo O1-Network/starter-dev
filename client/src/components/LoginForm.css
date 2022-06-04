@@ -1,0 +1,81 @@
+.login-container {
+  width: 100%;
+  height: 100vh;
+  background-color: #031927;
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+}
+.login-title{
+  font-size: 3rem;
+  color: #C9F0FF;
+  margin: auto;
+}
+.login-form{
+    display: flex;
+    background-color: #2260A1;
+    width: 600px;
+    height: 620px;
+    flex-direction: column;
+    border-radius: 25px;
+    justify-content: center;
+    margin: auto 0;
+    padding: 20px;
+    margin: auto 0;
+    padding: 20px;
+    /* box-shadow: -1px -1px 3px rgba(255, 230, 230, 0.5), -3px -3px 5px rgba(255, 230, 230, 0.5), 3px 3px 5px rgba(51, 0, 0, 0.3), 1px 1px 3px rgba(51, 0, 0, 0.3); */
+    border-radius: 25px;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+.login-label {
+  font-size: 18px;
+  color: #C9F0FF;
+}
+.login-list{
+  padding-bottom:20px;
+  padding-top: 15px;
+}
+
+.box-placeholder {
+  background: #2D7CD1;
+  border: 1px dashed #F2FCFF;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  padding-top: 7%;
+  height: 60px;
+  font-family: 'Inter';
+  color: #F2FCFF;
+  width: 80%;
+  margin: 30px auto;
+  text-align: center;
+}
+
+.login-btn {
+  background-color: #073959;
+  color: #F2FCFF;
+  border-radius: 10px;
+  width: 180px;
+  height: 50px;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+.forgot-password {
+  color: rgb(166, 217, 251);
+  font-size: 1.4rem;
+  padding-left: 50px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top: 35px;
+  text-decoration: underline;
+}

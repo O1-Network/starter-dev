@@ -1,24 +1,25 @@
 {
   "sectors" : [
     {
-      "name" : "Agriculture, Forestry, Fishing and Hunting",
+      "11" : "Agriculture, Forestry, Fishing and Hunting",
       "subsectors" : [
         {
-          "name" : "Crop Production",
+          "111" : "Crop Production",
           "Industry Group" : [
             {
               
             },
             {
-
+              
             }
           ]
         },
         {
-          "name" : "Animal Production and Aquaculture"
+          "112" : "Animal Production and Aquaculture"
+
         },
         {
-          "name" : "Forestry and Logging"
+          "113" : "Forestry and Logging"
         },
         {
           "name" : "Fishing, Hunting and Trapping"

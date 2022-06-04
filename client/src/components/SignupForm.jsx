@@ -1,4 +1,4 @@
-import "./Signup.css";
+import "./SignupForm.css";
 
 const Signup = () => {
   return (
@@ -20,7 +20,7 @@ const Signup = () => {
             <input type="password" id="password" required />
           </li>
           <li> 
-            <label htmlFor="re-password">Retype Password</label>
+            <label htmlFor="password">Retype Password</label>
           </li>
           <li>      
             <input type="password" id="re-password" required />
