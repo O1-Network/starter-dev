@@ -7,22 +7,22 @@ const Signup = () => {
       <form className="form-signup">
         <h2 className='signup-title'> Starter Business Sign-up </h2>
         <ul className='signup-list'>
-          <li>
+          <li className="list-item">
             <label htmlFor="username">Email Address</label>
           </li>
-          <li>      
+          <li className="list-item">      
             <input type="text" id="email address" required />
           </li> 
-          <li> 
+          <li className="list-item"> 
             <label htmlFor="password">Password</label>
           </li>
-          <li>      
+          <li className="list-item">      
             <input type="password" id="password" required />
           </li>
-          <li> 
+          <li className="list-item"> 
             <label htmlFor="password">Retype Password</label>
           </li>
-          <li>      
+          <li className="list-item">      
             <input type="password" id="re-password" required />
           </li>
         </ul>
