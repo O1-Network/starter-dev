@@ -1,16 +1,27 @@
 footer {
   background-color: #C9F0FF;
-  height: auto;
+  /* height: auto; */
+ 
+  padding: 10px 0;
+  position: absolute;
+  bottom: 0;
+  left:0;
+  right:0;
+  display: flex;
+  justify-content: center;
 }
 
 .footer-links {
-  margin: 0 20%;
-  padding: 50px 0 50px 20px;
+  margin: 0 20px;
+  display: flex;
+  column-gap:70px;
+  /* padding: 50px 0 50px 20px; */
 }
 
 .footer-link {
   padding-right: 50px;
   text-decoration: none;
+  
   color: rgb(51, 0, 0);
 }
 

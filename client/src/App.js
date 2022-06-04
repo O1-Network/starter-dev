@@ -18,9 +18,9 @@ import Contact from './components/Contact';
 const App = () => {
   return (
     <div className='app-container'>
-     
+      <div className='header-container'>
       <Navigation />
-
+      </div>
       <div className="route-container">
         <Routes>
           <Route exact path='/' element={<Home/>}/>
@@ -33,9 +33,9 @@ const App = () => {
           <Route path='/contact' element={<Contact/>}/>
         </Routes>
       </div>
-      
+      <div className='footer-container'>
       <Footer />
-      
+      </div>
     </div>    
 
   );

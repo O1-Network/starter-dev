@@ -110,7 +110,7 @@ transform: translate(-50%, -50%);
     
 }
 
-ul {
+.signup-list {
     margin: 0;
     padding: 0;
     font-family: 'Inter';
@@ -122,7 +122,7 @@ ul {
     color: #C9F0FF; 
 }
 
-li {
+.list-item {
       display: grid;
       align-items: center;
       margin: 10px;

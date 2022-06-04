@@ -12,6 +12,7 @@
   margin: auto;
 }
 .login-form{
+
     display: flex;
     background-color: #2260A1;
     width: 600px;
