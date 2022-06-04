@@ -1,7 +1,7 @@
 {
   "sectors" : [
     {
-      "11" : "Agriculture, Forestry, Fishing and Hunting",
+      "name" : "Agriculture, Forestry, Fishing and Hunting",
       "subsectors" : [
         {
           "111" : "Crop Production",

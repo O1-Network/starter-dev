@@ -1,35 +1,34 @@
-.nav-style {
-    
-    /* position: fixed;
-    top: 0;
-    left: 0;
-    right: 0; */
+import styled from 'styled-components';
+import { Link } from 'react-router-dom';
 
+export const NavStyle = styled.nav`
     z-index: 1000;
     height: auto;
     background: #F2FCFF;
-}
+    padding: 15px;
+    display: block;
+`;
 
-.nav-container {
+export const NavContainer = styled.div`
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin: 0 20%;
-}
+`;
 
-.brand-name {
+export const NavLinkBrand = styled(Link)`
     flex-grow: 1;
     margin-right: 1rem;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 500;
-    font-size: 1rem;
+    font-size: 3rem;
     text-decoration: none;
     color: #BA1200;
     text-shadow: -3px -3px 5px rgba(255, 204, 204, 0.25), -1px -1px 3px rgba(255, 204, 204, 0.25), 1px 1px 3px rgba(51, 0, 0, 0.25), 3px 3px 5px rgba(51, 0, 0, 0.32);
-}
+`;
 
-.nav-button {
+export const NavLink = styled(Link)`
     margin-right: 1rem;
     width: 110px;
     height: 30px;
@@ -46,8 +45,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-}
 
-.nav-button:hover {
-    background: #fff1f1;
-}
+    &:hover {
+        background: #fff1f1;
+    }
+`;

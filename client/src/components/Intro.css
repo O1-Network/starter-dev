@@ -179,11 +179,10 @@
   letter-spacing: .2rem;
 }
 
-.benefits h1{
+.benefits h1 {
   text-shadow: 2px 2px #090909;
 }
 
 .benefits li {
   padding: 20px;
-
 }
