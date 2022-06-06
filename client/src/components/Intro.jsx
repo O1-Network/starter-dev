@@ -11,13 +11,13 @@ const Intro = () => {
   ]
 const [currentImage,setImage]=useState(0);
 useEffect(()=>{
-setInterval(()=>{setImage(old=>old+1)},300)
+setInterval(()=>{setImage(old=>old+1)},1000)
 },[])
 
 
     return (
       <div className="intro" >
-        {console.log(currentImage)}
+     
         <div className={[ "intro-background",Images[currentImage%(Images.length)]].join(' ')} > 
           <p className="value-text">If your business is selected, our team of developers will build you a digital tool that takes your business to the next level.
           </p>
