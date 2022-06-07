@@ -1,0 +1,1679 @@
+{
+  "title": "ManufacturingT",
+  "desc": "The Sector as a Whole\n\nThe Manufacturing sector comprises establishments engaged in the mechanical, physical, or chemical transformation of materials, substances, or components into new products.  The assembling of component parts of manufactured products is considered manufacturing, except in cases where the activity is appropriately classified in Sector 23, Construction.\n\nEstablishments in the Manufacturing sector are often described as plants, factories, or mills and characteristically use power-driven machines and material handling equipment.  However, establishments that transform materials or substances into new products by hand or in the worker's home and those engaged in selling to the general public products made on the same premises from which they are sold, such as bakeries, candy stores, and custom tailors, may also be included in this sector.  Manufacturing establishments may process materials or may contract with other establishments to process their materials for them.  Both types of establishments are included in manufacturing.  Selected industries in the Manufacturing sector are comprised solely of establishments that process materials for other establishments on a contract or fee basis.  Beyond these dedicated contract manufacturing industries, establishments that process materials for other establishments are generally classified in the Manufacturing industry of the processed materials.\n\nThe materials, substances, or components transformed by manufacturing establishments are raw materials that are products of agriculture, forestry, fishing, mining, or quarrying as well as products of other manufacturing establishments.  The materials used may be purchased directly from producers, obtained through customary trade channels, or secured without recourse to the market by transferring the product from one establishment to another, under the same ownership.\n\nThe new product of a manufacturing establishment may be finished in the sense that it is ready for utilization or consumption, or it may be semi-finished to become an input for an establishment engaged in further manufacturing.  For example, the product of the alumina refinery is the input used in the primary production of aluminum; primary aluminum is the input to an aluminum wire drawing plant; and aluminum wire is the input for a fabricated wire product manufacturing establishment.\n\nThe subsectors in the Manufacturing sector generally reflect distinct production processes related to material inputs, production equipment, and employee skills.  In the machinery area, where assembling is a key activity, parts and accessories for manufactured products are classified in the industry of the finished manufactured item when they are made for separate sale.  For example, an attachment for a piece of metalworking machinery would be classified with metalworking machinery.  However, component inputs from other manufacturing establishments are classified based on the production function of the component manufacturer.  For example, electronic components are classified in Subsector 334, Computer and Electronic Product Manufacturing, and stampings are classified in Subsector 332, Fabricated Metal Product Manufacturing.\n\nManufacturing establishments often perform one or more activities that are classified outside the Manufacturing sector of NAICS.  For instance, almost all manufacturing has some captive research and development or administrative operations, such as accounting, payroll, or management.  These captive services are treated the same as captive manufacturing activities.  When the services are provided by separate establishments, they are classified in the NAICS sector where such services are primary, not in manufacturing. \n\nThe boundaries of manufacturing and the other sectors of the classification system can be somewhat blurry.  The establishments in the Manufacturing sector are engaged in the transformation of materials into new products.  Their output is a new product.  However, the definition of what constitutes a new product can be somewhat subjective.  As clarification, the following activities are considered manufacturing in NAICS:\n<table width=100%><tr><td width=10%> </td><td><dl><dt style='padding-left: 10px; text-indent: -10px;'>Milk bottling and pasteurizing;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Water bottling and processing;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Fresh fish packaging (oyster<br/> shucking, fish filleting);</dt><dt style='padding-left: 10px; text-indent: -10px;'>Apparel jobbing (assigning<br/> materials to contract<br/> factories or shops for<br/>  fabrication or other contract<br/> operations) as well as<br/> contracting on materials<br/> owned by others;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Printing and related activities;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Ready-mix concrete production;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Leather converting;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Grinding lenses to<br/> prescription;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Wood preserving;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Lapidary work for the trade;</dt></dl></td><td width=10%> </td><td><dl><dt style='padding-left: 10px; text-indent: -10px;'>Electroplating, plating, metal<br/> heat treating, and<br/> polishing for the trade;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Fabricating signs and<br/> advertising displays;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Rebuilding or remanufacturing<br/> machinery (i.e., automotive<br/> parts);</dt><dt style='padding-left: 10px; text-indent: -10px;'>Making manufactured homes<br/> (i.e., mobile homes) or<br/> prefabricated buildings,<br/> whether or not assembling/<br/> erecting at the customers'<br/> site;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Ship repair and renovation;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Machine shops; and</dt><dt style='padding-left: 10px; text-indent: -10px;'>Tire retreading.</dt></dl></td><td width=10%> </td></tr></table>\nConversely, there are activities that are sometimes considered manufacturing, but which for NAICS are classified in another sector (i.e., not classified as manufacturing). They include:\n\n1. Logging, classified in Sector 11, Agriculture, Forestry, Fishing and Hunting, is considered a harvesting operation;\n2. Beneficiating ores and other minerals, classified in Sector 21, Mining, Quarrying, and Oil and Gas Extraction, is considered part of the activity of mining;\n3. Constructing structures, assembling prefabricated buildings, and fabricating at the construction site by contractors are classified in Sector 23, Construction;\n4. Breaking bulk and reselling in smaller lots, including packaging, repackaging, or bottling products, such as liquors or chemicals; assembling and selling computers on a custom basis; sorting and reselling scrap; mixing and selling paints to customer order; and cutting metals to customer order for resale are classified in Sector 42, Wholesale Trade, or Sector 44-45, Retail Trade; and\n5. Publishing and the combined activity of publishing and printing, classified in Sector 51, Information, transform information into a product for which the value to the consumer lies in the information content, not in the format in which it is distributed (i.e., the book or software compact disc).\n",
+  "childNodes": {
+    "331": {
+      "title": "Primary Metal ManufacturingT",
+      "desc": "Industries in the Primary Metal Manufacturing subsector smelt and/or refine ferrous and nonferrous metals from ore, pig, or scrap, using electrometallurgical and other process metallurgical techniques.  Establishments in this subsector also manufacture metal alloys and superalloys by introducing other chemical elements to pure metals.  The output of smelting and refining, usually in ingot form, is used in rolling, drawing, and extruding operations to make sheet, strip, bar, rod, or wire, and in molten form to make castings and other basic metal products.\n\nPrimary manufacturing of ferrous and nonferrous metals begins with ore or concentrate as the primary input.  Establishments manufacturing primary metals from ore and/or concentrate remain classified in the primary smelting, primary refining, or iron and steel mill industries regardless of the form of their output.  Establishments primarily engaged in secondary smelting and/or secondary refining recover ferrous and nonferrous metals from scrap and/or dross.  The output of the secondary smelting and/or secondary refining industries is limited to shapes such as ingot or billet that will be further processed.  Recovery of metals from scrap often occurs in establishments that are primarily engaged in activities, such as rolling, drawing, extruding, or similar processes.\n\nExcluded from the Primary Metal Manufacturing subsector are establishments primarily engaged in manufacturing ferrous and nonferrous forgings (except ferrous forgings made in steel mills) and stampings.  Although forging, stamping, and casting are all methods used to make metal shapes, forging and stamping do not use molten metals and are included in Subsector 332, Fabricated Metal Product Manufacturing.  Establishments primarily engaged in operating coke ovens are classified in Industry 32419, Other Petroleum and Coal Products Manufacturing.\n",
+      "childNodes": {
+        "3311": {
+          "title": "Iron and Steel Mills and Ferroalloy ManufacturingT",
+          "desc": "NULL",
+          "childNodes": {
+            "33111": {
+              "title": "Iron and Steel Mills and Ferroalloy ManufacturingT",
+              "desc": "See industry description for 331110.",
+              "childNodes": {
+                "331110": {
+                  "title": "Iron and Steel Mills and Ferroalloy Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) direct reduction of iron ore; (2) manufacturing pig iron in molten or solid form; (3) converting pig iron into steel; (4) making steel; (5) making steel and manufacturing shapes (e.g., bar, plate, rod, sheet, strip, wire); (6) making steel and forming pipe and tube; and (7) manufacturing electrometallurgical ferroalloys. Ferroalloys add critical elements, such as silicon and manganese for carbon steel and chromium, vanadium, tungsten, titanium, and molybdenum for low- and high-alloy metals.  Ferroalloys include iron-rich alloys and more pure forms of elements added during the steel manufacturing process that alter or improve the characteristics of the metal.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3312": {
+          "title": "Steel Product Manufacturing from Purchased SteelT",
+          "desc": "This industry group comprises establishments primarily engaged in manufacturing iron and steel tube and pipe, drawing steel wire, and rolling or drawing shapes from purchased iron or steel.\n",
+          "childNodes": {
+            "33121": {
+              "title": "Iron and Steel Pipe and Tube Manufacturing from Purchased SteelT",
+              "desc": "See industry description for 331210.",
+              "childNodes": {
+                "331210": {
+                  "title": "Iron and Steel Pipe and Tube Manufacturing from Purchased Steel",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing welded, riveted, or seamless pipe and tube from purchased iron or steel.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33122": {
+              "title": "Rolling and Drawing of Purchased SteelT",
+              "desc": "This industry comprises establishments primarily engaged in rolling and/or drawing steel shapes, such as plate, sheet, strip, rod, and bar, from purchased steel.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "331221": {
+                  "title": "Rolled Steel Shape Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in rolling or drawing shapes (except wire), such as plate, sheet, strip, rod, and bar, from purchased steel.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "331222": {
+                  "title": "Steel Wire Drawing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in drawing wire from purchased steel.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3313": {
+          "title": "Alumina and Aluminum Production and ProcessingT",
+          "desc": "NULL",
+          "childNodes": {
+            "33131": {
+              "title": "Alumina and Aluminum Production and ProcessingT",
+              "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) refining alumina; (2) making (i.e., the primary production) aluminum from alumina; (3) recovering aluminum from scrap or dross; (4) alloying purchased aluminum; and (5) manufacturing aluminum primary forms (e.g., bar, foil, pipe, plate, rod, sheet, tube, wire).\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "331313": {
+                  "title": "Alumina Refining and Primary Aluminum Production",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in one or more of the following: (1) refining alumina (i.e., aluminum oxide) generally from bauxite; (2) making aluminum from alumina; and/or (3) making aluminum from alumina and rolling, drawing, extruding, or casting the aluminum they make into primary forms.  Establishments in this industry may make primary aluminum or aluminum-based alloys from alumina.\n\nCross-references. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "331314": {
+                  "title": "Secondary Smelting and Alloying of Aluminum",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) recovering aluminum and aluminum alloys from scrap and/or dross (i.e., secondary smelting) and making billet or ingot (except by rolling) and/or (2) manufacturing alloys, powder, paste, or flake from purchased aluminum.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "331315": {
+                  "title": "Aluminum Sheet, Plate, and Foil Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) flat rolling or continuous casting sheet, plate, foil and welded tube from purchased aluminum and/or (2) recovering aluminum from scrap and flat rolling or continuous casting sheet, plate, foil, and welded tube in integrated mills.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "331318": {
+                  "title": "Other Aluminum Rolling, Drawing, and Extruding",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) rolling, drawing, or extruding shapes (except flat rolled sheet, plate, foil, and welded tube) from purchased aluminum and/or (2) recovering aluminum from scrap and rolling, drawing, or extruding shapes (except flat rolled sheet, plate, foil, and welded tube) in integrated mills.\n\nIllustrative Examples:\n\nAluminum bar made by extruding purchased aluminum\nNails, aluminum, made in wire drawing plants \nStructural shapes made by rolling purchased aluminum\nRod made by extruding purchased aluminum\nTube made by drawing or extruding purchased aluminum\nWire, bare, made in aluminum wire drawing plants\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3314": {
+          "title": "Nonferrous Metal (except Aluminum) Production and ProcessingT",
+          "desc": "This industry group comprises establishments primarily engaged in nonferrous metal (except aluminum) smelting, refining, rolling, drawing, extruding, and alloying.\n",
+          "childNodes": {
+            "33141": {
+              "title": "Nonferrous Metal (except Aluminum) Smelting and RefiningT",
+              "desc": "See industry description for 331410.",
+              "childNodes": {
+                "331410": {
+                  "title": "Nonferrous Metal (except Aluminum) Smelting and Refining",
+                  "desc": "This industry comprises establishments primarily engaged in (1) smelting ores into nonferrous metals and/or (2) the primary refining of nonferrous metals (except aluminum) by electrolytic methods or other processes.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33142": {
+              "title": "Copper Rolling, Drawing, Extruding, and AlloyingT",
+              "desc": "See industry description for 331420.",
+              "childNodes": {
+                "331420": {
+                  "title": "Copper Rolling, Drawing, Extruding, and Alloying",
+                  "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) recovering copper or copper alloys from scraps; (2) alloying purchased copper; (3) rolling, drawing, or extruding shapes (e.g., bar, plate, sheet, strip, tube, wire) from purchased copper; and (4) recovering copper or copper alloys from scrap and rolling, drawing, or extruding shapes (e.g., bar, plate, sheet, strip, tube, wire).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33149": {
+              "title": "Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, Extruding, and AlloyingT",
+              "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) recovering nonferrous metals (except copper and aluminum) and nonferrous metal alloys from scrap; (2) alloying purchased nonferrous metals (except copper and aluminum); (3) rolling, drawing, and extruding shapes from purchased nonferrous metals (except copper and aluminum); and (4) recovering nonferrous metals from scrap (except copper and aluminum) and rolling, drawing, or extruding shapes in integrated facilities.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "331491": {
+                  "title": "Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) rolling, drawing, or extruding shapes (e.g., bar, plate, sheet, strip, tube) from purchased nonferrous metals and/or (2) recovering nonferrous metals from scrap and rolling, drawing, and/or extruding shapes (e.g., bar, plate, sheet, strip, tube) in integrated mills.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "331492": {
+                  "title": "Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum)",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) alloying purchased nonferrous metals and/or (2) recovering nonferrous metals from scrap.  Establishments in this industry make primary forms (e.g., bar, billet, bloom, cake, ingot, slab, slug, wire) using smelting or refining processes.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3315": {
+          "title": "FoundriesT",
+          "desc": "This industry group comprises establishments primarily engaged in pouring molten metal into molds or dies to form castings.  Establishments making castings and further manufacturing, such as machining or assembling, a specific manufactured product are classified in the industry of the finished product.  Foundries may perform operations, such as cleaning and deburring, on the castings they manufacture.  More involved processes, such as tapping, threading, milling, or machining to tight tolerances, that transform castings into more finished products are classified elsewhere in the Manufacturing sector based on the product made.\n\nEstablishments in this industry group make castings from purchased metals or in integrated secondary smelting and casting facilities.  When the production of primary metals is combined with making castings, the establishment is classified in Subsector 331, Primary Metal Manufacturing, with the primary metal made.\n",
+          "childNodes": {
+            "33151": {
+              "title": "Ferrous Metal FoundriesT",
+              "desc": "This industry comprises establishments primarily engaged in pouring molten iron and steel into molds of a desired shape to make castings.  Establishments in this industry purchase iron and steel made in other establishments.\n\nCross-References.",
+              "childNodes": {
+                "331511": {
+                  "title": "Iron Foundries",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in pouring molten pig iron or iron alloys into molds to manufacture castings (e.g., cast iron manhole covers, cast iron pipe, cast iron skillets).  Establishments in this industry purchase iron made in other establishments.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "331512": {
+                  "title": "Steel Investment Foundries",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing steel investment castings.  Investment molds are formed by covering a wax shape with a refractory slurry.  After the refractory slurry hardens, the wax is melted, leaving a seamless mold.  Investment molds provide highly detailed, consistent castings.  Establishments in this industry purchase steel made in other establishments.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "331513": {
+                  "title": "Steel Foundries (except Investment)",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing steel castings (except steel investment castings).  Establishments in this industry purchase steel made in other establishments.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33152": {
+              "title": "Nonferrous Metal FoundriesT",
+              "desc": "This industry comprises establishments primarily engaged in pouring and/or introducing molten nonferrous metal, under high pressure, into metal molds or dies to manufacture castings.  Establishments in this industry purchase nonferrous metals made in other establishments.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "331523": {
+                  "title": "Nonferrous Metal Die-Casting Foundries",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in introducing molten nonferrous metal, under high pressure, into molds or dies to make nonferrous metal die-castings.  Establishments in this industry purchase nonferrous metals made in other establishments.\n\nCross-references. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "331524": {
+                  "title": "Aluminum Foundries (except Die-Casting)",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in pouring molten aluminum into molds to manufacture aluminum castings (except nonferrous die-castings).  Establishments in this industry purchase aluminum made in other establishments.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "331529": {
+                  "title": "Other Nonferrous Metal Foundries (except Die-Casting)",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in pouring molten nonferrous metals (except aluminum) into molds to manufacture nonferrous castings (except nonferrous die-castings and aluminum castings).  Establishments in this industry purchase nonferrous metals, such as copper, nickel, lead, and zinc, made in other establishments.\n\nCross-references. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "332": {
+      "title": "Fabricated Metal Product ManufacturingT",
+      "desc": "Industries in the Fabricated Metal Product Manufacturing subsector transform metal into intermediate or end products, other than machinery, computers and electronics, and metal furniture, or treat metals and metal formed products fabricated elsewhere.  Important fabricated metal processes are forging, stamping, bending, forming, and machining, used to shape individual pieces of metal; and other processes, such as welding and assembling, used to join separate parts together.  Establishments in this subsector may use one of these processes or a combination of these processes.\n\nThe NAICS structure for this subsector distinguishes the forging and stamping processes in a single industry.  The remaining industries in the subsector group establishments based on similar combinations of processes used to make products.\n\nThe manufacturing performed in the Fabricated Metal Product Manufacturing subsector begins with manufactured metal shapes.  The establishments in this subsector further fabricate the purchased metal shapes into a product.  For instance, the Spring and Wire Product Manufacturing industry starts with wire and fabricates such items.\n\nWithin the Manufacturing sector there are other establishments that make the same products made by this subsector; only these establishments begin production further back in the production process.  These establishments have a more integrated operation.  For instance, one establishment may manufacture steel, draw it into wire, and make wire products in the same establishment.  Such operations are classified in the Primary Metal Manufacturing subsector.\n",
+      "childNodes": {
+        "3321": {
+          "title": "Forging and StampingT",
+          "desc": "NULL",
+          "childNodes": {
+            "33211": {
+              "title": "Forging and StampingT",
+              "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) manufacturing forgings from purchased metals; (2) manufacturing metal custom roll forming products; (3) manufacturing metal stamped and spun products (except automotive, cans, coins); and (4) manufacturing powder metallurgy products.  Establishments making metal forgings, metal stampings, and metal spun products and further manufacturing (e.g., machining, assembling) a specific manufactured product are classified in the industry of the finished product.  Metal forging, metal stamping, and metal spun products establishments may perform surface finishing operations, such as cleaning and deburring, on the products they manufacture.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "332111": {
+                  "title": "Iron and Steel Forging",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing iron and steel forgings from purchased iron and steel by hammering mill shapes.  Establishments making iron and steel forgings and further manufacturing (e.g., machining, assembling) a specific manufactured product are classified in the industry of the finished product.  Iron and steel forging establishments may perform surface finishing operations, such as cleaning and deburring, on the forgings they manufacture.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "332112": {
+                  "title": "Nonferrous Forging",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing nonferrous forgings from purchased nonferrous metals by hammering mill shapes.  Establishments making nonferrous forgings and further manufacturing (e.g., machining, assembling) a specific manufactured product are classified in the industry of the finished product.  Nonferrous forging establishments may perform surface finishing operations, such as cleaning and deburring, on the forgings they manufacture.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "332114": {
+                  "title": "Custom Roll Forming",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in custom roll forming metal products by use of rotary motion of rolls with various contours to bend or shape the products.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "332117": {
+                  "title": "Powder Metallurgy Part Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing powder metallurgy products using any of the various powder metallurgy processing techniques, such as pressing and sintering or metal injection molding.  Establishments in this industry generally make a wide range of parts on a job or order basis.\n",
+                  "childNodes": {}
+                },
+                "332119": {
+                  "title": "Metal Crown, Closure, and Other Metal Stamping (except Automotive)",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) stamping metal crowns and closures, such as bottle caps and home canning lids and rings, and/or (2) manufacturing other unfinished metal stampings and spinning unfinished metal products (except automotive, cans, and coins).  Establishments making metal stampings and metal spun products and further manufacturing (e.g., machining, assembling) a specific product are classified in the industry of the finished product.  Metal stamping and metal spun products establishments may perform surface finishing operations, such as cleaning and deburring, on the products they manufacture.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3322": {
+          "title": "Cutlery and Handtool ManufacturingT",
+          "desc": "NULL",
+          "childNodes": {
+            "33221": {
+              "title": "Cutlery and Handtool ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) manufacturing metal kitchen cookware (except by casting (e.g., cast iron skillets) or stamped without further fabrication), utensils, and/or nonprecious and precious plated metal cutlery and flatware; (2) manufacturing saw blades, all types (including those for power sawing machines); and (3) manufacturing nonpowered handtools and edge tools.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "332215": {
+                  "title": "Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing metal kitchen cookware (except by casting (e.g., cast iron skillets) or stamped without further fabrication), utensils, and/or nonprecious and precious plated metal cutlery and flatware.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "332216": {
+                  "title": "Saw Blade and Handtool Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) manufacturing saw blades, all types (including those for power sawing machines) and/or (2) manufacturing nonpowered handtools and edge tools.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3323": {
+          "title": "Architectural and Structural Metals ManufacturingT",
+          "desc": "This industry group comprises establishments primarily engaged in manufacturing one or more of the following: (1) prefabricated metal buildings, panels, and sections; (2) structural metal products; (3) metal plate work products; (4) metal framed windows (i.e., typically using purchased glass) and metal doors; (5) sheet metal work; and (6) ornamental and architectural metal products.\n",
+          "childNodes": {
+            "33231": {
+              "title": "Plate Work and Fabricated Structural Product ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing one or more of the following: (1) prefabricated metal buildings, panels, and sections; (2) structural metal products; and (3) metal plate work products.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "332311": {
+                  "title": "Prefabricated Metal Building and Component Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing prefabricated metal buildings, panels, and sections.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "332312": {
+                  "title": "Fabricated Structural Metal Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in fabricating structural metal products, such as assemblies of concrete reinforcing bars and fabricated bar joists.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "332313": {
+                  "title": "Plate Work Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing fabricated metal plate work by cutting, punching, bending, shaping, and welding purchased metal plate.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33232": {
+              "title": "Ornamental and Architectural Metal Products ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing one or more of the following: (1) metal framed windows (i.e., typically using purchased glass) and metal doors; (2) sheet metal work; and (3) ornamental and architectural metal products.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "332321": {
+                  "title": "Metal Window and Door Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing metal framed windows (i.e., typically using purchased glass) and metal doors.  Examples of products made by these establishments are metal door frames; metal framed window and door screens; and metal molding and trim (except automotive).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "332322": {
+                  "title": "Sheet Metal Work Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing sheet metal work (except stampings).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "332323": {
+                  "title": "Ornamental and Architectural Metal Work Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing ornamental and architectural metal work, such as staircases, metal open steel flooring, fire escapes, railings, and scaffolding.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3324": {
+          "title": "Boiler, Tank, and Shipping Container ManufacturingT",
+          "desc": "This industry group comprises establishments primarily engaged in one of the following: (1) manufacturing power boilers and heat exchangers; (2) cutting, forming, and joining heavy gauge metal to manufacture tanks, vessels, and other containers; or (3) forming light gauge metal containers.\n",
+          "childNodes": {
+            "33241": {
+              "title": "Power Boiler and Heat Exchanger ManufacturingT",
+              "desc": "See industry description for 332410.",
+              "childNodes": {
+                "332410": {
+                  "title": "Power Boiler and Heat Exchanger Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing power boilers and heat exchangers.  Establishments in this industry may perform installation in addition to manufacturing power boilers and heat exchangers.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33242": {
+              "title": "Metal Tank (Heavy Gauge) ManufacturingT",
+              "desc": "See industry description for 332420.",
+              "childNodes": {
+                "332420": {
+                  "title": "Metal Tank (Heavy Gauge) Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in cutting, forming, and joining heavy gauge metal to manufacture tanks, vessels, and other containers.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33243": {
+              "title": "Metal Can, Box, and Other Metal Container (Light Gauge) ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in forming light gauge metal containers.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "332431": {
+                  "title": "Metal Can Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing metal cans, lids, and ends.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "332439": {
+                  "title": "Other Metal Container Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing metal (light gauge) containers (except cans).\n\nIllustrative Examples:\n\nLight gauge metal bins manufacturing\nLight gauge metal drums manufacturing\nLight gauge metal garbage cans manufacturing\nLight gauge metal lunch boxes manufacturing\nLight gauge metal mailboxes manufacturing\nLight gauge metal tool boxes manufacturing\nLight gauge metal vats manufacturing\nMetal air cargo containers manufacturing\nMetal barrels manufacturing\nVacuum bottles and jugs manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3325": {
+          "title": "Hardware ManufacturingT",
+          "desc": "NULL",
+          "childNodes": {
+            "33251": {
+              "title": "Hardware ManufacturingT",
+              "desc": "See industry description for 332510.",
+              "childNodes": {
+                "332510": {
+                  "title": "Hardware Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing metal hardware, such as metal hinges, metal handles, keys, and locks (except coin- or card-operated, time locks).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3326": {
+          "title": "Spring and Wire Product ManufacturingT",
+          "desc": "NULL",
+          "childNodes": {
+            "33261": {
+              "title": "Spring and Wire Product ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in (1) manufacturing steel springs by forming, such as cutting, bending, and heat winding, metal rod or strip stock and/or (2) manufacturing wire springs and fabricated wire products from wire drawn elsewhere (except watch and clock springs).\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "332613": {
+                  "title": "Spring Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing springs from purchased wire, strip, or rod.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "332618": {
+                  "title": "Other Fabricated Wire Product Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing fabricated wire products (except springs) made from purchased wire.\n\nIllustrative Examples:\n\nBarbed wire made from purchased wire\nChain link fencing and fence gates made from purchased wire\nMetal baskets made from purchased wire\nPaper clips made from purchased wire\nNails, brads, and staples made from purchased wire\nNoninsulated wire cable made from purchased wire\nWoven wire cloth made from purchased wire\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3327": {
+          "title": "Machine Shops; Turned Product; and Screw, Nut, and Bolt ManufacturingT",
+          "desc": "This industry group comprises establishments primarily engaged in one of the following: (1) operating machine shops primarily engaged in machining metal and plastic parts and parts of other composite materials on a job or order basis; (2) machining precision turned products; or (3) manufacturing metal bolts, nuts, screws, rivets, and other industrial fasteners.\n",
+          "childNodes": {
+            "33271": {
+              "title": "Machine ShopsT",
+              "desc": "See industry description for 332710.",
+              "childNodes": {
+                "332710": {
+                  "title": "Machine Shops",
+                  "desc": "This industry comprises establishments known as machine shops primarily engaged in machining metal and plastic parts and parts of other composite materials on a job or order basis.  Generally machine shop jobs are low volume using machine tools, such as lathes (including computer numerically controlled); automatic screw machines; and machines for boring, grinding, milling, and additive manufacturing.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33272": {
+              "title": "Turned Product and Screw, Nut, and Bolt ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in (1) machining precision turned products or (2) manufacturing metal bolts, nuts, screws, rivets, and other industrial fasteners.  Included in this industry are establishments primarily engaged in manufacturing parts for machinery and equipment on a custom basis.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "332721": {
+                  "title": "Precision Turned Product Manufacturing",
+                  "desc": "This U.S. industry comprises establishments known as precision turned manufacturers primarily engaged in machining precision products of all materials on a job or order basis.  Generally precision turned product jobs are large volume using machines, such as automatic screw machines, rotary transfer machines, computer numerically controlled (CNC) lathes, or turning centers.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "332722": {
+                  "title": "Bolt, Nut, Screw, Rivet, and Washer Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing metal bolts, nuts, screws, rivets, washers, and other industrial fasteners using machines, such as headers, threaders, and nut forming machines.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3328": {
+          "title": "Coating, Engraving, Heat Treating, and Allied ActivitiesT",
+          "desc": "NULL",
+          "childNodes": {
+            "33281": {
+              "title": "Coating, Engraving, Heat Treating, and Allied ActivitiesT",
+              "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) heat treating metals and metal products; (2) enameling, lacquering, and varnishing metals and metal products; (3) hot dip galvanizing metals and metal products; (4) engraving, chasing, or etching metals and metal products (except jewelry; personal goods carried on or about the person, such as compacts and cigarette cases; precious metal products (except precious plated flatware and other plated ware); and printing plates); (5) powder coating metals and metal products; (6) electroplating, plating, anodizing, coloring, and finishing metals and metal products; and (7) providing other metal surfacing services for the trade.  Establishments in this industry coat, engrave, and heat treat metals and metal formed products fabricated elsewhere.  Included in this industry are establishments that perform these processes on other materials, such as plastics, in addition to metals.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "332811": {
+                  "title": "Metal Heat Treating",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in heat treating, such as annealing, tempering, and brazing, and cryogenically treating metals and metal products for the trade.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "332812": {
+                  "title": "Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in one or more of the following: (1) enameling, lacquering, and varnishing metals and metal products; (2) hot dip galvanizing metals and metal products; (3) engraving, chasing, or etching metals and metal products (except jewelry; personal goods carried on or about the person, such as compacts and cigarette cases; precious metal products (except precious plated flatware and other plated ware); and printing plates); (4) powder coating metals and metal products; and (5) providing other metal surfacing services for the trade.  Included in this industry are establishments that perform these processes on other materials, such as plastics, in addition to metals.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "332813": {
+                  "title": "Electroplating, Plating, Polishing, Anodizing, and Coloring",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in electroplating, plating, anodizing, coloring, buffing, polishing, cleaning, and sandblasting metals and metal products for the trade.  Included in this industry are establishments that perform these processes on other materials, such as plastics, in addition to metals.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3329": {
+          "title": "Other Fabricated Metal Product ManufacturingT",
+          "desc": "This industry group comprises establishments primarily engaged in manufacturing fabricated metal products (except forgings and stampings, cutlery and handtools, architectural and structural metals, boilers, tanks, shipping containers, hardware, spring and wire products, machine shop products, turned products, screws, and nuts and bolts).\n",
+          "childNodes": {
+            "33291": {
+              "title": "Metal Valve ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing one or more of the following metal valves: (1) industrial valves; (2) fluid power valves and hose fittings; (3) plumbing fixture fittings and trim; and (4) other metal valves and pipe fittings.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "332911": {
+                  "title": "Industrial Valve Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing industrial valves and valves for water works and municipal water systems.\n\nIllustrative Examples:\n\nComplete fire hydrants manufacturing\nIndustrial-type ball valves manufacturing\nIndustrial-type butterfly valves manufacturing\nIndustrial-type check valves manufacturing\nIndustrial-type gate valves manufacturing\nIndustrial-type globe valves manufacturing\nIndustrial-type plug valves manufacturing\nIndustrial-type solenoid valves (except fluid power) manufacturing\nIndustrial-type steam traps manufacturing\nValves for nuclear applications manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "332912": {
+                  "title": "Fluid Power Valve and Hose Fitting Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing fluid power valves and hose fittings.\n\nIllustrative Examples:\n\nFluid power aircraft subassemblies manufacturing\nHose assemblies for fluid power systems manufacturing\nHydraulic and pneumatic hose and tube fittings manufacturing\nHydraulic and pneumatic valves manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "332913": {
+                  "title": "Plumbing Fixture Fitting and Trim Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing plumbing fixture fittings and trim of all materials, such as faucets, flush valves, and shower heads.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "332919": {
+                  "title": "Other Metal Valve and Pipe Fitting Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing metal valves (except industrial valves, fluid power valves, fluid power hose fittings, and plumbing fixture fittings and trim).\n\nIllustrative Examples:\n\nAerosol valves manufacturing\nFirefighting nozzles manufacturing\nLawn hose nozzles manufacturing\nLawn sprinklers manufacturing\nWater traps manufacturing\nMetal hose couplings (except fluid power) manufacturing\nMetal pipe flanges and flange unions manufacturing\nPlumbing and heating inline valves (e.g., check, cutoff, stop) manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33299": {
+              "title": "All Other Fabricated Metal Product ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing fabricated metal products (except forgings and stampings, cutlery and handtools, architectural and structural metal products, boilers, tanks, shipping containers, hardware, spring and wire products, machine shop products, turned products, screws, nuts and bolts, and metal valves).\n\nIllustrative Examples:\n\nAmmunition manufacturing\nBall and roller bearing manufacturing\nEnameled iron and metal sanitary ware manufacturing \nFabricated pipe and pipe fittings made from purchased metal pipe \nFoil containers (except bags) manufacturing\nIndustrial pattern manufacturing\nMetal safes manufacturing\nPortable metal ladders manufacturing\nSmall arms and other ordnance manufacturing\nSteel wool manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "332991": {
+                  "title": "Ball and Roller Bearing Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing ball and roller bearings of all materials.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "332992": {
+                  "title": "Small Arms Ammunition Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing small arms ammunition.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "332993": {
+                  "title": "Ammunition (except Small Arms) Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing ammunition (except small arms).  Examples of products made by these establishments are bombs, depth charges, rockets (except guided missiles), grenades, mines, and torpedoes.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "332994": {
+                  "title": "Small Arms, Ordnance, and Ordnance Accessories Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing small arms, other ordnance, and/or ordnance accessories.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "332996": {
+                  "title": "Fabricated Pipe and Pipe Fitting Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in fabricating, such as cutting, threading, and bending, metal pipes and pipe fittings made from purchased metal pipe.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "332999": {
+                  "title": "All Other Miscellaneous Fabricated Metal Product Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing fabricated metal products (except forgings and stampings, cutlery and handtools, architectural and structural metals, boilers, tanks, shipping containers, hardware, spring and wire products, machine shop products, turned products, screws, nuts and bolts, metal valves, ball and roller bearings, ammunition, small arms and other ordnances and accessories, and fabricated pipes and pipe fittings).\n\nIllustrative Examples:\n\nFoil containers (except bags) manufacturing\nIndustrial pattern manufacturing\nMetal hair curlers manufacturing\nMetal ironing boards manufacturing\nMetal pallets manufacturing\nMetal pipe hangers and supports manufacturing\nMetal safes manufacturing\nMetal vaults (except burial) manufacturing\nPermanent metallic magnets manufacturing\nPortable metal ladders manufacturing\nSanitary ware (e.g., bathtubs, lavatories, sinks), metal and enameled metal, manufacturing\nSteel wool manufacturing \n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "333": {
+      "title": "Machinery ManufacturingT",
+      "desc": "Industries in the Machinery Manufacturing subsector create end products that apply mechanical force, for example, the application of gears and levers, to perform work.  Some important processes for the manufacture of machinery are forging, stamping, bending, forming, and machining that are used to shape individual pieces of metal.  Processes, such as welding and assembling are used to join separate parts together.  Although these processes are similar to those used in metal fabricating establishments, machinery manufacturing is different because it typically employs multiple metal forming processes in manufacturing the various parts of the machine.  Moreover, complex assembly operations are an inherent part of the production process.\n\nIn general, design considerations are very important in machinery production.  Establishments specialize in making machinery designed for particular applications.  Thus, design is considered to be part of the production process for the purpose of implementing NAICS.  The NAICS structure reflects this by defining industries and industry groups that make machinery for different applications.  A broad distinction exists between machinery that is generally used in a variety of industrial applications (i.e., general purpose machinery) and machinery that is designed to be used in a particular industry (i.e., special purpose machinery).  Three industry groups consist of special purpose machinery--Agriculture, Construction, and Mining Machinery Manufacturing; Industrial Machinery Manufacturing; and Commercial and Service Industry Machinery Manufacturing.  The other industry groups make general purpose machinery: Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing; Metalworking Machinery Manufacturing; Engine, Turbine, and Power Transmission Equipment Manufacturing; and Other General Purpose Machinery Manufacturing.\n",
+      "childNodes": {
+        "3331": {
+          "title": "Agriculture, Construction, and Mining Machinery ManufacturingT",
+          "desc": "This industry group comprises establishments primarily engaged in manufacturing one or more of the following: (1) farm machinery and equipment, power mowing equipment, and other powered home lawn and garden equipment; (2) construction machinery, surface mining machinery, and logging equipment; and (3) oil and gas field and underground mining machinery and equipment.\n",
+          "childNodes": {
+            "33311": {
+              "title": "Agricultural Implement ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing farm machinery and equipment, powered mowing equipment, and other powered home lawn and garden equipment.\n\nIllustrative Examples:\n\nCombines (i.e., harvester-threshers) manufacturing\nCotton ginning machinery manufacturing\nFertilizing machinery, farm-type, manufacturing\nHaying machines manufacturing\nMilking machines manufacturing\nPlanting machines, farm-type, manufacturing\nPlows, farm-type, manufacturing\nPowered lawnmowers manufacturing\nPoultry brooders, feeders, and waterers manufacturing\nSnowblowers and throwers, residential-type, manufacturing\nTractors and attachments, lawn and garden-type and farm-type, manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "333111": {
+                  "title": "Farm Machinery and Equipment Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing agricultural and farm machinery and equipment, and other turf and grounds care equipment, including planting, harvesting, and grass mowing equipment (except lawn and garden-type).\n\nIllustrative Examples:\n\nCombines (i.e., harvester-threshers) manufacturing\nCotton ginning machinery manufacturing\nFeed processing equipment, farm-type, manufacturing\nFertilizing machinery, farm-type, manufacturing\nGrass mowing equipment (except lawn and garden) manufacturing\nHaying machines manufacturing\nMilking machines manufacturing\nPlanting machines, farm-type, manufacturing\nPlows, farm-type, manufacturing\nPoultry brooders, feeders, and waterers manufacturing\nTractors and attachments, farm-type, manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "333112": {
+                  "title": "Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing powered lawnmowers, lawn and garden tractors, and other home lawn and garden equipment, such as tillers, shredders, yard vacuums, and leaf blowers.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33312": {
+              "title": "Construction Machinery ManufacturingT",
+              "desc": "See industry description for 333120.",
+              "childNodes": {
+                "333120": {
+                  "title": "Construction Machinery Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing construction machinery, surface mining machinery, and logging equipment.\n\nIllustrative Examples:\n\nBackhoes manufacturing\nBulldozers manufacturing\nConstruction and surface mining-type rock drill bits manufacturing\nConstruction-type tractors and attachments manufacturing\nOff-highway trucks manufacturing\nPile-driving equipment manufacturing\nPortable crushing, pulverizing, and screening machinery manufacturing\nPowered post hole diggers manufacturing\nRoad graders manufacturing\nSurface mining machinery (except drilling) manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33313": {
+              "title": "Mining and Oil and Gas Field Machinery ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing oil and gas field and underground mining machinery and equipment.\n\nIllustrative Examples:\n\nCoal breakers, cutters, and pulverizers manufacturing\nCore drills, underground mining-type, manufacturing\nMineral processing and beneficiating machinery manufacturing\nMining cars manufacturing\nOil and gas field-type derricks manufacturing\nOil and gas field-type drilling machinery and equipment (except offshore floating platforms) manufacturing\nStationary rock crushing machinery manufacturing\nWater well drilling machinery manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "333131": {
+                  "title": "Mining Machinery and Equipment Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) manufacturing underground mining machinery and equipment, such as coal breakers, mining cars, core drills, coal cutters, and rock drills, and (2) manufacturing mineral beneficiating machinery and equipment used in surface or underground mines.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "333132": {
+                  "title": "Oil and Gas Field Machinery and Equipment Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) manufacturing oil and gas field machinery and equipment, such as oil and gas field drilling machinery and equipment; oil and gas field production machinery and equipment; and oil and gas field derricks, and (2) manufacturing water well drilling machinery.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3332": {
+          "title": "Industrial Machinery ManufacturingT",
+          "desc": "NULL",
+          "childNodes": {
+            "33324": {
+              "title": "Industrial Machinery ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing industrial machinery, such as food and beverage manufacturing machinery, semiconductor manufacturing machinery, sawmill and woodworking machinery (except handheld), machinery for making paper and paper products, printing and binding machinery and equipment, textile making machinery, and machinery for making plastics and rubber products.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "333241": {
+                  "title": "Food Product Machinery Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing food and beverage manufacturing-type machinery and equipment, such as dairy product plant machinery and equipment (e.g., homogenizers, pasteurizers, ice cream freezers), bakery machinery and equipment (e.g., dough mixers, bake ovens, pastry rolling machines), meat and poultry processing and preparation machinery, and other commercial food products machinery (e.g., slicers, choppers, and mixers).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "333242": {
+                  "title": "Semiconductor Machinery Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing wafer processing equipment, semiconductor assembly and packaging equipment, and other semiconductor making machinery.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "333243": {
+                  "title": "Sawmill, Woodworking, and Paper Machinery Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) manufacturing sawmill and woodworking machinery (except handheld), such as circular and band sawing equipment, planing machinery, and sanding machinery, and/or (2) manufacturing paper industry machinery for making paper and paper products, such as pulp making machinery, paper and paperboard making machinery, and paper and paperboard converting machinery.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "333248": {
+                  "title": "All Other Industrial Machinery Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing industrial machinery (except agricultural and farm-type; construction and mining machinery; food manufacturing-type machinery; semiconductor making machinery; and sawmill, woodworking, and paper making machinery).\n\nIllustrative Examples:\n\nAdditive manufacturing machinery manufacturing\nBookbinding machines manufacturing\nChemical processing machinery and equipment manufacturing\nCigarette making machinery manufacturing\nGlass making machinery (e.g., blowing, forming, molding) manufacturing\nPetroleum refining machinery manufacturing\nPlastics working machinery manufacturing\nPrinting presses manufacturing\nRubber working machinery manufacturing\nSewing machines (including household-type) manufacturing\nShoe making and repairing machinery manufacturing\nTannery machinery manufacturing \nTextile making machinery manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3333": {
+          "title": "Commercial and Service Industry Machinery ManufacturingT",
+          "desc": "NULL",
+          "childNodes": {
+            "33331": {
+              "title": "Commercial and Service Industry Machinery ManufacturingT",
+              "desc": "See industry description for 333310.",
+              "childNodes": {
+                "333310": {
+                  "title": "Commercial and Service Industry Machinery Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing commercial and service industry machinery, such as optical instruments and lenses (except ophthalmic), photographic and photocopying equipment, automatic vending machinery, commercial laundry and drycleaning machinery, office machinery, automotive maintenance equipment (except mechanics' handtools), and commercial-type cooking equipment.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3334": {
+          "title": "Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment ManufacturingT",
+          "desc": "NULL",
+          "childNodes": {
+            "33341": {
+              "title": "Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing ventilating, heating, air-conditioning, and commercial and industrial refrigeration and freezer equipment.\n\nIllustrative Examples:\n\nAir-conditioner filters manufacturing\nAir-conditioning and warm air heating combination units manufacturing\nAttic fans manufacturing\nDust and fume collecting equipment manufacturing \nGas fireplaces manufacturing\nHeating boilers manufacturing\nIndustrial and commercial-type fans manufacturing\nRefrigerated counter and display cases manufacturing\nRefrigerated drinking fountains manufacturing\nSpace heaters (except portable electric) manufacturing \n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "333413": {
+                  "title": "Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) manufacturing stationary air purification equipment, such as industrial dust and fume collection equipment, electrostatic precipitation equipment, warm air furnace filters, air washers, and other dust collection equipment, and/or (2) manufacturing attic fans and industrial and commercial fans and blowers, such as commercial exhaust fans and commercial ventilating fans.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "333414": {
+                  "title": "Heating Equipment (except Warm Air Furnaces) Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing heating equipment (except electric and warm air furnaces), such as heating boilers, heating stoves, floor and wall furnaces, and wall and baseboard heating units.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "333415": {
+                  "title": "Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) manufacturing air-conditioning (except motor vehicle) and warm air furnace equipment and/or (2) manufacturing commercial and industrial refrigeration and freezer equipment.\n\nIllustrative Examples:\n\nAir-conditioning and warm air heating combination units manufacturing\nAir-conditioning compressors (except motor vehicle) manufacturing\nAir-conditioning condensers and condensing units manufacturing\nDehumidifiers (except portable electric) manufacturing\nHeat pumps manufacturing\nHumidifying equipment (except portable) manufacturing\nRefrigerated counter and display cases manufacturing\nRefrigerated drinking fountains manufacturing\nSnow making machinery manufacturing\nSoda fountain cooling and dispensing equipment manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3335": {
+          "title": "Metalworking Machinery ManufacturingT",
+          "desc": "NULL",
+          "childNodes": {
+            "33351": {
+              "title": "Metalworking Machinery ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing metalworking machinery, such as metal cutting and metal forming machine tools; cutting tools; accessories for metalworking machinery; special dies, tools, jigs, and fixtures; industrial molds; rolling mill machinery; assembly machinery; coil handling, conversion, or straightening equipment; and wire drawing and fabricating machines.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "333511": {
+                  "title": "Industrial Mold Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing industrial molds for casting metals or forming other materials, such as plastics, glass, or rubber.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "333514": {
+                  "title": "Special Die and Tool, Die Set, Jig, and Fixture Manufacturing",
+                  "desc": "This U.S. industry comprises establishments, known as tool and die shops, primarily engaged in manufacturing special tools and fixtures, such as cutting dies and jigs.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "333515": {
+                  "title": "Cutting Tool and Machine Tool Accessory Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing accessories and attachments for metal cutting and metal forming machine tools.\n\nIllustrative Examples:\n\nKnives and bits for metalworking lathes, planers, and shapers manufacturing\nMeasuring attachments (e.g., sine bars) for machine tool manufacturing\nMetalworking drill bits manufacturing\nTaps and dies (i.e., machine tool accessories) manufacturing\n\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "333517": {
+                  "title": "Machine Tool Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) manufacturing metal cutting machine tools (except handtools) and/or (2) manufacturing metal forming machine tools (except handtools), such as punching, sheering, bending, forming, pressing, forging and die-casting machines.\n\nIllustrative Examples:\n\nBending and forming machines, metalworking, manufacturing\nBuffing and polishing machines, metalworking, manufacturing\nDrilling machines, metalworking, manufacturing\nGrinding machines, metalworking, manufacturing\nHome workshop metal cutting machine tools (except handtools, welding equipment) manufacturing\nMetalworking lathes manufacturing\nMilling machines, metalworking, manufacturing\nStamping machines, metalworking, manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "333519": {
+                  "title": "Rolling Mill and Other Metalworking Machinery Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing rolling mill machinery and equipment and/or other metalworking machinery (except industrial molds; special dies and tools, die sets, jigs, and fixtures; cutting tools and machine tool accessories; and machine tools).\n\nIllustrative Examples:\n\nAssembly machines (i.e., wire making equipment) manufacturing\nCradle assembly machinery (i.e., wire making equipment) manufacturing\nMetalworking coil winding and cutting machinery manufacturing\nRolling mill roll machines, metalworking, manufacturing\nWire drawing and fabricating machinery and equipment (except dies) manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3336": {
+          "title": "Engine, Turbine, and Power Transmission Equipment ManufacturingT",
+          "desc": "NULL",
+          "childNodes": {
+            "33361": {
+              "title": "Engine, Turbine, and Power Transmission Equipment ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing turbines, power transmission equipment, and internal combustion engines (except automotive gasoline and aircraft).\n\nIllustrative Examples:\n\nClutches and brakes (except electromagnetic industrial controls, motor vehicle) manufacturing\nDiesel and semidiesel engines manufacturing\nElectric outboard motors manufacturing\nInternal combustion engines for hybrid drive systems (except automotive) manufacturing\nPlain bearings (except internal combustion engine) manufacturing\nPower transmission pulleys manufacturing\nPlain bushings (except internal combustion engine) manufacturing\nSpeed changers (i.e., power transmission equipment) manufacturing\nSpeed reducers (i.e., power transmission equipment) manufacturing\nTurbine generator set units manufacturing\nUniversal joints (except aircraft, motor vehicle) manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "333611": {
+                  "title": "Turbine and Turbine Generator Set Units Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing turbines (except aircraft); and complete turbine generator set units, such as steam, hydraulic, gas, and wind.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "333612": {
+                  "title": "Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing gears, speed changers, and industrial high-speed drives (except hydrostatic).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "333613": {
+                  "title": "Mechanical Power Transmission Equipment Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing mechanical power transmission equipment (except motor vehicle and aircraft), such as plain bearings, clutches (except motor vehicle and electromagnetic industrial control), couplings, joints, and drive chains.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "333618": {
+                  "title": "Other Engine Equipment Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing internal combustion engines (except automotive gasoline and aircraft).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3339": {
+          "title": "Other General Purpose Machinery ManufacturingT",
+          "desc": "This industry group comprises establishments primarily engaged in manufacturing pumps and compressors, material handling equipment, and all other general purpose machinery (except ventilation, heating, air-conditioning, and commercial refrigeration equipment; metalworking machinery; and engines, turbines, and power transmission equipment).\n",
+          "childNodes": {
+            "33391": {
+              "title": "Pump and Compressor ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing pumps and compressors, such as general purpose air and gas compressors, nonagricultural spraying and dusting equipment, general purpose pumps and pumping equipment (except fluid power pumps and motors), and measuring and dispensing pumps.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "333912": {
+                  "title": "Air and Gas Compressor Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing general purpose air and gas compressors, such as reciprocating compressors, centrifugal compressors, vacuum pumps (except laboratory), and nonagricultural spraying and dusting compressors and spray gun units.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "333914": {
+                  "title": "Measuring, Dispensing, and Other Pumping Equipment Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) manufacturing measuring and dispensing pumps, such as gasoline pumps and lubricating oil measuring and dispensing pumps and/or (2) manufacturing general purpose pumps and pumping equipment (except fluid power pumps and motors), such as reciprocating pumps, turbine pumps, centrifugal pumps, rotary pumps, diaphragm pumps, domestic water system pumps, oil well and oil field pumps, and sump pumps.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33392": {
+              "title": "Material Handling Equipment ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing material handling equipment, such as elevators and moving stairs; conveyors and conveying equipment; overhead traveling cranes, hoists, and monorail systems; and industrial trucks, tractors, trailers, and stacker machinery.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "333921": {
+                  "title": "Elevator and Moving Stairway Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing elevators and moving stairways.\n\nIllustrative Examples:\n\nAutomobile lifts (i.e., garage-type, service station) manufacturing\nEscalators manufacturing\nMoving walkways manufacturing\nPassenger and freight elevators manufacturing\n\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "333922": {
+                  "title": "Conveyor and Conveying Equipment Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing conveyors and conveying equipment, such as gravity conveyors, trolley conveyors, tow conveyors, pneumatic tube conveyors, carousel conveyors, farm conveyors, and belt conveyors.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "333923": {
+                  "title": "Overhead Traveling Crane, Hoist, and Monorail System Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing overhead traveling cranes, hoists, and monorail systems.\n\nIllustrative Examples:\n\nAerial work platforms manufacturing\nAutomobile wrecker (i.e., tow truck) hoists manufacturing\nBlock and tackle manufacturing\nMetal pulleys (except power transmission) manufacturing\nWinches manufacturing \n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "333924": {
+                  "title": "Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing industrial trucks, tractors, trailers, and stackers (i.e., truck-type) such as forklifts, pallet loaders and unloaders, and portable loading docks.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33399": {
+              "title": "All Other General Purpose Machinery ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing general purpose machinery (except ventilation, heating, air-conditioning, and commercial refrigeration equipment; metalworking machinery; engines, turbines, and power transmission equipment; pumps and compressors; and material handling equipment).\n\nIllustrative Examples:\n\nAutomatic fire sprinkler systems manufacturing\nBridge and gate lifting machinery manufacturing\nFluid power cylinders manufacturing\nFluid power pumps manufacturing\nHydraulic and pneumatic jacks manufacturing\nIndustrial-type furnaces manufacturing\nPackaging machinery manufacturing\nPower-driven handtools manufacturing\nScales and balances manufacturing\nWelding equipment manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "333991": {
+                  "title": "Power-Driven Handtool Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing power-driven (e.g., battery, corded, pneumatic) handtools, such as drills, screwguns, circular saws, chain saws, staplers, and nailers.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "333992": {
+                  "title": "Welding and Soldering Equipment Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing welding and soldering equipment and accessories (except transformers), such as arc, resistance, gas, plasma, laser, electron beam, and ultrasonic welding equipment; welding electrodes; coated or cored welding wire; and soldering equipment (except handheld).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "333993": {
+                  "title": "Packaging Machinery Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing packaging machinery, such as wrapping, bottling, canning, and labeling machinery.\n",
+                  "childNodes": {}
+                },
+                "333994": {
+                  "title": "Industrial Process Furnace and Oven Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing industrial process ovens, induction and dielectric heating equipment, and kilns (except cement, chemical, wood).  Included in this industry are establishments manufacturing laboratory furnaces and ovens.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "333995": {
+                  "title": "Fluid Power Cylinder and Actuator Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing fluid power (i.e., hydraulic and pneumatic) cylinders and actuators.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "333996": {
+                  "title": "Fluid Power Pump and Motor Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing fluid power (i.e., hydraulic and pneumatic) pumps and motors.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "333998": {
+                  "title": "All Other Miscellaneous General Purpose Machinery Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing general purpose machinery (except ventilating, heating, air-conditioning, and commercial refrigeration equipment; metalworking machinery; engines, turbines, and power transmission equipment; pumps and compressors; material handling equipment; power-driven handtools; welding and soldering equipment; packaging machinery; industrial process furnaces and ovens; fluid power cylinders and actuators; and fluid power pumps and motors).\n\nIllustrative Examples:\n\nAutomatic fire sprinkler systems manufacturing\nBaling machinery (e.g., paper, scrap metal) manufacturing\nBridge and gate lifting machinery manufacturing\nCentrifuges, industrial and laboratory-type, manufacturing\nCremating ovens manufacturing\nGeneral purpose-type sieves and screening equipment manufacturing\nHydraulic and pneumatic jacks manufacturing\nIndustrial and general purpose-type filters (except internal combustion engine, warm air furnace) manufacturing\nScales and balances manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "334": {
+      "title": "Computer and Electronic Product ManufacturingT",
+      "desc": "Industries in the Computer and Electronic Product Manufacturing subsector group establishments that manufacture computers, computer peripherals, communications equipment, and similar electronic products, and establishments that manufacture components for such products.  The Computer and Electronic Product Manufacturing industries are combined in the hierarchy of NAICS because of their economic significance to the economies of all three North American countries.  For industries in this subsector, the manufacturing processes are fundamentally different from the manufacturing processes of other machinery and equipment.  The design and use of integrated circuits and the application of highly specialized miniaturization technologies are common elements in the production technologies of the Computer and Electronic Product Manufacturing subsector.\n",
+      "childNodes": {
+        "3341": {
+          "title": "Computer and Peripheral Equipment ManufacturingT",
+          "desc": "NULL",
+          "childNodes": {
+            "33411": {
+              "title": "Computer and Peripheral Equipment ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing and/or assembling electronic computers, such as mainframes, personal computers, workstations, laptops, and computer servers; and computer peripheral equipment, such as storage devices, printers, monitors, and input/output devices and terminals.  Computers can be analog, digital, or hybrid.  Digital computers, the most common type, are devices that do all of the following: (1) store the processing program or programs and the data immediately necessary for the execution of the program; (2) can be freely programmed in accordance with the requirements of the user; (3) perform arithmetical computations specified by the user; and (4) execute, without human intervention, a processing program that requires the computer to modify its execution by logical decision during the processing run.  Analog computers are capable of simulating mathematical models and comprise at least analog, control, and programming elements.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "334111": {
+                  "title": "Electronic Computer Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing and/or assembling electronic computers, such as mainframes, personal computers, workstations, laptops, and computer servers.  Computers can be analog, digital, or hybrid.  Digital computers, the most common type, are devices that do all of the following: (1) store the processing program or programs and the data immediately necessary for the execution of the program; (2) can be freely programmed in accordance with the requirements of the user; (3) perform arithmetical computations specified by the user; and (4) execute, without human intervention, a processing program that requires the computer to modify its execution by logical decision during the processing run.  Analog computers are capable of simulating mathematical models and contain at least analog, control, and programming elements.  The manufacture of computers includes the assembly or integration of processors, coprocessors, memory, storage, and input/output devices into a user-programmable final product.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "334112": {
+                  "title": "Computer Storage Device Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing computer storage devices that allow the storage and retrieval of data from a phase change, magnetic, optical, or magnetic/optical media.  Examples of products made by these establishments are computer disk drives, USB flash drives, and tape storage and backup units.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "334118": {
+                  "title": "Computer Terminal and Other Computer Peripheral Equipment Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing computer terminals and other computer peripheral equipment (except storage devices).\n\nIllustrative Examples:\n\nAutomated teller machines (ATM) manufacturing\nComputer terminals manufacturing\nJoystick devices manufacturing\nKeyboards, computer peripheral equipment, manufacturing\nMonitors, computer peripheral equipment, manufacturing\nMouse devices, computer peripheral equipment, manufacturing\nOptical readers and scanners manufacturing\nPlotters, computer, manufacturing\nPoint-of-sale terminals manufacturing\nPrinters, computer, manufacturing \n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3342": {
+          "title": "Communications Equipment ManufacturingT",
+          "desc": "This industry group comprises establishments primarily engaged in manufacturing wire telephone and data communications equipment, radio and television broadcast and wireless communications equipment, and all other communications equipment.\n",
+          "childNodes": {
+            "33421": {
+              "title": "Telephone Apparatus ManufacturingT",
+              "desc": "See industry description for 334210.",
+              "childNodes": {
+                "334210": {
+                  "title": "Telephone Apparatus Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing wire telephone and data communications equipment.  These products may be stand-alone or board-level components of a larger system.  Examples of products made by these establishments are central office switching equipment, cordless and wire telephones (except cellular), PBX equipment, telephone answering machines, LAN modems, multi-user modems, and other data communications equipment, such as bridges, routers, and gateways.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33422": {
+              "title": "Radio and Television Broadcasting and Wireless Communications Equipment ManufacturingT",
+              "desc": "See industry description for 334220.",
+              "childNodes": {
+                "334220": {
+                  "title": "Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing radio and television broadcast and wireless communications equipment.  Examples of products made by these establishments are transmitting and receiving antennas, cable television equipment, GPS equipment, pagers, cellular phones, mobile communications equipment, and radio and television studio and broadcasting equipment.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33429": {
+              "title": "Other Communications Equipment ManufacturingT",
+              "desc": "See industry description for 334290.",
+              "childNodes": {
+                "334290": {
+                  "title": "Other Communications Equipment Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing communications equipment (except telephone apparatus, radio and television broadcast equipment, and wireless communications equipment).\n\nIllustrative Examples:\n\nFire detection and alarm systems manufacturing\nSignals (e.g., highway, pedestrian, railway, traffic) manufacturing\nIntercom systems and equipment manufacturing\nVideo-based stadium displays manufacturing \n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3343": {
+          "title": "Audio and Video Equipment ManufacturingT",
+          "desc": "NULL",
+          "childNodes": {
+            "33431": {
+              "title": "Audio and Video Equipment ManufacturingT",
+              "desc": "See industry description for 334310.",
+              "childNodes": {
+                "334310": {
+                  "title": "Audio and Video Equipment Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing electronic audio and video equipment for home entertainment, motor vehicles, and public address and musical instrument amplification.  Examples of products made by these establishments are digital video recorders, televisions, stereo equipment, speaker systems, household-type video cameras, jukeboxes, and amplifiers for musical instruments and public address systems.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3344": {
+          "title": "Semiconductor and Other Electronic Component ManufacturingT",
+          "desc": "NULL",
+          "childNodes": {
+            "33441": {
+              "title": "Semiconductor and Other Electronic Component ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing semiconductors and other components for electronic applications.  Examples of products made by these establishments are capacitors, resistors, microprocessors, bare and loaded printed circuit boards, electron tubes, electronic connectors, and computer modems.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "334412": {
+                  "title": "Bare Printed Circuit Board Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing bare (i.e., rigid or flexible) printed circuit boards without mounted electronic components.  These establishments print, perforate, plate, screen, etch, or photoprint interconnecting pathways for electric current on laminates.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "334413": {
+                  "title": "Semiconductor and Related Device Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing semiconductors and related solid-state devices.  Examples of products made by these establishments are integrated circuits, memory chips, microprocessors, diodes, transistors, solar cells, and other optoelectronic devices.\n",
+                  "childNodes": {}
+                },
+                "334416": {
+                  "title": "Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in one or more of the following: (1) manufacturing electronic fixed and variable capacitors and condensers; (2) manufacturing electronic resistors, such as fixed and variable resistors, resistor networks, thermistors, and varistors; and (3) manufacturing electronic inductors, such as coils and transformers.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "334417": {
+                  "title": "Electronic Connector Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing electronic connectors, such as coaxial, cylindrical, rack and panel, pin and sleeve, printed circuit, and fiber optic.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "334418": {
+                  "title": "Printed Circuit Assembly (Electronic Assembly) Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in loading components onto printed circuit boards or who manufacture and ship loaded printed circuit boards.  Also known as printed circuit assemblies, electronics assemblies, or modules, these products are printed circuit boards that have some or all of the semiconductor and electronic components inserted or mounted and are inputs to a wide variety of electronic systems and devices.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "334419": {
+                  "title": "Other Electronic Component Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing electronic components (except bare printed circuit boards; semiconductors and related devices; electronic capacitors; electronic resistors; coils, transformers, and other inductors; connectors; and loaded printed circuit boards).\n\nIllustrative Examples:\n\nCrystals and crystal assemblies, electronic, manufacturing\nElectron tubes manufacturing\nLCD (liquid crystal display) unit screens manufacturing\nMicrowave components manufacturing\nPiezoelectric devices manufacturing\nPrinted circuit laminates manufacturing\nSwitches for electronic applications manufacturing\nTransducers (except pressure) manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3345": {
+          "title": "Navigational, Measuring, Electromedical, and Control Instruments ManufacturingT",
+          "desc": "NULL",
+          "childNodes": {
+            "33451": {
+              "title": "Navigational, Measuring, Electromedical, and Control Instruments ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing navigational, measuring, electromedical, and control instruments.  Examples of products made by these establishments are aeronautical instruments, appliance regulators and controls (except switches), laboratory analytical instruments, navigation and guidance systems, and physical properties testing equipment.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "334510": {
+                  "title": "Electromedical and Electrotherapeutic Apparatus Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing electromedical and electrotherapeutic apparatus, such as magnetic resonance imaging equipment, medical ultrasound equipment, pacemakers, hearing aids, electrocardiographs, and electromedical endoscopic equipment.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "334511": {
+                  "title": "Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing search, detection, navigation, guidance, aeronautical, and nautical systems and instruments.  Examples of products made by these establishments are aircraft instruments (except engine), flight recorders, navigational instruments and systems, radar systems and equipment, and sonar systems and equipment.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "334512": {
+                  "title": "Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing automatic controls and regulators for applications, such as heating, air-conditioning, refrigeration, and appliances.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "334513": {
+                  "title": "Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing instruments and related devices for measuring, displaying, indicating, recording, transmitting, and controlling industrial process variables.  These instruments measure, display, or control (monitor, analyze, and so forth) industrial process variables, such as temperature, humidity, pressure, vacuum, combustion, flow, level, viscosity, density, acidity, concentration, and rotation.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "334514": {
+                  "title": "Totalizing Fluid Meter and Counting Device Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing totalizing (i.e., registering) fluid meters and counting devices.  Examples of products made by these establishments are gas consumption meters, water consumption meters, parking meters, taxi meters, motor vehicle gauges, and fare collection equipment.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "334515": {
+                  "title": "Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing instruments for measuring and testing the characteristics of electricity and electrical signals.  Examples of products made by these establishments are circuit and continuity testers, voltmeters, ohm meters, wattmeters, multimeters, and semiconductor test equipment.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "334516": {
+                  "title": "Analytical Laboratory Instrument Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing instruments and instrumentation systems for laboratory analysis of the chemical or physical composition or concentration of samples of solid, fluid, gaseous, or composite material.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "334517": {
+                  "title": "Irradiation Apparatus Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing irradiation apparatus and tubes for applications, such as medical diagnostic, medical therapeutic, industrial, research, and scientific evaluation.  Irradiation can take the form of beta-rays, gamma-rays, X-rays, or other ionizing radiation.\n",
+                  "childNodes": {}
+                },
+                "334519": {
+                  "title": "Other Measuring and Controlling Device Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing measuring and controlling devices (except search, detection, navigation, guidance, aeronautical, and nautical instruments and systems; automatic environmental controls for residential, commercial, and appliance use; instruments for measurement, display, and control of industrial process variables; totalizing fluid meters and counting devices; instruments for measuring and testing electricity and electrical signals; analytical laboratory instruments; irradiation equipment; and electromedical and electrotherapeutic apparatus).\n\nIllustrative Examples:\n\nAircraft engine instruments manufacturing\nAutomotive emissions testing equipment manufacturing\nClocks assembling\nMeteorological instruments manufacturing\nPhysical properties testing and inspection equipment manufacturing\nPolygraph machines manufacturing\nRadiation detection and monitoring instruments manufacturing\nSurveying instruments manufacturing\nThermometers, liquid-in-glass and bimetal types (except medical), manufacturing\nWatches (except smartwatches) and parts (except crystals) manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3346": {
+          "title": "Manufacturing and Reproducing Magnetic and Optical MediaT",
+          "desc": "NULL",
+          "childNodes": {
+            "33461": {
+              "title": "Manufacturing and Reproducing Magnetic and Optical MediaT",
+              "desc": "See industry description for 334610.",
+              "childNodes": {
+                "334610": {
+                  "title": "Manufacturing and Reproducing Magnetic and Optical Media",
+                  "desc": "This industry comprises establishments primarily engaged in (1) manufacturing optical and magnetic media, such as blank audio tapes, blank video tapes, and blank diskettes, and/or (2) mass duplicating (i.e., making copies) audio, video, software, and other data on magnetic, optical, and similar media.  These establishments do not generally develop software or produce audio or video content.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "335": {
+      "title": "Electrical Equipment, Appliance, and Component ManufacturingT",
+      "desc": "Industries in the Electrical Equipment, Appliance, and Component Manufacturing subsector manufacture products that generate, distribute, and use electrical power.  Electric Lighting Equipment Manufacturing establishments produce lighting fixtures, electric light bulbs, and parts (except glass parts and light emitting diodes (LEDs)), and other lighting equipment.  Household Appliance Manufacturing establishments make both small and major electrical appliances and parts.  Electrical Equipment Manufacturing establishments make goods, such as electric motors, generators, transformers, and switchgear apparatus.  Other Electrical Equipment and Component Manufacturing establishments make devices for storing electrical power (e.g., batteries), for transmitting electricity (e.g., insulated wire), and wiring devices (e.g., electrical outlets, fuse boxes, and light switches).\n",
+      "childNodes": {
+        "3351": {
+          "title": "Electric Lighting Equipment ManufacturingT",
+          "desc": "NULL",
+          "childNodes": {
+            "33513": {
+              "title": "Electric Lighting Equipment ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing electric lighting fixtures (except vehicular), nonelectric lighting equipment, lamp shades (except glass and plastics), electric light bulbs, tubes, and parts (except glass blanks for electric light bulbs and light emitting diodes (LEDs)), and lighting fixture components (except current-carrying wiring devices).\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "335131": {
+                  "title": "Residential Electric Lighting Fixture Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing fixed or portable residential electric lighting fixtures and lamp shades of metal, paper, or textiles.  Residential electric lighting fixtures include those for use both inside and outside the residence.\n\nIllustrative Examples:\n\nCeiling lighting fixtures, residential, manufacturing\nChandeliers, residential, manufacturing\nTable lamps (i.e., lighting fixtures) manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "335132": {
+                  "title": "Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing commercial, industrial, and institutional electric lighting fixtures.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "335139": {
+                  "title": "Electric Lamp Bulb and Other Lighting Equipment Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing electric light bulbs, tubes, and parts (except glass blanks for electric light bulbs and light emitting diodes (LEDs)), electric lighting fixtures (except residential, commercial, industrial, institutional, and vehicular electric lighting fixtures), and nonelectric lighting equipment.\n\nIllustrative Examples:\n\nChristmas tree lighting sets, electric, manufacturing\nElectric light bulbs, complete, manufacturing\nFireplace logs, electric, manufacturing\nFlashlights manufacturing\nInsect lamps, electric, manufacturing\nSpotlights (except vehicular) manufacturing\nLanterns (e.g., carbide, electric, gas, gasoline, kerosene) manufacturing\nLED (light emitting diode) light bulbs manufacturing\nStreet lighting fixtures (except traffic signals) manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3352": {
+          "title": "Household Appliance ManufacturingT",
+          "desc": "This industry group comprises establishments primarily engaged in manufacturing small electric appliances, electric housewares, and major household appliances.\n",
+          "childNodes": {
+            "33521": {
+              "title": "Small Electrical Appliance ManufacturingT",
+              "desc": "See industry description for 335210.",
+              "childNodes": {
+                "335210": {
+                  "title": "Small Electrical Appliance Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing small electric appliances and electric housewares, household-type fans (except attic fans), household-type vacuum cleaners, and other electric household-type floor care machines.\n\nIllustrative Examples:\n\nBath fans, residential, manufacturing\nCarpet and floor cleaning equipment, household-type electric, manufacturing\nCeiling fans, residential, manufacturing\nCurling irons, household-type electric, manufacturing\nElectric blankets manufacturing\nPortable electric space heaters manufacturing\nPortable hair dryers, electric, manufacturing\nPortable cooking appliances (except microwave, convection ovens), household-type electric, manufacturing\nPortable humidifiers and dehumidifiers manufacturing\nScissors, electric, manufacturing\nVentilating and exhaust fans (except attic fans), household-type, manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33522": {
+              "title": "Major Household Appliance ManufacturingT",
+              "desc": "See industry description for 335220.",
+              "childNodes": {
+                "335220": {
+                  "title": "Major Household Appliance Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing household-type cooking appliances, household-type laundry equipment, household-type refrigerators, upright and chest freezers, and other electrical and nonelectrical major household-type appliances, such as dishwashers, water heaters, and garbage disposal units.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3353": {
+          "title": "Electrical Equipment ManufacturingT",
+          "desc": "NULL",
+          "childNodes": {
+            "33531": {
+              "title": "Electrical Equipment ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing power, distribution, and specialty transformers; electric motors, generators, and motor generator sets; switchgear and switchboard apparatus; relays; and industrial controls.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "335311": {
+                  "title": "Power, Distribution, and Specialty Transformer Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing power, distribution, and specialty transformers (except electronic components).  Industrial-type and consumer-type transformers in this industry vary (e.g., step up or step down) voltage but do not convert alternating to direct or direct to alternating current.\n\nIllustrative Examples:\n\nFluorescent ballasts (i.e., transformers) manufacturing\nSubstation transformers, electric power distribution, manufacturing\nDistribution transformers, electric, manufacturing\nTransmission and distribution voltage regulators manufacturing\n\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "335312": {
+                  "title": "Motor and Generator Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing electric motors (except internal combustion engine starting motors), power generators (except battery charging alternators for internal combustion engines), and motor generator sets (except turbine generator set units).  This industry includes establishments rewinding armatures on a factory basis. \n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "335313": {
+                  "title": "Switchgear and Switchboard Apparatus Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing switchgear and switchboard apparatus.\n\nIllustrative Examples:\n\nCircuit breakers, power, manufacturing\nControl panels, electric power distribution, manufacturing\nDucts for electrical switchboard apparatus manufacturing\nFuses, electric, manufacturing\nPower switching equipment manufacturing\nSwitches, electric power (except pushbutton, snap, solenoid, tumbler), manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "335314": {
+                  "title": "Relay and Industrial Control Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing relays, motor starters and controllers, and other industrial controls and control accessories.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3359": {
+          "title": "Other Electrical Equipment and Component ManufacturingT",
+          "desc": "This industry group comprises establishments manufacturing electrical equipment and components (except electric lighting equipment, household-type appliances, transformers, switchgear, relays, motors, and generators).\n",
+          "childNodes": {
+            "33591": {
+              "title": "Battery ManufacturingT",
+              "desc": "See industry description for 335910.",
+              "childNodes": {
+                "335910": {
+                  "title": "Battery Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing primary and storage batteries.\n\nIllustrative Examples:\n\nDisposable flashlight batteries manufacturing\nDry cells, primary (e.g., AAA, AA, C, D, 9V), manufacturing\nLead acid storage batteries manufacturing\nLithium batteries manufacturing\nRechargeable nickel-cadmium (NICAD) batteries manufacturing\nWatch batteries manufacturing \n\n",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33592": {
+              "title": "Communication and Energy Wire and Cable ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in insulating fiber optic cable, and manufacturing insulated nonferrous wire and cable from nonferrous wire drawn in other establishments.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "335921": {
+                  "title": "Fiber Optic Cable Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing insulated fiber optic cable from purchased fiber optic strand.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "335929": {
+                  "title": "Other Communication and Energy Wire Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing insulated wire and cable of nonferrous metals from purchased wire.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33593": {
+              "title": "Wiring Device ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing current-carrying wiring devices and noncurrent-carrying wiring devices for wiring electrical circuits.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "335931": {
+                  "title": "Current-Carrying Wiring Device Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing current-carrying wiring devices.\n\nIllustrative Examples:\n\nBus bars, electrical conductors (except switchgear-type), manufacturing\nGFCI (ground fault circuit interrupters) manufacturing\nLamp holders manufacturing\nLightning arrestors and coils manufacturing\nReceptacles (i.e., outlets), electrical, manufacturing\nSwitches for electrical wiring (e.g., pressure, pushbutton, snap, tumbler) manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "335932": {
+                  "title": "Noncurrent-Carrying Wiring Device Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing noncurrent-carrying wiring devices.\n\nIllustrative Examples:\n\nBoxes, electrical wiring (e.g., junction, outlet, switch), manufacturing\nConduits and fittings, electrical, manufacturing\nFace plates (i.e., outlet or switch covers) manufacturing\nTransmission pole and line hardware manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33599": {
+              "title": "All Other Electrical Equipment and Component ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing electrical equipment (except electric lighting equipment, household-type appliances, transformers, motors, generators, switchgear, relays, industrial controls, batteries, communication and energy wire and cable, and wiring devices).\n\nIllustrative Examples:\n\nCarbon and graphite electrodes and brushes manufacturing\nExtension cords made from purchased insulated wire\nDoor opening and closing devices, electrical, manufacturing\nSurge suppressors manufacturing \n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "335991": {
+                  "title": "Carbon and Graphite Product Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing carbon, graphite, and metal-graphite brushes and brush stock; carbon or graphite electrodes for thermal and electrolytic uses; carbon and graphite fibers; and other carbon, graphite, and metal-graphite products.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "335999": {
+                  "title": "All Other Miscellaneous Electrical Equipment and Component Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing industrial and commercial electric apparatus and other equipment (except lighting equipment, household appliances, transformers, motors, generators, switchgear, relays, industrial controls, batteries, communication and energy wire and cable, wiring devices, and carbon and graphite products).  Examples of products made by these establishments are power converters (i.e., AC to DC and DC to AC), power supplies, surge suppressors, and similar equipment for industrial-type and consumer-type equipment.\n\nIllustrative Examples:\n\nAppliance cords made from purchased insulated wire\nBattery chargers, solid-state, manufacturing\nDoor opening and closing devices, electrical, manufacturing\nElectric bells manufacturing\nExtension cords made from purchased insulated wire\nInverters manufacturing\nSurge suppressers manufacturing\nUninterruptible power supplies (UPS) manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "336": {
+      "title": "Transportation Equipment ManufacturingT",
+      "desc": "Industries in the Transportation Equipment Manufacturing subsector produce equipment for transporting people and goods.  Transportation equipment is a type of machinery.  An entire subsector is devoted to this activity because of the significance of its economic size in all three North American countries.\n\nEstablishments in this subsector utilize production processes similar to those of other machinery manufacturing establishments—bending, forming, welding, machining, and assembling metal or plastic parts into components and finished products.  However, the assembly of components and subassemblies and their further assembly into finished vehicles tends to be a more common production process in this subsector than in the Machinery Manufacturing subsector.\n\nNAICS has industry groups for the manufacture of equipment for each mode of transport—road, rail, air, and water.  Parts for motor vehicles warrant a separate industry group because of their importance and because they require less assembly than complete vehicles.\n\nLand use motor vehicle equipment not designed for highway operation (e.g., agricultural equipment, construction equipment, and material handling equipment) is classified in the appropriate NAICS subsector based on the type and use of the equipment.\n",
+      "childNodes": {
+        "3361": {
+          "title": "Motor Vehicle ManufacturingT",
+          "desc": "This industry group comprises establishments primarily engaged in (1) manufacturing complete automobiles, light duty motor vehicles, and heavy duty trucks (i.e., body and chassis or unibody) or (2) manufacturing motor vehicle chassis only.\n",
+          "childNodes": {
+            "33611": {
+              "title": "Automobile and Light Duty Motor Vehicle ManufacturingT",
+              "desc": "See industry description for 336110.",
+              "childNodes": {
+                "336110": {
+                  "title": "Automobile and Light Duty Motor Vehicle Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in (1) manufacturing complete automobiles and light duty motor vehicles (i.e., body and chassis or unibody) or (2) manufacturing automobile and light duty motor vehicle chassis only.  Vehicles made include passenger cars, light duty trucks, light duty vans, pick-up trucks, minivans, and sport utility vehicles.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33612": {
+              "title": "Heavy Duty Truck ManufacturingT",
+              "desc": "See industry description for 336120.",
+              "childNodes": {
+                "336120": {
+                  "title": "Heavy Duty Truck Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in (1) manufacturing heavy duty truck chassis and assembling complete heavy duty trucks, buses, heavy duty motor homes, and other special purpose heavy duty motor vehicles for highway use or (2) manufacturing heavy duty truck chassis only.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3362": {
+          "title": "Motor Vehicle Body and Trailer ManufacturingT",
+          "desc": "NULL",
+          "childNodes": {
+            "33621": {
+              "title": "Motor Vehicle Body and Trailer ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in (1) manufacturing motor vehicle bodies and cabs or (2) manufacturing truck, automobile and utility trailers, truck trailer chassis, detachable trailer bodies, and detachable trailer chassis.  The products made may be sold separately or may be assembled on purchased chassis and sold as complete vehicles.  Motor homes are units where the motor and the living quarters are contained in the same integrated unit, while travel trailers are designed to be towed by a motor unit, such as an automobile or a light truck.\n\nIllustrative Examples:\n\nBodies and cabs, truck, manufacturing\nCamper units, slide-in, for pick-up trucks, manufacturing\nPick-up canopies, caps, or covers manufacturing\nMotor homes, self-contained, assembling on purchased chassis\nSemi-trailers manufacturing\nTravel trailers, recreational, manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "336211": {
+                  "title": "Motor Vehicle Body Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing truck and bus bodies and cabs and automobile bodies.  The products made may be sold separately or may be assembled on purchased chassis and sold as complete vehicles.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "336212": {
+                  "title": "Truck Trailer Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing truck trailers, truck trailer chassis, cargo container chassis, detachable trailer bodies, and detachable trailer chassis for sale separately.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "336213": {
+                  "title": "Motor Home Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) manufacturing motor homes on purchased chassis and/or (2) manufacturing conversion vans on an assembly line basis.  Motor homes are units where the motor and the living quarters are integrated in the same unit.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "336214": {
+                  "title": "Travel Trailer and Camper Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in one or more of the following: (1) manufacturing travel trailers and campers designed to attach to motor vehicles; (2) manufacturing pick-up coaches (i.e., campers) and caps (i.e., covers) for mounting on pick-up trucks; and (3) manufacturing automobile, utility, and light-truck trailers.  Travel trailers do not have their own motor but are designed to be towed by a motor unit, such as an automobile or a light truck.\n\nIllustrative Examples:\n\nAutomobile transporter trailers, single car, manufacturing\nCamper units, slide-in, for pick-up trucks, manufacturing\nCamping trailers and chassis manufacturing\nHorse trailers (except fifth-wheel-type) manufacturing\nPick-up canopies, caps, or covers manufacturing\nTravel trailers, recreational, manufacturing\nUtility trailers manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3363": {
+          "title": "Motor Vehicle Parts ManufacturingT",
+          "desc": "This industry group comprises establishments primarily engaged in manufacturing motor vehicle gasoline engines and engine parts, motor vehicle electrical and electronic equipment, motor vehicle steering and suspension components (except springs), motor vehicle brake systems, motor vehicle transmission and power train parts, motor vehicle seating and interior trim, motor vehicle metal stampings, and other motor vehicle parts and accessories.  This industry group includes establishments that rebuild motor vehicle parts.\n",
+          "childNodes": {
+            "33631": {
+              "title": "Motor Vehicle Gasoline Engine and Engine Parts ManufacturingT",
+              "desc": "See industry description for 336310.",
+              "childNodes": {
+                "336310": {
+                  "title": "Motor Vehicle Gasoline Engine and Engine Parts Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in (1) manufacturing and/or rebuilding motor vehicle gasoline engines and engine parts and/or (2) manufacturing and/or rebuilding carburetors, pistons, piston rings, and engine valves, whether or not for vehicular use.\n\nIllustrative Examples:\n\nCarburetors, all types, manufacturing\nCrankshaft assemblies, automotive and truck gasoline engine, manufacturing \nCylinder heads, automotive and truck gasoline engine, manufacturing\nFuel injection systems and parts, automotive and truck gasoline engine, manufacturing\nGasoline engines for hybrid automotive vehicles manufacturing\nPistons and piston rings manufacturing\nManifolds (i.e., intake and exhaust), automotive and truck gasoline engine, manufacturing\nPumps (e.g., fuel, oil, water), mechanical, automotive and truck gasoline engine (except power steering), manufacturing\nTiming gears and chains, automotive and truck gasoline engine, manufacturing\nValves, engine, intake and exhaust, manufacturing \n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33632": {
+              "title": "Motor Vehicle Electrical and Electronic Equipment ManufacturingT",
+              "desc": "See industry description for 336320.",
+              "childNodes": {
+                "336320": {
+                  "title": "Motor Vehicle Electrical and Electronic Equipment Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing and/or rebuilding electrical and electronic equipment for motor vehicles and internal combustion engines.  The products made can be used for all types of transportation equipment (i.e., aircraft, automobiles, trucks, trains, ships) or stationary internal combustion engine applications.\n\nIllustrative Examples:\n\nAlternators and generators for internal combustion engines manufacturing\nAutomotive lighting fixtures manufacturing\nCoils, ignition, internal combustion engines, manufacturing\nDistributors for internal combustion engines manufacturing\nElectrical control chips (modules), motor vehicle, manufacturing\nElectrical ignition cable sets for internal combustion engines manufacturing\nGenerators for internal combustion engines manufacturing\nIgnition wiring harness for internal combustion engines manufacturing\nInstrument control panels (i.e., assembling purchased gauges), automotive, truck, and bus, manufacturing\nSpark plugs for internal combustion engines manufacturing\nWindshield washer pumps, automotive, truck, and bus, manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33633": {
+              "title": "Motor Vehicle Steering and Suspension Components (except Spring) ManufacturingT",
+              "desc": "See industry description for 336330.",
+              "childNodes": {
+                "336330": {
+                  "title": "Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing and/or rebuilding motor vehicle steering mechanisms and suspension components (except springs).\n\nIllustrative Examples:\n\nRack and pinion steering assemblies manufacturing\nShock absorbers, automotive, truck, and bus, manufacturing\nSteering columns, automotive, truck, and bus, manufacturing\nSteering wheels, automotive, truck, and bus, manufacturing \nStruts, automotive, truck, and bus, manufacturing\nPower steering pumps manufacturing\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33634": {
+              "title": "Motor Vehicle Brake System ManufacturingT",
+              "desc": "See industry description for 336340.",
+              "childNodes": {
+                "336340": {
+                  "title": "Motor Vehicle Brake System Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing and/or rebuilding motor vehicle brake systems and related components.\n\nIllustrative Examples:\n\nBrake cylinders, master and wheel, automotive, truck, and bus, manufacturing\nBrake drums, automotive, truck, and bus, manufacturing\nBrake hose assemblies manufacturing\nBrake pads and shoes, automotive, truck, and bus, manufacturing\nCalipers, brake, automotive, truck, and bus, manufacturing\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33635": {
+              "title": "Motor Vehicle Transmission and Power Train Parts ManufacturingT",
+              "desc": "See industry description for 336350.",
+              "childNodes": {
+                "336350": {
+                  "title": "Motor Vehicle Transmission and Power Train Parts Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing and/or rebuilding motor vehicle transmissions and power train parts.\n\nIllustrative Examples:\n\nAutomatic transmissions, automotive, truck, and bus, manufacturing\nAxle bearings, automotive, truck, and bus, manufacturing\nConstant velocity joints, automotive, truck, and bus, manufacturing\nDifferential and rear axle assemblies, automotive, truck, and bus, manufacturing\nTorque converters, automotive, truck, and bus, manufacturing\nUniversal joints, automotive, truck, and bus, manufacturing\n\n",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33636": {
+              "title": "Motor Vehicle Seating and Interior Trim ManufacturingT",
+              "desc": "See industry description for 336360.",
+              "childNodes": {
+                "336360": {
+                  "title": "Motor Vehicle Seating and Interior Trim Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing motor vehicle seating, seats, seat frames, seat belts, and interior trimmings.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33637": {
+              "title": "Motor Vehicle Metal StampingT",
+              "desc": "See industry description for 336370.",
+              "childNodes": {
+                "336370": {
+                  "title": "Motor Vehicle Metal Stamping",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing motor vehicle stampings, such as fenders, tops, body parts, trim, and molding.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33639": {
+              "title": "Other Motor Vehicle Parts ManufacturingT",
+              "desc": "See industry description for 336390.",
+              "childNodes": {
+                "336390": {
+                  "title": "Other Motor Vehicle Parts Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing and/or rebuilding motor vehicle parts and accessories (except motor vehicle gasoline engines and engine parts, motor vehicle electrical and electronic equipment, motor vehicle steering and suspension components, motor vehicle brake systems, motor vehicle transmissions and power train parts, motor vehicle seating and interior trim, and motor vehicle stampings).\n\nIllustrative Examples:\n\nAir bag assemblies manufacturing\nAir-conditioners, motor vehicle, manufacturing\nAir filters, automotive, truck, and bus, manufacturing\nRadiators and cores manufacturing\nCatalytic converters, engine exhaust, automotive, truck, and bus, manufacturing\nCompressors, motor vehicle air-conditioning, manufacturing\nMufflers and resonators, motor vehicle, manufacturing\nWheels (i.e., rims), automotive, truck, and bus, manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3364": {
+          "title": "Aerospace Product and Parts ManufacturingT",
+          "desc": "NULL",
+          "childNodes": {
+            "33641": {
+              "title": "Aerospace Product and Parts ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) manufacturing complete aircraft, missiles, or space vehicles; (2) manufacturing aerospace engines, propulsion units, auxiliary equipment, or parts; (3) developing and making prototypes of aerospace products; (4) aircraft conversion (i.e., major modifications to systems); and (5) complete aircraft or propulsion systems overhaul and rebuilding (i.e., periodic restoration of aircraft to original design specifications).\n\nCross-References.",
+              "childNodes": {
+                "336411": {
+                  "title": "Aircraft Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in one or more of the following: (1) manufacturing or assembling complete aircraft; (2) developing and making aircraft prototypes; (3) aircraft conversion (i.e., major modifications to systems); and (4) complete aircraft overhaul and rebuilding (i.e., periodic restoration of aircraft to original design specifications).\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "336412": {
+                  "title": "Aircraft Engine and Engine Parts Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in one or more of the following: (1) manufacturing aircraft engines and engine parts; (2) developing and making prototypes of aircraft engines and engine parts; (3) aircraft propulsion system conversion (i.e., major modifications to systems); and (4) aircraft propulsion systems overhaul and rebuilding (i.e., periodic restoration of aircraft propulsion system to original design specifications).\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "336413": {
+                  "title": "Other Aircraft Parts and Auxiliary Equipment Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) manufacturing aircraft parts or auxiliary equipment (except engines and aircraft fluid power subassemblies) and/or (2) developing and making prototypes of aircraft parts and auxiliary equipment.  Auxiliary equipment includes such items as crop dusting apparatus, armament racks, inflight refueling equipment, and external fuel tanks.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "336414": {
+                  "title": "Guided Missile and Space Vehicle Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) manufacturing complete guided missiles and space vehicles and/or (2) developing and making prototypes of guided missiles or space vehicles.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "336415": {
+                  "title": "Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) manufacturing guided missile and/or space vehicle propulsion units and propulsion unit parts and/or (2) developing and making prototypes of guided missile and space vehicle propulsion units and propulsion unit parts.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "336419": {
+                  "title": "Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) manufacturing guided missile and space vehicle parts and auxiliary equipment (except guided missile and space vehicle propulsion units and propulsion unit parts) and/or (2) developing and making prototypes of guided missile and space vehicle parts and auxiliary equipment.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3365": {
+          "title": "Railroad Rolling Stock ManufacturingT",
+          "desc": "NULL",
+          "childNodes": {
+            "33651": {
+              "title": "Railroad Rolling Stock ManufacturingT",
+              "desc": "See industry description for 336510.",
+              "childNodes": {
+                "336510": {
+                  "title": "Railroad Rolling Stock Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) manufacturing and/or rebuilding locomotives, locomotive frames, and parts; (2) manufacturing railroad, street, and rapid transit cars and car equipment for operation on rails for freight and passenger service; and (3) manufacturing rail layers, ballast distributors, rail tamping equipment, and other railway track maintenance equipment.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3366": {
+          "title": "Ship and Boat BuildingT",
+          "desc": "NULL",
+          "childNodes": {
+            "33661": {
+              "title": "Ship and Boat BuildingT",
+              "desc": "This industry comprises establishments primarily engaged in operating shipyards or boat yards (i.e., ship or boat manufacturing facilities).  Shipyards are fixed facilities with drydocks and fabrication equipment capable of building a ship, defined as watercraft typically suitable or intended for other than personal or recreational use.  Boats are defined as watercraft typically suitable or intended for personal use.  Activities of shipyards include the construction of ships, their repair, conversion and alteration, production of prefabricated ship and barge sections, and specialized services, such as ship scaling.\n\nIllustrative Examples:\n\nBarge building\nBoat yards (i.e., boat manufacturing facilities)\nCargo ship building\nDrilling and production platforms, floating, oil and gas, building\nPassenger ship building\nInflatable plastic boats, heavy-duty, manufacturing\nInflatable rubber boats, heavy-duty, manufacturing\nRigid inflatable boats (RIBs) manufacturing\nBoats (e.g., motorboats, rowboats, canoes, kayaks) manufacturing \n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "336611": {
+                  "title": "Ship Building and Repairing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in operating shipyards.  Shipyards are fixed facilities with drydocks and fabrication equipment capable of building a ship, defined as watercraft typically suitable or intended for other than personal or recreational use.  Activities of shipyards include the construction of ships, their repair, conversion and alteration, the production of prefabricated ship and barge sections, and specialized services, such as ship scaling.\n\nIllustrative Examples:\n\nBarge building\nCargo ship building\nDrilling and production platforms, floating, oil and gas, building\nPassenger ship building\nSubmarine building\nYachts built in shipyards \n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "336612": {
+                  "title": "Boat Building",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in building boats.  Boats are defined as watercraft not built in shipyards and typically of the type suitable or intended for personal use.  Included in this industry are establishments that manufacture heavy-duty inflatable rubber or inflatable plastic boats (RIBs).\n\nIllustrative Examples:\n\nInflatable plastic boats, heavy-duty, manufacturing\nInflatable rubber boats, heavy-duty, manufacturing\nBoats (e.g., motorboats, rowboats, canoes, kayaks) manufacturing\nRigid inflatable boats (RIBs) manufacturing\nSailboat building, not done in shipyards\nYacht building, not done in shipyards\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3369": {
+          "title": "Other Transportation Equipment ManufacturingT",
+          "desc": "NULL",
+          "childNodes": {
+            "33699": {
+              "title": "Other Transportation Equipment ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing motorcycles, bicycles, metal tricycles, complete military armored vehicles, tanks, self-propelled weapons, vehicles pulled by draft animals, and other transportation equipment (except motor vehicles, boats, ships, railroad rolling stock, and aerospace products), including parts thereof.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "336991": {
+                  "title": "Motorcycle, Bicycle, and Parts Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing motorcycles, bicycles, tricycles and similar equipment, and parts.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "336992": {
+                  "title": "Military Armored Vehicle, Tank, and Tank Component Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing complete military armored vehicles, combat tanks, specialized components for combat tanks, and self-propelled weapons.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "336999": {
+                  "title": "All Other Transportation Equipment Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing transportation equipment (except motor vehicles, motor vehicle parts, boats, ships, railroad rolling stock, aerospace products, motorcycles, bicycles, armored vehicles, and tanks).\n\nIllustrative Examples:\n\nAll-terrain vehicles (ATVs), wheeled or tracked, manufacturing\nAnimal-drawn vehicles and parts manufacturing\nGocarts (except children's) manufacturing\nGolf carts and similar motorized passenger carriers manufacturing\nRace cars manufacturing\nSnowmobiles and parts manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "337": {
+      "title": "Furniture and Related Product ManufacturingT",
+      "desc": "Industries in the Furniture and Related Product Manufacturing subsector make furniture and related articles, such as mattresses, window blinds, cabinets, and fixtures.  The processes used in the manufacture of furniture include the cutting, bending, molding, laminating, and assembly of such materials as wood, metal, glass, plastics, and rattan.  However, the production process for furniture is not solely bending metal, cutting and shaping wood, or extruding and molding plastics.  Design and fashion trends play an important part in the production of furniture.  The integrated design of the article for both esthetic and functional qualities is also a major part of the process of manufacturing furniture.  Design services may be performed by the furniture establishment's work force or may be purchased from industrial designers.\n\nFurniture may be made of any material, but the most common ones used in North America are metal and wood.  Furniture manufacturing establishments may specialize in making articles primarily from one material.  Some of the equipment required to make a wooden table, for example, is different from that used to make a metal one.  However, furniture is usually made from several materials.  A wooden table might have metal brackets, and a wooden chair a fabric or plastics seat.  Therefore, in NAICS, furniture initially is classified based on the type of furniture (application for which it is designed) rather than the material used.  For example, an upholstered sofa is treated as household furniture, although it may also be used in hotels or offices.\n\nWhen classifying furniture according to the component material from which it is made, furniture made from more than one material is classified based on the material used in the frame, or if there is no frame, the predominant component material.  Upholstered household furniture (excluding kitchen and dining room chairs with upholstered seats) is classified without regard to the frame material.  Kitchen or dining room chairs with upholstered seats are classified according to the frame material.\n\nFurniture may be made on a stock or custom basis and may be shipped assembled or unassembled (i.e., knockdown).  The manufacture of furniture parts and frames is included in this subsector.\n\nSome of the processes used in furniture manufacturing are similar to processes that are used in other segments of manufacturing.  For example, cutting and assembly occurs in the production of wood trusses that are classified in Subsector 321, Wood Product Manufacturing.  However, the multiple processes that distinguish wood furniture manufacturing from wood product manufacturing warrant inclusion of wooden furniture manufacturing in the Furniture and Related Product Manufacturing subsector.  Metal furniture manufacturing uses techniques that are also employed in the manufacturing of roll formed products classified in Subsector 332, Fabricated Metal Product Manufacturing.  The molding process for plastics furniture is similar to the molding of other plastics products.  However, plastics furniture producing establishments tend to specialize in furniture.\n\nNAICS attempts to keep furniture manufacturing together, but there are notable exceptions: concrete, ceramic, or stone furniture; seating for transportation equipment; and specialized hospital furniture (e.g., hospital beds and operating tables).  These are classified in Subsector 327, Nonmetallic Mineral Product Manufacturing; Subsector 336, Transportation Equipment Manufacturing; and Subsector 339, Miscellaneous Manufacturing, respectively.\n",
+      "childNodes": {
+        "3371": {
+          "title": "Household and Institutional Furniture and Kitchen Cabinet ManufacturingT",
+          "desc": "This industry group comprises establishments manufacturing household-type furniture, such as living room, kitchen and bedroom furniture and institutional (i.e., public building) furniture, such as furniture for schools, theaters, and churches.\n",
+          "childNodes": {
+            "33711": {
+              "title": "Wood Kitchen Cabinet and Countertop ManufacturingT",
+              "desc": "See industry description for 337110.",
+              "childNodes": {
+                "337110": {
+                  "title": "Wood Kitchen Cabinet and Countertop Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing wood or plastics laminated on wood kitchen cabinets, bathroom vanities, and countertops (except freestanding).  The cabinets and counters may be made on a stock or custom basis.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33712": {
+              "title": "Household and Institutional Furniture ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing household-type and public building furniture (e.g., library, school, theater, and church furniture).  This industry includes establishments that manufacture general purpose hospital, laboratory, and/or dental furniture (e.g., stools, tables, benches).  The furniture may be made on a stock or custom basis and may be assembled or unassembled (i.e., knockdown).\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "337121": {
+                  "title": "Upholstered Household Furniture Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing upholstered household-type furniture.  The furniture may be made on a stock or custom basis.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "337122": {
+                  "title": "Nonupholstered Wood Household Furniture Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing nonupholstered wood household-type furniture and freestanding cabinets (except television, stereo, and sewing machine cabinets).  The furniture may be made on a stock or custom basis and may be assembled or unassembled (i.e., knockdown).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "337126": {
+                  "title": "Household Furniture (except Wood and Upholstered) Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing nonupholstered household-type furniture of materials other than wood, such as metal, plastics, reed, rattan, wicker, and fiberglass.  The furniture may be partially upholstered (e.g., chairs with upholstered seats or backs), made on a stock or custom basis, and may be assembled or unassembled (i.e., knockdown).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "337127": {
+                  "title": "Institutional Furniture Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing institutional-type furniture (e.g., library, school, theater, and church furniture).  Included in this industry are establishments primarily engaged in manufacturing general purpose hospital, laboratory, and dental furniture (e.g., tables, stools, and benches).  The furniture may be made on a stock or custom basis and may be assembled or unassembled (i.e., knockdown).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3372": {
+          "title": "Office Furniture (including Fixtures) ManufacturingT",
+          "desc": "NULL",
+          "childNodes": {
+            "33721": {
+              "title": "Office Furniture (including Fixtures) ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing office furniture and/or office and store fixtures.  The furniture may be made on a stock or custom basis and may be assembled or unassembled (i.e., knockdown).\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "337211": {
+                  "title": "Wood Office Furniture Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing wood office-type furniture.  The furniture may be made on a stock or custom basis and may be assembled or unassembled (i.e., knockdown).\n",
+                  "childNodes": {}
+                },
+                "337212": {
+                  "title": "Custom Architectural Woodwork and Millwork Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing custom designed interiors consisting of architectural woodwork and fixtures utilizing wood, wood products, and plastics laminates.  All of the industry output is made to individual order on a job shop basis and requires skilled craftsmen as a labor input.  A job might include custom manufacturing of display fixtures, gondolas, wall shelving units, entrance and window architectural detail, sales and reception counters, wall paneling, and matching furniture.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "337214": {
+                  "title": "Office Furniture (except Wood) Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing nonwood office-type furniture.  The furniture may be made on a stock or custom basis and may be assembled or unassembled (i.e., knockdown).\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "337215": {
+                  "title": "Showcase, Partition, Shelving, and Locker Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing wood and nonwood office and store fixtures, shelving, lockers, frames, partitions, and related fabricated products of wood and nonwood materials, including plastics laminated fixture tops.  The products are made on a stock or custom basis and may be assembled or unassembled (i.e., knockdown).  Establishments exclusively making furniture parts (e.g., frames) are included in this industry.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3379": {
+          "title": "Other Furniture Related Product ManufacturingT",
+          "desc": "This industry group comprises establishments manufacturing furniture related products, such as mattresses, blinds, and shades.\n",
+          "childNodes": {
+            "33791": {
+              "title": "Mattress ManufacturingT",
+              "desc": "See industry description for 337910.",
+              "childNodes": {
+                "337910": {
+                  "title": "Mattress Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing innerspring, box spring, and noninnerspring mattresses.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33792": {
+              "title": "Blind and Shade ManufacturingT",
+              "desc": "See industry description for 337920.",
+              "childNodes": {
+                "337920": {
+                  "title": "Blind and Shade Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing one or more of the following: venetian blinds, other window blinds, and shades; curtain and drapery rods and poles; and/or curtain and drapery fixtures.  The blinds and shades may be made on a stock or custom basis and may be made of any material.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "339": {
+      "title": "Miscellaneous ManufacturingT",
+      "desc": "Industries in the Miscellaneous Manufacturing subsector make a wide range of products that cannot readily be classified in specific NAICS subsectors in manufacturing.  Processes used by these establishments vary significantly, both among and within industries.  For example, a variety of manufacturing processes are used in manufacturing sporting and athletic goods that include products such as tennis rackets and golf balls.  The processes for these products differ from each other, and the processes differ significantly from the fabrication processes used in making dolls or toys, the melting and shaping of precious metals to make jewelry, and the bending, forming, and assembly used in making medical products.\n\nThe industries in this subsector are defined by what is made rather than how it is made.  Although individual establishments might be appropriately classified elsewhere in the NAICS structure, for historical continuity, these product-based industries were maintained.  In most cases, no one process or material predominates for an industry.\n\nEstablishments in this subsector manufacture products as diverse as medical equipment and supplies, jewelry, sporting goods, toys, and office supplies.\n",
+      "childNodes": {
+        "3391": {
+          "title": "Medical Equipment and Supplies ManufacturingT",
+          "desc": "NULL",
+          "childNodes": {
+            "33911": {
+              "title": "Medical Equipment and Supplies ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing medical equipment and supplies.  Examples of products made by these establishments are surgical and medical instruments, surgical appliances and supplies, dental equipment and supplies, orthodontic goods, ophthalmic goods, dentures, and orthodontic appliances.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "339112": {
+                  "title": "Surgical and Medical Instrument Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing medical, surgical, ophthalmic, and veterinary instruments and apparatus (except electrotherapeutic, electromedical, and irradiation apparatus).  Examples of products made by these establishments are syringes, hypodermic needles, anesthesia apparatus, blood transfusion equipment, catheters, surgical clamps, and medical thermometers.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "339113": {
+                  "title": "Surgical Appliance and Supplies Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing surgical appliances and supplies.  Examples of products made by these establishments are orthopedic devices, prosthetic appliances, surgical dressings, crutches, surgical sutures, personal industrial safety devices (except protective eyewear), hospital beds, and operating room tables.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "339114": {
+                  "title": "Dental Equipment and Supplies Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing dental equipment and supplies used by dental laboratories and offices of dentists, such as dental chairs, dental instrument delivery systems, dental hand instruments, dental impression material, and dental cements.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "339115": {
+                  "title": "Ophthalmic Goods Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing ophthalmic goods.  Examples of products made by these establishments are prescription eyeglasses (except grinding lenses in a retail setting), contact lenses, sunglasses, eyeglass frames, reading glasses made to standard powers, and protective eyewear.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "339116": {
+                  "title": "Dental Laboratories",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing dentures, crowns, bridges, and orthodontic appliances customized for individual application.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3399": {
+          "title": "Other Miscellaneous ManufacturingT",
+          "desc": "This industry group comprises establishments primarily engaged in miscellaneous manufacturing, such as jewelry and silverware manufacturing, sporting and athletic goods manufacturing, doll, toy, and game manufacturing, office supplies (except paper) manufacturing, sign manufacturing, and all other miscellaneous manufacturing.\n",
+          "childNodes": {
+            "33991": {
+              "title": "Jewelry and Silverware ManufacturingT",
+              "desc": "See industry description for 339910.",
+              "childNodes": {
+                "339910": {
+                  "title": "Jewelry and Silverware Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) manufacturing, engraving, chasing, or etching fine and costume jewelry; (2) manufacturing, engraving, chasing, or etching metal personal goods (i.e., small articles carried on or about the person, such as compacts or cigarette cases); (3) manufacturing, engraving, chasing, or etching precious metal solid, precious metal clad, or pewter flatware and other hollowware; (4) stamping coins; (5) manufacturing unassembled jewelry parts and stock shop products, such as sheet, wire, and tubing; (6) cutting, slabbing, tumbling, carving, engraving, polishing, or faceting precious or semiprecious stones and gems; (7) recutting, repolishing, and setting gem stones; and (8) drilling, sawing, and peeling cultured and costume pearls.  This industry includes establishments primarily engaged in manufacturing precious solid, precious clad, and precious plated jewelry and personal goods.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33992": {
+              "title": "Sporting and Athletic Goods ManufacturingT",
+              "desc": "See industry description for 339920.",
+              "childNodes": {
+                "339920": {
+                  "title": "Sporting and Athletic Goods Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing sporting and athletic goods (except apparel and footwear).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33993": {
+              "title": "Doll, Toy, and Game ManufacturingT",
+              "desc": "See industry description for 339930.",
+              "childNodes": {
+                "339930": {
+                  "title": "Doll, Toy, and Game Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing complete dolls, doll parts, doll clothes, action figures, toys, games (including electronic, such as gaming consoles and devices and handheld video games), hobby kits, and children's vehicles (except metal bicycles and tricycles).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33994": {
+              "title": "Office Supplies (except Paper) ManufacturingT",
+              "desc": "See industry description for 339940.",
+              "childNodes": {
+                "339940": {
+                  "title": "Office Supplies (except Paper) Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing office supplies.  Examples of products made by these establishments are pens, pencils, felt tip markers, crayons, chalk, pencil sharpeners, staplers, modeling clay, hand operated stamps, stamp pads, stencils, carbon paper, and inked ribbons.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33995": {
+              "title": "Sign ManufacturingT",
+              "desc": "See industry description for 339950.",
+              "childNodes": {
+                "339950": {
+                  "title": "Sign Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing signs and related displays of all materials (except printing paper and paperboard signs, notices, displays).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "33999": {
+              "title": "All Other Miscellaneous ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in miscellaneous manufacturing (except medical equipment and supplies, jewelry and silverware, sporting and athletic goods, dolls, toys, games, office supplies, and signs).\n\nIllustrative Examples:\n\nArtificial Christmas trees manufacturing\nBurial caskets and cases manufacturing\nCandles manufacturing\nCoin- or card-operated amusement machines (except jukebox) manufacturing\nElectronic cigarettes manufacturing\nFloor and dust mops manufacturing\nMusical instruments (except toy) manufacturing\nFasteners, buttons, needles, and pins (except precious metals or precious and semiprecious stones and gems) manufacturing\nGasket, packing, and sealing devices manufacturing\nPortable fire extinguishers manufacturing\nUmbrellas manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "339991": {
+                  "title": "Gasket, Packing, and Sealing Device Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing gaskets, packing, and sealing devices of all materials.\n",
+                  "childNodes": {}
+                },
+                "339992": {
+                  "title": "Musical Instrument Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing musical instruments (except toys).\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "339993": {
+                  "title": "Fastener, Button, Needle, and Pin Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing fasteners, buttons, needles, pins, and buckles (except made of precious metals or precious and semiprecious stones and gems).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "339994": {
+                  "title": "Broom, Brush, and Mop Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing brooms, mops, and brushes.",
+                  "childNodes": {}
+                },
+                "339995": {
+                  "title": "Burial Casket Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing burial caskets, cases, and vaults (except concrete).\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "339999": {
+                  "title": "All Other Miscellaneous Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in miscellaneous manufacturing (except medical equipment and supplies, jewelry and silverware, sporting and athletic goods, dolls, toys, games, office supplies, signs, gaskets, packing, and sealing devices, musical instruments, fasteners, buttons, needles, pins, brooms, brushes, mops, and burial caskets).\n\nIllustrative Examples:\n\nArtificial Christmas trees manufacturing\nCandles manufacturing\nChristmas tree ornaments (except glass and electric) manufacturing\nCigarette lighters (except precious metal) manufacturing\nCoin- or card-operated amusement machines (except jukebox) manufacturing\nElectronic cigarettes manufacturing\nHairpieces (e.g., wigs, toupees, wiglets) manufacturing\nPortable fire extinguishers manufacturing\nPotpourri manufacturing\nTobacco pipes manufacturing\nUmbrellas manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

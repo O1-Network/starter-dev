@@ -1,0 +1,722 @@
+{
+  "title": "Agriculture, Forestry, Fishing and HuntingT",
+  "desc": "The Sector as a Whole\n\nThe Agriculture, Forestry, Fishing and Hunting sector comprises establishments primarily engaged in growing crops, raising animals, harvesting timber, and harvesting fish and other animals from a farm, ranch, or their natural habitats.\n\nThe establishments in this sector are often described as farms, ranches, dairies, greenhouses, nurseries, orchards, or hatcheries.  A farm may consist of a single tract of land or a number of separate tracts which may be held under different tenures.  For example, one tract may be owned by the farm operator and another rented.  It may be operated by the operator alone or with the assistance of members of the household or hired employees, or it may be operated by a partnership, corporation, or other type of organization. When a landowner has one or more tenants, renters, croppers, or managers, the land operated by each is considered a farm.\n\nThe sector distinguishes two basic activities: agricultural production and agricultural support activities.  Agricultural production includes establishments performing the complete farm or ranch operation, such as farm owner-operators and tenant farm operators.  Agricultural support activities include establishments that perform one or more activities associated with farm operation, such as soil preparation, planting, harvesting, and management, on a contract or fee basis.\n\nExcluded from the Agriculture, Forestry, Fishing and Hunting sector are establishments primarily engaged in agricultural research (e.g., experimental farms) and government establishments primarily engaged in administering programs for regulating and conserving land, mineral, wildlife, and forest use.  These establishments are classified in Industry 54171, Research and Development in the Physical, Engineering, and Life Sciences; and Industry 92412, Administration of Conservation Programs, respectively.\n",
+  "childNodes": {
+    "111": {
+      "title": "Crop ProductionT",
+      "desc": "Industries in the Crop Production subsector grow crops mainly for food and fiber.  The subsector comprises establishments, such as farms, orchards, groves, greenhouses, and nurseries, primarily engaged in growing crops, plants, vines, or trees and their seeds.\n\nThe industries in this subsector are grouped by similarity of production activity, including biological and physiological characteristics and economic requirements, the length of growing season, degree of crop rotation, extent of input specialization, labor requirements, and capital demands.  The production process is typically completed when the raw product or commodity grown reaches the \"farm gate\" for market, that is, at the point of first sale or price determination.\n\nEstablishments are classified in the Crop Production subsector when crop production (i.e., value of crops for market) accounts for one-half or more of the establishment's total agricultural production.  Within the subsector, establishments are classified in a specific industry when a product or industry family of products (i.e., oilseed and grain farming, vegetable and melon farming, fruit and tree nut farming) account for one-half or more of the establishment's agricultural production.  Establishments with one-half or more crop production with no one product or family of products of an industry accounting for one-half of the establishment's agricultural production are treated as general combination crop farming and are classified in Industry 11199, All Other Crop Farming.\n\nIndustries in the Crop Production subsector include establishments that own, operate, and manage and those that operate and manage.  Those that manage only are classified in Subsector 115, Support Activities for Agriculture and Forestry.  Establishments that raise aquatic plants in controlled or selected aquatic environments are classified in Subsector 112, Animal Production and Aquaculture.\n",
+      "childNodes": {
+        "1111": {
+          "title": "Oilseed and Grain FarmingT",
+          "desc": "This industry group comprises establishments primarily engaged in (1) growing oilseed and/or grain crops and/or (2) producing oilseed and grain seeds.  These crops have an annual life cycle and are typically grown in open fields.\n",
+          "childNodes": {
+            "11111": {
+              "title": "Soybean FarmingT",
+              "desc": "See industry description for 111110.",
+              "childNodes": {
+                "111110": {
+                  "title": "Soybean Farming",
+                  "desc": "This industry comprises establishments primarily engaged in growing soybeans and/or producing soybean seeds.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "11112": {
+              "title": "Oilseed (except Soybean) FarmingT",
+              "desc": "See industry description for 111120.",
+              "childNodes": {
+                "111120": {
+                  "title": "Oilseed (except Soybean) Farming",
+                  "desc": "This industry comprises establishments primarily engaged in growing fibrous oilseed producing plants and/or producing oilseed seeds, such as sunflower, safflower, flax, rape, canola, and sesame.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "11113": {
+              "title": "Dry Pea and Bean FarmingT",
+              "desc": "See industry description for 111130.",
+              "childNodes": {
+                "111130": {
+                  "title": "Dry Pea and Bean Farming",
+                  "desc": "This industry comprises establishments primarily engaged in growing dry peas, beans, and/or lentils.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "11114": {
+              "title": "Wheat FarmingT",
+              "desc": "See industry description for 111140.",
+              "childNodes": {
+                "111140": {
+                  "title": "Wheat Farming",
+                  "desc": "This industry comprises establishments primarily engaged in growing wheat and/or producing wheat seeds.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "11115": {
+              "title": "Corn FarmingT",
+              "desc": "See industry description for 111150.",
+              "childNodes": {
+                "111150": {
+                  "title": "Corn Farming",
+                  "desc": "This industry comprises establishments primarily engaged in growing corn (except sweet corn) and/or producing corn seeds.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "11116": {
+              "title": "Rice FarmingT",
+              "desc": "See industry description for 111160.",
+              "childNodes": {
+                "111160": {
+                  "title": "Rice Farming",
+                  "desc": "This industry comprises establishments primarily engaged in growing rice (except wild rice) and/or producing rice seeds.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "11119": {
+              "title": "Other Grain FarmingT",
+              "desc": "This industry comprises establishments primarily engaged in (1) growing grain(s) and/or producing grain seeds (except wheat, corn, and rice) or (2) growing a combination of grain(s) and oilseed(s) with no one grain (or family of grains) or oilseed (or family of oilseeds) accounting for one-half of the establishment's agricultural production (i.e., value of crops for market).  Combination grain(s) and oilseed(s) establishments may produce oilseed(s) and grain(s) seeds and/or grow oilseed(s) and grain(s).\n\nIllustrative Examples:\n\nBarley farming\nRye farming\nMilo farming\nSorghum farming\nOat farming\nWild rice farming\nOilseed and grain combination farming\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "111191": {
+                  "title": "Oilseed and Grain Combination Farming",
+                  "desc": "This U.S. industry comprises establishments engaged in growing a combination of oilseed(s) and grain(s) with no one oilseed (or family of oilseeds) or grain (or family of grains) accounting for one-half of the establishment's agricultural production (value of crops for market).  These establishments may produce oilseed(s) and grain(s) seeds and/or grow oilseed(s) and grain(s).\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "111199": {
+                  "title": "All Other Grain Farming",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in growing grains and/or producing grain(s) seeds (except wheat, corn, rice, and oilseed(s) and grain(s) combinations).\n\nIllustrative Examples:\n\nBarley farming\nSorghum farming\nOat farming\nWild rice farming\nRye farming\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "1112": {
+          "title": "Vegetable and Melon FarmingT",
+          "desc": "NULL",
+          "childNodes": {
+            "11121": {
+              "title": "Vegetable and Melon FarmingT",
+              "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) growing vegetable and/or melon crops; (2) producing vegetable and/or melon seeds; and (3) growing vegetable and/or melon bedding plants.  The crops included in this industry have an annual growth cycle and are grown in open fields.  Climate and cultural practices limit producing areas but often permit the growing of a combination of crops in a year.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "111211": {
+                  "title": "Potato Farming",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in growing potatoes and/or producing seed potatoes.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "111219": {
+                  "title": "Other Vegetable (except Potato) and Melon Farming",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in one or more of the following: (1) growing melons and/or vegetables (except potatoes; dry peas; dry beans; field, silage, or seed corn; and sugar beets); (2) producing vegetable and/or melon seeds; and (3) growing vegetable and/or melon bedding plants.\n\nIllustrative Examples:\n\nCarrot farming\nSquash farming\nGreen bean farming\nTomato farming\nWatermelon farming \nMelon farming (e.g., cantaloupe, casaba, honeydew, watermelon)\nVegetable (except potato) farming\nPepper farming (e.g., bell, chili, green, red, sweet peppers)\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "1113": {
+          "title": "Fruit and Tree Nut FarmingT",
+          "desc": "This industry group comprises establishments primarily engaged in growing fruit and/or tree nut crops.  The crops included in this industry group are generally not grown from seeds and have a perennial life cycle.\n",
+          "childNodes": {
+            "11131": {
+              "title": "Orange GrovesT",
+              "desc": "See industry description for 111310.",
+              "childNodes": {
+                "111310": {
+                  "title": "Orange Groves",
+                  "desc": "This industry comprises establishments primarily engaged in growing oranges.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "11132": {
+              "title": "Citrus (except Orange) GrovesT",
+              "desc": "See industry description for 111320.",
+              "childNodes": {
+                "111320": {
+                  "title": "Citrus (except Orange) Groves",
+                  "desc": "This industry comprises establishments primarily engaged in growing citrus fruits (except oranges).\n\nIllustrative Examples:\n\nCitrus groves (except oranges)\nMandarin groves\nGrapefruit groves\t\nTangelo groves\nLemon groves\nTangerine groves\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "11133": {
+              "title": "Noncitrus Fruit and Tree Nut FarmingT",
+              "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) growing noncitrus fruits (e.g., apples, grapes, berries, peaches); (2) growing tree nuts (e.g., pecans, almonds, pistachios); or (3) growing a combination of fruit(s) and tree nut(s) with no one fruit (or family of fruit) or family of tree nuts accounting for one-half of the establishment's agricultural production (i.e., value of crops for market).\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "111331": {
+                  "title": "Apple Orchards",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in growing apples.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "111332": {
+                  "title": "Grape Vineyards",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in growing grapes and/or growing grapes to sun dry into raisins.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "111333": {
+                  "title": "Strawberry Farming",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in growing strawberries.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "111334": {
+                  "title": "Berry (except Strawberry) Farming",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in growing berries.\n\nIllustrative Examples:\n\nBerry (except strawberries) farming\t\nCranberry farming\nBlackberry farming\nCurrant farming\nBlueberry farming\nRaspberry farming\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "111335": {
+                  "title": "Tree Nut Farming",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in growing tree nuts.\n\nIllustrative Examples:\n\nAlmond farming\nPistachio farming\nFilbert farming\nTree nut farming\nMacadamia farming\nWalnut farming\nPecan farming\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "111336": {
+                  "title": "Fruit and Tree Nut Combination Farming",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in growing a combination of fruit(s) and tree nut(s) with no one fruit (or family of fruit) or family of tree nuts accounting for one-half of the establishment's agricultural production (i.e., value of crops for market).\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "111339": {
+                  "title": "Other Noncitrus Fruit Farming",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in growing noncitrus fruits (except apples, grapes, berries, and fruit(s) and tree nut(s) combinations).\n\nIllustrative Examples:\n\nApricot farming\nFig farming\nBanana farming\nNoncitrus fruit farming\nCherry farming\nPeach farming\nCoffee farming\nPineapple farming\nDate farming\nPrune farming\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "1114": {
+          "title": "Greenhouse, Nursery, and Floriculture ProductionT",
+          "desc": "This industry group comprises establishments primarily engaged in growing crops of any kind under cover and/or growing nursery stock and flowers.  \"Under cover\" is generally defined as greenhouses, cold frames, cloth houses, and lath houses.  The crops grown are removed at various stages of maturity and have annual and perennial life cycles.  The nursery stock includes short rotation woody crops that have growth cycles of 10 years or less.\n",
+          "childNodes": {
+            "11141": {
+              "title": "Food Crops Grown Under CoverT",
+              "desc": "This industry comprises establishments primarily engaged in growing food crops (e.g., fruits, melons, tomatoes) under glass or protective cover.\n\nCross-References.",
+              "childNodes": {
+                "111411": {
+                  "title": "Mushroom Production",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in growing mushrooms under cover in mines underground, or in other controlled environments.\n",
+                  "childNodes": {}
+                },
+                "111419": {
+                  "title": "Other Food Crops Grown Under Cover",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in growing food crops (except mushrooms) under glass or protective cover.\n\nIllustrative Examples:\n\nAlfalfa sprout farming, grown under cover\nMelon farming, grown under cover\nVegetable farming, grown under cover\nHydroponic crop farming\nFruit farming, grown under cover\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "11142": {
+              "title": "Nursery and Floriculture ProductionT",
+              "desc": "This industry comprises establishments primarily engaged in (1) growing nursery and floriculture products (e.g., nursery stock, shrubbery, cut flowers, flower seeds, foliage plants) under cover or in open fields and/or (2) growing short rotation woody trees with a growing and harvesting cycle of 10 years or less for pulp or tree stock (e.g., cut Christmas trees, cottonwoods).\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "111421": {
+                  "title": "Nursery and Tree Production",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) growing nursery products, nursery stock, shrubbery, bulbs, fruit stock, sod, and so forth, under cover or in open fields and/or (2) growing short rotation woody trees with a growth and harvest cycle of 10 years or less for pulp or tree stock.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "111422": {
+                  "title": "Floriculture Production",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in growing and/or producing floriculture products (e.g., cut flowers and roses, cut cultivated greens, potted flowering and foliage plants, and flower seeds) under cover and in open fields.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "1119": {
+          "title": "Other Crop FarmingT",
+          "desc": "This industry group comprises establishments primarily engaged in (1) growing crops (except oilseed and/or grain; vegetable and/or melon; fruit and tree nut; and greenhouse, nursery, and/or floriculture products), such as tobacco, cotton, sugarcane, hay, sugar beets, peanuts, agave, herbs and spices, and hay and grass seeds, or (2) growing a combination of crops (except a combination of oilseed(s) and grain(s) and a combination of fruit(s) and tree nut(s)).\n",
+          "childNodes": {
+            "11191": {
+              "title": "Tobacco FarmingT",
+              "desc": "See industry description for 111910.",
+              "childNodes": {
+                "111910": {
+                  "title": "Tobacco Farming",
+                  "desc": "This industry comprises establishments primarily engaged in growing tobacco.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "11192": {
+              "title": "Cotton FarmingT",
+              "desc": "See industry description for 111920.",
+              "childNodes": {
+                "111920": {
+                  "title": "Cotton Farming",
+                  "desc": "This industry comprises establishments primarily engaged in growing cotton.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "11193": {
+              "title": "Sugarcane FarmingT",
+              "desc": "See industry description for 111930.",
+              "childNodes": {
+                "111930": {
+                  "title": "Sugarcane Farming",
+                  "desc": "This industry comprises establishments primarily engaged in growing sugarcane.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "11194": {
+              "title": "Hay FarmingT",
+              "desc": "See industry description for 111940.",
+              "childNodes": {
+                "111940": {
+                  "title": "Hay Farming",
+                  "desc": "This industry comprises establishments primarily engaged in growing hay, alfalfa, clover, and/or mixed hay.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "11199": {
+              "title": "All Other Crop FarmingT",
+              "desc": "This industry comprises establishments primarily engaged in (1) growing crops (except oilseeds and/or grains; vegetables and/or melons; fruits and/or tree nuts; greenhouse, nursery, and/or floriculture products; tobacco; cotton; sugarcane; or hay) or (2) growing a combination of crops (except a combination of oilseed(s) and grain(s); and a combination of fruit(s) and tree nut(s)) with no one crop or family of crops accounting for one-half of the establishment's agricultural production (i.e., value of crops for market).\n\nIllustrative Examples:\n\nAgave farming\nSpice farming\nGeneral combination crop farming (except oilseed and grain; vegetables and melons; fruit and nut combinations)\nTea farming\nHay seed farming\nMaple sap gathering\nPeanut farming\nSugar beet farming\nGrass seed farming\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "111991": {
+                  "title": "Sugar Beet Farming",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in growing sugar beets.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "111992": {
+                  "title": "Peanut Farming",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in growing peanuts.",
+                  "childNodes": {}
+                },
+                "111998": {
+                  "title": "All Other Miscellaneous Crop Farming",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in one of the following: (1) growing crops (except oilseeds and/or grains; vegetables and/or melons; fruits and/or tree nuts; greenhouse, nursery, and/or floriculture products; tobacco; cotton; sugarcane; hay; sugar beets; or peanuts); (2) growing a combination of crops (except a combination of oilseed(s) and grain(s); and a combination of fruit(s) and tree nut(s)) with no one crop or family of crops accounting for one-half of the establishment's agricultural production (i.e., value of crops for market); or (3) gathering tea or maple sap.\n\nIllustrative Examples:\n\nAgave farming\nMint farming\nGeneral combination crop farming (except oilseed and grain; vegetables and melons; fruit and tree nut combinations)\nHay seed farming\nGrass seed farming\nHop farming\nSpice farming\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "112": {
+      "title": "Animal Production and AquacultureT",
+      "desc": "Industries in the Animal Production and Aquaculture subsector raise or fatten animals for the sale of animals or animal products and/or raise aquatic plants and animals in controlled or selected aquatic environments for the sale of aquatic plants, animals, or their products.  The subsector includes establishments, such as ranches, farms, and feedlots, primarily engaged in keeping, grazing, breeding, or feeding animals.  These animals are kept for the products they produce or for eventual sale.  The animals are generally raised in various environments, from total confinement or captivity to feeding on an open range pasture.\n\nThe industries in this subsector are grouped by important factors, such as suitable grazing or pasture land, specialized buildings, type of equipment, and the amount and types of labor required.  Establishments are classified in the Animal Production and Aquaculture subsector when animal production (i.e., value of animals for market) accounts for one-half or more of the establishment's total agricultural production.  Establishments with one-half or more animal production with no one animal product or family of animal products of an industry accounting for one-half of the establishment's agricultural production are treated as combination animal farming classified in Industry 11299, All Other Animal Production.\n",
+      "childNodes": {
+        "1121": {
+          "title": "Cattle Ranching and FarmingT",
+          "desc": "This industry group comprises establishments primarily engaged in raising cattle, milking dairy cattle, or feeding cattle for fattening.\n",
+          "childNodes": {
+            "11211": {
+              "title": "Beef Cattle Ranching and Farming, including FeedlotsT",
+              "desc": "This industry comprises establishments primarily engaged in raising cattle (including cattle for dairy herd replacements), or feeding cattle for fattening.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "112111": {
+                  "title": "Beef Cattle Ranching and Farming",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in raising cattle (including cattle for dairy herd replacements).\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "112112": {
+                  "title": "Cattle Feedlots",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in feeding cattle for fattening.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "11212": {
+              "title": "Dairy Cattle and Milk ProductionT",
+              "desc": "See industry description for 112120.",
+              "childNodes": {
+                "112120": {
+                  "title": "Dairy Cattle and Milk Production",
+                  "desc": "This industry comprises establishments primarily engaged in milking dairy cattle.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "11213": {
+              "title": "Dual-Purpose Cattle Ranching and FarmingT",
+              "desc": "See industry description for 112130.",
+              "childNodes": {
+                "112130": {
+                  "title": "Dual-Purpose Cattle Ranching and Farming",
+                  "desc": "This industry comprises establishments primarily engaged in raising cattle for both milking and meat production.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "1122": {
+          "title": "Hog and Pig FarmingT",
+          "desc": "NULL",
+          "childNodes": {
+            "11221": {
+              "title": "Hog and Pig FarmingT",
+              "desc": "See industry description for 112210.",
+              "childNodes": {
+                "112210": {
+                  "title": "Hog and Pig Farming",
+                  "desc": "This industry comprises establishments primarily engaged in raising hogs and pigs.  These establishments may include farming activities, such as breeding, farrowing, and the raising of weanling pigs, feeder pigs, or market size hogs.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "1123": {
+          "title": "Poultry and Egg ProductionT",
+          "desc": "This industry group comprises establishments primarily engaged in breeding, hatching, and raising poultry for meat or egg production.\n",
+          "childNodes": {
+            "11231": {
+              "title": "Chicken Egg ProductionT",
+              "desc": "See industry description for 112310.",
+              "childNodes": {
+                "112310": {
+                  "title": "Chicken Egg Production",
+                  "desc": "This industry comprises establishments primarily engaged in raising chickens for egg production.  The eggs produced may be for use as table eggs or hatching eggs.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "11232": {
+              "title": "Broilers and Other Meat Type Chicken ProductionT",
+              "desc": "See industry description for 112320.",
+              "childNodes": {
+                "112320": {
+                  "title": "Broilers and Other Meat Type Chicken Production",
+                  "desc": "This industry comprises establishments primarily engaged in raising broilers, fryers, roasters, and other meat type chickens.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "11233": {
+              "title": "Turkey ProductionT",
+              "desc": "See industry description for 112330.",
+              "childNodes": {
+                "112330": {
+                  "title": "Turkey Production",
+                  "desc": "This industry comprises establishments primarily engaged in raising turkeys for meat or egg production.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "11234": {
+              "title": "Poultry HatcheriesT",
+              "desc": "See industry description for 112340.",
+              "childNodes": {
+                "112340": {
+                  "title": "Poultry Hatcheries",
+                  "desc": "This industry comprises establishments primarily engaged in hatching poultry of any kind.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "11239": {
+              "title": "Other Poultry ProductionT",
+              "desc": "See industry description for 112390.",
+              "childNodes": {
+                "112390": {
+                  "title": "Other Poultry Production",
+                  "desc": "This industry comprises establishments primarily engaged in raising poultry (except chickens for meat or egg production and turkeys).\n\nIllustrative Examples:\n\nDuck production\nOstrich production\nEmu production\nPheasant production\nGeese production\nQuail production\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "1124": {
+          "title": "Sheep and Goat FarmingT",
+          "desc": "This industry group comprises establishments primarily engaged in raising sheep, lambs, and goats, or feeding lambs for fattening.\n",
+          "childNodes": {
+            "11241": {
+              "title": "Sheep FarmingT",
+              "desc": "See industry description for 112410.",
+              "childNodes": {
+                "112410": {
+                  "title": "Sheep Farming",
+                  "desc": "This industry comprises establishments primarily engaged in raising sheep and lambs, or feeding lambs for fattening.  The sheep or lambs may be raised for sale or wool production.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "11242": {
+              "title": "Goat FarmingT",
+              "desc": "See industry description for 112420.",
+              "childNodes": {
+                "112420": {
+                  "title": "Goat Farming",
+                  "desc": "This industry comprises establishments primarily engaged in raising goats.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "1125": {
+          "title": "AquacultureT",
+          "desc": "NULL",
+          "childNodes": {
+            "11251": {
+              "title": "AquacultureT",
+              "desc": "This industry comprises establishments primarily engaged in the farm raising and production of aquatic animals or plants in controlled or selected aquatic environments.  These establishments use some form of intervention in the rearing process to enhance production, such as holding in captivity, regular stocking, feeding, and protecting from predators, pests, and disease.\n\nCross-References.",
+              "childNodes": {
+                "112511": {
+                  "title": "Finfish Farming and Fish Hatcheries",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) farm raising finfish (e.g., catfish, trout, goldfish, tropical fish, minnows) and/or (2) hatching fish of any kind.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "112512": {
+                  "title": "Shellfish Farming",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in farm raising shellfish (e.g., crayfish, shrimp, oysters, clams, mollusks).\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "112519": {
+                  "title": "Other Aquaculture",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) farm raising of aquatic animals (except finfish and shellfish) and/or (2) farm raising of aquatic plants.  Alligator, algae, frog, seaweed, or turtle production is included in this industry.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "1129": {
+          "title": "Other Animal ProductionT",
+          "desc": "This industry group comprises establishments primarily engaged in raising animals and insects (except cattle, hogs and pigs, poultry, sheep and goats, and aquaculture) for sale or product production.  These establishments are primarily engaged in raising one of the following: bees, horses and other equines, rabbits and other fur-bearing animals, and so forth, and producing products, such as honey and other bee products.  Establishments primarily engaged in raising a combination of animals with no one animal or family of animals accounting for one-half of the establishment's agricultural production (i.e., value of animals for market) are included in this industry group.\n",
+          "childNodes": {
+            "11291": {
+              "title": "ApicultureT",
+              "desc": "See industry description for 112910.",
+              "childNodes": {
+                "112910": {
+                  "title": "Apiculture",
+                  "desc": "This industry comprises establishments primarily engaged in raising bees.  These establishments may collect and gather honey; and/or sell queen bees, packages of bees, royal jelly, bees' wax, propolis, venom, pollen, and/or other bee products.\n",
+                  "childNodes": {}
+                }
+              }
+            },
+            "11292": {
+              "title": "Horses and Other Equine ProductionT",
+              "desc": "See industry description for 112920.",
+              "childNodes": {
+                "112920": {
+                  "title": "Horses and Other Equine Production",
+                  "desc": "This industry comprises establishments primarily engaged in raising horses, mules, donkeys, and other equines.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "11293": {
+              "title": "Fur-Bearing Animal and Rabbit ProductionT",
+              "desc": "See industry description for 112930.",
+              "childNodes": {
+                "112930": {
+                  "title": "Fur-Bearing Animal and Rabbit Production",
+                  "desc": "This industry comprises establishments primarily engaged in raising fur-bearing animals including rabbits.  These animals may be raised for sale or for their pelt production.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "11299": {
+              "title": "All Other Animal ProductionT",
+              "desc": "See industry description for 112990.",
+              "childNodes": {
+                "112990": {
+                  "title": "All Other Animal Production",
+                  "desc": "This industry comprises establishments primarily engaged in (1) raising animals (except cattle, hogs and pigs, poultry, sheep and goats, aquaculture, apiculture, horses and other equines; and fur-bearing animals including rabbits) or (2) raising a combination of animals, with no one animal or family of animals accounting for one-half of the establishment's agricultural production (i.e., value of animals for market).\n\nIllustrative Examples:\n\nBird production (e.g., canaries, parakeets, parrots)\nLaboratory animal production (e.g., rats, mice, guinea pigs)\nDeer production\nCombination animal farming (except dairy, poultry)\nCompanion animals production (e.g., cats, dogs)\nWorm production\nLlama production\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "113": {
+      "title": "Forestry and LoggingT",
+      "desc": "Industries in the Forestry and Logging subsector grow and harvest timber on a long production cycle (i.e., of 10 years or more).  Long production cycles use different production processes than short production cycles, which require more horticultural interventions prior to harvest, resulting in processes more similar to those found in the Crop Production subsector.  Consequently, Christmas tree production and other production involving production cycles of less than 10 years, are classified in the Crop Production subsector.\n\nIndustries in this subsector specialize in different stages of the production cycle.  Reforestation requires production of seedlings in specialized nurseries.  Timber production requires natural forest or suitable areas of land that are available for a long duration.  The maturation time for timber depends upon the species of tree, the climatic conditions of the region, and the intended purpose of the timber.  The harvesting of timber (except when done on an extremely small scale) requires specialized machinery unique to the industry.  Establishments gathering forest products, such as gums, barks, balsam needles, rhizomes, fibers, Spanish moss, and ginseng and truffles, are also included in this subsector.\n",
+      "childNodes": {
+        "1131": {
+          "title": "Timber Tract OperationsT",
+          "desc": "NULL",
+          "childNodes": {
+            "11311": {
+              "title": "Timber Tract OperationsT",
+              "desc": "See industry description for 113110.",
+              "childNodes": {
+                "113110": {
+                  "title": "Timber Tract Operations",
+                  "desc": "This industry comprises establishments primarily engaged in the operation of timber tracts for the purpose of selling standing timber.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "1132": {
+          "title": "Forest Nurseries and Gathering of Forest ProductsT",
+          "desc": "NULL",
+          "childNodes": {
+            "11321": {
+              "title": "Forest Nurseries and Gathering of Forest ProductsT",
+              "desc": "See industry description for 113210.",
+              "childNodes": {
+                "113210": {
+                  "title": "Forest Nurseries and Gathering of Forest Products",
+                  "desc": "This industry comprises establishments primarily engaged in (1) growing trees for reforestation and/or (2) gathering forest products, such as gums, barks, balsam needles, rhizomes, fibers, Spanish moss, ginseng, and truffles.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "1133": {
+          "title": "LoggingT",
+          "desc": "NULL",
+          "childNodes": {
+            "11331": {
+              "title": "LoggingT",
+              "desc": "See industry description for 113310.",
+              "childNodes": {
+                "113310": {
+                  "title": "Logging",
+                  "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) cutting timber; (2) cutting and transporting timber; and (3) producing wood chips in the field.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "114": {
+      "title": "Fishing, Hunting and TrappingT",
+      "desc": "Industries in the Fishing, Hunting and Trapping subsector harvest fish and other wild animals from their natural habitats and are dependent upon a continued supply of the natural resource.  The harvesting of fish is the predominant economic activity of this subsector and it usually requires specialized vessels that, by the nature of their size, configuration and equipment, are not suitable for any other type of production, such as transportation. \n\nHunting and trapping activities utilize a wide variety of production processes and are classified in the same subsector as fishing because the availability of resources and the constraints imposed, such as conservation requirements and proper habitat maintenance, are similar.\n",
+      "childNodes": {
+        "1141": {
+          "title": "FishingT",
+          "desc": "NULL",
+          "childNodes": {
+            "11411": {
+              "title": "FishingT",
+              "desc": "This industry comprises establishments primarily engaged in the commercial catching or taking of finfish, shellfish, or miscellaneous marine products from a natural habitat, such as the catching of bluefish, eels, salmon, tuna, clams, crabs, lobsters, mussels, oysters, shrimp, frogs, sea urchins, and turtles.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "114111": {
+                  "title": "Finfish Fishing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in the commercial catching or taking of finfish (e.g., bluefish, salmon, trout, tuna) from their natural habitat.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "114112": {
+                  "title": "Shellfish Fishing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in the commercial catching or taking of shellfish (e.g., clams, crabs, lobsters, mussels, oysters, sea urchins, shrimp) from their natural habitat.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "114119": {
+                  "title": "Other Marine Fishing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in the commercial catching or taking of marine animals (except finfish and shellfish).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "1142": {
+          "title": "Hunting and TrappingT",
+          "desc": "NULL",
+          "childNodes": {
+            "11421": {
+              "title": "Hunting and TrappingT",
+              "desc": "See industry description for 114210.",
+              "childNodes": {
+                "114210": {
+                  "title": "Hunting and Trapping",
+                  "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) commercial hunting and trapping; (2) operating commercial game preserves, such as game retreats; and (3) operating hunting preserves.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "115": {
+      "title": "Support Activities for Agriculture and ForestryT",
+      "desc": "Industries in the Support Activities for Agriculture and Forestry subsector provide support services that are an essential part of agricultural and forestry production.  These support activities may be performed by the agriculture or forestry producing establishment or conducted independently as an alternative source of inputs required for the production process for a given crop, animal, or forestry industry.  Establishments that primarily perform these activities independent of the agriculture or forestry producing establishment are in this subsector.\n",
+      "childNodes": {
+        "1151": {
+          "title": "Support Activities for Crop ProductionT",
+          "desc": "NULL",
+          "childNodes": {
+            "11511": {
+              "title": "Support Activities for Crop ProductionT",
+              "desc": "This industry comprises establishments primarily engaged in providing support activities for growing crops.\n\nIllustrative Examples:\n\nAerial crop dusting or spraying (i.e., using specialized or dedicated aircraft)\nFarm management services\nCotton ginning\nPlanting crops\nCultivating services\nVineyard cultivation services\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "115111": {
+                  "title": "Cotton Ginning",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in ginning cotton.",
+                  "childNodes": {}
+                },
+                "115112": {
+                  "title": "Soil Preparation, Planting, and Cultivating",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in performing a soil preparation activity or crop production service, such as plowing, fertilizing, seed bed preparation, planting, cultivating, and crop protecting services.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "115113": {
+                  "title": "Crop Harvesting, Primarily by Machine",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in mechanical harvesting, picking, and combining of crops, and related activities.  The machinery used is provided by the servicing establishment.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "115114": {
+                  "title": "Postharvest Crop Activities (except Cotton Ginning)",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in performing services on crops, subsequent to their harvest, with the intent of preparing them for market or further processing.  These establishments provide postharvest activities, such as crop cleaning, sun drying, shelling, fumigating, curing, sorting, grading, packing, and cooling.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "115115": {
+                  "title": "Farm Labor Contractors and Crew Leaders",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in supplying labor for agricultural production or harvesting.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "115116": {
+                  "title": "Farm Management Services",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing farm management services on a contract or fee basis usually to citrus groves, orchards, or vineyards.  These establishments always provide management and may arrange or contract for the partial or the complete operations of the farm establishment(s) they manage.  Operational activities may include cultivating, harvesting, and/or other specialized agricultural support activities.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "1152": {
+          "title": "Support Activities for Animal ProductionT",
+          "desc": "NULL",
+          "childNodes": {
+            "11521": {
+              "title": "Support Activities for Animal ProductionT",
+              "desc": "See industry description for 115210.",
+              "childNodes": {
+                "115210": {
+                  "title": "Support Activities for Animal Production",
+                  "desc": "This industry comprises establishments primarily engaged in performing support activities related to raising livestock (e.g., cattle, goats, hogs, horses, poultry, sheep).  These establishments may perform one or more of the following: (1) breeding services for animals, including companion animals (e.g., cats, dogs, pet birds); (2) pedigree record services; (3) boarding horses; (4) dairy herd improvement activities; (5) livestock spraying; and (6) sheep dipping and shearing.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "1153": {
+          "title": "Support Activities for ForestryT",
+          "desc": "NULL",
+          "childNodes": {
+            "11531": {
+              "title": "Support Activities for ForestryT",
+              "desc": "See industry description for 115310.",
+              "childNodes": {
+                "115310": {
+                  "title": "Support Activities for Forestry",
+                  "desc": "This industry comprises establishments primarily engaged in performing particular support activities related to timber production, wood technology, forestry economics and marketing, and forest protection.  These establishments may provide support activities for forestry, such as estimating timber, forest firefighting, forest pest control, treating burned forests from the air for reforestation or on an emergency basis, and consulting on wood attributes and reforestation.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

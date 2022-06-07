@@ -1,12 +1,11 @@
 import Intro from '../components/Intro';
-import MainSection from '../components/MainSection';
+import Classification from '../components/Classification';
 
 const Business = () => {
     return (
       <div>
         <Intro />
-  
-        <MainSection />
+        <Classification />
       </div>
     )
   }

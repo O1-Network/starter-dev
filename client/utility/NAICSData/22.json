@@ -1,0 +1,136 @@
+{
+  "title": "UtilitiesT",
+  "desc": "The Sector as a Whole\n\nThe Utilities sector comprises establishments engaged in the provision of the following utility services: electric power, natural gas, steam supply, water supply, and sewage treatment and disposal.  Within this sector, the specific activities associated with the utility services provided vary by utility: electric power includes generation, transmission, and distribution; natural gas includes distribution; steam supply includes provision and/or distribution; water supply includes treatment and distribution; and sewage removal includes collection, treatment, and disposal of waste through sewer systems and sewage treatment facilities.\n\nExcluded from this sector are establishments primarily engaged in waste management services classified in Subsector 562, Waste Management and Remediation Services.  These establishments also collect, treat, and dispose of waste materials; however, they do not use sewer systems or sewage treatment facilities.\n",
+  "childNodes": {
+    "221": {
+      "title": "UtilitiesT",
+      "desc": "Industries in the Utilities subsector provide electric power, natural gas, steam supply, water supply, and sewage treatment and disposal through a permanent infrastructure of lines, mains, and pipes.  Establishments are grouped together based on the utility service provided and the particular system or facilities required to perform the service.\n",
+      "childNodes": {
+        "2211": {
+          "title": "Electric Power Generation, Transmission and DistributionT",
+          "desc": "This industry group comprises establishments primarily engaged in generating, transmitting, and/or distributing electric power.  Establishments in this industry group may perform one or more of the following activities: (1) operate generation facilities that produce electric energy; (2) operate transmission systems that convey the electricity from the generation facility to the distribution system; and (3) operate distribution systems that convey electric power received from the generation facility or the transmission system to the final consumer.\n",
+          "childNodes": {
+            "22111": {
+              "title": "Electric Power GenerationT",
+              "desc": "This industry comprises establishments primarily engaged in operating electric power generation facilities.  These facilities convert other forms of energy, such as water power (i.e., hydroelectric), fossil fuels, nuclear power, and solar power, into electrical energy.  The establishments in this industry produce electric energy and provide electricity to transmission systems or to electric power distribution systems.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "221111": {
+                  "title": "Hydroelectric Power Generation",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in operating hydroelectric power generation facilities.  These facilities use water power to drive a turbine and produce electric energy.  The electric energy produced in these establishments is provided to electric power transmission systems or to electric power distribution systems.\n",
+                  "childNodes": {}
+                },
+                "221112": {
+                  "title": "Fossil Fuel Electric Power Generation",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in operating fossil fuel powered electric power generation facilities.  These facilities use fossil fuels, such as coal, oil, or gas, in internal combustion or combustion turbine conventional steam process to produce electric energy.  The electric energy produced in these establishments is provided to electric power transmission systems or to electric power distribution systems.\n",
+                  "childNodes": {}
+                },
+                "221113": {
+                  "title": "Nuclear Electric Power Generation",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in operating nuclear electric power generation facilities.  These facilities use nuclear power to produce electric energy.  The electric energy produced in these establishments is provided to electric power transmission systems or to electric power distribution systems.\n",
+                  "childNodes": {}
+                },
+                "221114": {
+                  "title": "Solar Electric Power Generation",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in operating solar electric power generation facilities.  These facilities use energy from the sun to produce electric energy.  The electric energy produced in these establishments is provided to electric power transmission systems or to electric power distribution systems.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "221115": {
+                  "title": "Wind Electric Power Generation",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in operating wind electric power generation facilities.  These facilities use wind power to drive a turbine and produce electric energy.  The electric energy produced in these establishments is provided to electric power transmission systems or to electric power distribution systems.\n",
+                  "childNodes": {}
+                },
+                "221116": {
+                  "title": "Geothermal Electric Power Generation",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in operating geothermal electric power generation facilities.  These facilities use heat derived from the Earth to produce electric energy.  The electric energy produced in these establishments is provided to electric power transmission systems or to electric power distribution systems.\n",
+                  "childNodes": {}
+                },
+                "221117": {
+                  "title": "Biomass Electric Power Generation",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in operating biomass electric power generation facilities.  These facilities use biomass (e.g., wood, waste, alcohol fuels) to produce electric energy.  The electric energy produced in these establishments is provided to electric power transmission systems or to electric power distribution systems.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "221118": {
+                  "title": "Other Electric Power Generation",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in operating electric power generation facilities (except hydroelectric, fossil fuel, nuclear, solar, wind, geothermal, biomass).  These facilities convert other forms of energy, such as tidal power, into electric energy.  The electric energy produced in these establishments is provided to electric power transmission systems or to electric power distribution systems.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "22112": {
+              "title": "Electric Power Transmission, Control, and DistributionT",
+              "desc": "This industry comprises establishments primarily engaged in operating electric power transmission systems, controlling (i.e., regulating voltages) the transmission of electricity, and/or distributing electricity.  The transmission system includes lines and transformer stations.  These establishments arrange, facilitate, or coordinate the transmission of electricity from the generating source to the distribution centers, other electric utilities, or final consumers.  The distribution system consists of lines, poles, meters, and wiring that deliver the electricity to final consumers.\n\nCross-References.",
+              "childNodes": {
+                "221121": {
+                  "title": "Electric Bulk Power Transmission and Control",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in operating electric power transmission systems and/or controlling (i.e., regulating voltages) the transmission of electricity from the generating source to distribution centers or other electric utilities.  The transmission system includes lines and transformer stations.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "221122": {
+                  "title": "Electric Power Distribution",
+                  "desc": "This U.S. industry comprises electric power establishments primarily engaged in either (1) operating electric power distribution systems (i.e., consisting of lines, poles, meters, and wiring) or (2) operating as electric power brokers or agents that arrange the sale of electricity via power distribution systems operated by others.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "2212": {
+          "title": "Natural Gas DistributionT",
+          "desc": "NULL",
+          "childNodes": {
+            "22121": {
+              "title": "Natural Gas DistributionT",
+              "desc": "See industry description for 221210.",
+              "childNodes": {
+                "221210": {
+                  "title": "Natural Gas Distribution",
+                  "desc": "This industry comprises: (1) establishments primarily engaged in operating gas distribution systems (e.g., mains, meters); (2) establishments known as gas marketers that buy gas from the well and sell it to a distribution system; (3) establishments known as gas brokers or agents that arrange the sale of gas over gas distribution systems operated by others; and (4) establishments primarily engaged in transmitting and distributing gas to final consumers.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "2213": {
+          "title": "Water, Sewage and Other SystemsT",
+          "desc": "This industry group comprises establishments primarily engaged in: (1) operating water treatment plants and/or water supply systems; (2) operating sewer systems or sewage treatment facilities; or (3) providing steam, heated air, or cooled air.\n",
+          "childNodes": {
+            "22131": {
+              "title": "Water Supply and Irrigation Systems",
+              "desc": "See industry description for 221310.",
+              "childNodes": {
+                "221310": {
+                  "title": "Water Supply and Irrigation Systems",
+                  "desc": "This industry comprises establishments primarily engaged in operating water treatment plants and/or operating water supply systems.  The water supply system may include pumping stations, aqueducts, and/or distribution mains.  The water may be used for drinking, irrigation, or other uses.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "22132": {
+              "title": "Sewage Treatment Facilities",
+              "desc": "See industry description for 221320.",
+              "childNodes": {
+                "221320": {
+                  "title": "Sewage Treatment Facilities",
+                  "desc": "This industry comprises establishments primarily engaged in operating sewer systems or sewage treatment facilities that collect, treat, and dispose of waste.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "22133": {
+              "title": "Steam and Air-Conditioning Supply",
+              "desc": "See industry description for 221330.",
+              "childNodes": {
+                "221330": {
+                  "title": "Steam and Air-Conditioning Supply",
+                  "desc": "This industry comprises establishments primarily engaged in providing steam, heated air, or cooled air.  The steam distribution may be through mains.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,3 +1,5 @@
+import NAICSData from '../data/naics.json';
+
 import {
   ClassificationContainer,
   Question,
@@ -10,10 +12,10 @@ const Classification = (props) => {
       <ClassificationContainer>
         <Question>What's your Main Sector?</Question>
         
-        {props.nextClassification.map((classification, index) => {
+        {NAICSData.sectors.map((sector, index) => {
             return (
-              <ClassificationCard key={index} value={index} id={classification.name} onClick={props.handleClassificationModification}>
-                <h3 value={index}>{classification.name}</h3>
+              <ClassificationCard key={sector.code} value={index} id={sector.code} onClick={props.handleClassificationModification}>
+                <h3 value={sector.code}>{sector.name}</h3>
               </ClassificationCard>
             )
         })}

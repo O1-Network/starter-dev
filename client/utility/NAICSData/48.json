@@ -1,0 +1,664 @@
+{
+  "title": "Transportation and WarehousingT",
+  "desc": "The Sector as a Whole\n\nThe Transportation and Warehousing sector includes industries providing transportation of passengers and cargo, warehousing and storage for goods, scenic and sightseeing transportation, and support activities related to modes of transportation.  Establishments in these industries use transportation equipment or transportation-related facilities as a productive asset.  The type of equipment depends on the mode of transportation.  The modes of transportation are air, rail, water, road, and pipeline.\n\nThe Transportation and Warehousing sector distinguishes three basic types of activities: subsectors for each mode of transportation, a subsector for warehousing and storage, and a subsector for establishments providing support activities for transportation.  In addition, there are subsectors for establishments that provide passenger transportation for scenic and sightseeing purposes, postal services, and courier services.\n\nA separate subsector for support activities is established in the sector because, first, support activities for transportation are inherently multimodal, such as freight transportation arrangement, or have multimodal aspects.  Secondly, there are production process similarities among the support activity industries.\n\nOne of the support activities identified in the Support Activities for Transportation subsector is the routine repair and maintenance of transportation equipment (e.g., aircraft at an airport, railroad rolling stock at a railroad terminal, or ships at a harbor or port facility).  Such establishments do not perform complete overhauling or rebuilding of transportation equipment (i.e., periodic restoration of transportation equipment to original design specifications) or transportation equipment conversion (i.e., major modification to systems).  An establishment that primarily performs factory (or shipyard) overhauls, rebuilding, or conversions of aircraft, railroad rolling stock, or ships is classified in Subsector 336, Transportation Equipment Manufacturing, according to the type of equipment.\n\nMany of the establishments in this sector often operate on networks, with physical facilities, labor forces, and equipment spread over an extensive geographic area.\n\nWarehousing establishments in this sector are distinguished from merchant wholesaling in that the warehouse establishments do not sell the goods.\n\nExcluded from this sector are establishments primarily engaged in providing travel agent, travel arrangement, and reservation services that support transportation establishments, hotels, other businesses, and government agencies.  These establishments are classified in Sector 56, Administrative and Support and Waste Management and Remediation Services.  Establishments primarily engaged in providing rental and leasing of transportation equipment without operator are classified in Subsector 532, Rental and Leasing Services.  Establishments primarily engaged in providing medical care with transportation are classified in Sector 62, Health Care and Social Assistance.\n",
+  "childNodes": {
+    "481": {
+      "title": "Air TransportationT",
+      "desc": "Industries in the Air Transportation subsector provide air transportation of passengers and/or cargo using aircraft, such as airplanes, helicopters, and spacecraft.  The subsector distinguishes scheduled from nonscheduled air transportation.  Scheduled air carriers fly regular routes on regular schedules and operate even if flights are only partially loaded.  Nonscheduled carriers often operate during nonpeak time slots at busy airports.  These establishments have more flexibility with respect to choice of airport, hours of operation, load factors, and similar operational characteristics.  Nonscheduled carriers provide chartered air transportation of passengers, cargo, or specialty flying services.  Specialty flying services establishments use general purpose aircraft to provide a variety of specialized flying services.\n\nScenic and sightseeing air transportation and air courier services are not included in this subsector but are included in Subsector 487, Scenic and Sightseeing Transportation, and in Subsector 492, Couriers and Messengers, respectively.  Although these activities may use aircraft, they are different from the activities included in air transportation.  Air sightseeing does not usually involve place-to-place transportation; the passenger's flight (e.g., balloon ride, aerial sightseeing) typically starts and ends at the same location.  Courier services (individual package or cargo delivery) include more than air transportation; road transportation is usually required to deliver the cargo to the intended recipient.\n",
+      "childNodes": {
+        "4811": {
+          "title": "Scheduled Air TransportationT",
+          "desc": "NULL",
+          "childNodes": {
+            "48111": {
+              "title": "Scheduled Air TransportationT",
+              "desc": "This industry comprises establishments primarily engaged in providing air transportation of passengers and/or cargo over regular routes and on regular schedules.  Establishments in this industry operate flights even if partially loaded.  Establishments primarily engaged in providing scheduled air transportation of mail on a contract basis are included in this industry.\n\nIllustrative Examples:\n\nAir commuter carriers, scheduled\nScheduled air passenger carriers\nScheduled air cargo carriers (except air couriers)\nScheduled helicopter passenger carriers \n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "481111": {
+                  "title": "Scheduled Passenger Air Transportation",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing air transportation of passengers or passengers and freight over regular routes and on regular schedules.  Establishments in this industry operate flights even if partially loaded.  Scheduled air passenger carriers including commuter and helicopter carriers (except scenic and sightseeing) are included in this industry.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "481112": {
+                  "title": "Scheduled Freight Air Transportation",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing air transportation of cargo without transporting passengers over regular routes and on regular schedules.  Establishments in this industry operate flights even if partially loaded.  Establishments primarily engaged in providing scheduled air transportation of mail on a contract basis are included in this industry.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4812": {
+          "title": "Nonscheduled Air TransportationT",
+          "desc": "NULL",
+          "childNodes": {
+            "48121": {
+              "title": "Nonscheduled Air TransportationT",
+              "desc": "This industry comprises establishments primarily engaged in (1) providing air transportation of passengers and/or cargo with no regular routes and regular schedules or (2) providing specialty flying services with no regular routes and regular schedules using general purpose aircraft.  These establishments have more flexibility with respect to choice of airports, hours of operation, load factors, and similar operational characteristics.\n\nIllustrative Examples:\n\nAir taxi services\nNonscheduled air freight transportation services\nAircraft charter services\nNonscheduled air passenger transportation services\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "481211": {
+                  "title": "Nonscheduled Chartered Passenger Air Transportation",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing air transportation of passengers or passengers and cargo with no regular routes and regular schedules.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "481212": {
+                  "title": "Nonscheduled Chartered Freight Air Transportation",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing air transportation of cargo without transporting passengers with no regular routes and regular schedules.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "481219": {
+                  "title": "Other Nonscheduled Air Transportation",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing air transportation with no regular routes and regular schedules (except nonscheduled chartered passenger and/or cargo air transportation).  These establishments provide a variety of specialty air transportation or flying services based on individual customer needs using general purpose aircraft.\n\nIllustrative Examples:\n\nAircraft charter services (i.e., general purpose aircraft used for a variety of specialty air and flying services)\nAviation clubs providing a variety of air transportation activities to the general public\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "482": {
+      "title": "Rail TransportationT",
+      "desc": "Industries in the Rail Transportation subsector provide rail transportation of passengers and/or cargo using railroad rolling stock.  The railroads in this subsector primarily either operate on networks, with physical facilities, labor force, and equipment spread over an extensive geographic area, or operate over a short distance on a local rail line.\n\nScenic and sightseeing rail transportation and street railroads, commuter rail, and rapid transit are not included in this subsector but are included in Subsector 487, Scenic and Sightseeing Transportation, and Subsector 485, Transit and Ground Passenger Transportation, respectively.  Although these activities use railroad rolling stock, they are different from the activities included in rail transportation.  Sightseeing and scenic railroads do not usually involve place-to-place transportation; the passenger's trip typically starts and ends at the same location.  Commuter railroads operate in a manner more consistent with local and urban transit and are often part of integrated transit systems.\n",
+      "childNodes": {
+        "4821": {
+          "title": "Rail TransportationT",
+          "desc": "NULL",
+          "childNodes": {
+            "48211": {
+              "title": "Rail TransportationT",
+              "desc": "This industry comprises establishments primarily engaged in operating railroads (except street railroads, commuter rail, urban rapid transit, and scenic and sightseeing trains).  Line-haul railroads and short-line railroads are included in this industry.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "482111": {
+                  "title": "Line-Haul Railroads",
+                  "desc": "This U.S. industry comprises establishments known as line-haul railroads primarily engaged in operating railroads for the transport of passengers and/or cargo over a long distance within a rail network.  These establishments provide for the intercity movement of trains between the terminals and stations on main and branch lines of a line-haul rail network (except for local switching services).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "482112": {
+                  "title": "Short Line Railroads",
+                  "desc": "This U.S. industry comprises establishments known as short-line railroads primarily engaged in operating railroads for the transport of cargo over a short distance on local rail lines not part of a rail network.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "483": {
+      "title": "Water TransportationT",
+      "desc": "Industries in the Water Transportation subsector provide water transportation of passengers and cargo using watercraft, such as ships, barges, and boats.\n\nThe subsector is composed of two industry groups: (1) one for deep sea, coastal, and Great Lakes water transportation; and (2) one for inland water transportation.  This split typically reflects the difference in equipment used.\n\nScenic and sightseeing water transportation services are not included in this subsector but are included in Subsector 487, Scenic and Sightseeing Transportation.  Although these activities use watercraft, they are different from the activities included in water transportation.  Water sightseeing does not usually involve place-to-place transportation; the passenger's trip starts and ends at the same location.\n",
+      "childNodes": {
+        "4831": {
+          "title": "Deep Sea, Coastal, and Great Lakes Water TransportationT",
+          "desc": "NULL",
+          "childNodes": {
+            "48311": {
+              "title": "Deep Sea, Coastal, and Great Lakes Water TransportationT",
+              "desc": "This industry comprises establishments primarily engaged in providing deep sea, coastal, Great Lakes, and St. Lawrence Seaway water transportation.  Marine transportation establishments using the facilities of the St. Lawrence Seaway Authority Commission are considered to be using the Great Lakes Water Transportation System.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "483111": {
+                  "title": "Deep Sea Freight Transportation",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing deep sea transportation of cargo to or from foreign ports.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "483112": {
+                  "title": "Deep Sea Passenger Transportation",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing deep sea transportation of passengers to or from foreign ports.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "483113": {
+                  "title": "Coastal and Great Lakes Freight Transportation",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing water transportation of cargo in coastal waters, on the Great Lakes System, or deep seas between ports of the United States, Puerto Rico, and United States island possessions or protectorates.  Marine transportation establishments using the facilities of the St. Lawrence Seaway Authority Commission are considered to be using the Great Lakes Water Transportation System.  Establishments primarily engaged in providing coastal and/or Great Lakes barge transportation services are included in this industry.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "483114": {
+                  "title": "Coastal and Great Lakes Passenger Transportation",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing water transportation of passengers in coastal waters, the Great Lakes System, or deep seas between ports of the United States, Puerto Rico, and United States island possessions and protectorates.  Marine transportation establishments using the facilities of the St. Lawrence Seaway Authority Commission are considered to be using the Great Lakes Water Transportation System.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4832": {
+          "title": "Inland Water TransportationT",
+          "desc": "NULL",
+          "childNodes": {
+            "48321": {
+              "title": "Inland Water TransportationT",
+              "desc": "This industry comprises establishments primarily engaged in providing inland water transportation of passengers and/or cargo on lakes, rivers, or intracoastal waterways (except on the Great Lakes System).\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "483211": {
+                  "title": "Inland Water Freight Transportation",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing inland water transportation of cargo on lakes, rivers, or intracoastal waterways (except on the Great Lakes System).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "483212": {
+                  "title": "Inland Water Passenger Transportation",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing inland water transportation of passengers on lakes, rivers, or intracoastal waterways (except on the Great Lakes System).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "484": {
+      "title": "Truck TransportationT",
+      "desc": "Industries in the Truck Transportation subsector provide over-the-road transportation of cargo using motor vehicles, such as trucks and tractor trailers.  The subsector is subdivided into general freight trucking and specialized freight trucking.  This distinction reflects differences in equipment used, type of load carried, scheduling, terminal, and other networking services.  General freight transportation establishments handle a wide variety of general commodities, generally palletized, and transported in a container or van trailer.  Specialized freight transportation is the transportation of cargo that, because of size, weight, shape, or other inherent characteristics, requires specialized equipment for transportation.\n\nEach of these industry groups is further subdivided based on distance traveled.  Local trucking establishments primarily carry goods within a single metropolitan area and its adjacent nonurban areas.  Long-distance trucking establishments carry goods between metropolitan areas.\n\nThe Specialized Freight Trucking industry group includes a separate industry for Used Household and Office Goods Moving. The household and office goods movers are separated because of the substantial network of establishments that has developed to deal with local and long-distance moving and the associated storage.  In this area, the same establishment provides both local and long-distance services, while other specialized freight establishments generally limit their services to either local or long-distance hauling.\n",
+      "childNodes": {
+        "4841": {
+          "title": "General Freight TruckingT",
+          "desc": "This industry group comprises establishments primarily engaged in providing general freight trucking.  General freight trucking establishments handle a wide variety of commodities, generally palletized, and transported in a container or van trailer.  The establishments of this industry group provide a combination of the following network activities: local pick-up, local sorting and terminal operations, line-haul, destination sorting and terminal operations, and local delivery.\n",
+          "childNodes": {
+            "48411": {
+              "title": "General Freight Trucking, LocalT",
+              "desc": "See industry description for 484110.",
+              "childNodes": {
+                "484110": {
+                  "title": "General Freight Trucking, Local",
+                  "desc": "This industry comprises establishments primarily engaged in providing local general freight trucking.  General freight trucking establishments handle a wide variety of commodities, generally palletized and transported in a container or van trailer.  Local general freight trucking establishments usually provide trucking within a metropolitan area which may cross state lines.  Generally the trips are same-day return.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "48412": {
+              "title": "General Freight Trucking, Long-DistanceT",
+              "desc": "This industry comprises establishments primarily engaged in providing long-distance general freight trucking.  General freight trucking establishments handle a wide variety of commodities, generally palletized and transported in a container or van trailer.  Long-distance general freight trucking establishments usually provide trucking between metropolitan areas which may cross North American country borders.  Included in this industry are establishments operating as truckload (TL) or less than truckload (LTL) carriers.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "484121": {
+                  "title": "General Freight Trucking, Long-Distance, Truckload",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing long-distance general freight truckload (TL) trucking.  These long-distance general freight truckload carrier establishments provide full truck movement of freight from origin to destination.  The shipment of freight on a truck is characterized as a full single load not combined with other shipments.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "484122": {
+                  "title": "General Freight Trucking, Long-Distance, Less Than Truckload",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing long-distance, general freight, less than truckload (LTL) trucking.  LTL carriage is characterized as multiple shipments combined onto a single truck for multiple deliveries within a network.  These establishments are generally characterized by the following network activities: local pick-up, local sorting and terminal operations, line-haul, destination sorting and terminal operations, and local delivery.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4842": {
+          "title": "Specialized Freight TruckingT",
+          "desc": "This industry group comprises establishments primarily engaged in providing local or long-distance specialized freight trucking.  The establishments of this industry are primarily engaged in the transportation of freight which, because of size, weight, shape, or other inherent characteristics, requires specialized equipment, such as flatbeds, tankers, or refrigerated trailers.  This industry includes the transportation of used household, institutional, and commercial furniture and equipment.\n",
+          "childNodes": {
+            "48421": {
+              "title": "Used Household and Office Goods MovingT",
+              "desc": "See industry description for 484210.",
+              "childNodes": {
+                "484210": {
+                  "title": "Used Household and Office Goods Moving",
+                  "desc": "This industry comprises establishments primarily engaged in providing local or long-distance trucking of used household, used institutional, or used commercial furniture and equipment.  Incidental packing and storage activities are often provided by these establishments.\n",
+                  "childNodes": {}
+                }
+              }
+            },
+            "48422": {
+              "title": "Specialized Freight (except Used Goods) Trucking, LocalT",
+              "desc": "See industry description for 484220.",
+              "childNodes": {
+                "484220": {
+                  "title": "Specialized Freight (except Used Goods) Trucking, Local",
+                  "desc": "This industry comprises establishments primarily engaged in providing local, specialized trucking.  Local trucking establishments provide trucking within a metropolitan area that may cross state lines.  Generally the trips are same-day return.\n\nIllustrative Examples:\n\nLocal agricultural products trucking\nLocal dump trucking (e.g., gravel, sand, top-soil)\nLocal boat hauling\nLocal livestock trucking\nLocal bulk liquids trucking\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "48423": {
+              "title": "Specialized Freight (except Used Goods) Trucking, Long-DistanceT",
+              "desc": "See industry description for 484230.",
+              "childNodes": {
+                "484230": {
+                  "title": "Specialized Freight (except Used Goods) Trucking, Long-Distance",
+                  "desc": "This industry comprises establishments primarily engaged in providing long-distance specialized trucking.  These establishments provide trucking between metropolitan areas that may cross North American country borders.\n\nIllustrative Examples:\n\nLong-distance automobile carrier trucking\nLong-distance refrigerated product trucking\nLong-distance bulk liquid trucking\nLong-distance trucking of waste\nLong-distance hazardous material trucking\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "485": {
+      "title": "Transit and Ground Passenger TransportationT",
+      "desc": "Industries in the Transit and Ground Passenger Transportation subsector include a variety of passenger transportation activities, such as urban transit systems; chartered bus, school bus, and interurban bus transportation; and taxis.  These activities are distinguished based primarily on such production process factors as vehicle types, routes, and schedules.\n\nIn this subsector, the principal splits identify scheduled transportation as separate from nonscheduled transportation.  The scheduled transportation industry groups are Urban Transit Systems, Interurban and Rural Bus Transportation, and School and Employee Bus Transportation.  The nonscheduled industry groups are the Charter Bus Industry and Taxi and Limousine Service.  The Other Transit and Ground Passenger Transportation industry group includes both scheduled and nonscheduled transportation.\n\nScenic and sightseeing ground transportation services are not included in this subsector but are included in Subsector 487, Scenic and Sightseeing Transportation.  Sightseeing does not usually involve place-to-place transportation; the passenger's trip starts and ends at the same location.\n",
+      "childNodes": {
+        "4851": {
+          "title": "Urban Transit SystemsT",
+          "desc": "NULL",
+          "childNodes": {
+            "48511": {
+              "title": "Urban Transit SystemsT",
+              "desc": "This industry comprises establishments primarily engaged in operating local and suburban passenger transit systems over regular routes and on regular schedules within a metropolitan area and its adjacent nonurban areas.  Such transportation systems involve the use of one or more modes of transport including light rail, commuter rail, subways, and streetcars, as well as buses and other motor vehicles.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "485111": {
+                  "title": "Mixed Mode Transit Systems",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in operating local and suburban ground passenger transit systems using more than one mode of transport over regular routes and on regular schedules within a metropolitan area and its adjacent nonurban areas.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "485112": {
+                  "title": "Commuter Rail Systems",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in operating local and suburban commuter rail systems over regular routes and on a regular schedule within a metropolitan area and its adjacent nonurban areas.  Commuter rail is usually characterized by reduced fares, multiple ride and commutation tickets, and mostly used by passengers during the morning and evening peak periods.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "485113": {
+                  "title": "Bus and Other Motor Vehicle Transit Systems",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in operating local and suburban passenger transportation systems using buses or other motor vehicles over regular routes and on regular schedules within a metropolitan area and its adjacent nonurban areas.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "485119": {
+                  "title": "Other Urban Transit Systems",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in operating local and suburban ground passenger transit systems (except mixed mode transit systems, commuter rail systems, and buses and other motor vehicles) over regular routes and on regular schedules within a metropolitan area and its adjacent nonurban areas.\n\nIllustrative Examples:\n\nCommuter cable car systems (i.e., stand-alone)\nLight rail systems (i.e., stand-alone)\nCommuter tramway systems (i.e., stand-alone)\nMonorail transit systems (i.e., stand-alone)\nCommuter trolley systems (i.e., stand-alone)\nSubway systems (i.e., stand-alone)\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4852": {
+          "title": "Interurban and Rural Bus TransportationT",
+          "desc": "NULL",
+          "childNodes": {
+            "48521": {
+              "title": "Interurban and Rural Bus TransportationT",
+              "desc": "See industry description for 485210.",
+              "childNodes": {
+                "485210": {
+                  "title": "Interurban and Rural Bus Transportation",
+                  "desc": "This industry comprises establishments primarily engaged in providing bus passenger transportation over regular routes and on regular schedules, principally outside a single metropolitan area and its adjacent nonurban areas.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4853": {
+          "title": "Taxi and Limousine ServiceT",
+          "desc": "This industry group comprises establishments primarily engaged in providing passenger transportation by automobile or van or providing an array of specialty and luxury passenger transportation services via limousine or luxury sedan generally on a reserved basis.  These establishments do not operate over regular routes and on regular schedules.\n",
+          "childNodes": {
+            "48531": {
+              "title": "Taxi and Ridesharing ServicesT",
+              "desc": "See industry description for 485310.",
+              "childNodes": {
+                "485310": {
+                  "title": "Taxi and Ridesharing Services",
+                  "desc": "This industry comprises establishments primarily engaged in providing passenger transportation by automobile or van, not operated over regular routes and on regular schedules.  Establishments of taxicab owner/operators, taxicab fleet operators, taxicab organizations, ridesharing services (including arrangement services), and ride hailing services (including arrangement services) are included in this industry.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "48532": {
+              "title": "Limousine ServiceT",
+              "desc": "See industry description for 485320.",
+              "childNodes": {
+                "485320": {
+                  "title": "Limousine Service",
+                  "desc": "This industry comprises establishments primarily engaged in providing an array of specialty and luxury passenger transportation services via limousine or luxury sedan generally on a reserved basis.  These establishments do not operate over regular routes and on regular schedules.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4854": {
+          "title": "School and Employee Bus TransportationT",
+          "desc": "NULL",
+          "childNodes": {
+            "48541": {
+              "title": "School and Employee Bus TransportationT",
+              "desc": "See industry description for 485410.",
+              "childNodes": {
+                "485410": {
+                  "title": "School and Employee Bus Transportation",
+                  "desc": "This industry comprises establishments primarily engaged in providing buses and other motor vehicles to transport pupils to and from school or employees to and from work.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4855": {
+          "title": "Charter Bus IndustryT",
+          "desc": "NULL",
+          "childNodes": {
+            "48551": {
+              "title": "Charter Bus IndustryT",
+              "desc": "See industry description for 485510.",
+              "childNodes": {
+                "485510": {
+                  "title": "Charter Bus Industry",
+                  "desc": "This industry comprises establishments primarily engaged in providing buses for charter.  These establishments provide bus services to meet customers' road transportation needs and generally do not operate over fixed routes and on regular schedules.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4859": {
+          "title": "Other Transit and Ground Passenger TransportationT",
+          "desc": "NULL",
+          "childNodes": {
+            "48599": {
+              "title": "Other Transit and Ground Passenger TransportationT",
+              "desc": "This industry comprises establishments primarily engaged in providing other transit and ground passenger transportation (except urban transit systems, interurban and rural bus transportation, taxi and ridesharing services, school and employee bus transportation, charter bus services, and limousine services (except shuttle services)).  Shuttle services (except school and employee bus) and special needs transportation services are included in this industry.  Shuttle services establishments generally travel within a metropolitan area and its adjacent nonurban areas on regular routes, on regular schedules and provide services between hotels, airports, or other destination points.  Establishments in the Special Needs Transportation industry provide passenger transportation for the disabled or elderly.  These establishments may use specially equipped vehicles to provide passenger transportation.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "485991": {
+                  "title": "Special Needs Transportation",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing special needs transportation (except to and from school or work) for the disabled or elderly.  These establishments may use specially equipped vehicles to provide passenger transportation.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "485999": {
+                  "title": "All Other Transit and Ground Passenger Transportation",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing ground passenger transportation (except urban transit systems; interurban and rural bus transportation, taxi and/or limousine services (except shuttle services), school and employee bus transportation, charter bus services, and special needs transportation).  Establishments primarily engaged in operating shuttle services and car pools or vanpools (except ridesharing and ridesharing arrangement services) are included in this industry.  Shuttle services establishments generally provide travel on regular routes and on regular schedules between hotels, airports, or other destination points.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "486": {
+      "title": "Pipeline TransportationT",
+      "desc": "Industries in the Pipeline Transportation subsector use transmission pipelines to transport products, such as crude oil, natural gas, refined petroleum products, and slurry.  Industries are identified based on the products transported (i.e., pipeline transportation of crude oil, natural gas, refined petroleum products, and other products).\n\nThe Pipeline Transportation of Natural Gas industry includes the storage of natural gas because the storage is usually done by the pipeline establishment and because a pipeline is inherently a network in which all the nodes are interdependent.\n",
+      "childNodes": {
+        "4861": {
+          "title": "Pipeline Transportation of Crude OilT",
+          "desc": "NULL",
+          "childNodes": {
+            "48611": {
+              "title": "Pipeline Transportation of Crude OilT",
+              "desc": "See industry description for 486110.",
+              "childNodes": {
+                "486110": {
+                  "title": "Pipeline Transportation of Crude Oil",
+                  "desc": "This industry comprises establishments primarily engaged in the pipeline transportation of crude oil.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4862": {
+          "title": "Pipeline Transportation of Natural GasT",
+          "desc": "NULL",
+          "childNodes": {
+            "48621": {
+              "title": "Pipeline Transportation of Natural GasT",
+              "desc": "See industry description for 486210.",
+              "childNodes": {
+                "486210": {
+                  "title": "Pipeline Transportation of Natural Gas",
+                  "desc": "This industry comprises establishments primarily engaged in the pipeline transportation of natural gas from processing plants to local distribution systems. This industry includes the storage of natural gas because the storage is usually done by the pipeline establishment and because a pipeline is inherently a network in which all the nodes are interdependent.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4869": {
+          "title": "Other Pipeline TransportationT",
+          "desc": "This industry group comprises establishments primarily engaged in the pipeline transportation of products (except crude oil and natural gas).\n",
+          "childNodes": {
+            "48691": {
+              "title": "Pipeline Transportation of Refined Petroleum ProductsT",
+              "desc": "See industry description for 486910.",
+              "childNodes": {
+                "486910": {
+                  "title": "Pipeline Transportation of Refined Petroleum Products",
+                  "desc": "This industry comprises establishments primarily engaged in the pipeline transportation of refined petroleum products.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "48699": {
+              "title": "All Other Pipeline TransportationT",
+              "desc": "See industry description for 486990.",
+              "childNodes": {
+                "486990": {
+                  "title": "All Other Pipeline Transportation",
+                  "desc": "This industry comprises establishments primarily engaged in the pipeline transportation of products (except crude oil, natural gas, and refined petroleum products).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "487": {
+      "title": "Scenic and Sightseeing TransportationT",
+      "desc": "Industries in the Scenic and Sightseeing Transportation subsector utilize transportation equipment to provide recreation and entertainment.  These activities have a production process distinct from passenger transportation carried out for the purpose of other types of for-hire transportation.  This process does not emphasize efficient transportation; in fact, such activities often use obsolete vehicles, such as steam trains, to provide some extra ambience.  The activity is local in nature, usually involving a same-day return to the point of departure.\n\nThe Scenic and Sightseeing Transportation subsector is separated into three industries based on the mode: land, water, and other.\n\nActivities that are recreational in nature and involve participation by the customer, such as white water rafting, are generally excluded from this subsector, unless they impose an impact on part of the transportation system.  Charter boat fishing, for example, is included in the Scenic and Sightseeing Transportation, Water industry.\n",
+      "childNodes": {
+        "4871": {
+          "title": "Scenic and Sightseeing Transportation, LandT",
+          "desc": "NULL",
+          "childNodes": {
+            "48711": {
+              "title": "Scenic and Sightseeing Transportation, LandT",
+              "desc": "See industry description for 487110.",
+              "childNodes": {
+                "487110": {
+                  "title": "Scenic and Sightseeing Transportation, Land",
+                  "desc": "This industry comprises establishments primarily engaged in providing scenic and sightseeing transportation on land, such as sightseeing buses and trolleys, steam train excursions, and horse-drawn sightseeing rides.  The services provided are usually local and involve same-day return to place of origin.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4872": {
+          "title": "Scenic and Sightseeing Transportation, WaterT",
+          "desc": "NULL",
+          "childNodes": {
+            "48721": {
+              "title": "Scenic and Sightseeing Transportation, WaterT",
+              "desc": "See industry description for 487210.",
+              "childNodes": {
+                "487210": {
+                  "title": "Scenic and Sightseeing Transportation, Water",
+                  "desc": "This industry comprises establishments primarily engaged in providing scenic and sightseeing transportation on water.  The services provided are usually local and involve same-day return to place of origin.\n\nIllustrative Examples:\n\nAirboat (i.e., swamp buggy) operation\nExcursion boat operation\nCharter fishing boat services\nHarbor sightseeing tours\nDinner cruises\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4879": {
+          "title": "Scenic and Sightseeing Transportation, OtherT",
+          "desc": "NULL",
+          "childNodes": {
+            "48799": {
+              "title": "Scenic and Sightseeing Transportation, OtherT",
+              "desc": "See industry description for 487990.",
+              "childNodes": {
+                "487990": {
+                  "title": "Scenic and Sightseeing Transportation, Other",
+                  "desc": "This industry comprises establishments primarily engaged in providing scenic and sightseeing transportation (except on land and water).  The services provided are usually local and involve same-day return to place of departure.\n\nIllustrative Examples:\n\nAerial cable cars, scenic and sightseeing operation\nHelicopter rides, scenic and sightseeing operation\nGlider excursions\nAerial tramways, scenic and sightseeing operation\nHot air balloon rides, scenic and sightseeing operation\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "488": {
+      "title": "Support Activities for TransportationT",
+      "desc": "Industries in the Support Activities for Transportation subsector provide services which support transportation.  These services may be provided to transportation carrier establishments or to the general public.  This subsector includes a wide array of establishments, including air traffic control services, marine cargo handling, and motor vehicle towing.\n\nThe Support Activities for Transportation subsector includes services to transportation, separated by type of mode serviced.  The Support Activities for Rail Transportation industry includes services to the rail industry (e.g., railroad switching and terminal establishments).  Ship repair and maintenance services not done in a shipyard are included in the Other Support Activities for Water Transportation industry.  An example would be floating drydock services in a harbor.\n\nExcluded from this subsector are establishments primarily engaged in providing factory conversion and overhaul of transportation equipment, which are classified in Subsector 336, Transportation Equipment Manufacturing.  Establishments primarily engaged in providing rental and leasing of transportation equipment without operator are classified in Subsector 532, Rental and Leasing Services. Also, establishments primarily engaged in providing travel arrangement and reservation services are classified in Industry Group 5615, Travel Arrangement and Reservation Services.\n",
+      "childNodes": {
+        "4881": {
+          "title": "Support Activities for Air TransportationT",
+          "desc": "This industry group comprises establishments primarily engaged in providing services to the air transportation industry.  These services include airport operation, servicing, repairing (except factory conversion and overhaul of aircraft), maintaining and storing aircraft, and ferrying aircraft.\n",
+          "childNodes": {
+            "48811": {
+              "title": "Airport OperationsT",
+              "desc": "This industry comprises establishments primarily engaged in (1) operating international, national, or civil airports or public flying fields or (2) supporting airport operations (except special food services contractors), such as rental of hangar space, air traffic control (except military) services, baggage handling services, and cargo handling services.\n\nCross-References.",
+              "childNodes": {
+                "488111": {
+                  "title": "Air Traffic Control",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing air traffic control (except military) services to regulate the flow of air traffic.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "488119": {
+                  "title": "Other Airport Operations",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) operating international, national, or civil airports, or public flying fields or (2) supporting airport operations, such as rental of hangar space, and providing baggage handling and/or cargo handling services.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "48819": {
+              "title": "Other Support Activities for Air TransportationT",
+              "desc": "See industry description for 488190.",
+              "childNodes": {
+                "488190": {
+                  "title": "Other Support Activities for Air Transportation",
+                  "desc": "This industry comprises establishments primarily engaged in providing specialized services for air transportation (except air traffic control and other airport operations).\n\nIllustrative Examples:\n\nAircraft maintenance and repair services (except factory conversions, overhauls, rebuilding)\nAircraft passenger screening security services\nAircraft testing services\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4882": {
+          "title": "Support Activities for Rail TransportationT",
+          "desc": "NULL",
+          "childNodes": {
+            "48821": {
+              "title": "Support Activities for Rail TransportationT",
+              "desc": "See industry description for 488210.",
+              "childNodes": {
+                "488210": {
+                  "title": "Support Activities for Rail Transportation",
+                  "desc": "This industry comprises establishments primarily engaged in providing specialized services for railroad transportation, including servicing, routine repairing (except factory conversion, overhaul, or rebuilding of rolling stock), and maintaining rail cars; loading and unloading rail cars; and operating independent terminals.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4883": {
+          "title": "Support Activities for Water TransportationT",
+          "desc": "This industry group comprises establishments primarily engaged in one of the following: (1) operating ports, harbors (including docking and pier facilities), or canals; (2) providing stevedoring and other marine cargo handling services (except warehousing); (3) providing navigational services to shipping; or (4) providing other services to water transportation.\n",
+          "childNodes": {
+            "48831": {
+              "title": "Port and Harbor OperationsT",
+              "desc": "See industry description for 488310.",
+              "childNodes": {
+                "488310": {
+                  "title": "Port and Harbor Operations",
+                  "desc": "This industry comprises establishments primarily engaged in operating ports, harbors (including docking and pier facilities), or canals.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "48832": {
+              "title": "Marine Cargo HandlingT",
+              "desc": "See industry description for 488320.",
+              "childNodes": {
+                "488320": {
+                  "title": "Marine Cargo Handling",
+                  "desc": "This industry comprises establishments primarily engaged in providing stevedoring and other marine cargo handling services (except warehousing).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "48833": {
+              "title": "Navigational Services to ShippingT",
+              "desc": "See industry description for 488330.",
+              "childNodes": {
+                "488330": {
+                  "title": "Navigational Services to Shipping",
+                  "desc": "This industry comprises establishments primarily engaged in providing navigational services to shipping.  Marine salvage establishments are included in this industry.\n\nIllustrative Examples:\n\nDocking and undocking marine vessel services\nPiloting services, water transportation\nMarine vessel traffic reporting services\nTugboat services, harbor operation\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "48839": {
+              "title": "Other Support Activities for Water TransportationT",
+              "desc": "See industry description for 488390.",
+              "childNodes": {
+                "488390": {
+                  "title": "Other Support Activities for Water Transportation",
+                  "desc": "This industry comprises establishments primarily engaged in providing services to water transportation (except port and harbor operations; marine cargo handling services; and navigational services to shipping).\n\nIllustrative Examples:\n\nFloating drydocks (i.e., routine repair and maintenance of ships)\nShip scaling services\nMarine cargo checkers and surveyors\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4884": {
+          "title": "Support Activities for Road TransportationT",
+          "desc": "This industry group comprises establishments primarily engaged in (1) towing light or heavy motor vehicles, both local and long-distance, or (2) providing other services to road network users.\n",
+          "childNodes": {
+            "48841": {
+              "title": "Motor Vehicle TowingT",
+              "desc": "See industry description for 488410.",
+              "childNodes": {
+                "488410": {
+                  "title": "Motor Vehicle Towing",
+                  "desc": "This industry comprises establishments primarily engaged in towing light or heavy motor vehicles, both local and long-distance.  These establishments may provide incidental services, such as storage and emergency road repair services.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "48849": {
+              "title": "Other Support Activities for Road TransportationT",
+              "desc": "See industry description for 488490.",
+              "childNodes": {
+                "488490": {
+                  "title": "Other Support Activities for Road Transportation",
+                  "desc": "This industry comprises establishments primarily engaged in providing services (except motor vehicle towing) to road network users.\n\nIllustrative Examples:\n\nBridge, tunnel, and highway operations\nPilot car services (i.e., wide load warning services)\nTruck or weighing station operations\nDriving services, independent (e.g., automobile, truck delivery)\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4885": {
+          "title": "Freight Transportation ArrangementT",
+          "desc": "NULL",
+          "childNodes": {
+            "48851": {
+              "title": "Freight Transportation ArrangementT",
+              "desc": "See industry description for 488510.",
+              "childNodes": {
+                "488510": {
+                  "title": "Freight Transportation Arrangement",
+                  "desc": "This industry comprises establishments primarily engaged in arranging transportation of freight between shippers and carriers.  These establishments are usually known as freight forwarders, marine shipping agents, or customs brokers and offer a combination of services spanning transportation modes but do not directly provide shipping services.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4889": {
+          "title": "Other Support Activities for TransportationT",
+          "desc": "NULL",
+          "childNodes": {
+            "48899": {
+              "title": "Other Support Activities for TransportationT",
+              "desc": "This industry comprises establishments primarily engaged in providing support activities to transportation (except for air transportation; rail transportation; water transportation; road transportation; and freight transportation arrangement).\n\nIllustrative Examples:\n\nArrangement of vanpools or car pools (except ridesharing arrangement services)\nIndependent pipeline terminal facilities \nStockyards (i.e., not for fattening or selling livestock)\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "488991": {
+                  "title": "Packing and Crating",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in packing, crating, and otherwise preparing goods for transportation.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "488999": {
+                  "title": "All Other Support Activities for Transportation",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing support activities to transportation (except for air transportation; rail transportation; water transportation; road transportation; freight transportation arrangement; and packing and crating).\n\nIllustrative Examples:\n\nArrangement of vanpools or car pools (except ridesharing arrangement services)\nIndependent pipeline terminal facilities\nStockyards (i.e., not for fattening or selling livestock)\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
