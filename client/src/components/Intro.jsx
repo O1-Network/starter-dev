@@ -2,16 +2,40 @@ import './Intro.css';
 import {useEffect,useState} from 'react'
 const Intro = () => {
   const Images=[
-  "image1-start","image1-middle","image1-middle","image1-middle","image1-middle","image1-middle","image1-middle","image1-middle","image1-end",
-  "image2-start","image2-middle","image2-middle","image2-middle","image2-middle","image2-middle","image2-middle","image2-middle","image2-end",
-  "image3-start","image3-middle","image3-middle","image3-middle","image3-middle","image3-middle","image3-middle","image3-middle","image3-end",
-  "image4-start","image4-middle","image4-middle","image4-middle","image4-middle","image4-middle","image4-middle","image4-middle","image4-end",
-  "image5-start","image5-middle","image5-middle","image5-middle","image5-middle","image5-middle","image5-middle","image5-middle","image5-end",
-  "image6-start","image6-middle","image6-middle","image6-middle","image6-middle","image6-middle","image6-middle","image6-middle","image6-end"
+  "image1-start","image1-middle","image1-end",
+  "image2-start","image2-middle","image2-end",
+  "image3-start","image3-middle","image3-end",
+  "image4-start","image4-middle","image4-end",
+  "image5-start","image5-middle","image5-end",
+  "image6-start","image6-middle","image6-end"
   ]
 const [currentImage,setImage]=useState(0);
+let numOfMiddle=15;
+let counter=0;
+let middle=0;
 useEffect(()=>{
-setInterval(()=>{setImage(old=>old+1)},1000)
+setInterval(()=>{
+
+  if(Images[counter].replace("middle","").length < Images[counter].length  ){ 
+  middle +=1;
+  if(middle>numOfMiddle){
+  setImage(old=>old+1)
+  counter +=1;
+  middle=0;
+  }
+
+  }else{
+    setImage(old=>old+1)
+    counter +=1;
+    console.log("else ")
+  }
+
+}
+
+
+,300)
+  
+
 },[])
 
 

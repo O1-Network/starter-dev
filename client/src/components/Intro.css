@@ -1,5 +1,5 @@
 :root{
-  --duration: 1000ms;
+  --duration: 800ms;
   
 }
 
@@ -9,6 +9,8 @@
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
+  overflow:hidden;
+  
 }
 
 .intro-background {
@@ -21,7 +23,7 @@
   min-height: 45vh;
   z-index:0;
   place-items: center;
-  
+
 }
 .active {
   background-color: #717171;
