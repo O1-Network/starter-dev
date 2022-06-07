@@ -1,0 +1,39 @@
+{
+  "title": "Management of Companies and EnterprisesT",
+  "desc": "The Sector as a Whole\n\nThe Management of Companies and Enterprises sector comprises (1) establishments that hold the securities of (or other equity interests in) companies and enterprises for the purpose of owning a controlling interest or influencing management decisions or (2) establishments (except government establishments) that administer, oversee, and manage establishments of the company or enterprise and that normally undertake the strategic or organizational planning and decision-making role of the company or enterprise.  Establishments that administer, oversee, and manage may hold the securities of the company or enterprise.\n\nEstablishments in this sector perform essential activities that are often undertaken in-house by establishments in many sectors of the economy.  By consolidating the performance of these activities of the enterprise at one establishment, economies of scale are achieved.\n\nGovernment establishments primarily engaged in administering, overseeing, and managing governmental programs are classified in Sector 92, Public Administration.  Establishments primarily engaged in providing a range of day-to-day office administrative services for other companies or enterprises on a contract or fee basis, such as financial planning, billing and recordkeeping, personnel, and physical distribution and logistics, are classified in Industry 56111, Office Administrative Services.\n",
+  "childNodes": {
+    "551": {
+      "title": "Management of Companies and EnterprisesT",
+      "desc": "Industries in the Management of Companies and Enterprises subsector include three main types of establishments: (1) those that hold the securities of (or other equity interests in) companies and enterprises; (2) those (except government establishments) that administer, oversee, and manage other establishments of the company or enterprise but do not hold the securities of these establishments; and (3) those that both administer, oversee, and manage other establishments of the company or enterprise and hold the securities of (or other equity interests in) these establishments.  Those establishments that administer, oversee, and manage normally undertake the strategic or organizational planning and decision-making role of the company or enterprise.\n",
+      "childNodes": {
+        "5511": {
+          "title": "Management of Companies and EnterprisesT",
+          "desc": "NULL",
+          "childNodes": {
+            "55111": {
+              "title": "Management of Companies and EnterprisesT",
+              "desc": "This industry comprises (1) establishments primarily engaged in holding the securities of (or other equity interests in) companies and enterprises for the purpose of owning a controlling interest or influencing management decisions or (2) establishments (except government establishments) that administer, oversee, and manage other establishments of the company or enterprise and that normally undertake the strategic or organizational planning and decision-making role of the company or enterprise.  Establishments that administer, oversee, and manage may hold the securities of the company or enterprise.\n\nCross-References.",
+              "childNodes": {
+                "551111": {
+                  "title": "Offices of Bank Holding Companies",
+                  "desc": "This U.S. industry comprises legal entities known as bank holding companies primarily engaged in holding the securities of (or other equity interests in) companies and enterprises for the purpose of owning a controlling interest or influencing the management decisions of these firms.  The holding companies in this industry do not administer, oversee, and manage other establishments of the company or enterprise whose securities they hold.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "551112": {
+                  "title": "Offices of Other Holding Companies",
+                  "desc": "This U.S. industry comprises legal entities known as holding companies (except bank holding) primarily engaged in holding the securities of (or other equity interests in) companies and enterprises for the purpose of owning a controlling interest or influencing the management decisions of these firms.  The holding companies in this industry do not administer, oversee, and manage other establishments of the company or enterprise whose securities they hold.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "551114": {
+                  "title": "Corporate, Subsidiary, and Regional Managing Offices",
+                  "desc": "This U.S. industry comprises establishments (except government establishments) primarily engaged in administering, overseeing, and managing other establishments of the company or enterprise.  These establishments normally undertake the strategic or organizational planning and decision-making role of the company or enterprise.  Establishments in this industry may hold the securities of the company or enterprise.\n\nIllustrative Examples:\n\nCentralized administrative offices\nHead offices\nCorporate offices\nHolding companies that manage\nDistrict and regional offices\nSubsidiary management offices\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

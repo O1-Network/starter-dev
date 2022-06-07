@@ -1,0 +1,421 @@
+{
+  "title": "Public AdministrationT",
+  "desc": "The Sector as a Whole\n\nThe Public Administration sector consists of establishments of federal, state, and local government agencies that administer, oversee, and manage public programs and have executive, legislative, or judicial authority over other institutions within a given area.  These agencies also set policy, create laws, adjudicate civil and criminal legal cases, and provide for public safety and for national defense.  In general, government establishments in the Public Administration sector oversee governmental programs and activities that are not performed by private establishments.  Establishments in this sector typically are engaged in the organization and financing of the production of public goods and services, most of which are provided for free or at prices that are not economically significant.\n\nGovernment establishments also engage in a wide range of productive activities covering not only public goods and services but also individual goods and services similar to those produced in sectors typically identified with private-sector establishments.  In general, ownership is not a criterion for classification in NAICS.  Therefore, government establishments engaged in the production of private-sector-like goods and services should be classified in the same industry as private-sector establishments engaged in similar activities.\n\nAs a practical matter, it is difficult to identify separate establishment detail for many government agencies.  To the extent that separate establishment records are available, the administration of governmental programs is classified in Sector 92, Public Administration, while the operation of governmental programs is classified elsewhere in NAICS based on the activities performed.  For example, the governmental administrative authority for an airport is classified in Industry 92612, Regulation and Administration of Transportation Programs, while operating the airport is classified in Industry 48811, Airport Operations.  When separate records for multi-establishment companies are not available to distinguish between the administration of a governmental program and the operation of it, the establishment is classified in Sector 92, Public Administration.\n\nExamples of government-provided goods and services that are classified in sectors other than Public Administration include: schools, classified in Sector 61, Educational Services; health care facilities, classified in Sector 62, Health Care and Social Assistance; establishments operating transportation facilities, classified in Sector 48-49, Transportation and Warehousing; the operation of utilities, classified in Sector 22, Utilities; and the Government Printing Office, classified in Subsector 323, Printing and Related Support Activities.\n",
+  "childNodes": {
+    "921": {
+      "title": "Executive, Legislative, and Other General Government Support",
+      "desc": "The Executive, Legislative, and Other General Government Support subsector groups offices of government executives, legislative bodies, public finance, and general government support.\n",
+      "childNodes": {
+        "9211": {
+          "title": "Executive, Legislative, and Other General Government Support",
+          "desc": "NULL",
+          "childNodes": {
+            "92111": {
+              "title": "Executive Offices",
+              "desc": "See industry description for 921110.",
+              "childNodes": {
+                "921110": {
+                  "title": "Executive Offices",
+                  "desc": "This industry comprises government establishments serving as offices of chief executives and their advisory committees and commissions.  This industry includes offices of the president, governors, and mayors, in addition to executive advisory commissions.\n",
+                  "childNodes": {}
+                }
+              }
+            },
+            "92112": {
+              "title": "Legislative Bodies",
+              "desc": "See industry description for 921120.",
+              "childNodes": {
+                "921120": {
+                  "title": "Legislative Bodies",
+                  "desc": "This industry comprises government establishments serving as legislative bodies and their advisory committees and commissions.  Included in this industry are legislative bodies, such as Congress, state legislatures, and advisory and study legislative commissions.\n",
+                  "childNodes": {}
+                }
+              }
+            },
+            "92113": {
+              "title": "Public Finance Activities",
+              "desc": "See industry description for 921130.",
+              "childNodes": {
+                "921130": {
+                  "title": "Public Finance Activities",
+                  "desc": "This industry comprises government establishments primarily engaged in public finance, taxation, and monetary policy.  Included are financial administration activities, such as monetary policy; tax administration and collection; custody and disbursement of funds; debt and investment administration; auditing activities; and government employee retirement trust fund administration.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "92114": {
+              "title": "Executive and Legislative Offices, Combined",
+              "desc": "See industry description for 921140.",
+              "childNodes": {
+                "921140": {
+                  "title": "Executive and Legislative Offices, Combined",
+                  "desc": "This industry comprises government establishments serving as councils and boards of commissioners or supervisors and such bodies where the chief executive (e.g., county executive or city mayor) is a member of the legislative body (e.g., county or city council) itself.\n\nCross-References. Government establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "92115": {
+              "title": "American Indian and Alaska Native Tribal Governments",
+              "desc": "See industry description for 921150.",
+              "childNodes": {
+                "921150": {
+                  "title": "American Indian and Alaska Native Tribal Governments",
+                  "desc": "This industry comprises American Indian and Alaska Native governing bodies.  Establishments in this industry perform legislative, judicial, and administrative functions for their American Indian and Alaska Native lands.  Included in this industry are American Indian and Alaska Native councils, courts, and law enforcement bodies.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "92119": {
+              "title": "Other General Government Support",
+              "desc": "See industry description for 921190.",
+              "childNodes": {
+                "921190": {
+                  "title": "Other General Government Support",
+                  "desc": "This industry comprises government establishments primarily engaged in providing general support for government.  Such support services include personnel services, election boards, and other general government support establishments that are not classified elsewhere in public administration.\n\nIllustrative Examples:\n\nCivil rights commissions\nPersonnel offices, government\nCivil service commissions\nSupply agencies, government\nGeneral services departments, government\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "922": {
+      "title": "Justice, Public Order, and Safety Activities",
+      "desc": "The Justice, Public Order, and Safety Activities subsector groups government establishments engaged in the administration of justice, public order, and safety programs.\n",
+      "childNodes": {
+        "9221": {
+          "title": "Justice, Public Order, and Safety Activities",
+          "desc": "NULL",
+          "childNodes": {
+            "92211": {
+              "title": "Courts",
+              "desc": "See industry description for 922110.",
+              "childNodes": {
+                "922110": {
+                  "title": "Courts",
+                  "desc": "This industry comprises civilian courts of law (except American Indian and Alaska Native tribal courts).  Included in this industry are civilian courts, courts of law, and sheriffs' offices conducting court functions only.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "92212": {
+              "title": "Police Protection",
+              "desc": "See industry description for 922120.",
+              "childNodes": {
+                "922120": {
+                  "title": "Police Protection",
+                  "desc": "This industry comprises government establishments primarily engaged in criminal and civil law enforcement, police, traffic safety, and other activities related to the enforcement of the law and preservation of order.  Combined police and fire departments are included in this industry.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "92213": {
+              "title": "Legal Counsel and Prosecution",
+              "desc": "See industry description for 922130.",
+              "childNodes": {
+                "922130": {
+                  "title": "Legal Counsel and Prosecution",
+                  "desc": "This industry comprises government establishments primarily engaged in providing legal counsel or prosecution services for the government.\n\nIllustrative Examples:\n\nAttorney generals' offices\nPublic defenders' offices\nDistrict attorneys' offices\nPublic prosecutors' offices\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "92214": {
+              "title": "Correctional Institutions",
+              "desc": "See industry description for 922140.",
+              "childNodes": {
+                "922140": {
+                  "title": "Correctional Institutions",
+                  "desc": "This industry comprises government establishments primarily engaged in managing and operating correctional institutions.  The facility is generally designed for the confinement, correction, and rehabilitation of adult and/or juvenile offenders sentenced by a court.\n\nIllustrative Examples:\n\nCorrectional institutions, public administration\nPenitentiaries, public administration\nDetention centers, public administration\nPrisons, public administration\nJails, public administration \n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "92215": {
+              "title": "Parole Offices and Probation Offices",
+              "desc": "See industry description for 922150.",
+              "childNodes": {
+                "922150": {
+                  "title": "Parole Offices and Probation Offices",
+                  "desc": "This industry comprises government establishments primarily engaged in judicially administering probation offices, parole offices and boards, and pardon boards.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "92216": {
+              "title": "Fire Protection",
+              "desc": "See industry description for 922160.",
+              "childNodes": {
+                "922160": {
+                  "title": "Fire Protection",
+                  "desc": "This industry comprises government establishments primarily engaged in firefighting and other related fire protection activities.  Government establishments providing combined fire protection and ambulance or rescue services are classified in this industry.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "92219": {
+              "title": "Other Justice, Public Order, and Safety Activities",
+              "desc": "See industry description for 922190.",
+              "childNodes": {
+                "922190": {
+                  "title": "Other Justice, Public Order, and Safety Activities",
+                  "desc": "This industry comprises government establishments primarily engaged in public order and safety (except courts, police protection, legal counsel and prosecution, correctional institutions, parole offices, probation offices, pardon boards, and fire protection).  These establishments include the general administration of public order and safety programs.  Government establishments responsible for the collection of statistics on public safety are included in this industry.\n\nIllustrative Examples:\n\nConsumer product safety commissions, public administration\nEmergency planning and management offices, government\nDisaster preparedness and management offices, government\nPublic safety bureaus and statistics centers, government\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "923": {
+      "title": "Administration of Human Resource Programs",
+      "desc": "The Administration of Human Resource Programs subsector groups government establishments primarily engaged in the administration of human resource programs.\n",
+      "childNodes": {
+        "9231": {
+          "title": "Administration of Human Resource Programs",
+          "desc": "NULL",
+          "childNodes": {
+            "92311": {
+              "title": "Administration of Education Programs",
+              "desc": "See industry description for 923110.",
+              "childNodes": {
+                "923110": {
+                  "title": "Administration of Education Programs",
+                  "desc": "This industry comprises government establishments primarily engaged in the central coordination, planning, supervision, and administration of funds, policies, intergovernmental activities, statistical reports and data collection, and centralized programs for educational administration.  Government scholarship programs are included in this industry.\n\nIllustrative Examples:\n\nEducation offices, nonoperating, public administration\nState education departments\nEducation statistics centers, government\nUniversity regents or boards, government\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "92312": {
+              "title": "Administration of Public Health Programs",
+              "desc": "See industry description for 923120.",
+              "childNodes": {
+                "923120": {
+                  "title": "Administration of Public Health Programs",
+                  "desc": "This industry comprises government establishments primarily engaged in the planning, administration, and coordination of public health programs and services, including environmental health activities, mental health, categorical health programs, health statistics, and immunization services.  Government establishments primarily engaged in conducting public health-related inspections are included in this industry.\n\nIllustrative Examples:\n\nCommunicable disease program administration, public administration\nMental health program administration, public administration\nCoroners' offices, public administration\nPublic health program administration, nonoperating, public administration\nHealth program administration, public administration\n\n\nCross-References. Government establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "92313": {
+              "title": "Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs)",
+              "desc": "See industry description for 923130.",
+              "childNodes": {
+                "923130": {
+                  "title": "Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs)",
+                  "desc": "This industry comprises government establishments primarily engaged in the planning, administration, and coordination of programs for public assistance, social work, and welfare activities.  The administration of Social Security, disability insurance, Medicare, unemployment insurance, and workers' compensation programs are included in this industry.\n\nCross-References. Government establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "92314": {
+              "title": "Administration of Veterans' Affairs",
+              "desc": "See industry description for 923140.",
+              "childNodes": {
+                "923140": {
+                  "title": "Administration of Veterans' Affairs",
+                  "desc": "This industry comprises government establishments primarily engaged in the administration of programs of assistance, training, counseling, and other services to veterans and their dependents, heirs, or survivors.  Included in this industry are Veterans' Affairs offices that maintain liaison and coordinate activities with other service organizations and governmental agencies.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "924": {
+      "title": "Administration of Environmental Quality Programs",
+      "desc": "The Administration of Environmental Quality Programs subsector groups government establishments primarily engaged in the administration of environmental quality.\n",
+      "childNodes": {
+        "9241": {
+          "title": "Administration of Environmental Quality Programs",
+          "desc": "NULL",
+          "childNodes": {
+            "92411": {
+              "title": "Administration of Air and Water Resource and Solid Waste Management Programs",
+              "desc": "See industry description for 924110.",
+              "childNodes": {
+                "924110": {
+                  "title": "Administration of Air and Water Resource and Solid Waste Management Programs",
+                  "desc": "This industry comprises government establishments primarily engaged in one or more of the following: (1) the administration, regulation, and enforcement of air and water resource programs; (2) the administration and regulation of solid waste management programs; (3) the administration and regulation of water and air pollution control and prevention programs; (4) the administration and regulation of flood control programs; (5) the administration and regulation of drainage development and water resource consumption programs; (6) the administration and regulation of toxic waste removal and cleanup programs; and (7) coordination of these activities at intergovernmental levels.\n\nIllustrative Examples:\n\nEnvironmental protection program administration, public administration\nWaste management program (except sanitation districts) administration, public administration\nPollution control program administration, public administration\nWater control and quality program administration, public administration\n\n\nCross-References. Government establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "92412": {
+              "title": "Administration of Conservation Programs",
+              "desc": "See industry description for 924120.",
+              "childNodes": {
+                "924120": {
+                  "title": "Administration of Conservation Programs",
+                  "desc": "This industry comprises government establishments primarily engaged in the administration, regulation, supervision, and control of land use, including recreational areas; conservation and preservation of natural resources; erosion control; geological survey program administration; weather forecasting program administration; and the administration and protection of publicly and privately owned forest lands.  Government establishments responsible for planning, management, regulation, and conservation of game, fish, and wildlife populations, including wildlife management areas and field stations; and other administrative matters relating to the protection of fish, game, and wildlife are included in this industry.\n\nCross-References. Government establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "925": {
+      "title": "Administration of Housing Programs, Urban Planning, and Community Development",
+      "desc": "The Administration of Housing Programs, Urban Planning, and Community Development subsector groups government establishments primarily engaged in the administration of housing, urban planning, and community development.\n",
+      "childNodes": {
+        "9251": {
+          "title": "Administration of Housing Programs, Urban Planning, and Community Development",
+          "desc": "NULL",
+          "childNodes": {
+            "92511": {
+              "title": "Administration of Housing Programs",
+              "desc": "See industry description for 925110.",
+              "childNodes": {
+                "925110": {
+                  "title": "Administration of Housing Programs",
+                  "desc": "This industry comprises government establishments primarily engaged in the administration and planning of housing programs.\n\nCross-References. Government establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "92512": {
+              "title": "Administration of Urban Planning and Community and Rural Development",
+              "desc": "See industry description for 925120.",
+              "childNodes": {
+                "925120": {
+                  "title": "Administration of Urban Planning and Community and Rural Development",
+                  "desc": "This industry comprises government establishments primarily engaged in the administration and planning of the development of urban and rural areas.  Included in this industry are government zoning boards and commissions.\n\nIllustrative Examples:\n\nLand redevelopment agencies, government\nRegional planning and development program administration, public administration\nUrban planning commissions, government\nZoning boards and commissions, public administration \n",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "926": {
+      "title": "Administration of Economic Programs",
+      "desc": "The Administration of Economic Programs subsector groups government establishments primarily engaged in the administration of economic programs.\n",
+      "childNodes": {
+        "9261": {
+          "title": "Administration of Economic Programs",
+          "desc": "NULL",
+          "childNodes": {
+            "92611": {
+              "title": "Administration of General Economic Programs",
+              "desc": "See industry description for 926110.",
+              "childNodes": {
+                "926110": {
+                  "title": "Administration of General Economic Programs",
+                  "desc": "This industry comprises government establishments primarily engaged in the administration, promotion, and development of economic resources, including business, industry, and tourism.  Included in this industry are government establishments responsible for the development of general statistical data and analyses and promotion of the general economic well-being of the governed area.\n\nIllustrative Examples:\n\nConsumer protection offices, public administration\nSmall business development agencies, public administration\nEconomic development agencies, government\nTrade commissions, government\nGeneral economics statistical agencies, public administration\n\n\nCross-References. Government establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "92612": {
+              "title": "Regulation and Administration of Transportation Programs",
+              "desc": "See industry description for 926120.",
+              "childNodes": {
+                "926120": {
+                  "title": "Regulation and Administration of Transportation Programs",
+                  "desc": "This industry comprises government establishments primarily engaged in the administration, regulation, licensing, planning, inspection, and investigation of transportation services and facilities.  Included in this industry are government establishments responsible for motor vehicle and operator licensing, the Coast Guard (except the Coast Guard Academy), and parking authorities.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "92613": {
+              "title": "Regulation and Administration of Communications, Electric, Gas, and Other Utilities",
+              "desc": "See industry description for 926130.",
+              "childNodes": {
+                "926130": {
+                  "title": "Regulation and Administration of Communications, Electric, Gas, and Other Utilities",
+                  "desc": "This industry comprises government establishments primarily engaged in the administration, regulation, licensing, and inspection of utilities, such as communications, electric power (including fossil, nuclear, solar, water, and wind), gas and water supply, and sewerage.\n\nCross-References. Government establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "92614": {
+              "title": "Regulation of Agricultural Marketing and Commodities",
+              "desc": "See industry description for 926140.",
+              "childNodes": {
+                "926140": {
+                  "title": "Regulation of Agricultural Marketing and Commodities",
+                  "desc": "This industry comprises government establishments primarily engaged in the planning, administration, and coordination of agricultural programs for production, marketing, and utilization, including educational and promotional activities.  Included in this industry are government establishments responsible for regulating and controlling the grading and inspection of food, plants, animals, and other agricultural products.\n\nCross-References. Government establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "92615": {
+              "title": "Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors",
+              "desc": "See industry description for 926150.",
+              "childNodes": {
+                "926150": {
+                  "title": "Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors",
+                  "desc": "This industry comprises government establishments primarily engaged in the regulation, licensing, and inspection of commercial sectors, such as retail trade, professional occupations, manufacturing, mining, construction, and services.  Included in this industry are government establishments maintaining physical standards, regulating hazardous conditions not elsewhere classified, and enforcing alcoholic beverage control regulations.\n\nIllustrative Examples:\n\nAlcoholic beverage control boards, public administration\nLabor management negotiations boards, government\nBanking regulatory agencies, public administration\nLicensing and permit issuance for business operations, government\nBuilding inspections, government\nLicensing and permit issuance for professional occupations, government\nInsurance commissions, government\nSecurities regulation commissions, public administration\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "927": {
+      "title": "Space Research and Technology",
+      "desc": "The Space Research and Technology subsector comprises government establishments primarily engaged in the administration and operations of space flights, space research, and space exploration.\n",
+      "childNodes": {
+        "9271": {
+          "title": "Space Research and Technology",
+          "desc": "NULL",
+          "childNodes": {
+            "92711": {
+              "title": "Space Research and Technology",
+              "desc": "See industry description for 927110.",
+              "childNodes": {
+                "927110": {
+                  "title": "Space Research and Technology",
+                  "desc": "This industry comprises government establishments primarily engaged in the administration and operations of space flights, space research, and space exploration.  Included in this industry are government establishments operating space flight centers.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "928": {
+      "title": "National Security and International Affairs",
+      "desc": "The National Security and International Affairs subsector groups government establishments primarily engaged in national security and international affairs.\n",
+      "childNodes": {
+        "9281": {
+          "title": "National Security and International Affairs",
+          "desc": "NULL",
+          "childNodes": {
+            "92811": {
+              "title": "National Security",
+              "desc": "See industry description for 928110.",
+              "childNodes": {
+                "928110": {
+                  "title": "National Security",
+                  "desc": "This industry comprises government establishments of the Armed Forces, including the National Guard, primarily engaged in national security and related activities.\n\nIllustrative Examples:\n\nAir Force\nMilitary police\nArmy\nMilitary training schools (except military service academies)\nMarine Corps\nNational Guard\nMilitary courts\nNavy\n\n\nCross-References. Government establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "92812": {
+              "title": "International Affairs",
+              "desc": "See industry description for 928120.",
+              "childNodes": {
+                "928120": {
+                  "title": "International Affairs",
+                  "desc": "This industry comprises establishments of U.S. and foreign governments primarily engaged in international affairs and programs relating to other nations and peoples.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

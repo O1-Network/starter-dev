@@ -1,0 +1,783 @@
+{
+  "title": "ManufacturingT",
+  "desc": "The Sector as a Whole\n\nThe Manufacturing sector comprises establishments engaged in the mechanical, physical, or chemical transformation of materials, substances, or components into new products.  The assembling of component parts of manufactured products is considered manufacturing, except in cases where the activity is appropriately classified in Sector 23, Construction.\n\nEstablishments in the Manufacturing sector are often described as plants, factories, or mills and characteristically use power-driven machines and material handling equipment.  However, establishments that transform materials or substances into new products by hand or in the worker's home and those engaged in selling to the general public products made on the same premises from which they are sold, such as bakeries, candy stores, and custom tailors, may also be included in this sector.  Manufacturing establishments may process materials or may contract with other establishments to process their materials for them.  Both types of establishments are included in manufacturing.  Selected industries in the Manufacturing sector are comprised solely of establishments that process materials for other establishments on a contract or fee basis.  Beyond these dedicated contract manufacturing industries, establishments that process materials for other establishments are generally classified in the Manufacturing industry of the processed materials.\n\nThe materials, substances, or components transformed by manufacturing establishments are raw materials that are products of agriculture, forestry, fishing, mining, or quarrying as well as products of other manufacturing establishments.  The materials used may be purchased directly from producers, obtained through customary trade channels, or secured without recourse to the market by transferring the product from one establishment to another, under the same ownership.\n\nThe new product of a manufacturing establishment may be finished in the sense that it is ready for utilization or consumption, or it may be semi-finished to become an input for an establishment engaged in further manufacturing.  For example, the product of the alumina refinery is the input used in the primary production of aluminum; primary aluminum is the input to an aluminum wire drawing plant; and aluminum wire is the input for a fabricated wire product manufacturing establishment.\n\nThe subsectors in the Manufacturing sector generally reflect distinct production processes related to material inputs, production equipment, and employee skills.  In the machinery area, where assembling is a key activity, parts and accessories for manufactured products are classified in the industry of the finished manufactured item when they are made for separate sale.  For example, an attachment for a piece of metalworking machinery would be classified with metalworking machinery.  However, component inputs from other manufacturing establishments are classified based on the production function of the component manufacturer.  For example, electronic components are classified in Subsector 334, Computer and Electronic Product Manufacturing, and stampings are classified in Subsector 332, Fabricated Metal Product Manufacturing.\n\nManufacturing establishments often perform one or more activities that are classified outside the Manufacturing sector of NAICS.  For instance, almost all manufacturing has some captive research and development or administrative operations, such as accounting, payroll, or management.  These captive services are treated the same as captive manufacturing activities.  When the services are provided by separate establishments, they are classified in the NAICS sector where such services are primary, not in manufacturing. \n\nThe boundaries of manufacturing and the other sectors of the classification system can be somewhat blurry.  The establishments in the Manufacturing sector are engaged in the transformation of materials into new products.  Their output is a new product.  However, the definition of what constitutes a new product can be somewhat subjective.  As clarification, the following activities are considered manufacturing in NAICS:\n<table width=100%><tr><td width=10%> </td><td><dl><dt style='padding-left: 10px; text-indent: -10px;'>Milk bottling and pasteurizing;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Water bottling and processing;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Fresh fish packaging (oyster<br/> shucking, fish filleting);</dt><dt style='padding-left: 10px; text-indent: -10px;'>Apparel jobbing (assigning<br/> materials to contract<br/> factories or shops for<br/>  fabrication or other contract<br/> operations) as well as<br/> contracting on materials<br/> owned by others;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Printing and related activities;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Ready-mix concrete production;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Leather converting;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Grinding lenses to<br/> prescription;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Wood preserving;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Lapidary work for the trade;</dt></dl></td><td width=10%> </td><td><dl><dt style='padding-left: 10px; text-indent: -10px;'>Electroplating, plating, metal<br/> heat treating, and<br/> polishing for the trade;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Fabricating signs and<br/> advertising displays;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Rebuilding or remanufacturing<br/> machinery (i.e., automotive<br/> parts);</dt><dt style='padding-left: 10px; text-indent: -10px;'>Making manufactured homes<br/> (i.e., mobile homes) or<br/> prefabricated buildings,<br/> whether or not assembling/<br/> erecting at the customers'<br/> site;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Ship repair and renovation;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Machine shops; and</dt><dt style='padding-left: 10px; text-indent: -10px;'>Tire retreading.</dt></dl></td><td width=10%> </td></tr></table>\nConversely, there are activities that are sometimes considered manufacturing, but which for NAICS are classified in another sector (i.e., not classified as manufacturing). They include:\n\n1. Logging, classified in Sector 11, Agriculture, Forestry, Fishing and Hunting, is considered a harvesting operation;\n2. Beneficiating ores and other minerals, classified in Sector 21, Mining, Quarrying, and Oil and Gas Extraction, is considered part of the activity of mining;\n3. Constructing structures, assembling prefabricated buildings, and fabricating at the construction site by contractors are classified in Sector 23, Construction;\n4. Breaking bulk and reselling in smaller lots, including packaging, repackaging, or bottling products, such as liquors or chemicals; assembling and selling computers on a custom basis; sorting and reselling scrap; mixing and selling paints to customer order; and cutting metals to customer order for resale are classified in Sector 42, Wholesale Trade, or Sector 44-45, Retail Trade; and\n5. Publishing and the combined activity of publishing and printing, classified in Sector 51, Information, transform information into a product for which the value to the consumer lies in the information content, not in the format in which it is distributed (i.e., the book or software compact disc).\n",
+  "childNodes": {
+    "311": {
+      "title": "Food ManufacturingT",
+      "desc": "Industries in the Food Manufacturing subsector transform livestock and agricultural products into products for intermediate or final consumption.  The industry groups are distinguished by the raw materials (generally of animal or vegetable origin) processed into food products.\n\nThe food products manufactured in these establishments are typically sold to wholesalers or retailers for distribution to consumers, but establishments primarily engaged in retailing bakery and candy products made on the premises not for immediate consumption are included.\n\nEstablishments primarily engaged in manufacturing beverages are classified in Subsector 312, Beverage and Tobacco Product Manufacturing.\n",
+      "childNodes": {
+        "3111": {
+          "title": "Animal Food ManufacturingT",
+          "desc": "NULL",
+          "childNodes": {
+            "31111": {
+              "title": "Animal Food ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing food and feed for animals from ingredients, such as grains, oilseed mill products, and meat products.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "311111": {
+                  "title": "Dog and Cat Food Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing dog and cat food from ingredients, such as grains, oilseed mill products, and meat products.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "311119": {
+                  "title": "Other Animal Food Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing animal food (except dog and cat) from ingredients, such as grains, oilseed mill products, and meat products.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3112": {
+          "title": "Grain and Oilseed MillingT",
+          "desc": "This industry group comprises establishments primarily engaged in milling flour or meal from grains or vegetables, manufacturing malt, wet milling corn and other vegetables, crushing oilseeds and tree nuts, refining and/or blending vegetable oils, and manufacturing breakfast cereals.\n",
+          "childNodes": {
+            "31121": {
+              "title": "Flour Milling and Malt ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) milling flour or meal from grains or vegetables; (2) preparing flour mixes or doughs from flour milled in the same establishment; (3) milling, cleaning, and polishing rice; and (4) manufacturing malt from barley, rye, or other grains.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "311211": {
+                  "title": "Flour Milling",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) milling flour or meal from grains (except rice) or vegetables and/or (2) milling flour and preparing flour mixes or doughs.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "311212": {
+                  "title": "Rice Milling",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in one of the following: (1) milling rice; (2) cleaning and polishing rice; or (3) milling, cleaning, and polishing rice.  The establishments in this industry may package the rice they mill with other ingredients.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "311213": {
+                  "title": "Malt Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing malt from barley, rye, or other grains.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "31122": {
+              "title": "Starch and Vegetable Fats and Oils ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) wet milling corn and vegetables; (2) crushing oilseeds and tree nuts; (3) refining and/or blending vegetable oils; (4) manufacturing shortening and margarine; and (5) blending purchased animal fats with vegetable fats.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "311221": {
+                  "title": "Wet Corn Milling and Starch Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in wet milling corn and other vegetables (except to make ethyl alcohol).  Examples of products made in these establishments are corn sweeteners, such as glucose, dextrose, and fructose; corn oil; and starches (except laundry).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "311224": {
+                  "title": "Soybean and Other Oilseed Processing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in crushing oilseeds and tree nuts, such as soybeans, cottonseeds, linseeds, peanuts, and sunflower seeds.  Examples of products produced in these establishments are oilseed oils, cakes, meals, and protein isolates and concentrates.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "311225": {
+                  "title": "Fats and Oils Refining and Blending",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in one or more of the following: (1) manufacturing shortening and margarine from purchased fats and oils; (2) refining and/or blending vegetable, oilseed, and tree nut oils from purchased oils; and (3) blending purchased animal fats with purchased vegetable fats.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "31123": {
+              "title": "Breakfast Cereal ManufacturingT",
+              "desc": "See industry description for 311230.",
+              "childNodes": {
+                "311230": {
+                  "title": "Breakfast Cereal Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing breakfast cereal foods.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3113": {
+          "title": "Sugar and Confectionery Product ManufacturingT",
+          "desc": "This industry group comprises (1) establishments that process agricultural inputs, such as sugarcane, beet, and cacao, to give rise to a new product (sugar or chocolate) and (2) establishments that begin with sugar and chocolate and process these further.\n",
+          "childNodes": {
+            "31131": {
+              "title": "Sugar ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing raw sugar, liquid sugar, and refined sugar from sugarcane, raw cane sugar and sugar beets.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "311313": {
+                  "title": "Beet Sugar Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing refined beet sugar from sugar beets.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "311314": {
+                  "title": "Cane Sugar Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) processing sugarcane and/or (2) refining cane sugar from raw cane sugar.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "31134": {
+              "title": "Nonchocolate Confectionery ManufacturingT",
+              "desc": "See industry description for 311340.",
+              "childNodes": {
+                "311340": {
+                  "title": "Nonchocolate Confectionery Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing nonchocolate confectioneries.  Included in this industry are establishments primarily engaged in retailing nonchocolate confectionery products not for immediate consumption made on the premises.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "31135": {
+              "title": "Chocolate and Confectionery ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in (1) manufacturing chocolate and chocolate confectioneries from cacao beans or (2) manufacturing chocolate confectioneries from chocolate produced elsewhere.  Included in this industry are establishments primarily engaged in retailing chocolate confectionery products not for immediate consumption made on the premises from chocolate made elsewhere.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "311351": {
+                  "title": "Chocolate and Confectionery Manufacturing from Cacao Beans",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in shelling, roasting, and grinding cacao beans and making chocolate cacao products and chocolate confectioneries.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "311352": {
+                  "title": "Confectionery Manufacturing from Purchased Chocolate",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing chocolate confectioneries from chocolate produced elsewhere.  Included in this industry are establishments primarily engaged in retailing chocolate confectionery products not for immediate consumption made on the premises from chocolate made elsewhere.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3114": {
+          "title": "Fruit and Vegetable Preserving and Specialty Food ManufacturingT",
+          "desc": "This industry group includes (1) establishments that freeze food and (2) establishments that use preservation processes, such as pickling, canning, and dehydrating.  Both types begin their production process with inputs of vegetable or animal origin.\n",
+          "childNodes": {
+            "31141": {
+              "title": "Frozen Food ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing frozen fruit, frozen juices, frozen vegetables, and frozen specialty foods (except seafood), such as frozen dinners, entrees, and side dishes; frozen pizza; frozen whipped toppings; and frozen waffles, pancakes, and French toast.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "311411": {
+                  "title": "Frozen Fruit, Juice, and Vegetable Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing frozen fruits; frozen vegetables; and frozen fruit juices, ades, drinks, cocktail mixes and concentrates.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "311412": {
+                  "title": "Frozen Specialty Food Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing frozen specialty foods (except seafood), such as frozen dinners, entrees, and side dishes; frozen pizza; frozen whipped topping; and frozen waffles, pancakes, and French toast.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "31142": {
+              "title": "Fruit and Vegetable Canning, Pickling, and DryingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing canned, pickled, and dried fruits, vegetables, and specialty foods.  Establishments in this industry may package the dried or dehydrated ingredients they make with other purchased ingredients.  Examples of products made by these establishments are canned juices; canned baby foods; canned soups (except seafood); canned dry beans; canned tomato-based sauces, such as catsup, salsa, chili sauce, spaghetti sauce, barbeque sauce, and tomato paste; pickles and relishes; jams and jellies; dried soup mixes and bouillon; and sauerkraut.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "311421": {
+                  "title": "Fruit and Vegetable Canning",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing canned, pickled, and brined fruits and vegetables.  Examples of products made in these establishments are canned juices; canned jams and jellies; canned tomato-based sauces, such as catsup, salsa, chili sauce, spaghetti sauce, barbeque sauce, and tomato paste; and pickles, relishes, and sauerkraut.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "311422": {
+                  "title": "Specialty Canning",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing canned specialty foods.  Examples of products made in these establishments are canned baby food, canned baked beans, canned soups (except seafood), canned spaghetti, and other canned nationality foods.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "311423": {
+                  "title": "Dried and Dehydrated Food Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) drying (including freeze-dried) and/or dehydrating fruits, vegetables, and soup mixes and bouillon and/or (2) drying and/or dehydrating ingredients and packaging them with other purchased ingredients, such as rice and dry pasta.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3115": {
+          "title": "Dairy Product ManufacturingT",
+          "desc": "This industry group comprises establishments that manufacture dairy products from raw milk, processed milk, and dairy substitutes (except butter substitutes).\n",
+          "childNodes": {
+            "31151": {
+              "title": "Dairy Product (except Frozen) ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) manufacturing dairy products (except frozen) from raw milk and/or processed milk products; (2) manufacturing dairy substitutes (except frozen) from soybeans and other nondairy substances; and (3) manufacturing dry, condensed, concentrated, and evaporated dairy and dairy substitute products.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "311511": {
+                  "title": "Fluid Milk Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) manufacturing processed milk products, such as pasteurized milk or cream and sour cream and/or (2) manufacturing fluid milk dairy substitutes from soybeans and other nondairy substances.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "311512": {
+                  "title": "Creamery Butter Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing creamery butter from milk and/or processed milk products.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "311513": {
+                  "title": "Cheese Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) manufacturing cheese products (except cottage cheese) from raw milk and/or processed milk products and/or (2) manufacturing cheese substitutes from soybean and other nondairy substances.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "311514": {
+                  "title": "Dry, Condensed, and Evaporated Dairy Product Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing dry, condensed, and evaporated milk and dairy substitute products.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "31152": {
+              "title": "Ice Cream and Frozen Dessert ManufacturingT",
+              "desc": "See industry description for 311520.",
+              "childNodes": {
+                "311520": {
+                  "title": "Ice Cream and Frozen Dessert Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing ice cream, frozen yogurts, frozen ices, sherbets, frozen tofu, and other frozen desserts (except bakery products).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3116": {
+          "title": "Animal Slaughtering and ProcessingT",
+          "desc": "NULL",
+          "childNodes": {
+            "31161": {
+              "title": "Animal Slaughtering and ProcessingT",
+              "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) slaughtering animals; (2) preparing processed meats and meat byproducts; and (3) rendering and/or refining animal fat, bones, and meat scraps.  This industry includes establishments primarily engaged in assembly cutting and packing of meats (i.e., boxed meats) from purchased carcasses.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "311611": {
+                  "title": "Animal (except Poultry) Slaughtering",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in slaughtering animals (except poultry and small game).  Establishments that slaughter and prepare meats are included in this industry.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "311612": {
+                  "title": "Meat Processed from Carcasses",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in processing or preserving meat and meat byproducts (except poultry and small game) from purchased meats.  This industry includes establishments primarily engaged in assembly cutting and packing of meats (i.e., boxed meats) from purchased meats.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "311613": {
+                  "title": "Rendering and Meat Byproduct Processing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in rendering animal fat, bones, and meat scraps.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "311615": {
+                  "title": "Poultry Processing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) slaughtering poultry and small game and/or (2) preparing processed poultry and small game meat and meat byproducts.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3117": {
+          "title": "Seafood Product Preparation and PackagingT",
+          "desc": "NULL",
+          "childNodes": {
+            "31171": {
+              "title": "Seafood Product Preparation and PackagingT",
+              "desc": "See industry description for 311710.",
+              "childNodes": {
+                "311710": {
+                  "title": "Seafood Product Preparation and Packaging",
+                  "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) canning seafood (including soup); (2) smoking, salting, and drying seafood; (3) eviscerating fresh fish by removing heads, fins, scales, bones, and entrails; (4) shucking and packing fresh shellfish; (5) processing marine fats and oils; and (6) freezing seafood.  Establishments known as \"floating factory ships\" that are engaged in the gathering and processing of seafood into canned seafood products are included in this industry.\n",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3118": {
+          "title": "Bakeries and Tortilla ManufacturingT",
+          "desc": "This industry group comprises establishments primarily engaged in one of the following: (1) manufacturing fresh and frozen bread and other bakery products; (2) retailing bread and other bakery products not for immediate consumption made on the premises from flour, not from prepared dough; (3) manufacturing cookies, crackers, and dry pasta; (4) manufacturing prepared flour mixes or dough from flour ground elsewhere; or (5) manufacturing tortillas.\n",
+          "childNodes": {
+            "31181": {
+              "title": "Bread and Bakery Product ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing fresh and frozen bread and other bakery products.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "311811": {
+                  "title": "Retail Bakeries",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in retailing bread and other bakery products not for immediate consumption made on the premises from flour, not from prepared dough.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "311812": {
+                  "title": "Commercial Bakeries",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing fresh and frozen bread and bread-type rolls and other fresh bakery (except cookies and crackers) products.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "311813": {
+                  "title": "Frozen Cakes, Pies, and Other Pastries Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing frozen bakery products (except bread), such as cakes, pies, and doughnuts.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "31182": {
+              "title": "Cookie, Cracker, and Pasta ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in one of the following: (1) manufacturing cookies and crackers; (2) preparing flour and dough mixes and dough from flour ground elsewhere; and (3) manufacturing dry pasta.  The establishments in this industry may package the dry pasta they manufacture with other ingredients.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "311821": {
+                  "title": "Cookie and Cracker Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing cookies, crackers, and other products, such as ice cream cones.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "311824": {
+                  "title": "Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) manufacturing dry pasta and/or (2) manufacturing prepared flour mixes or dough from flour ground elsewhere.  The establishments in this industry may package the dry pasta they manufacture with other ingredients.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "31183": {
+              "title": "Tortilla ManufacturingT",
+              "desc": "See industry description for 311830.",
+              "childNodes": {
+                "311830": {
+                  "title": "Tortilla Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing tortillas.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3119": {
+          "title": "Other Food ManufacturingT",
+          "desc": "This industry group comprises establishments primarily engaged in manufacturing food (except animal food; grain and oilseed milling; sugar and confectionery products; preserved fruits, vegetables, and specialty foods; dairy products; meat products; seafood products; and bakery products and tortillas).  This industry group includes industries with different production processes, such as snack food manufacturing; coffee and tea manufacturing; concentrate, syrup, condiment, and spice manufacturing; and, in general, an entire range of other miscellaneous food product manufacturing.\n",
+          "childNodes": {
+            "31191": {
+              "title": "Snack Food ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) salting, roasting, drying, cooking, or canning nuts; (2) processing grains or seeds into snacks; (3) manufacturing peanut butter; and (4) manufacturing potato chips, corn chips, popped popcorn, pretzels (except soft), pork rinds, and similar snacks.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "311911": {
+                  "title": "Roasted Nuts and Peanut Butter Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in one or more of the following: (1) salting, roasting, drying, cooking, or canning nuts; (2) processing grains or seeds into snacks; and (3) manufacturing peanut butter and other nut butters.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "311919": {
+                  "title": "Other Snack Food Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing snack foods (except roasted nuts and peanut butter).\n\nIllustrative Examples:\n\nCorn chips and related corn snacks manufacturing\nPopped popcorn (except candy-covered) manufacturing\nPork rinds manufacturing\nPotato chips manufacturing\nPretzels (except soft) manufacturing\nTortilla chips manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "31192": {
+              "title": "Coffee and Tea ManufacturingT",
+              "desc": "See industry description for 311920.",
+              "childNodes": {
+                "311920": {
+                  "title": "Coffee and Tea Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) roasting coffee; (2) manufacturing coffee and tea concentrates (including instant and freeze-dried); (3) blending tea; (4) manufacturing herbal tea; and (5) manufacturing coffee extracts, flavorings, and syrups.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "31193": {
+              "title": "Flavoring Syrup and Concentrate ManufacturingT",
+              "desc": "See industry description for 311930.",
+              "childNodes": {
+                "311930": {
+                  "title": "Flavoring Syrup and Concentrate Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing flavoring syrup drink concentrates and related products for soda fountain use or for the manufacture of soft drinks.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "31194": {
+              "title": "Seasoning and Dressing ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) manufacturing dressings and sauces, such as mayonnaise, salad dressing, vinegar, mustard, horseradish, soy sauce, tartar sauce, Worcestershire sauce, and other prepared sauces (except tomato-based and gravies); (2) manufacturing spices, table salt, seasoning, and flavoring extracts (except coffee and meat), and natural food colorings; and (3) manufacturing dry mix food preparations, such as salad dressing mixes, gravy and sauce mixes, frosting mixes, and other dry mix preparations.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "311941": {
+                  "title": "Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing mayonnaise, salad dressing, vinegar, mustard, horseradish, soy sauce, tartar sauce, Worcestershire sauce, and other prepared sauces (except tomato-based and gravy).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "311942": {
+                  "title": "Spice and Extract Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) manufacturing spices, table salt, seasonings, flavoring extracts (except coffee and meat), and natural food colorings and/or (2) manufacturing dry mix food preparations, such as salad dressing mixes, gravy and sauce mixes, frosting mixes, and other dry mix preparations.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "31199": {
+              "title": "All Other Food ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing food (except animal food; grain and oilseed milling; sugar and confectionery products; preserved fruits, vegetables, and specialty foods; dairy products; meat products; seafood products; baked goods and tortillas; snack foods; coffee and tea; flavoring syrups and concentrates; seasonings; and dressings).  Included in this industry are establishments primarily engaged in mixing purchased dried and/or dehydrated ingredients, including those mixing purchased dried and/or dehydrated ingredients for soup mixes and bouillon.\n\nIllustrative Examples:\n\nBaking powder manufacturing\nCut or peeled fresh vegetables manufacturing\nDessert puddings manufacturing\nEgg substitutes manufacturing\nSweetening syrups (except pure maple) manufacturing\nFresh pasta manufacturing\nFresh pizza manufacturing\nHoney processing\nPopcorn (except popped) manufacturing\nPowdered drink mixes (except chocolate, coffee, tea, or milk based) manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "311991": {
+                  "title": "Perishable Prepared Food Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing perishable prepared foods, such as salads, sandwiches, prepared meals, fresh pizza, fresh pasta, and peeled or cut vegetables.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "311999": {
+                  "title": "All Other Miscellaneous Food Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing food (except animal food; grain and oilseed milling; sugar and confectionery products; preserved fruits, vegetables, and specialties; dairy products; meat products; seafood products; bakeries and tortillas; snack foods; coffee and tea; flavoring syrups and concentrates; seasonings and dressings; and perishable prepared food).  Included in this industry are establishments primarily engaged in mixing purchased dried and/or dehydrated ingredients including those mixing purchased dried and/or dehydrated ingredients for soup mixes and bouillon.\n\nIllustrative Examples:\n\nBaking powder manufacturing\nCake frosting, prepared, manufacturing\nDessert puddings manufacturing\nSweetening syrups (except pure maple) manufacturing\nEgg substitutes manufacturing\nGelatin dessert preparations manufacturing \nHoney processing\nPowdered drink mixes (except chocolate, coffee, tea, or milk based) manufacturing\nPopcorn (except popped) manufacturing\nYeast manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "312": {
+      "title": "Beverage and Tobacco Product ManufacturingT",
+      "desc": "Industries in the Beverage and Tobacco Product Manufacturing subsector manufacture beverages and tobacco products.  The Beverage Manufacturing industry group includes three types of establishments: (1) those that manufacture nonalcoholic beverages; (2) those that manufacture alcoholic beverages through the fermentation process; and (3) those that produce distilled alcoholic beverages.  Ice manufacturing, while not a beverage, is included with nonalcoholic beverage manufacturing because it uses the same production process as water purification.\n\nIn the case of activities related to the manufacture of beverages, the structure follows the defined production processes.  Brandy, a distilled beverage, is not placed under distillery product manufacturing, but rather under winery product manufacturing since the production process used in the manufacturing of alcoholic grape-based beverages produces both wines (fermented beverage) and brandies (distilled beverage).\n\nThe Tobacco Manufacturing industry group includes two types of establishments: (1) those engaged in redrying and stemming tobacco and (2) those that manufacture tobacco products, such as cigarettes and cigars.\n",
+      "childNodes": {
+        "3121": {
+          "title": "Beverage ManufacturingT",
+          "desc": "This industry group comprises establishments primarily engaged in manufacturing soft drinks and ice; purifying and bottling water; and manufacturing brewery, winery, and distillery products.\n",
+          "childNodes": {
+            "31211": {
+              "title": "Soft Drink and Ice ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) manufacturing soft drinks; (2) manufacturing ice; and (3) purifying and bottling water.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "312111": {
+                  "title": "Soft Drink Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing soft drinks and artificially carbonated waters.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "312112": {
+                  "title": "Bottled Water Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in purifying and bottling water (including naturally carbonated).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "312113": {
+                  "title": "Ice Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing ice.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "31212": {
+              "title": "BreweriesT",
+              "desc": "See industry description for 312120.",
+              "childNodes": {
+                "312120": {
+                  "title": "Breweries",
+                  "desc": "This industry comprises establishments primarily engaged in brewing beer, ale, lager, malt liquors, and nonalcoholic beer.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "31213": {
+              "title": "WineriesT",
+              "desc": "See industry description for 312130.",
+              "childNodes": {
+                "312130": {
+                  "title": "Wineries",
+                  "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) growing grapes and manufacturing wines and brandies; (2) manufacturing wines and brandies from grapes and other fruits grown elsewhere; and (3) blending wines and brandies.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "31214": {
+              "title": "DistilleriesT",
+              "desc": "See industry description for 312140.",
+              "childNodes": {
+                "312140": {
+                  "title": "Distilleries",
+                  "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) distilling potable liquors (except brandies); (2) distilling and blending liquors; and (3) blending and mixing liquors and other ingredients.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3122": {
+          "title": "Tobacco ManufacturingT",
+          "desc": "NULL",
+          "childNodes": {
+            "31223": {
+              "title": "Tobacco Manufacturing",
+              "desc": "See industry description for 312230.",
+              "childNodes": {
+                "312230": {
+                  "title": "Tobacco Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in (1) stemming and redrying tobacco and/or (2) manufacturing cigarettes or other tobacco products.\n\nIllustrative Examples:\n\nChewing tobacco manufacturing\nCigar manufacturing\nCigarettes manufacturing (except electronic)\nSnuff manufacturing\nPrepared pipe tobacco manufacturing\nTobacco leaf processing and aging\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "313": {
+      "title": "Textile MillsT",
+      "desc": "Industries in the Textile Mills subsector group establishments that transform a basic fiber (natural or synthetic) into a product, such as yarn or fabric that is further manufactured into usable items, such as apparel, sheets, towels, and textile bags for individual or industrial consumption.  The further manufacturing may be performed in the same establishment and classified in this subsector, or it may be performed at a separate establishment and be classified elsewhere in the Manufacturing sector.\n\nThe main processes in this subsector include preparation and spinning of fiber, knitting or weaving of fabric, and the finishing of the textile.  The NAICS structure follows and captures this process flow.  Major industries in this flow, such as preparation of fibers, weaving of fabric, knitting of fabric, and fiber and fabric finishing, are uniquely identified.  Texturizing, throwing, twisting, and winding of yarn contain aspects of both fiber preparation and fiber finishing and are classified with preparation of fibers rather than with finishing of fibers.\n\nNAICS separates the manufacturing of primary textiles and the manufacturing of textile products (except apparel) produced from purchased primary textiles, such as fabric.  The manufacturing of textile products (except apparel) from purchased fabric is classified in Subsector 314, Textile Product Mills, and apparel from purchased fabric is classified in Subsector 315, Apparel Manufacturing.\n\nExcluded from this subsector are establishments that weave or knit fabric and make garments.  These establishments are included in Subsector 315, Apparel Manufacturing.\n",
+      "childNodes": {
+        "3131": {
+          "title": "Fiber, Yarn, and Thread MillsT",
+          "desc": "NULL",
+          "childNodes": {
+            "31311": {
+              "title": "Fiber, Yarn, and Thread MillsT",
+              "desc": "See industry description for 313110.",
+              "childNodes": {
+                "313110": {
+                  "title": "Fiber, Yarn, and Thread Mills",
+                  "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) spinning yarn; (2) manufacturing thread of any fiber; (3) texturizing, throwing, twisting, and winding purchased yarn or manmade fibers and filaments; and (4) producing hemp yarn and further processing into rope or bags.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3132": {
+          "title": "Fabric MillsT",
+          "desc": "This industry group comprises establishments primarily engaged in one of the following: (1) weaving broadwoven fabrics and felts (except tire fabrics and rugs); (2) weaving or braiding narrow fabrics; (3) making fabric-covered elastic yarn and thread; (4) manufacturing Schiffli machine embroideries; (5) manufacturing nonwoven fabrics and felts; (6) knitting weft (i.e., circular) and warp (i.e., flat) fabric; (7) knitting and finishing weft and warp fabric; (8) manufacturing lace; or (9) manufacturing, dyeing, and finishing lace and lace goods.\n",
+          "childNodes": {
+            "31321": {
+              "title": "Broadwoven Fabric MillsT",
+              "desc": "See industry description for 313210.",
+              "childNodes": {
+                "313210": {
+                  "title": "Broadwoven Fabric Mills",
+                  "desc": "This industry comprises establishments primarily engaged in weaving broadwoven fabrics and felts (except tire fabrics and rugs).  Establishments in this industry may weave only, weave and finish, or weave, finish, and further fabricate fabric products.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "31322": {
+              "title": "Narrow Fabric Mills and Schiffli Machine EmbroideryT",
+              "desc": "See industry description for 313220.",
+              "childNodes": {
+                "313220": {
+                  "title": "Narrow Fabric Mills and Schiffli Machine Embroidery",
+                  "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) weaving or braiding narrow fabrics in their final form or initially made in wider widths that are specially constructed for narrower widths; (2) making fabric-covered elastic yarn and thread; and (3) manufacturing Schiffli machine embroideries.  Establishments in this industry may weave only; weave and finish; or weave, finish, and further fabricate fabric products.\n",
+                  "childNodes": {}
+                }
+              }
+            },
+            "31323": {
+              "title": "Nonwoven Fabric MillsT",
+              "desc": "See industry description for 313230.",
+              "childNodes": {
+                "313230": {
+                  "title": "Nonwoven Fabric Mills",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing nonwoven fabrics and felts. Processes used include bonding and/or interlocking fibers by mechanical, chemical, thermal, or solvent means, or by combinations thereof.\n",
+                  "childNodes": {}
+                }
+              }
+            },
+            "31324": {
+              "title": "Knit Fabric MillsT",
+              "desc": "See industry description for 313240.",
+              "childNodes": {
+                "313240": {
+                  "title": "Knit Fabric Mills",
+                  "desc": "This industry comprises establishments primarily engaged in one of the following: (1) knitting weft (i.e., circular) and warp (i.e., flat) fabric; (2) knitting and finishing weft and warp fabric; (3) manufacturing lace; or (4) manufacturing, dyeing, and finishing lace and lace goods.  Establishments in this industry may knit only; knit and finish; or knit, finish, and further fabricate fabric products (except apparel).\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3133": {
+          "title": "Textile and Fabric Finishing and Fabric Coating MillsT",
+          "desc": "This industry group comprises establishments primarily engaged in one of the following: (1) finishing textiles, fabrics, and apparel; (2) converting fabrics and textiles by buying fabric goods in the grey, having them finished on contract, and selling them at wholesale; or (3) coating, laminating, varnishing, waxing, and rubberizing textiles and apparel.\n",
+          "childNodes": {
+            "31331": {
+              "title": "Textile and Fabric Finishing MillsT",
+              "desc": "See industry description for 313310.",
+              "childNodes": {
+                "313310": {
+                  "title": "Textile and Fabric Finishing Mills",
+                  "desc": "This industry comprises (1) establishments primarily engaged in finishing textiles, fabrics, and apparel and (2) establishments of converters who buy fabric goods in the grey, have them finished on contract, and sell at wholesale.  Finishing operations include: bleaching, dyeing, printing (e.g., roller, screen, flock, plisse), stonewashing, and other mechanical finishing, such as preshrinking, shrinking, sponging, calendering, mercerizing, and napping; as well as cleaning, scouring, and the preparation of natural fibers and raw stock.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "31332": {
+              "title": "Fabric Coating MillsT",
+              "desc": "See industry description for 313320.",
+              "childNodes": {
+                "313320": {
+                  "title": "Fabric Coating Mills",
+                  "desc": "This industry comprises establishments primarily engaged in coating, laminating, varnishing, waxing, and rubberizing textiles and apparel.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "314": {
+      "title": "Textile Product MillsT",
+      "desc": "Industries in the Textile Product Mills subsector group establishments that make textile products (except apparel).  With a few exceptions, processes used by these establishments are generally cut and sew (i.e., purchasing fabric and cutting and sewing to make nonapparel textile products, such as sheets and towels).\n",
+      "childNodes": {
+        "3141": {
+          "title": "Textile Furnishings MillsT",
+          "desc": "This industry group comprises establishments primarily engaged in (1) manufacturing woven, tufted, and other carpets and rugs and (2) manufacturing household textile products from purchased materials.  The household textile products may be made on a stock or custom basis for sale to individual retail customers.\n",
+          "childNodes": {
+            "31411": {
+              "title": "Carpet and Rug MillsT",
+              "desc": "See industry description for 314110.",
+              "childNodes": {
+                "314110": {
+                  "title": "Carpet and Rug Mills",
+                  "desc": "This industry comprises establishments primarily engaged in (1) manufacturing woven, tufted, and other carpets and rugs, such as art squares, floor mattings, needlepunch carpeting, and door mats and mattings, from textile materials or from twisted paper, grasses, reeds, sisal, jute, or rags and/or (2) finishing carpets and rugs.\n",
+                  "childNodes": {}
+                }
+              }
+            },
+            "31412": {
+              "title": "Curtain and Linen MillsT",
+              "desc": "See industry description for 314120.",
+              "childNodes": {
+                "314120": {
+                  "title": "Curtain and Linen Mills",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing household textile products, such as curtains, draperies, linens, bedspreads, sheets, tablecloths, towels, and shower curtains, from purchased materials.  The household textile products may be made on a stock or custom basis for sale to individual retail customers.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3149": {
+          "title": "Other Textile Product MillsT",
+          "desc": "This industry group comprises establishments primarily engaged in making textile products (except carpets and rugs, curtains and draperies, and other household textile products) from purchased materials.\n",
+          "childNodes": {
+            "31491": {
+              "title": "Textile Bag and Canvas MillsT",
+              "desc": "See industry description for 314910.",
+              "childNodes": {
+                "314910": {
+                  "title": "Textile Bag and Canvas Mills",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing textile bags (except luggage) or other canvas and canvas-like products, such as awnings, sails, tarpaulins, and tents from purchased textile fabrics or yarns.\n\nIllustrative Examples:\n\nCovers (e.g., boat, swimming pool, truck) made from purchased fabrics\nLaundry bags made from purchased woven or knitted materials\nSeed bags made from purchased woven or knitted materials\nTextile bags made from purchased woven or knitted materials\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "31499": {
+              "title": "All Other Textile Product MillsT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing nonapparel textile products (except carpet, rugs, curtains, linens, bags, and canvas products) from purchased materials.  This industry includes establishments primarily engaged in decorative stitching such as embroidery or other art needlework on textile products, including apparel.\n\nIllustrative Examples:\n\nBatts and batting (except nonwoven fabrics) manufacturing\nCarpet cutting and binding\nDiapers (except disposable) made from purchased materials\nFishing nets made from purchased materials\nEmbroidering on textile products or apparel for the trade\nRopes (except wire rope) manufacturing\nSleeping bags manufacturing\nTire cord and fabric, all materials, manufacturing\nTwines manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "314994": {
+                  "title": "Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) manufacturing rope, cable, cordage, twine, and related products from all materials (e.g., abaca, sisal, henequen, cotton, paper, jute, flax, manmade fibers including glass) and/or (2) manufacturing cord and fabric of polyester, rayon, cotton, glass, steel, or other materials for use in reinforcing rubber tires, industrial belting, and similar uses.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "314999": {
+                  "title": "All Other Miscellaneous Textile Product Mills",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing textile products (except carpets and rugs; curtains and linens; textile bags and canvas products; rope, cordage, and twine; and tire cords and tire fabrics) from purchased materials.  These establishments may further embellish the textile products they manufacture with decorative stitching.  Establishments primarily engaged in adding decorative stitching such as embroidery or other art needlework on textile products, including apparel, on a contract or fee basis for the trade, are included in this industry.\n\nIllustrative Examples:\n\nBatts and batting (except nonwoven fabrics) manufacturing\nEmbroidering on textile products or apparel for the trade\nFishing nets made from purchased materials\nCarpet cutting and binding\nSleeping bags manufacturing\nDiapers (except disposable) made from purchased materials\nTextile fire hoses made from purchased materials\nDust cloths made from purchased fabric\nWeatherstripping made from purchased textiles\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "315": {
+      "title": "Apparel ManufacturingT",
+      "desc": "Industries in the Apparel Manufacturing subsector group establishments with two distinct manufacturing processes: (1) cut and sew (i.e., purchasing fabric and cutting and sewing to make a garment) and (2) the manufacture of garments in establishments that first knit fabric and then cut and sew the fabric into a garment.  The Apparel Manufacturing subsector includes a diverse range of establishments manufacturing full lines of ready-to-wear apparel and custom apparel: apparel contractors, performing cutting or sewing operations on materials owned by others; jobbers, performing entrepreneurial functions involved in apparel manufacturing; and tailors, manufacturing custom garments for individual clients.  Knitting fabric, when done alone, is classified in the Textile Mills subsector, but when knitting is combined with the production of complete garments, the activity is classified in the Apparel Manufacturing subsector.\n",
+      "childNodes": {
+        "3151": {
+          "title": "Apparel Knitting MillsT",
+          "desc": "NULL",
+          "childNodes": {
+            "31512": {
+              "title": "Apparel Knitting MillsT",
+              "desc": "See industry description for 315120.",
+              "childNodes": {
+                "315120": {
+                  "title": "Apparel Knitting Mills",
+                  "desc": "This industry comprises establishments primarily engaged in knitting apparel or knitting fabric and then manufacturing apparel.  Jobbers, performing entrepreneurial functions involved in knitting apparel and accessories, are included.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3152": {
+          "title": "Cut and Sew Apparel ManufacturingT",
+          "desc": "This industry group comprises establishments primarily engaged in manufacturing cut and sew apparel from woven fabric or purchased knit fabric.  Included in this industry group is a diverse range of establishments manufacturing full lines of ready-to-wear apparel and custom apparel: apparel contractors, performing cutting or sewing operations on materials owned by others; jobbers, performing entrepreneurial functions involved in apparel manufacturing; and tailors, manufacturing custom garments for individual clients.  Establishments weaving or knitting fabric, without manufacturing apparel, are classified in Subsector 313, Textile Mills.\n",
+          "childNodes": {
+            "31521": {
+              "title": "Cut and Sew Apparel Contractors",
+              "desc": "See industry description for 315210.",
+              "childNodes": {
+                "315210": {
+                  "title": "Cut and Sew Apparel Contractors",
+                  "desc": "This industry comprises establishments commonly referred to as contractors primarily engaged in (1) cutting materials owned by others for apparel and accessories and/or (2) sewing materials owned by others for apparel and accessories.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "31525": {
+              "title": "Cut and Sew Apparel Manufacturing (except Contractors)",
+              "desc": "See industry description for 315250.",
+              "childNodes": {
+                "315250": {
+                  "title": "Cut and Sew Apparel Manufacturing (except Contractors)",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing cut and sew apparel from purchased fabric.  Clothing jobbers, who perform entrepreneurial functions involved in apparel manufacture, including buying raw materials, designing and preparing samples, arranging for apparel to be made from their materials, and marketing finished apparel, are included.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3159": {
+          "title": "Apparel Accessories and Other Apparel ManufacturingT",
+          "desc": "NULL",
+          "childNodes": {
+            "31599": {
+              "title": "Apparel Accessories and Other Apparel ManufacturingT",
+              "desc": "See industry description for 315990.",
+              "childNodes": {
+                "315990": {
+                  "title": "Apparel Accessories and Other Apparel Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing apparel and accessories (except apparel knitting mills, cut and sew apparel contractors, and cut and sew apparel manufacturing (except contractors)).  Jobbers, who perform entrepreneurial functions involved in apparel accessories manufacture, including buying raw materials, designing and preparing samples, arranging for apparel accessories to be made from their materials, and marketing finished apparel accessories, are included.  Examples of products made by these establishments are belts, caps, gloves (except medical, safety, sporting), hats, and neckties.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "316": {
+      "title": "Leather and Allied Product ManufacturingT",
+      "desc": "Establishments in the Leather and Allied Product Manufacturing subsector transform hides into leather by tanning or curing and fabricating the leather into products for final consumption.  This subsector also includes the manufacture of similar products from other materials, including products (except apparel) made from \"leather substitutes,\" such as rubber, plastics, or textiles.  Rubber footwear, textile luggage, and plastics purses or wallets are examples of \"leather substitute\" products included in this subsector.  The products made from leather substitutes are included in this subsector because they are made in similar ways leather products are made (e.g., luggage).  They are made in the same establishments, so it is not practical to separate them.\n\nThe inclusion of leather and hide tanning and finishing in this subsector is partly because it is a relatively small industry that has few close neighbors as a production process, partly because leather is an input to some of the other products classified in this subsector, and partly for historical reasons.\n",
+      "childNodes": {
+        "3161": {
+          "title": "Leather and Hide Tanning and FinishingT",
+          "desc": "NULL",
+          "childNodes": {
+            "31611": {
+              "title": "Leather and Hide Tanning and FinishingT",
+              "desc": "See industry description for 316110.",
+              "childNodes": {
+                "316110": {
+                  "title": "Leather and Hide Tanning and Finishing",
+                  "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) tanning, currying, and finishing hides and skins; (2) having others process hides and skins on a contract basis; and (3) dyeing or dressing furs.\n",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3162": {
+          "title": "Footwear ManufacturingT",
+          "desc": "NULL",
+          "childNodes": {
+            "31621": {
+              "title": "Footwear ManufacturingT",
+              "desc": "See industry description for 316210.",
+              "childNodes": {
+                "316210": {
+                  "title": "Footwear Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing footwear (except orthopedic extension footwear).\n\nIllustrative Examples:\n\nAthletic shoes manufacturing\nBallet slippers manufacturing\nCleated athletic shoes manufacturing\nShoes, children's and infants' (except orthopedic extension), manufacturing\nShoes, men's (except orthopedic extension), manufacturing\nShoes, women's (except orthopedic extension), manufacturing\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3169": {
+          "title": "Other Leather and Allied Product ManufacturingT",
+          "desc": "NULL",
+          "childNodes": {
+            "31699": {
+              "title": "Other Leather and Allied Product ManufacturingT",
+              "desc": "See industry description for 316990.",
+              "childNodes": {
+                "316990": {
+                  "title": "Other Leather and Allied Product Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing leather products (except footwear and apparel) from purchased leather or leather substitutes (e.g., fabric, plastics).\n\nIllustrative Examples:\n\nBillfolds, all materials, manufacturing\nBoot and shoe cut stock and findings, leather, manufacturing\nDog furnishings (e.g., collars, harnesses, leashes, muzzles), manufacturing \nLuggage, all materials, manufacturing\nShoe soles, leather, manufacturing\nPurses, women's, all materials (except metal), manufacturing\nToilet kits and cases (except metal) manufacturing\nWatch bands (except metal) manufacturing\nWelders' jackets, leggings, and sleeves, leather, manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

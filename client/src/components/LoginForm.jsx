@@ -32,7 +32,7 @@ const Login = () => {
                   <Input type="password" id="login_password" required />
               </ListItem>
           </FormList>
-          <ErrorBox>Email, username, rules placeholder</ErrorBox>
+          <ErrorBox></ErrorBox>
             <SubmitButton>Login</SubmitButton>
             <ForgotPassword href='#'>Forgot Password?</ForgotPassword>
         </FormStyles>

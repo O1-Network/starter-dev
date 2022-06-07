@@ -7,6 +7,8 @@ export const NavStyle = styled.nav`
     background: #F2FCFF;
     padding: 15px;
     display: block;
+    position: sticky;
+    top: 0;
 `;
 
 export const NavContainer = styled.div`

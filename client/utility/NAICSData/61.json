@@ -1,0 +1,211 @@
+{
+  "title": "Educational ServicesT",
+  "desc": "The Sector as a Whole\n\nThe Educational Services sector comprises establishments that provide instruction and training in a wide variety of subjects.  This instruction and training is provided by specialized establishments, such as schools, colleges, universities, and training centers.  These establishments may be privately owned and operated for profit or not for profit, or they may be publicly owned and operated.  They may also offer food and/or accommodation services to their students.\n\nEducational services are usually delivered by teachers or instructors that explain, tell, demonstrate, supervise, and direct learning.  Instruction is imparted in diverse settings, such as educational institutions, the workplace, or the home, and through diverse means, such as correspondence, television, the Internet, or other electronic and distance-learning methods.  The training provided by these establishments may include the use of simulators and simulation methods.  It can be adapted to the particular needs of the students, for example sign language can replace verbal language for teaching students with hearing impairments.  All industries in the sector share this commonality of process, namely, labor inputs of instructors with the requisite subject matter expertise and teaching ability.\n",
+  "childNodes": {
+    "611": {
+      "title": "Educational ServicesT",
+      "desc": "Industries in the Educational Services subsector provide instruction and training in a wide variety of subjects.  The instruction and training is provided by specialized establishments, such as schools, colleges, universities, and training centers.\n\nThe subsector is structured according to level and type of educational services.  Elementary and secondary schools, junior colleges, and colleges, universities, and professional schools correspond to a recognized series of formal levels of education designated by diplomas, associate degrees (including equivalent certificates), and degrees.  The remaining industry groups are based more on the type of instruction or training offered, and the levels are not always as formally defined.  The establishments are often highly specialized, many offering instruction in a very limited subject matter, for example ski lessons or one specific computer software application.  Within the subsector, the level and types of training that are required of the instructors and teachers vary depending on the industry.\n\nEstablishments that manage schools and other educational establishments on a contractual basis are classified in this subsector if they both manage the operation and provide the operating staff.  Such establishments are classified in the Educational Services subsector based on the type of facility managed and operated.\n\nExcluded from this subsector are establishments primarily engaged in publishing educational software or other educational materials without providing instruction.  These establishments are classified in Subsector 513, Publishing Industries.  Establishments that manage schools and other educational establishments on a contract or fee basis without providing the operating staff are classified in Subsector 561, Administrative and Support Services.  Establishments primarily engaged in providing vocational rehabilitation services and establishments primarily engaged in providing child care services are classified in Subsector 624, Social Assistance.\n",
+      "childNodes": {
+        "6111": {
+          "title": "Elementary and Secondary SchoolsT",
+          "desc": "NULL",
+          "childNodes": {
+            "61111": {
+              "title": "Elementary and Secondary Schools",
+              "desc": "See industry description for 611110.",
+              "childNodes": {
+                "611110": {
+                  "title": "Elementary and Secondary Schools",
+                  "desc": "This industry comprises establishments primarily engaged in furnishing academic courses and associated course work that comprise a basic preparatory education.  A basic preparatory education ordinarily constitutes kindergarten through 12th grade.  This industry includes school boards and school districts.\n\nIllustrative Examples:\n\nElementary schools\nParochial schools, elementary or secondary\nHigh schools\nPrimary schools\nCharter schools\nKindergartens\nMilitary academies, elementary or secondary\nSchools for the physically disabled, elementary or secondary\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "6112": {
+          "title": "Junior CollegesT",
+          "desc": "NULL",
+          "childNodes": {
+            "61121": {
+              "title": "Junior CollegesT",
+              "desc": "See industry description for 611210.",
+              "childNodes": {
+                "611210": {
+                  "title": "Junior Colleges",
+                  "desc": "This industry comprises establishments primarily engaged in furnishing academic, or academic and technical, courses and granting associate degrees, certificates, or diplomas below the baccalaureate level.  The requirement for admission to an associate or equivalent degree program is at least a high school diploma or equivalent general academic training.  Instruction may be provided in diverse settings, such as the establishment's or client's training facilities, educational institutions, the workplace, or the home, and through diverse means, such as correspondence, television, the Internet, or other electronic and distance-learning methods.  The training provided by these establishments may include the use of simulators and simulation methods.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "6113": {
+          "title": "Colleges, Universities, and Professional SchoolsT",
+          "desc": "NULL",
+          "childNodes": {
+            "61131": {
+              "title": "Colleges, Universities, and Professional SchoolsT",
+              "desc": "See industry description for 611310.",
+              "childNodes": {
+                "611310": {
+                  "title": "Colleges, Universities, and Professional Schools",
+                  "desc": "This industry comprises establishments primarily engaged in furnishing academic courses and granting degrees at baccalaureate or graduate levels.  The requirement for admission is at least a high school diploma or equivalent general academic training.  Instruction may be provided in diverse settings, such as the establishment's or client's training facilities, educational institutions, the workplace, or the home, and through diverse means, such as correspondence, television, the Internet, or other electronic and distance-learning methods.  The training provided by these establishments may include the use of simulators and simulation methods.\n\nIllustrative Examples:\n\nColleges (except junior colleges)\nTheological seminaries offering baccalaureate or graduate degrees\nMilitary academies, college-level\nUniversities\nProfessional schools (e.g., business administration, dental, law, medical)\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "6114": {
+          "title": "Business Schools and Computer and Management TrainingT",
+          "desc": "This industry group comprises establishments primarily engaged in one of the following: (1) offering courses in office procedures and secretarial and stenographic skills and may offer courses in basic office skills, such as word processing; (2) conducting computer training (except computer repair); or (3) offering an array of short duration courses and seminars for management and professional development.  Instruction may be provided in diverse settings, such as the establishment's or client's training facilities, educational institutions, the workplace, or the home, and through diverse means, such as correspondence, television, the Internet, or other electronic and distance-learning methods.  The training provided by these establishments may include the use of simulators and simulation methods.\n",
+          "childNodes": {
+            "61141": {
+              "title": "Business and Secretarial SchoolsT",
+              "desc": "See industry description for 611410.",
+              "childNodes": {
+                "611410": {
+                  "title": "Business and Secretarial Schools",
+                  "desc": "This industry comprises establishments primarily engaged in offering courses in office procedures and secretarial and stenographic skills and may offer courses in basic office skills, such as word processing.  In addition, these establishments may offer such classes as office machine operation, reception, communications, and other skills designed for individuals pursuing a clerical or secretarial career.  Instruction may be provided in diverse settings, such as the establishment's or client's training facilities, educational institutions, the workplace, or the home, and through diverse means, such as correspondence, television, the Internet, or other electronic and distance-learning methods.  The training provided by these establishments may include the use of simulators and simulation methods.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "61142": {
+              "title": "Computer TrainingT",
+              "desc": "See industry description for 611420.",
+              "childNodes": {
+                "611420": {
+                  "title": "Computer Training",
+                  "desc": "This industry comprises establishments primarily engaged in conducting computer training (except computer repair), such as instruction in computer programming, software applications, computerized business systems, computer electronics technology, computer operations, and local area network management.  Instruction may be provided in diverse settings, such as the establishment's or client's training facilities, educational institutions, the workplace, or the home, and through diverse means, such as correspondence, television, the Internet, or other electronic and distance-learning methods.  The training provided by these establishments may include the use of simulators and simulation methods.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "61143": {
+              "title": "Professional and Management Development TrainingT",
+              "desc": "See industry description for 611430.",
+              "childNodes": {
+                "611430": {
+                  "title": "Professional and Management Development Training",
+                  "desc": "This industry comprises establishments primarily engaged in offering an array of short duration courses and seminars for management and professional development.  Training for career development may be provided directly to individuals or through employers' training programs, and courses may be customized or modified to meet the special needs of customers.  Instruction may be provided in diverse settings, such as the establishment's or client's training facilities, educational institutions, the workplace, or the home, and through diverse means, such as correspondence, television, the Internet, or other electronic and distance-learning methods.  The training provided by these establishments may include the use of simulators and simulation methods.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "6115": {
+          "title": "Technical and Trade SchoolsT",
+          "desc": "NULL",
+          "childNodes": {
+            "61151": {
+              "title": "Technical and Trade SchoolsT",
+              "desc": "This industry comprises establishments primarily engaged in offering vocational and technical training in a variety of technical subjects and trades.  The training often leads to job-specific certification.  Instruction may be provided in diverse settings, such as the establishment's or client's training facilities, educational institutions, the workplace, or the home, and through diverse means, such as correspondence, television, the Internet, or other electronic and distance-learning methods.  The training provided by these establishments may include the use of simulators and simulation methods.\n\nIllustrative Examples:\n\nApprenticeship training programs\nGraphic arts schools\nAviation and flight training schools\nModeling schools\nComputer repair training\nNursing schools (except academic)\nCosmetology schools\nReal estate schools\nElectronic equipment repair training\nTruck driving schools \n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "611511": {
+                  "title": "Cosmetology and Barber Schools",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in offering training in barbering, hair styling, or the cosmetic arts, such as makeup or skin care.  These schools provide job-specific certification.\n",
+                  "childNodes": {}
+                },
+                "611512": {
+                  "title": "Flight Training",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in offering aviation and flight training.  These establishments may offer vocational training, recreational training, or both.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "611513": {
+                  "title": "Apprenticeship Training",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in offering apprenticeship training programs.  These programs involve applied training as well as course work.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "611519": {
+                  "title": "Other Technical and Trade Schools",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in offering job or career vocational or technical courses (except cosmetology and barber training, aviation and flight training, and apprenticeship training).  The curriculums offered by these schools are highly structured and specialized and lead to job-specific certification.\n\nIllustrative Examples:\n\nBartending schools\nModeling schools\nBroadcasting schools\nReal estate schools\nComputer repair training\nTruck driving schools\nGraphic arts schools\nSpecialized military training (except flight instruction, academies, and basic training)\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "6116": {
+          "title": "Other Schools and InstructionT",
+          "desc": "This industry group comprises establishments primarily engaged in offering or providing instruction (except academic schools, colleges, and universities; business, computer, and management instruction; and technical and trade instruction).  Instruction may be provided in diverse settings, such as the establishment's or client's training facilities, educational institutions, the workplace, or the home, and through diverse means, such as correspondence, television, the Internet, or other electronic and distance-learning methods.  The training provided by these establishments may include the use of simulators and simulation methods.\n",
+          "childNodes": {
+            "61161": {
+              "title": "Fine Arts SchoolsT",
+              "desc": "See industry description for 611610.",
+              "childNodes": {
+                "611610": {
+                  "title": "Fine Arts Schools",
+                  "desc": "This industry comprises establishments primarily engaged in offering instruction in the arts, including dance, art, drama, and music.\n\nIllustrative Examples:\n\nArt (except commercial and graphic) instruction\nMusic instruction (e.g., piano, guitar)\nDance instruction\nMusic schools (except academic)\nDance studios\nPerforming arts schools (except academic)\nDrama schools (except academic)\nPhotography schools (except commercial photography)\nFine arts schools (except academic)\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "61162": {
+              "title": "Sports and Recreation InstructionT",
+              "desc": "See industry description for 611620.",
+              "childNodes": {
+                "611620": {
+                  "title": "Sports and Recreation Instruction",
+                  "desc": "This industry comprises establishments, such as camps and schools, primarily engaged in offering instruction in athletic activities.  Overnight and day sports instruction camps are included in this industry.\n\nIllustrative Examples:\n\nCamps, sports instruction\nProfessional sports instructors (i.e., not participating in sporting events)\nCheerleading instruction\nRiding instruction academies or schools\nGymnastics instruction\nSports (e.g., baseball, basketball, football, golf) instruction\nMartial arts instruction, camps or schools\nSwimming instruction\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "61163": {
+              "title": "Language SchoolsT",
+              "desc": "See industry description for 611630.",
+              "childNodes": {
+                "611630": {
+                  "title": "Language Schools",
+                  "desc": "This industry comprises establishments primarily engaged in offering foreign language instruction (including sign language).  These establishments are designed to offer language instruction ranging from conversational skills for personal enrichment to intensive training courses for career or educational opportunities.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "61169": {
+              "title": "All Other Schools and InstructionT",
+              "desc": "This industry comprises establishments primarily engaged in offering instruction (except academic schools, colleges, and universities; business, computer, and management instruction; technical and trade instruction; and fine arts, sports, recreation, and language instruction).\n\nIllustrative Examples:\n\nAcademic tutoring services\nPublic speaking training\nAutomobile driving schools\nSpeed reading instruction\nExam preparation services\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "611691": {
+                  "title": "Exam Preparation and Tutoring",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in offering preparation for standardized examinations and/or academic tutoring services.\n\nIllustrative Examples:\n\nAcademic tutoring services\nLearning centers offering remedial courses\nCollege board preparation centers\nProfessional examination review instruction\n",
+                  "childNodes": {}
+                },
+                "611692": {
+                  "title": "Automobile Driving Schools",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in offering automobile driving instruction.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "611699": {
+                  "title": "All Other Miscellaneous Schools and Instruction",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in offering instruction (except academic schools, colleges, and universities; business, computer, and management instruction; technical and trade instruction; and fine arts, sports, recreation, language, exam preparation, tutoring, and automobile driving instruction).\n\nIllustrative Examples:\n\nPublic speaking training\nSurvival training\nSpeed reading instruction\nYoga instruction, camps or schools\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "6117": {
+          "title": "Educational Support ServicesT",
+          "desc": "NULL",
+          "childNodes": {
+            "61171": {
+              "title": "Educational Support ServicesT",
+              "desc": "See industry description for 611710.",
+              "childNodes": {
+                "611710": {
+                  "title": "Educational Support Services",
+                  "desc": "This industry comprises establishments primarily engaged in providing non-instructional services that support educational processes or systems.\n\nIllustrative Examples:\n\nEducational consultants\nEducational testing services\nEducational guidance counseling services\nStudent exchange programs\nEducational testing evaluation services\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

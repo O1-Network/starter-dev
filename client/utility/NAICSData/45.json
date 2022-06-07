@@ -1,0 +1,421 @@
+{
+  "title": "Retail TradeT",
+  "desc": "The Sector as a Whole\n\nThe Retail Trade sector comprises establishments primarily engaged in retailing merchandise, generally without transformation, and rendering services incidental to the sale of merchandise.\n\nThe retailing process is the final step in the distribution of merchandise; retailers are, therefore, organized to sell merchandise in small quantities to the general public.  Retail stores are fixed point-of-sale locations, located and designed to attract a high volume of walk-in customers.  In general, retail stores have extensive displays of merchandise and use mass-media advertising to attract customers.  Retailers often reach customers and market merchandise with methods other than, or in addition to, physical stores, such as Internet websites, the broadcasting of \"infomercials,\" the broadcasting and publishing of direct-response advertising, the publishing of paper and electronic catalogs, door-to-door solicitation, in-home demonstration, selling from portable stalls (street vendors, except food), and distribution through vending machines.  Establishments engaged in the direct sale and home delivery of products, such as home heating oil dealers and home delivery newspaper routes, are included here.\n\nRetail establishments typically sell merchandise to the general public for personal or household consumption, but some also serve business and institutional clients.  These include office supply retailers, computer and software retailers, building materials dealers, plumbing supply retailers, and electrical supply retailers.\n\nIn addition to retailing merchandise, some retailers are also engaged in the provision of after-sales services, such as repair and installation.  For example, new automobile dealers, electronics and appliance retailers, and musical instrument and supplies retailers often provide repair services.  As a general rule, establishments engaged in retailing merchandise and providing after-sales services are classified in this sector.\n\nRetail trade establishments are grouped into industries and industry groups typically based on one or more of the following criteria:\n\n(a) The merchandise line or lines carried; for example, specialty retailers are distinguished from general-line retailers.\n\n(b) The usual trade designation of the establishments.  This criterion applies in cases where a retailer is well recognized by the industry and the public, but difficult to define strictly in terms of merchandise lines carried; for example, pharmacies and department stores.\n\n(c) Human resource requirements in terms of expertise; for example, the staff of an automobile dealer requires knowledge in financing, registering, and licensing issues that are not necessary in other retail industries.\n\nThe buying of goods for resale is a characteristic of retail trade establishments that particularly distinguishes them from establishments in the agriculture, manufacturing, and construction industries.  For example, farms that sell their products at or from the point of production are not classified in retail, but rather in agriculture.  Similarly, establishments that both manufacture and sell their products to the general public are not classified in retail, but rather in manufacturing.  However, establishments that engage in processing activities incidental to retailing are classified in retail.  This includes optical goods retailers that grind lenses, and meat and seafood retailers that process carcasses into cuts.\n\nWholesalers also engage in the buying of goods for resale, but they are not usually organized to serve the general public.  They typically operate from a warehouse or office, and neither the design nor the location of these premises is intended to solicit a high volume of walk-in traffic.  Wholesalers supply institutional, industrial, wholesale, and retail clients; their operations are, therefore, generally organized to purchase, sell, and deliver merchandise in larger quantities.  However, dealers of durable nonconsumer goods, such as farm machinery and heavy-duty trucks, are included in wholesale trade even if they often sell these products in single units.\n",
+  "childNodes": {
+    "455": {
+      "title": "General Merchandise Retailers",
+      "desc": "Industries in the General Merchandise Retailers subsector retail new general merchandise.  This subsector includes new and used general merchandise auction retailers and establishments generally known as department stores, warehouse clubs, superstores, or supercenters.\n",
+      "childNodes": {
+        "4551": {
+          "title": "Department Stores",
+          "desc": "NULL",
+          "childNodes": {
+            "45511": {
+              "title": "Department Stores",
+              "desc": "See industry description for 455110.",
+              "childNodes": {
+                "455110": {
+                  "title": "Department Stores",
+                  "desc": "This industry comprises establishments generally known as department stores that have separate departments for general lines of new merchandise, such as apparel, jewelry, home furnishings, and toys, with no one merchandise line predominating.  Department stores may sell perishable groceries, such as fresh fruits, vegetables, and dairy products, but such sales are insignificant.  Department stores with fixed point-of-sale locations may have separate customer checkout areas in each department, central customer checkout areas, or both.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4552": {
+          "title": "Warehouse Clubs, Supercenters, and Other General Merchandise Retailers",
+          "desc": "NULL",
+          "childNodes": {
+            "45521": {
+              "title": "Warehouse Clubs, Supercenters, and Other General Merchandise Retailers",
+              "desc": "This industry comprises establishments primarily engaged in retailing new general merchandise (except department stores).  These establishments retail a general line of new merchandise, such as apparel, automotive parts, dry goods, hardware, groceries, housewares, and home furnishings, with no one merchandise line predominating.  Establishments generally known as warehouse clubs, superstores, or supercenters, and retailing a general line of merchandise in combination with a significant amount and variety of perishable groceries, are included in this industry.  This industry also includes establishments primarily engaged in retailing a general line of new and used merchandise on an auction basis.\n\nIllustrative Examples:\n\nDollar stores\nGeneral merchandise (new and used) auction houses\nGeneral merchandise showrooms\nGeneral merchandise trading posts\nGeneral stores\nHome and auto supply stores\nSuperstores (i.e., food and general merchandise)\nVariety stores\nWarehouse clubs (i.e., food and general merchandise)  \n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "455211": {
+                  "title": "Warehouse Clubs and Supercenters",
+                  "desc": "This U.S. industry comprises establishments generally known as warehouse clubs, superstores, or supercenters, primarily engaged in retailing a general line of groceries, including a significant amount and variety of fresh fruits, vegetables, dairy products, meats, and other perishable groceries, in combination with a general line of new merchandise, such as apparel, furniture, and appliances.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "455219": {
+                  "title": "All Other General Merchandise Retailers",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in retailing new and used general merchandise (except department stores, warehouse clubs, superstores, and supercenters).  These establishments retail a general line of new and used merchandise, such as apparel, automotive parts, dry goods, groceries, hardware, housewares or home furnishings, and other lines in limited amounts, with none of the lines predominating.  This industry also includes establishments primarily engaged in retailing a general line of new and used merchandise on an auction basis.\n\nIllustrative Examples:\n\nDollar stores\nGeneral merchandise (new and used) auction houses\nGeneral merchandise showrooms\nGeneral merchandise trading posts\nGeneral stores\nHome and auto supply stores\nVariety stores\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "456": {
+      "title": "Health and Personal Care Retailers",
+      "desc": "Industries in the Health and Personal Care Retailers subsector retail health and personal care merchandise.  Establishments in this subsector are characterized principally by the products they retail, and some health and personal care retailers have specialized staff including pharmacists, opticians, and other professionals engaged in retailing, advising customers, and/or fitting the product sold to the customer's needs.\n",
+      "childNodes": {
+        "4561": {
+          "title": "Health and Personal Care Retailers",
+          "desc": "NULL",
+          "childNodes": {
+            "45611": {
+              "title": "Pharmacies and Drug Retailers",
+              "desc": "See industry description for 456110.",
+              "childNodes": {
+                "456110": {
+                  "title": "Pharmacies and Drug Retailers",
+                  "desc": "This industry comprises establishments generally known as pharmacies and drug retailers engaged in retailing prescription or nonprescription drugs and medicines.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "45612": {
+              "title": "Cosmetics, Beauty Supplies, and Perfume Retailers",
+              "desc": "See industry description for 456120.",
+              "childNodes": {
+                "456120": {
+                  "title": "Cosmetics, Beauty Supplies, and Perfume Retailers",
+                  "desc": "This industry comprises establishments primarily engaged in retailing cosmetics, perfumes, toiletries, and personal grooming products.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "45613": {
+              "title": "Optical Goods Retailers",
+              "desc": "See industry description for 456130.",
+              "childNodes": {
+                "456130": {
+                  "title": "Optical Goods Retailers",
+                  "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) retailing and fitting prescription eyeglasses and contact lenses; (2) retailing prescription eyeglasses in combination with the grinding of lenses to order on the premises; and (3) retailing nonprescription eyeglasses.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "45619": {
+              "title": "Other Health and Personal Care Retailers",
+              "desc": "This industry comprises establishments primarily engaged in retailing health and personal care items (except drugs, medicines, cosmetics, beauty supplies, perfumes, and optical goods).\n\nIllustrative Examples:\n\nConvalescent supply retailers\nVitamin retailers\nSick room supply retailers\nHearing aid retailers\nWheelchair retailers \n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "456191": {
+                  "title": "Food (Health) Supplement Retailers",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in retailing food supplement products, such as vitamins, nutrition supplements, and body enhancing supplements.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "456199": {
+                  "title": "All Other Health and Personal Care Retailers",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in retailing specialized lines of health and personal care merchandise (except drugs, medicines, cosmetics, beauty supplies, perfumes, optical goods, and food supplement products).\n\nIllustrative Examples:\n\nConvalescent supply retailers\nSick room supply retailers\nHearing aid retailers\nWheelchair retailers \n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "457": {
+      "title": "Gasoline Stations and Fuel Dealers",
+      "desc": "Industries in the Gasoline Stations and Fuel Dealers subsector retail automotive fuels (e.g., gasoline, diesel fuel, gasohol, alternative fuels) and automotive oils, without or in combination with convenience store items; or retail heating oil, liquefied petroleum (LP) gas, and other fuels via direct selling (i.e., home delivery).  Gasoline stations have specialized equipment for storing and dispensing automotive fuels.\n",
+      "childNodes": {
+        "4571": {
+          "title": "Gasoline Stations",
+          "desc": "This industry group comprises establishments primarily engaged in retailing automotive fuels (e.g., gasoline, diesel fuel, gasohol, alternative fuels) and automotive oils or retailing these products in combination with convenience store items.  These establishments have specialized equipment for storing and dispensing automotive fuels.\n",
+          "childNodes": {
+            "45711": {
+              "title": "Gasoline Stations with Convenience Stores",
+              "desc": "See industry description for 457110.",
+              "childNodes": {
+                "457110": {
+                  "title": "Gasoline Stations with Convenience Stores",
+                  "desc": "This industry comprises establishments primarily engaged in retailing automotive fuels (e.g., gasoline, diesel fuel, gasohol, alternative fuels) in combination with a limited line of groceries.  These establishments can either be in a convenience store (i.e., food mart) setting or a gasoline station setting.  These establishments may also provide automotive repair services.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "45712": {
+              "title": "Other Gasoline Stations",
+              "desc": "See industry description for 457120.",
+              "childNodes": {
+                "457120": {
+                  "title": "Other Gasoline Stations",
+                  "desc": "This industry comprises establishments generally known as gasoline stations (except those with convenience stores) or truck stops primarily engaged in (1) retailing automotive fuels (e.g., gasoline, diesel fuel, gasohol, alternative fuels) or (2) retailing these fuels in combination with activities, such as providing repair services; selling automotive oils, replacement parts, and accessories; and/or providing food services.\n\nIllustrative Examples:\n\nGasoline stations without convenience stores\t\nTruck stops\nMarine service stations\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4572": {
+          "title": "Fuel Dealers",
+          "desc": "NULL",
+          "childNodes": {
+            "45721": {
+              "title": "Fuel Dealers",
+              "desc": "See industry description for 457210.",
+              "childNodes": {
+                "457210": {
+                  "title": "Fuel Dealers",
+                  "desc": "This industry comprises establishments primarily engaged in retailing heating oil, liquefied petroleum (LP) gas, and other fuels via direct selling (i.e., home delivery).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "458": {
+      "title": "Clothing, Clothing Accessories, Shoe, and Jewelry Retailers",
+      "desc": "Industries in the Clothing, Clothing Accessories, Shoe, and Jewelry Retailers subsector retail new clothing, clothing accessories, shoes, jewelry, luggage, and leather goods.\n",
+      "childNodes": {
+        "4581": {
+          "title": "Clothing and Clothing Accessories Retailers",
+          "desc": "NULL",
+          "childNodes": {
+            "45811": {
+              "title": "Clothing and Clothing Accessories Retailers",
+              "desc": "See industry description for 458110.",
+              "childNodes": {
+                "458110": {
+                  "title": "Clothing and Clothing Accessories Retailers",
+                  "desc": "This industry comprises establishments primarily engaged in retailing general or specialized lines of new clothing and clothing accessories, such as hats and caps, costume jewelry, gloves, handbags, ties, wigs, toupees, and belts.  These establishments may provide basic alterations, such as hemming, taking in or letting out seams, or lengthening or shortening sleeves.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4582": {
+          "title": "Shoe Retailers",
+          "desc": "NULL",
+          "childNodes": {
+            "45821": {
+              "title": "Shoe Retailers",
+              "desc": "See industry description for 458210.",
+              "childNodes": {
+                "458210": {
+                  "title": "Shoe Retailers",
+                  "desc": "This industry comprises establishments primarily engaged in retailing all types of new footwear (except hosiery and specialty sports footwear, such as golf shoes, bowling shoes, and cleated shoes).  Establishments primarily engaged in retailing new tennis shoes or sneakers are included in this industry.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4583": {
+          "title": "Jewelry, Luggage, and Leather Goods Retailers",
+          "desc": "This industry group comprises establishments primarily engaged in retailing new jewelry (except costume jewelry); new sterling and plated silverware; new watches and clocks; and new luggage with or without a general line of new leather goods and accessories, such as hats, gloves, handbags, ties, and belts.\n",
+          "childNodes": {
+            "45831": {
+              "title": "Jewelry Retailers",
+              "desc": "See industry description for 458310.",
+              "childNodes": {
+                "458310": {
+                  "title": "Jewelry Retailers",
+                  "desc": "This industry comprises establishments primarily engaged in retailing one or more of the following items: (1) new jewelry (except costume jewelry); (2) new sterling and plated silverware; and (3) new watches and clocks.  Also included are establishments retailing these new products in combination with lapidary work and/or repair services.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "45832": {
+              "title": "Luggage and Leather Goods Retailers",
+              "desc": "See industry description for 458320.",
+              "childNodes": {
+                "458320": {
+                  "title": "Luggage and Leather Goods Retailers",
+                  "desc": "This industry comprises establishments primarily engaged in retailing new luggage, briefcases, and trunks, or retailing these new products in combination with a general line of leather items (except leather apparel), such as belts, gloves, and handbags.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "459": {
+      "title": "Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+      "desc": "Industries in the Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers subsector retail new sporting goods; new toys, games, and hobby supplies; new sewing supplies and needlework accessories; new musical instruments; new books, newspapers, magazines, and other periodicals; and other specialized lines of merchandise, such as cut flowers and floral arrangements, new office supplies and stationery, new gifts, novelty merchandise, and souvenirs, used merchandise, pets and pet supplies, art, new or used manufactured (mobile) homes, and tobacco, electronic cigarettes, and other smoking supplies.\n",
+      "childNodes": {
+        "4591": {
+          "title": "Sporting Goods, Hobby, and Musical Instrument Retailers",
+          "desc": "This industry group comprises establishments primarily engaged in retailing new sporting goods, toys, games, hobby supplies, sewing supplies, needlework accessories, and musical instruments.\n",
+          "childNodes": {
+            "45911": {
+              "title": "Sporting Goods Retailers",
+              "desc": "See industry description for 459110.",
+              "childNodes": {
+                "459110": {
+                  "title": "Sporting Goods Retailers",
+                  "desc": "This industry comprises establishments primarily engaged in retailing new sporting goods, such as bicycles and bicycle parts; camping equipment; exercise and fitness equipment; athletic uniforms; specialty sports footwear; and other sporting goods, equipment, and accessories.\n\nIllustrative Examples:\n\nAthletic uniform supply retailers\nFishing supply retailers\nBicycle (except motorized) retailers\nGolf pro shops\nBowling equipment and supply retailers\nTack shops\nDiving equipment retailers\nSporting goods (e.g., scuba, skiing, ball sports) retailers\nExercise equipment retailers\nSporting gun and hunting equipment retailers\nCamping and hiking equipment retailers  \n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "45912": {
+              "title": "Hobby, Toy, and Game Retailers",
+              "desc": "See industry description for 459120.",
+              "childNodes": {
+                "459120": {
+                  "title": "Hobby, Toy, and Game Retailers",
+                  "desc": "This industry comprises establishments primarily engaged in retailing new toys, games, and hobby and craft supplies (except needlecraft).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "45913": {
+              "title": "Sewing, Needlework, and Piece Goods Retailers",
+              "desc": "See industry description for 459130.",
+              "childNodes": {
+                "459130": {
+                  "title": "Sewing, Needlework, and Piece Goods Retailers",
+                  "desc": "This industry comprises establishments primarily engaged in retailing new sewing supplies, fabrics, patterns, yarns, and other needlework accessories or retailing these products in combination with new sewing machines.\n\nIllustrative Examples:\n\nFabric retailers\nSewing supply retailers\nNeedlecraft sewing supply retailers\nUpholstery materials retailers\nQuilting supply retailers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "45914": {
+              "title": "Musical Instrument and Supplies Retailers",
+              "desc": "See industry description for 459140.",
+              "childNodes": {
+                "459140": {
+                  "title": "Musical Instrument and Supplies Retailers",
+                  "desc": "This industry comprises establishments primarily engaged in retailing new musical instruments, sheet music, and related supplies; or retailing these new products in combination with musical instrument repair, rental, or music instruction.\n\nIllustrative Examples:\n\nMusical instrument retailers\nSheet music retailers\nPiano retailers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4592": {
+          "title": "Book Retailers and News Dealers",
+          "desc": "NULL",
+          "childNodes": {
+            "45921": {
+              "title": "Book Retailers and News Dealers",
+              "desc": "See industry description for 459210.",
+              "childNodes": {
+                "459210": {
+                  "title": "Book Retailers and News Dealers",
+                  "desc": "This industry comprises establishments primarily engaged in retailing new books, newspapers, magazines, and other periodicals (without publishing).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4593": {
+          "title": "Florists",
+          "desc": "NULL",
+          "childNodes": {
+            "45931": {
+              "title": "Florists",
+              "desc": "See industry description for 459310.",
+              "childNodes": {
+                "459310": {
+                  "title": "Florists",
+                  "desc": "This industry comprises establishments generally known as florists primarily engaged in retailing cut flowers, floral arrangements, and potted plants grown elsewhere.  These establishments may prepare the arrangements they sell.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4594": {
+          "title": "Office Supplies, Stationery, and Gift Retailers",
+          "desc": "This industry group comprises establishments primarily engaged in retailing new office supplies, stationery, gifts, novelty merchandise, and souvenirs.\n",
+          "childNodes": {
+            "45941": {
+              "title": "Office Supplies and Stationery Retailers",
+              "desc": "See industry description for 459410.",
+              "childNodes": {
+                "459410": {
+                  "title": "Office Supplies and Stationery Retailers",
+                  "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) retailing new office supplies, stationery, and school supplies; (2) retailing a combination of new office equipment, furniture, and supplies; and (3) retailing new office equipment, furniture, and supplies in combination with selling new computers.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "45942": {
+              "title": "Gift, Novelty, and Souvenir Retailers",
+              "desc": "See industry description for 459420.",
+              "childNodes": {
+                "459420": {
+                  "title": "Gift, Novelty, and Souvenir Retailers",
+                  "desc": "This industry comprises establishments primarily engaged in retailing new gifts, novelty merchandise, souvenirs, greeting cards, seasonal and holiday decorations, and curios.\n\nIllustrative Examples:\n\nGreeting card retailers\nSeasonal and holiday decoration retailers\nNovelty retailers\nSouvenir retailers\nGift retailers\nFruit basket or fruit bouquet retailers \n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4595": {
+          "title": "Used Merchandise Retailers",
+          "desc": "NULL",
+          "childNodes": {
+            "45951": {
+              "title": "Used Merchandise Retailers",
+              "desc": "See industry description for 459510.",
+              "childNodes": {
+                "459510": {
+                  "title": "Used Merchandise Retailers",
+                  "desc": "This industry comprises establishments primarily engaged in retailing used merchandise, antiques, and secondhand goods (except motor vehicles, such as automobiles, RVs, motorcycles, and boats; motor vehicle parts; tires; and mobile homes).  This industry includes establishments retailing used merchandise on an auction basis.\n\nIllustrative Examples:\n\nAntique retailers\nUsed household appliance retailers\nUsed book retailers\nUsed merchandise thrift shops\nUsed clothing retailers\nUsed sporting goods retailers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4599": {
+          "title": "Other Miscellaneous Retailers",
+          "desc": "This industry group comprises establishments primarily engaged in retailing miscellaneous specialized lines of merchandise (except motor vehicle and parts dealers; building material and garden equipment and supplies dealers; food and beverage retailers; furniture, home furnishings, electronics, and appliance retailers; general merchandise retailers; health and personal care retailers; gasoline stations and fuel dealers; clothing, clothing accessories, shoe, and jewelry retailers; sporting goods, hobby, and musical instrument retailers; book retailers and news dealers; florists; office supplies, stationery, and gift retailers; and used merchandise retailers).\n",
+          "childNodes": {
+            "45991": {
+              "title": "Pet and Pet Supplies Retailers",
+              "desc": "See industry description for 459910.",
+              "childNodes": {
+                "459910": {
+                  "title": "Pet and Pet Supplies Retailers",
+                  "desc": "This industry comprises establishments primarily engaged in retailing pets, pet foods, and pet supplies.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "45992": {
+              "title": "Art Dealers",
+              "desc": "See industry description for 459920.",
+              "childNodes": {
+                "459920": {
+                  "title": "Art Dealers",
+                  "desc": "This industry comprises establishments primarily engaged in retailing original and limited edition art works created by others.  Included in this industry are establishments primarily engaged in displaying works of art for retail sale in art galleries.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "45993": {
+              "title": "Manufactured (Mobile) Home Dealers",
+              "desc": "See industry description for 459930.",
+              "childNodes": {
+                "459930": {
+                  "title": "Manufactured (Mobile) Home Dealers",
+                  "desc": "This industry comprises establishments primarily engaged in retailing new and/or used manufactured homes (i.e., mobile homes), parts, and equipment.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "45999": {
+              "title": "All Other Miscellaneous Retailers",
+              "desc": "This industry comprises establishments primarily engaged in retailing miscellaneous specialized lines of merchandise (except motor vehicle and parts dealers; building material and garden equipment and supplies dealers; food and beverage retailers; furniture, home furnishings, electronics, and appliance retailers; general merchandise retailers; health and personal care retailers; gasoline stations and fuel dealers; clothing, clothing accessories, shoe, and jewelry retailers; sporting goods, hobby, and musical instrument retailers; book retailers and news dealers; florists; office supplies, stationery, and gift retailers; used merchandise retailers; pet and pet supplies retailers; art dealers; and manufactured (mobile) home dealers).\n\nIllustrative Examples:\n\nArt supply retailers\nSwimming pool (above-ground) and supply retailers\nCemetery memorial (e.g., headstones, markers, vaults) dealers\nHome security equipment retailers\nTobacco retailers\nCigar retailers\nE-cigarette retailers\nVape shops\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "459991": {
+                  "title": "Tobacco, Electronic Cigarette, and Other Smoking Supplies Retailers",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in retailing cigarettes, electronic cigarettes, cigars, tobacco, pipes, and other smokers' supplies.\n\nIllustrative Examples:\n\nCigar retailers\nE-cigarette retailers\nSmokers' supply retailers\nCigarette retailers\nTobacco retailers\nVape shops\n\n",
+                  "childNodes": {}
+                },
+                "459999": {
+                  "title": "All Other Miscellaneous Retailers",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in retailing miscellaneous specialized lines of merchandise (except motor vehicle and parts dealers; building material and garden equipment and supplies dealers; food and beverage retailers; furniture, home furnishings, electronics, and appliance retailers; general merchandise retailers; health and personal care retailers; gasoline stations and fuel dealers; clothing, clothing accessories, shoe, and jewelry retailers; sporting goods, hobby, and musical instrument retailers; book retailers and news dealers; florists; office supplies, stationery, and gift retailers; used merchandise retailers; pet and pet supplies retailers; art dealers; manufactured (mobile) home dealers; and tobacco, electronic cigarette, and other smoking supplies retailers).\n\nIllustrative Examples:\n\nArt supply retailers\nCandle retailers\nHome security equipment retailers\nCemetery memorial (e.g., headstones, markers, vaults) dealers\nHot tub retailers\nFireworks retailers\nCollectors' items (e.g., autograph, coin, card, stamp) retailers (except used rare items)\nSwimming pool (above-ground) and supply retailers\nTrophy (e.g., awards and plaques) retailers\nFlower retailers, artificial or dried\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

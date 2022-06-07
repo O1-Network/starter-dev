@@ -1,6 +1,5 @@
 :root{
   --duration: 300ms;
-  
 }
 
 .intro {
@@ -20,8 +19,8 @@
   grid-template-columns: repeat(2, 1fr);
   min-height: 45vh;
   place-items: center;
-  
 }
+
 .active {
   background-color: #717171;
 }
@@ -43,16 +42,13 @@
 }
 
 .image1-start{
- 
   animation-name: start;
   animation-duration: var(--duration);
-
   background-image: url("https://placeimg.com/640/480/tech" );
 }
 
 
 .image1-middle{
-
   background-image: url("https://placeimg.com/640/480/tech" );
 }
 
@@ -71,7 +67,6 @@
 
 
 .image2-middle{
- 
   background-image: url("https://images.unsplash.com/photo-1531482615713-2afd69097998?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" );
 }
 
@@ -89,7 +84,6 @@
 
 
 .image3-middle{
-
   background-image: url("https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" );
 }
 
@@ -107,13 +101,12 @@
 
 
 .image4-middle{
- 
   background-image: url("https://www.sazanconsulting.com/wp-content/uploads/2014/04/AAEAAQAAAAAAAAedAAAAJDMzNDYxN2I5LThmYTQtNDAxYy05OTc4LWEwN2E3YTdlY2EyZg.jpg" );
 }
 
 
 .image4-end{
-    animation-name: end;
+  animation-name: end;
   animation-duration:var(--duration);
   background-image: url("https://www.sazanconsulting.com/wp-content/uploads/2014/04/AAEAAQAAAAAAAAedAAAAJDMzNDYxN2I5LThmYTQtNDAxYy05OTc4LWEwN2E3YTdlY2EyZg.jpg" );
 }
@@ -143,7 +136,6 @@
 
 
 .image6-middle{
-
   background-image: url("https://images.unsplash.com/photo-1543092587-d8b8feaf362b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" );
 }
 
@@ -153,9 +145,6 @@
   animation-duration: var(--duration);
   background-image: url("https://images.unsplash.com/photo-1543092587-d8b8feaf362b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" );
 }
-
-
-
 
 .value-text {
   width: 100%;

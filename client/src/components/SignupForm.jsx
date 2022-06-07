@@ -16,7 +16,7 @@ const Signup = () => {
     <FormContainer>
       <FormBox>
       <FormStyles>
-        <FormTitle> Starter Business Sign-up </FormTitle>
+        <FormTitle>Sign-up</FormTitle>
         <FormList>
           <ListItem>
             <ItemLabel htmlFor="username">Email Address</ItemLabel>
@@ -37,7 +37,7 @@ const Signup = () => {
             <Input type="password" id="re-password" required />
           </ListItem>
         </FormList>
-        <ErrorBox> Email, Username or Password rules and errors. . </ErrorBox>
+        <ErrorBox></ErrorBox>
         <SubmitButton>Sign Up</SubmitButton>
       </FormStyles>
       </FormBox>
