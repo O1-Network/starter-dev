@@ -1,9 +1,8 @@
 import styled from 'styled-components';
 
 export const ClassificationContainer = styled.div`
-  margin: 0 20%;
+  margin: 0 20% 50px 20%;
   padding: 0 0 50px 0;
-  height: 100vh;
   background-color: #F2FCFF;
   display: flex;
   flex-direction: row;
