@@ -3,7 +3,6 @@ import styled from 'styled-components';
 export const MainSectionContainer = styled.div`
   margin: 0 20%;
   padding: 0 0 50px 0;
-  height: 100vh;
   background-color: #F2FCFF;
   display: flex;
   flex-direction: row;

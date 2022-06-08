@@ -9,13 +9,14 @@ const Intro = () => {
   "image5-start","image5-middle","image5-middle","image5-middle","image5-middle","image5-middle","image5-middle","image5-middle","image5-end",
   "image6-start","image6-middle","image6-middle","image6-middle","image6-middle","image6-middle","image6-middle","image6-middle","image6-end"
   ]
-const [currentImage, setImage]=useState(0);
-    useEffect(()=>{
-      setInterval(()=>{setImage(old => old + 1)},300);
-    },[]);
+  const [currentImage, setImage]=useState(0);
+
+  useEffect(()=>{
+    setInterval(()=>{setImage(old => old + 1)},300);
+  },[]);
 
   return (
-    <div className="intro" >
+    <div className="intro">
       {console.log(currentImage)}
       <div className={[ "intro-background", Images[currentImage % (Images.length)]].join(' ')} >
         <p className="value-text">If your business is selected, our team of developers will build you a digital tool that takes your business to the next level.
@@ -33,5 +34,8 @@ const [currentImage, setImage]=useState(0);
    </div>
   );
 }
+
+// https://medium.com/@matt.readout/adding-css-animations-with-styled-components-6c191c23b6ba
+// https://styled-components.com/docs/basics#animations
 
 export default Intro;
