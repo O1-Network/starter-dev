@@ -1,5 +1,14 @@
+import { useEffect, useState } from 'react';
 import './Intro.css';
-import { useEffect,useState } from 'react';
+
+import {
+  IntroContainer,
+  ValueText,
+  BenefitsList,
+  BenefitsHeader,
+  ListItem,
+} from './IntroStyles';
+
 const Intro = () => {
   const Images=[
   "image1-start","image1-middle","image1-middle","image1-middle","image1-middle","image1-middle","image1-middle","image1-middle","image1-end",
@@ -16,22 +25,22 @@ const Intro = () => {
   },[]);
 
   return (
-    <div className="intro">
+    <IntroContainer>
       {console.log(currentImage)}
       <div className={[ "intro-background", Images[currentImage % (Images.length)]].join(' ')} >
-        <p className="value-text">If your business is selected, our team of developers will build you a digital tool that takes your business to the next level.
-        </p>
+        <ValueText>If your business is selected, our team of developers will build you a digital tool that takes your business to the next level.
+        </ValueText>
       
-        <ul className="benefits">
-          <h1>BENEFITS</h1>
-          <li>Open-Source Engineers</li>
-          <li>Partner with a Nonprofit</li>
-          <li>Custom Tools (Need Image)</li>
-          <li>Meet your Needs (Need Image)</li>
-          <li>Gain an Advantage (Need Image)</li>
-        </ul>
+        <BenefitsList>
+          <BenefitsHeader>BENEFITS</BenefitsHeader> 
+          <ListItem>Open-Source Engineers</ListItem> 
+          <ListItem>Partner with a Nonprofit</ListItem>
+          <ListItem>Custom Tools (Need Image)</ListItem>
+          <ListItem>Meet your Needs (Need Image)</ListItem>
+          <ListItem>Gain an Advantage (Need Image)</ListItem>
+        </BenefitsList>
       </div>
-   </div>
+   </IntroContainer>
   );
 }
 

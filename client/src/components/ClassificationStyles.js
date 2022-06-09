@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const ClassificationContainer = styled.div`
-  margin: 0 20% 50px 20%;
+  margin: 0 20% 0 20%;
   padding: 0 0 50px 0;
   background-color: #F2FCFF;
   display: flex;

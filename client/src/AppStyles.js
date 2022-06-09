@@ -8,5 +8,5 @@ export const AppContainer = styled.div`
 `;
 
 export const RouteContainer = styled.div`
-  overflow-y: scroll;
+  
 `;
