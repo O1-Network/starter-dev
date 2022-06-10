@@ -2,7 +2,7 @@ import BlogArticle from '../components/BlogArticle';
 
 const Blog = () => {
   return (
-    <div className="blog-container">
+    <div>
       <BlogArticle />
     </div>
   );

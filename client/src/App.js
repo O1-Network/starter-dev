@@ -16,9 +16,7 @@ import Blog from './pages/Blog';
 // STYLES // STYLES // STYLES // STYLES // STYLES 
 import {
   AppContainer,
-  HeaderContainer,
   RouteContainer,
-  FooterContainer
 } from './AppStyles';
 
 const App = () => {

@@ -11,7 +11,7 @@ let counter = 0;
 
 const parseObject = (jsonObject) => {
   for (let sectorObject in jsonObject) {
-      fs.writeFileSync(path.join(__dirname + `/NAICSData/${sectorObject}.json`), JSON.stringify(vals[counter++]));
+    fs.writeFileSync(path.join(__dirname + `/NAICSData/${sectorObject}.json`), JSON.stringify(vals[counter++]));
   }
 }
 
