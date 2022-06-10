@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const ContactContainer = styled.div`
-  margin: 20px 20%;
+  margin: 0 20%;
   width: 40%;
 `;
 
