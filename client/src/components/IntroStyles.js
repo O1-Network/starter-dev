@@ -24,14 +24,14 @@ const imageList = [
 
 
 const breatheAnimation = keyframes`
-0% { background : url(${imageList[0]})  100px 20px no-repeat;}  
-4% { background: url(${imageList[0]});}  
-12% {background :url(${imageList[1]})}     
-38% {background :url(${imageList[2]}) }    
-52% {background :url(${imageList[3]}) }     
-68% {background :url(${imageList[4]})}     
-94% {background :url(${imageList[5]})}     
-100% {background :url(${imageList[0]}) }     
+0% { background-image :100% / 0 90% no-repeat url(${imageList[0]})  ;}  
+4% { background-image: url(${imageList[0]});}  
+12% {background-image :url(${imageList[1]})}     
+38% {background-image :url(${imageList[2]}) }    
+52% {background-image :url(${imageList[3]}) }     
+68% {background-image :url(${imageList[4]})}     
+94% {background-image :url(${imageList[5]})}     
+100% {background-image :url(${imageList[0]}) }     
 `
 
 
@@ -46,6 +46,7 @@ animation-duration: 20s;
 animation-iteration-count: infinite;
 background-repeat: no-repeat;
 background-size:cover;
+
 
 `;
 
