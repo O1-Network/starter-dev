@@ -24,28 +24,29 @@ const imageList = [
 
 
 const breatheAnimation = keyframes`
-0% { background-image: url(${imageList[0]});}  
-4% { background-image: url(${imageList[0]});}  
-12% {background-image:url(${imageList[1]})}     
-38% {background-image:url(${imageList[2]})}    
-52% {background-image:url(${imageList[3]})}     
-68% {background-image:url(${imageList[4]})}     
-94% {background-image:url(${imageList[5]})}     
-100% {background-image:url(${imageList[0]})}     
+0% { background : url(${imageList[0]})  100px 20px no-repeat;}  
+4% { background: url(${imageList[0]});}  
+12% {background :url(${imageList[1]})}     
+38% {background :url(${imageList[2]}) }    
+52% {background :url(${imageList[3]}) }     
+68% {background :url(${imageList[4]})}     
+94% {background :url(${imageList[5]})}     
+100% {background :url(${imageList[0]}) }     
 `
 
 
 export const IntroContainer = styled.div`
-  height: auto;
-  background-color: #031927;
-  display: flex;
-  flex-direction: row;
-  justify-content: flex-start;
-  animation-name: ${breatheAnimation};
+height: auto;
+background-color: #031927;
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+animation-name: ${breatheAnimation};
 animation-duration: 20s;
 animation-iteration-count: infinite;
 background-repeat: no-repeat;
 background-size:cover;
+background: 100px 100px no-repeat;
 `;
 
 export const BenefitsList = styled.ul`
@@ -103,11 +104,9 @@ export const BenefitsHeader = styled.h1`
 export const ImageContainer = styled.div`
 margin: 0 10% 0 10%;
 width: 90%;
-
 display: grid;
 grid-template-columns: repeat(2, 1fr);
 min-height: 45vh;
 z-index:0;
 place-items: center;
-
 `;
