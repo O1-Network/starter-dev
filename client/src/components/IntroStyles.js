@@ -46,7 +46,7 @@ animation-duration: 20s;
 animation-iteration-count: infinite;
 background-repeat: no-repeat;
 background-size:cover;
-background: 100px 100px no-repeat;
+
 `;
 
 export const BenefitsList = styled.ul`

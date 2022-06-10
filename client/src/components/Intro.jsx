@@ -14,7 +14,7 @@ const Intro = () => {
   return (
     <IntroContainer>
     
-      <ImageContainer  >
+      <ImageContainer >
        
         <ValueText>If your business is selected, our team of developers will build you a digital tool that takes your business to the next level.
         </ValueText>
