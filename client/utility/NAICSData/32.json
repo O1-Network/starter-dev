@@ -1,0 +1,984 @@
+{
+  "title": "ManufacturingT",
+  "desc": "The Sector as a Whole\n\nThe Manufacturing sector comprises establishments engaged in the mechanical, physical, or chemical transformation of materials, substances, or components into new products.  The assembling of component parts of manufactured products is considered manufacturing, except in cases where the activity is appropriately classified in Sector 23, Construction.\n\nEstablishments in the Manufacturing sector are often described as plants, factories, or mills and characteristically use power-driven machines and material handling equipment.  However, establishments that transform materials or substances into new products by hand or in the worker's home and those engaged in selling to the general public products made on the same premises from which they are sold, such as bakeries, candy stores, and custom tailors, may also be included in this sector.  Manufacturing establishments may process materials or may contract with other establishments to process their materials for them.  Both types of establishments are included in manufacturing.  Selected industries in the Manufacturing sector are comprised solely of establishments that process materials for other establishments on a contract or fee basis.  Beyond these dedicated contract manufacturing industries, establishments that process materials for other establishments are generally classified in the Manufacturing industry of the processed materials.\n\nThe materials, substances, or components transformed by manufacturing establishments are raw materials that are products of agriculture, forestry, fishing, mining, or quarrying as well as products of other manufacturing establishments.  The materials used may be purchased directly from producers, obtained through customary trade channels, or secured without recourse to the market by transferring the product from one establishment to another, under the same ownership.\n\nThe new product of a manufacturing establishment may be finished in the sense that it is ready for utilization or consumption, or it may be semi-finished to become an input for an establishment engaged in further manufacturing.  For example, the product of the alumina refinery is the input used in the primary production of aluminum; primary aluminum is the input to an aluminum wire drawing plant; and aluminum wire is the input for a fabricated wire product manufacturing establishment.\n\nThe subsectors in the Manufacturing sector generally reflect distinct production processes related to material inputs, production equipment, and employee skills.  In the machinery area, where assembling is a key activity, parts and accessories for manufactured products are classified in the industry of the finished manufactured item when they are made for separate sale.  For example, an attachment for a piece of metalworking machinery would be classified with metalworking machinery.  However, component inputs from other manufacturing establishments are classified based on the production function of the component manufacturer.  For example, electronic components are classified in Subsector 334, Computer and Electronic Product Manufacturing, and stampings are classified in Subsector 332, Fabricated Metal Product Manufacturing.\n\nManufacturing establishments often perform one or more activities that are classified outside the Manufacturing sector of NAICS.  For instance, almost all manufacturing has some captive research and development or administrative operations, such as accounting, payroll, or management.  These captive services are treated the same as captive manufacturing activities.  When the services are provided by separate establishments, they are classified in the NAICS sector where such services are primary, not in manufacturing. \n\nThe boundaries of manufacturing and the other sectors of the classification system can be somewhat blurry.  The establishments in the Manufacturing sector are engaged in the transformation of materials into new products.  Their output is a new product.  However, the definition of what constitutes a new product can be somewhat subjective.  As clarification, the following activities are considered manufacturing in NAICS:\n<table width=100%><tr><td width=10%> </td><td><dl><dt style='padding-left: 10px; text-indent: -10px;'>Milk bottling and pasteurizing;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Water bottling and processing;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Fresh fish packaging (oyster<br/> shucking, fish filleting);</dt><dt style='padding-left: 10px; text-indent: -10px;'>Apparel jobbing (assigning<br/> materials to contract<br/> factories or shops for<br/>  fabrication or other contract<br/> operations) as well as<br/> contracting on materials<br/> owned by others;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Printing and related activities;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Ready-mix concrete production;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Leather converting;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Grinding lenses to<br/> prescription;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Wood preserving;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Lapidary work for the trade;</dt></dl></td><td width=10%> </td><td><dl><dt style='padding-left: 10px; text-indent: -10px;'>Electroplating, plating, metal<br/> heat treating, and<br/> polishing for the trade;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Fabricating signs and<br/> advertising displays;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Rebuilding or remanufacturing<br/> machinery (i.e., automotive<br/> parts);</dt><dt style='padding-left: 10px; text-indent: -10px;'>Making manufactured homes<br/> (i.e., mobile homes) or<br/> prefabricated buildings,<br/> whether or not assembling/<br/> erecting at the customers'<br/> site;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Ship repair and renovation;</dt><dt style='padding-left: 10px; text-indent: -10px;'>Machine shops; and</dt><dt style='padding-left: 10px; text-indent: -10px;'>Tire retreading.</dt></dl></td><td width=10%> </td></tr></table>\nConversely, there are activities that are sometimes considered manufacturing, but which for NAICS are classified in another sector (i.e., not classified as manufacturing). They include:\n\n1. Logging, classified in Sector 11, Agriculture, Forestry, Fishing and Hunting, is considered a harvesting operation;\n2. Beneficiating ores and other minerals, classified in Sector 21, Mining, Quarrying, and Oil and Gas Extraction, is considered part of the activity of mining;\n3. Constructing structures, assembling prefabricated buildings, and fabricating at the construction site by contractors are classified in Sector 23, Construction;\n4. Breaking bulk and reselling in smaller lots, including packaging, repackaging, or bottling products, such as liquors or chemicals; assembling and selling computers on a custom basis; sorting and reselling scrap; mixing and selling paints to customer order; and cutting metals to customer order for resale are classified in Sector 42, Wholesale Trade, or Sector 44-45, Retail Trade; and\n5. Publishing and the combined activity of publishing and printing, classified in Sector 51, Information, transform information into a product for which the value to the consumer lies in the information content, not in the format in which it is distributed (i.e., the book or software compact disc).\n",
+  "childNodes": {
+    "321": {
+      "title": "Wood Product ManufacturingT",
+      "desc": "Establishments in the Wood Product Manufacturing subsector manufacture wood products, such as lumber, plywood, veneers, wood containers, wood flooring, wood trusses, manufactured homes (i.e., mobile homes), and prefabricated wood buildings.  The production processes of the Wood Product Manufacturing subsector include sawing, planing, shaping, laminating, and assembling wood products starting from logs that are cut into bolts, or lumber that then may be further cut, or shaped by lathes or other shaping tools.  The lumber or other transformed wood shapes may also be subsequently planed or smoothed, and assembled into finished products, such as wood containers.  The Wood Product Manufacturing subsector includes establishments that make wood products from logs and bolts that are sawed and shaped, and establishments that purchase sawed lumber and make wood products.  With the exception of sawmills and wood preservation establishments, the establishments are grouped into industries mainly based on the specific products manufactured.\n",
+      "childNodes": {
+        "3211": {
+          "title": "Sawmills and Wood PreservationT",
+          "desc": "NULL",
+          "childNodes": {
+            "32111": {
+              "title": "Sawmills and Wood PreservationT",
+              "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) sawing dimension lumber, boards, beams, timber, poles, ties, shingles, shakes, siding, and wood chips from logs or bolts; (2) sawing round wood poles, pilings, and posts and treating them with preservatives; and (3) treating wood sawed, planed, or shaped in other establishments with creosote or other preservatives to prevent decay and to protect against fire and insects.  Sawmills may plane the rough lumber that they make with a planing machine to achieve smoothness and uniformity of size.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "321113": {
+                  "title": "Sawmills",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in sawing dimension lumber, boards, beams, timbers, poles, ties, shingles, shakes, siding, and wood chips from logs or bolts.  Sawmills may plane the rough lumber that they make with a planing machine to achieve smoothness and uniformity of size.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "321114": {
+                  "title": "Wood Preservation",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) treating wood sawed, planed, or shaped in other establishments with creosote or other preservatives, such as alkaline copper quat, copper azole, and sodium borates, to prevent decay and to protect against fire and insects and/or (2) sawing round wood poles, pilings, and posts and treating them with preservatives.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3212": {
+          "title": "Veneer, Plywood, and Engineered Wood Product ManufacturingT",
+          "desc": "NULL",
+          "childNodes": {
+            "32121": {
+              "title": "Veneer, Plywood, and Engineered Wood Product ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) manufacturing veneer and/or plywood; (2) manufacturing engineered wood members; and (3) manufacturing reconstituted wood products.  This industry includes manufacturing plywood from veneer made in the same establishment or from veneer made in other establishments, and manufacturing plywood faced with nonwood materials, such as plastics or metal.\n\nIllustrative Examples:\n\nFabricated structural wood members manufacturing\nLaminated structural wood members manufacturing\nMedium density fiberboard (MDF) manufacturing\nOriented strandboard (OSB) manufacturing\nParticleboard manufacturing\nPlywood manufacturing\nReconstituted wood sheets and boards manufacturing\nRoof trusses, wood, manufacturing\nVeneer mills\nWaferboard manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "321211": {
+                  "title": "Hardwood Veneer and Plywood Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing hardwood veneer and/or hardwood plywood.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "321212": {
+                  "title": "Softwood Veneer and Plywood Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing softwood veneer and/or softwood plywood.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "321215": {
+                  "title": "Engineered Wood Member Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing fabricated or laminated wood arches, wood roof and floor trusses, and/or other fabricated or laminated wood structural members.\n\nIllustrative Examples:\n\nFinger joint lumber manufacturing\nI-joists, wood, fabricating\nLaminated veneer lumber (LVL) manufacturing\nParallel strand lumber manufacturing\nTimbers, structural, glue laminated or pre-engineered wood, manufacturing\nTrusses, wood roof or floor, manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "321219": {
+                  "title": "Reconstituted Wood Product Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing reconstituted wood sheets and boards.\n\nIllustrative Examples:\n\nMedium density fiberboard (MDF) manufacturing\nOriented strandboard (OSB) manufacturing\nParticleboard manufacturing\nReconstituted wood sheets and boards manufacturing\nWaferboard manufacturing \n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3219": {
+          "title": "Other Wood Product ManufacturingT",
+          "desc": "This industry group comprises establishments primarily engaged in manufacturing wood products (except establishments operating sawmills and wood preservation facilities; and establishments manufacturing veneer, plywood, or engineered wood products).\n",
+          "childNodes": {
+            "32191": {
+              "title": "MillworkT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing hardwood and softwood cut stock and dimension stock (i.e., shapes); wood windows and wood doors; and other millwork including wood flooring.  Dimension stock or cut stock is defined as lumber and worked wood products cut or shaped to specialized sizes.  These establishments generally use woodworking machinery, such as jointers, planers, lathes, and routers to shape wood.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "321911": {
+                  "title": "Wood Window and Door Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing window and door units, sash, window and door frames, and doors from wood or wood clad with metal or plastics.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "321912": {
+                  "title": "Cut Stock, Resawing Lumber, and Planing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in one or more of the following: (1) manufacturing dimension lumber from purchased lumber; (2) manufacturing dimension stock (i.e., shapes) or cut stock; (3) resawing the output of sawmills; and (4) planing purchased lumber.  These establishments generally use woodworking machinery, such as jointers, planers, lathes, and routers to shape wood.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "321918": {
+                  "title": "Other Millwork (including Flooring)",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing millwork (except wood windows, wood doors, and cut stock).\n\nIllustrative Examples:\n\nClear and finger joint wood moldings manufacturing\nDecorative wood moldings (e.g., base, chair rail, crown, shoe) manufacturing\nOrnamental woodwork (e.g., cornices, mantel) manufacturing \nPlaning mills, millwork \nStairwork (e.g., newel posts, railings, stairs, staircases), wood, manufacturing\nWood flooring manufacturing\nWood shutters manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32192": {
+              "title": "Wood Container and Pallet ManufacturingT",
+              "desc": "See industry description for 321920.",
+              "childNodes": {
+                "321920": {
+                  "title": "Wood Container and Pallet Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing wood pallets, wood box shook, wood boxes, other wood containers, and wood parts for pallets and containers.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32199": {
+              "title": "All Other Wood Product ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing wood products (except establishments operating sawmills and wood preservation facilities; and establishments manufacturing veneer, plywood, engineered wood products, millwork, wood containers, or pallets).\n\nIllustrative Examples:\n\nMobile homes manufacturing\nPanels, prefabricated wood building, manufacturing\nPrefabricated wood buildings manufacturing\nWood dowels manufacturing\nSections, prefabricated wood building, manufacturing\nWood handles (e.g., broom, handtool, mop) manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "321991": {
+                  "title": "Manufactured Home (Mobile Home) Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in making manufactured homes (i.e., mobile homes) and nonresidential mobile buildings.  Manufactured homes are designed to accept permanent water, sewer, and utility connections and although equipped with wheels, they are not intended for regular highway movement.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "321992": {
+                  "title": "Prefabricated Wood Building Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing prefabricated wood buildings and wood sections and panels for prefabricated wood buildings.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "321999": {
+                  "title": "All Other Miscellaneous Wood Product Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing wood products (except establishments operating sawmills and preservation facilities; establishments manufacturing veneer, engineered wood products, millwork, wood containers, pallets, and wood container parts; and establishments making manufactured homes (i.e., mobile homes) and prefabricated buildings and components).\n\nIllustrative Examples:\n\nCabinets (i.e., housings), wood (e.g., sewing machines, stereo, television), manufacturing\nCork products (except gaskets) manufacturing\nKiln drying lumber\nShoe trees manufacturing\nWood dowels manufacturing\nWood extension ladders manufacturing\nWood handles (e.g., broom, handtool, mop), manufacturing\nWood kitchenware manufacturing\nWood stepladders manufacturing\nWood toilet seats manufacturing\nWood toothpicks manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "322": {
+      "title": "Paper ManufacturingT",
+      "desc": "Industries in the Paper Manufacturing subsector make pulp, paper, or converted paper products.  The manufacturing of these products is grouped together because they constitute a series of vertically connected processes.  More than one is often carried out in a single establishment.  There are essentially three activities.  The manufacturing of pulp involves separating the cellulose fibers from other impurities in wood or used paper.  The manufacturing of paper involves matting these fibers into a sheet.  The manufacturing of converted paper products involves converting paper and other materials by various cutting and shaping techniques and includes coating and laminating activities.\n\nThe Paper Manufacturing subsector is subdivided into two industry groups, the first for the manufacturing of pulp and paper and the second for the manufacturing of converted paper products.  Paper making is treated as the core activity of the subsector.  Therefore, any establishment that makes paper (including paperboard), either alone or in combination with pulp manufacturing or paper converting, is classified as a paper or paperboard mill.  Establishments that make pulp without making paper are classified as pulp mills.  Pulp mills, paper mills, and paperboard mills comprise the first industry group.\n\nEstablishments that make products from purchased paper and other materials make up the second industry group, Converted Paper Product Manufacturing.  This general activity is then subdivided based, for the most part, on process distinctions.  Paperboard container manufacturing uses corrugating, cutting, and shaping machinery to form paperboard into containers.  Paper bag and coated and treated paper manufacturing establishments cut and coat paper and foil.  Stationery product manufacturing establishments make a variety of paper products used for writing, filing, and similar applications.  Other converted paper product manufacturing includes, in particular, the conversion of sanitary paper stock into such things as tissue paper and disposable diapers.\n\nAn important process used in the Paper Bag and Coated and Treated Paper Manufacturing industry is lamination, often combined with coating.  Lamination and coating make a composite material with improved properties of strength, impermeability, and so on.  The laminated materials may be paper, metal foil, or plastics film.  While paper is often one of the components, it is not always.  Lamination of plastics film to plastics film is classified in Subsector 326, Plastics and Rubber Products Manufacturing, because establishments that do this often first make the film.  The same situation holds with respect to bags.  The manufacturing of bags from plastics only, whether or not laminated, is classified in Subsector 326, Plastics and Rubber Products Manufacturing.\n\nExcluded from this subsector are photosensitive papers.  These papers are chemically treated and are classified in Industry 32599, All Other Chemical Product and Preparation Manufacturing.\n",
+      "childNodes": {
+        "3221": {
+          "title": "Pulp, Paper, and Paperboard MillsT",
+          "desc": "This industry group comprises establishments primarily engaged in manufacturing pulp, paper, or paperboard.",
+          "childNodes": {
+            "32211": {
+              "title": "Pulp MillsT",
+              "desc": "See industry description for 322110.",
+              "childNodes": {
+                "322110": {
+                  "title": "Pulp Mills",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing pulp without manufacturing paper or paperboard.  The pulp is made by separating the cellulose fibers from the other impurities in wood or other materials, such as used or recycled rags, linters, scrap paper, and straw.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32212": {
+              "title": "Paper MillsT",
+              "desc": "See industry description for 322120.",
+              "childNodes": {
+                "322120": {
+                  "title": "Paper Mills",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing paper from pulp. These establishments may manufacture or purchase pulp.  In addition, the establishments may convert the paper they make.  The activity of making paper classifies an establishment into this industry regardless of the output.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32213": {
+              "title": "Paperboard MillsT",
+              "desc": "See industry description for 322130.",
+              "childNodes": {
+                "322130": {
+                  "title": "Paperboard Mills",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing paperboard (e.g., can/drum stock, container board, corrugating medium, folding carton stock, linerboard, tube) from pulp.  These establishments may manufacture or purchase pulp.  In addition, the establishments may also convert the paperboard they make.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3222": {
+          "title": "Converted Paper Product ManufacturingT",
+          "desc": "This industry group comprises establishments primarily engaged in converting paper or paperboard without manufacturing paper or paperboard.\n",
+          "childNodes": {
+            "32221": {
+              "title": "Paperboard Container ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in converting paperboard into containers without manufacturing paperboard.  These establishments use corrugating, cutting, and shaping machinery to form paperboard into containers.  Products made by these establishments include boxes, corrugated sheets, pads, pallets, paper dishes, and fiber drums and reels.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "322211": {
+                  "title": "Corrugated and Solid Fiber Box Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in laminating purchased paper or paperboard into corrugated or solid fiber boxes and related products, such as pads, partitions, pallets, and corrugated paper without manufacturing paperboard.  These boxes are generally used for shipping.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "322212": {
+                  "title": "Folding Paperboard Box Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in converting paperboard (except corrugated) into folding paperboard boxes without manufacturing paper and paperboard.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "322219": {
+                  "title": "Other Paperboard Container Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in converting paperboard into paperboard containers (except corrugated, solid fiber, and folding paperboard boxes) without manufacturing paperboard.\n\nIllustrative Examples:\n\nFiber cans and drums (i.e., all-fiber, nonfiber ends of any material) made from purchased paperboard\nMilk cartons made from purchased paper or paperboard\nSanitary food containers (except folding) made from purchased paper or paperboard \nSetup (i.e., not shipped flat) boxes made from purchased paperboard\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32222": {
+              "title": "Paper Bag and Coated and Treated Paper ManufacturingT",
+              "desc": "See industry description for 322220.",
+              "childNodes": {
+                "322220": {
+                  "title": "Paper Bag and Coated and Treated Paper Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) cutting and coating paper and paperboard; (2) cutting and laminating paper, paperboard, and other flexible materials (except plastics film to plastics film); (3) manufacturing bags, multiwall bags, sacks of paper, metal foil, coated paper, laminates, or coated combinations of paper and foil with plastics film; (4) manufacturing laminated aluminum and other converted metal foils from purchased foils; and (5) surface coating paper or paperboard.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32223": {
+              "title": "Stationery Product ManufacturingT",
+              "desc": "See industry description for 322230.",
+              "childNodes": {
+                "322230": {
+                  "title": "Stationery Product Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in converting paper or paperboard into products used for writing, filing, art work, and similar applications.\n\nIllustrative Examples:\n\nComputer paper, die-cut, made from purchased paper\nDie-cut paper products for office use made from purchased paper or paperboard\nEnvelopes (i.e., mailing, stationery) made from any material\nStationery made from purchased paper\nTablets (e.g., memo, note, writing) made from purchased paper\nTapes (e.g., adding machine, calculator, cash register) made from purchased paper\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32229": {
+              "title": "Other Converted Paper Product ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in (1) converting paper and paperboard into products (except containers, bags, coated and treated paper and paperboard, and stationery products) or (2) converting pulp into pulp products, such as disposable diapers, or molded pulp egg cartons, food trays, and dishes.  Processes used include laminating or lining purchased paper or paperboard.\n\nIllustrative Examples:\n\nCrepe paper made from purchased paper\nDie-cut paper products (except for office use) made from purchased paper or paperboard\nPaper novelties made from purchased paper\nMolded pulp products (e.g., egg cartons, food containers, food trays) manufacturing\nSanitary products made from purchased sanitary paper stock\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "322291": {
+                  "title": "Sanitary Paper Product Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in converting purchased sanitary paper stock or wadding into sanitary paper products, such as facial tissues, handkerchiefs, table napkins, toilet paper, towels, disposable diapers, sanitary napkins, and tampons.\n",
+                  "childNodes": {}
+                },
+                "322299": {
+                  "title": "All Other Converted Paper Product Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in converting paper or paperboard into products (except containers, bags, coated and treated paper, stationery products, and sanitary paper products) or converting pulp into pulp products, such as egg cartons, food trays, and other food containers from molded pulp.\n\nIllustrative Examples:\n\nCrepe paper made from purchased paper\nDie-cut paper products (except for office use) made from purchased paper or paperboard\nMolded pulp products (e.g., egg cartons, food containers, food trays) manufacturing\nPaper novelties made from purchased paper\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "323": {
+      "title": "Printing and Related Support ActivitiesT",
+      "desc": "Industries in the Printing and Related Support Activities subsector print products, such as newspapers, books, labels, business cards, stationery, business forms, and other materials, and perform support activities, such as data imaging, platemaking services, and bookbinding.  The support activities included here are an integral part of the printing industry, and a product (a printing plate, a bound book, or a computer disk or file) that is an integral part of the printing industry is almost always provided by these operations.\n\nProcesses used in printing include a variety of methods used to transfer an image from a plate, screen, film, or computer file to some medium, such as paper, plastics, metal, textile articles, or wood.  The printing processes employed include, but are not limited to, lithographic, gravure, screen, flexographic, digital, and letterpress.\n\nIn contrast to many other classification systems that locate publishing of printed materials in manufacturing, NAICS classifies the publishing of printed products in Subsector 513, Publishing Industries.  Though printing and publishing are often carried out by the same enterprise, it is less and less the case that these distinct activities are carried out in the same establishment.  When publishing and printing are done in the same establishment, the establishment is classified in Subsector 513, Publishing Industries, in the appropriate NAICS industry even if the receipts for printing exceed those for publishing.\n\nThis subsector includes printing on clothing because the production process for that activity is printing, not clothing manufacturing.  For instance, the printing of T-shirts is included in this subsector.  In contrast, printing on fabric (or grey goods) is not included.  This activity is part of the process of finishing the fabric and is included in Industry 31331, Textile and Fabric Finishing Mills.\n\nExcluded from this subsector are establishment primarily engaged in manufacturing bare printed circuit boards.  These establishments print, perforate, plate, screen, etch, or photoprint interconnecting pathways for electric current on laminates and are classified in Industry 33441, Semiconductor and Other Electronic Component Manufacturing.  Establishments primarily providing printing brokerage services are classified in Industry 56199, All Other Support Services.\n",
+      "childNodes": {
+        "3231": {
+          "title": "Printing and Related Support ActivitiesT",
+          "desc": "NULL",
+          "childNodes": {
+            "32311": {
+              "title": "PrintingT",
+              "desc": "This industry comprises establishments primarily engaged in printing on apparel and textile products, paper, metal, glass, plastics, and other materials, except fabric (grey goods).  The printing processes employed include, but are not limited to, lithographic, gravure, screen, flexographic, digital, and letterpress.  Establishments in this industry do not manufacture the stock that they print, but may perform postprinting activities, such as folding, cutting, or laminating the materials they print, and mailing.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "323111": {
+                  "title": "Commercial Printing (except Screen and Books)",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in commercial printing (except screen printing, books printing) without publishing (except fabric grey goods printing).  The printing processes used in this industry include, but are not limited to, lithographic, gravure, flexographic, letterpress, engraving, and various digital printing technologies.  This industry includes establishments engaged in commercial printing on purchased stock materials, such as stationery, invitations, labels, and similar items, on a job-order basis.  Establishments primarily engaged in traditional printing activities combined with document photocopying services (i.e., quick printers) or primarily engaged in printing graphical materials using digital printing equipment are included in this industry.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "323113": {
+                  "title": "Commercial Screen Printing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in screen printing without publishing (except books, fabric grey goods, and manifold business forms).  This industry includes establishments engaged in screen printing on purchased stock materials, such as stationery, invitations, labels, and similar items, on a job-order basis.  Establishments primarily engaged in printing on apparel and textile products, such as T-shirts, caps, jackets, towels, and napkins, are included in this industry.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "323117": {
+                  "title": "Books Printing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in printing or printing and binding books and pamphlets without publishing.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32312": {
+              "title": "Support Activities for PrintingT",
+              "desc": "See industry description for 323120.",
+              "childNodes": {
+                "323120": {
+                  "title": "Support Activities for Printing",
+                  "desc": "This industry comprises establishments primarily engaged in performing prepress and postpress services in support of printing activities.  Prepress services may include such things as platemaking, typesetting, trade binding, and sample mounting.  Postpress services include such things as book or paper bronzing, die cutting, edging, embossing, folding, gilding, gluing, and indexing.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "324": {
+      "title": "Petroleum and Coal Products ManufacturingT",
+      "desc": "The Petroleum and Coal Products Manufacturing subsector is based on the transformation of crude petroleum and coal into usable products.  The dominant process is petroleum refining that involves the separation of crude petroleum into component products through such techniques as cracking and distillation.\n\nIn addition, this subsector includes establishments that primarily further process refined petroleum and coal products and produce products, such as asphalt coatings and petroleum lubricating oils.  However, establishments that manufacture petrochemicals from refined petroleum are classified in Industry 32511, Petrochemical Manufacturing.\n",
+      "childNodes": {
+        "3241": {
+          "title": "Petroleum and Coal Products ManufacturingT",
+          "desc": "NULL",
+          "childNodes": {
+            "32411": {
+              "title": "Petroleum RefineriesT",
+              "desc": "See industry description for 324110.",
+              "childNodes": {
+                "324110": {
+                  "title": "Petroleum Refineries",
+                  "desc": "This industry comprises establishments primarily engaged in refining crude petroleum into refined petroleum.  Petroleum refining involves one or more of the following activities: (1) fractionation; (2) straight distillation of crude oil; and (3) cracking.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32412": {
+              "title": "Asphalt Paving, Roofing, and Saturated Materials ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in (1) manufacturing asphalt and tar paving mixtures and blocks and roofing cements and coatings from purchased asphaltic materials and/or (2) saturating purchased mats and felts with asphalt or tar from purchased asphaltic materials.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "324121": {
+                  "title": "Asphalt Paving Mixture and Block Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing asphalt and tar paving mixtures and blocks from purchased asphaltic materials.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "324122": {
+                  "title": "Asphalt Shingle and Coating Materials Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) saturating purchased mats and felts with asphalt or tar from purchased asphaltic materials and (2) manufacturing asphalt and tar and roofing cements and coatings from purchased asphaltic materials.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32419": {
+              "title": "Other Petroleum and Coal Products ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing petroleum products (except asphalt paving, roofing, and saturated materials) from refined petroleum or coal products made in coke ovens not integrated with a steel mill.\n\nIllustrative Examples:\n\nBiodiesel fuels not made in petroleum refineries and blended with purchased refined petroleum\nCoke oven products (e.g., coke, gases, tars) made in coke oven establishments\nPetroleum brake fluids made from refined petroleum\nPetroleum jelly made from refined petroleum\nPetroleum briquettes made from refined petroleum\nPetroleum lubricating oils and greases made from refined petroleum\nPetroleum waxes made from refined petroleum\nRe-refining used petroleum lubricating oils\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "324191": {
+                  "title": "Petroleum Lubricating Oil and Grease Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in blending or compounding refined petroleum to make lubricating oils and greases and/or re-refining used petroleum lubricating oils.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "324199": {
+                  "title": "All Other Petroleum and Coal Products Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing petroleum products (except asphalt paving, roofing, and saturated materials and lubricating oils and greases) from refined petroleum and coal products made in coke ovens not integrated with a steel mill.\n\nIllustrative Examples:\n\nBiodiesel fuels not made in petroleum refineries and blended with purchased refined petroleum\nCoke oven products (e.g., coke, gases, tars) made in coke oven establishments\nPetroleum briquettes made from refined petroleum\nPetroleum jelly made from refined petroleum\nPetroleum waxes made from refined petroleum\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "325": {
+      "title": "Chemical ManufacturingT",
+      "desc": "The Chemical Manufacturing subsector is based on the transformation of organic and inorganic raw materials by a chemical process and the formulation of products.  This subsector distinguishes the production of basic chemicals that comprise the first industry group from the production of intermediate and end products produced by further processing of basic chemicals that make up the remaining industry groups.\n\nThis subsector does not include all industries transforming raw materials by a chemical process.  It is common for some chemical processing to occur during mining operations.  These beneficiating operations, such as copper concentrating, are classified in Sector 21, Mining, Quarrying, and Oil and Gas Extraction.  Furthermore, the refining of crude petroleum is included in Subsector 324, Petroleum and Coal Products Manufacturing.  In addition, the manufacturing of aluminum oxide is included in Subsector 331, Primary Metal Manufacturing; and beverage distilleries are classified in Subsector 312, Beverage and Tobacco Product Manufacturing.  As is the case of these two activities, the grouping of industries into subsectors may take into account the association of the activities performed with other activities in the subsector.\n",
+      "childNodes": {
+        "3251": {
+          "title": "Basic Chemical ManufacturingT",
+          "desc": "This industry group comprises establishments primarily engaged in manufacturing chemicals using basic processes, such as thermal cracking and distillation.  Chemicals manufactured in this industry group are usually separate chemical elements or separate chemically-defined compounds.\n",
+          "childNodes": {
+            "32511": {
+              "title": "Petrochemical ManufacturingT",
+              "desc": "See industry description for 325110.",
+              "childNodes": {
+                "325110": {
+                  "title": "Petrochemical Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in (1) manufacturing acyclic (i.e., aliphatic) hydrocarbons such as ethylene, propylene, and butylene made from refined petroleum or liquid hydrocarbons and/or (2) manufacturing cyclic aromatic hydrocarbons such as benzene, toluene, styrene, xylene, ethyl benzene, and cumene made from refined petroleum or liquid hydrocarbons.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32512": {
+              "title": "Industrial Gas ManufacturingT",
+              "desc": "See industry description for 325120.",
+              "childNodes": {
+                "325120": {
+                  "title": "Industrial Gas Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing industrial organic and inorganic gases in compressed, liquid, and solid forms.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32513": {
+              "title": "Synthetic Dye and Pigment ManufacturingT",
+              "desc": "See industry description for 325130.",
+              "childNodes": {
+                "325130": {
+                  "title": "Synthetic Dye and Pigment Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing synthetic organic and inorganic dyes and pigments, such as lakes and toners (except electrostatic and photographic).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32518": {
+              "title": "Other Basic Inorganic Chemical ManufacturingT",
+              "desc": "See industry description for 325180.",
+              "childNodes": {
+                "325180": {
+                  "title": "Other Basic Inorganic Chemical Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing basic inorganic chemicals (except industrial gases and synthetic dyes and pigments).\n\nIllustrative Examples:\n\nAlkalies manufacturing\nAluminum compounds, not specified elsewhere by process, manufacturing\nCarbides (e.g., baron, calcium, silicon, tungsten) manufacturing\nCarbon black manufacturing\nChlorine manufacturing\nHydrochloric acid manufacturing\nPotassium inorganic compounds, not specified elsewhere by process, manufacturing\nRadioactive isotopes manufacturing\nSulfides and sulfites manufacturing\nSulfuric acid manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32519": {
+              "title": "Other Basic Organic Chemical ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing basic organic chemicals (except petrochemicals, industrial gases, and synthetic dyes and pigments).\n\nIllustrative Examples:\n\nBiodiesel fuels not made in petroleum refineries and not blended with petroleum\nCarbon organic compounds, not specified elsewhere by process, manufacturing\nCyclic intermediates made from refined petroleum or natural gas (except aromatic petrochemicals)\nEnzyme proteins (i.e., basic synthetic chemicals) (except pharmaceutical use) manufacturing\nGum and wood chemicals manufacturing\nFatty acids (e.g., margaric, oleic, stearic) manufacturing\nOrgano-inorganic compound manufacturing\nPlasticizers (i.e., basic synthetic chemical) manufacturing\nSilicone (except resins) manufacturing\nSynthetic sweeteners (i.e., sweetening agents) manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "325193": {
+                  "title": "Ethyl Alcohol Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing nonpotable ethyl alcohol.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "325194": {
+                  "title": "Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in one or more of the following: (1) distilling wood or gum into products, such as tall oil and wood distillates; (2) distilling coal tars; (3) manufacturing wood or gum chemicals, such as naval stores, natural tanning materials, charcoal briquettes, and charcoal (except activated); and (4) manufacturing cyclic crudes or cyclic intermediates (i.e., hydrocarbons, except aromatic petrochemicals) from refined petroleum or natural gas.\n\nCross-references. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "325199": {
+                  "title": "All Other Basic Organic Chemical Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing basic organic chemical products (except aromatic petrochemicals, industrial gases, synthetic organic dyes and pigments, gum and wood chemicals, cyclic crudes and intermediates, and ethyl alcohol).\n\nIllustrative Examples:\n\nBiodiesel fuels not made in petroleum refineries and not blended with petroleum\nCalcium organic compounds, not specified elsewhere by process, manufacturing\nCarbon organic compounds, not specified elsewhere by process, manufacturing\nEnzyme proteins (i.e., basic synthetic chemicals) (except pharmaceutical use) manufacturing\nOrgano-inorganic compound manufacturing\nFatty acids (e.g., margaric, oleic, stearic) manufacturing\nPlasticizers (i.e., basic synthetic chemicals) manufacturing\nRaw organic waxes manufacturing\nRefrigerant mixtures and blends manufacturing\nSilicone (except resins) manufacturing\nSynthetic sweeteners (i.e., sweetening agents) manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3252": {
+          "title": "Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments ManufacturingT",
+          "desc": "This industry group comprises establishments primarily engaged in one of the following: (1) manufacturing synthetic resins, plastics materials, and nonvulcanizable elastomers and mixing and blending resins on a custom basis; (2) manufacturing noncustomized synthetic resins; (3) manufacturing synthetic rubber; (4) manufacturing cellulosic (e.g., rayon, acetate) and noncellulosic (e.g., nylon, polyolefin, polyester) fibers and filaments in the form of monofilament, filament yarn, staple, or tow; or (5) manufacturing and texturizing cellulosic and noncellulosic fibers and filaments.\n",
+          "childNodes": {
+            "32521": {
+              "title": "Resin and Synthetic Rubber ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) manufacturing synthetic resins, plastics materials, and nonvulcanizable elastomers and mixing and blending resins on a custom basis; (2) manufacturing noncustomized synthetic resins; and (3) manufacturing synthetic rubber.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "325211": {
+                  "title": "Plastics Material and Resin Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) manufacturing resins, plastics materials, and nonvulcanizable thermoplastic elastomers and mixing and blending resins on a custom basis and/or (2) manufacturing noncustomized synthetic resins.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "325212": {
+                  "title": "Synthetic Rubber Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing synthetic rubber.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32522": {
+              "title": "Artificial and Synthetic Fibers and Filaments ManufacturingT",
+              "desc": "See industry description for 325220.",
+              "childNodes": {
+                "325220": {
+                  "title": "Artificial and Synthetic Fibers and Filaments Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in (1) manufacturing cellulosic (e.g., rayon, acetate) and noncellulosic (e.g., nylon, polyolefin, polyester) fibers and filaments in the form of monofilament, filament yarn, staple, or tow or (2) manufacturing and texturizing cellulosic and noncellulosic fibers and filaments.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3253": {
+          "title": "Pesticide, Fertilizer, and Other Agricultural Chemical ManufacturingT",
+          "desc": "This industry group comprises establishments primarily engaged in one or more of the following: (1) manufacturing nitrogenous or phosphatic fertilizer materials; (2) manufacturing fertilizers from sewage or animal waste; (3) manufacturing nitrogenous or phosphatic materials and mixing with other ingredients into fertilizers; (4) mixing ingredients made elsewhere into fertilizers; (5) manufacturing compost; and (6) formulating and preparing pesticides and other agricultural chemicals.\n",
+          "childNodes": {
+            "32531": {
+              "title": "Fertilizer and Compost ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) manufacturing nitrogenous or phosphatic fertilizer materials; (2) manufacturing fertilizers from sewage or animal waste; (3) manufacturing nitrogenous or phosphatic materials and mixing with other ingredients into fertilizers; (4) mixing ingredients made elsewhere into fertilizers; and (5) manufacturing compost.\n",
+              "childNodes": {
+                "325311": {
+                  "title": "Nitrogenous Fertilizer Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in one or more of the following: (1) manufacturing nitrogenous fertilizer materials; (2) manufacturing fertilizers from sewage or animal waste; and (3) manufacturing nitrogenous materials and mixing with other ingredients into fertilizers.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "325312": {
+                  "title": "Phosphatic Fertilizer Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) manufacturing phosphatic fertilizer materials or (2) manufacturing phosphatic materials and mixing with other ingredients into fertilizers.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "325314": {
+                  "title": "Fertilizer (Mixing Only) Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in mixing ingredients made elsewhere into fertilizers.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "325315": {
+                  "title": "Compost Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing compost through the controlled aerobic, biological decomposition and curing of biodegradable materials.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32532": {
+              "title": "Pesticide and Other Agricultural Chemical ManufacturingT",
+              "desc": "See industry description for 325320.",
+              "childNodes": {
+                "325320": {
+                  "title": "Pesticide and Other Agricultural Chemical Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in the formulation and preparation of agricultural and household pest control chemicals (except fertilizers).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3254": {
+          "title": "Pharmaceutical and Medicine ManufacturingT",
+          "desc": "NULL",
+          "childNodes": {
+            "32541": {
+              "title": "Pharmaceutical and Medicine ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) manufacturing biological and medicinal products; (2) processing (i.e., grading, grinding, and milling) botanical drugs and herbs; (3) isolating active medicinal principals from botanical drugs and herbs; and (4) manufacturing pharmaceutical products intended for internal and external consumption in such forms as ampoules, tablets, capsules, vials, ointments, powders, solutions, and suspensions.\n",
+              "childNodes": {
+                "325411": {
+                  "title": "Medicinal and Botanical Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) manufacturing uncompounded medicinal chemicals and their derivatives (i.e., generally for use by pharmaceutical preparation manufacturers) and/or (2) grading, grinding, and milling uncompounded botanicals.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "325412": {
+                  "title": "Pharmaceutical Preparation Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing in-vivo diagnostic substances and pharmaceutical preparations (except biological) intended for internal and external consumption in dose forms, such as ampoules, tablets, capsules, vials, ointments, powders, solutions, and suspensions.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "325413": {
+                  "title": "In-Vitro Diagnostic Substance Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing in-vitro (i.e., not taken internally) diagnostic substances, such as chemical, biological, or radioactive substances. The substances are used for diagnostic tests that are performed in test tubes, petri dishes, machines, and other diagnostic test-type devices.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "325414": {
+                  "title": "Biological Product (except Diagnostic) Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing vaccines, toxoids, blood fractions, and culture media of plant or animal origin (except diagnostic).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3255": {
+          "title": "Paint, Coating, and Adhesive ManufacturingT",
+          "desc": "This industry group comprises establishments primarily engaged in one or more of the following: (1) mixing pigments, solvents, and binders into paints and other coatings; (2) manufacturing allied paint products; and (3) manufacturing adhesives, glues, and caulking compounds.\n",
+          "childNodes": {
+            "32551": {
+              "title": "Paint and Coating ManufacturingT",
+              "desc": "See industry description for 325510.",
+              "childNodes": {
+                "325510": {
+                  "title": "Paint and Coating Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in (1) mixing pigments, solvents, and binders into paints and other coatings, such as stains, varnishes, lacquers, enamels, shellacs, and water-repellent coatings for concrete and masonry, and/or (2) manufacturing allied paint products, such as putties, paint and varnish removers, paint brush cleaners, and frit.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32552": {
+              "title": "Adhesive ManufacturingT",
+              "desc": "See industry description for 325520.",
+              "childNodes": {
+                "325520": {
+                  "title": "Adhesive Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing adhesives, glues, and caulking compounds.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3256": {
+          "title": "Soap, Cleaning Compound, and Toilet Preparation ManufacturingT",
+          "desc": "This industry group comprises establishments primarily engaged in (1) manufacturing and packaging soaps, detergents, polishes, surface active agents, textile and leather finishing agents, and other sanitation goods or (2) preparing, blending, compounding, and packaging toilet preparations.\n",
+          "childNodes": {
+            "32561": {
+              "title": "Soap and Cleaning Compound ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing and packaging soaps and other cleaning compounds, surface active agents, and textile and leather finishing agents used to reduce tension or speed the drying process.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "325611": {
+                  "title": "Soap and Other Detergent Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing and packaging bath, facial, and hand soaps, hand sanitizers, and other detergents, such as laundry and dishwashing detergents; toothpaste gels and tooth powders; and natural glycerin.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "325612": {
+                  "title": "Polish and Other Sanitation Good Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing and packaging polishes and specialty cleaning preparations.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "325613": {
+                  "title": "Surface Active Agent Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) manufacturing bulk surface active agents for use as wetting agents, emulsifiers, and penetrants and/or (2) manufacturing textile and leather finishing agents used to reduce tension or speed the drying process.\n",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32562": {
+              "title": "Toilet Preparation ManufacturingT",
+              "desc": "See industry description for 325620.",
+              "childNodes": {
+                "325620": {
+                  "title": "Toilet Preparation Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in preparing, blending, compounding, and packaging toilet preparations, such as perfumes, shaving preparations, hair preparations, face creams, lotions (including sunscreens), and other cosmetic preparations.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3259": {
+          "title": "Other Chemical Product and Preparation ManufacturingT",
+          "desc": "This industry group comprises establishments primarily engaged in manufacturing chemical products (except basic chemicals; resins, synthetic rubber, cellulosic and noncellulosic fibers and filaments; pesticides, fertilizers, and other agricultural chemicals; pharmaceuticals and medicines; paints, coatings, and adhesives; soaps and cleaning compounds; and toilet preparations).\n",
+          "childNodes": {
+            "32591": {
+              "title": "Printing Ink ManufacturingT",
+              "desc": "See industry description for 325910.",
+              "childNodes": {
+                "325910": {
+                  "title": "Printing Ink Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing printing and inkjet inks and inkjet cartridges.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32592": {
+              "title": "Explosives ManufacturingT",
+              "desc": "See industry description for 325920.",
+              "childNodes": {
+                "325920": {
+                  "title": "Explosives Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing explosives.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32599": {
+              "title": "All Other Chemical Product and Preparation ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing chemical products (except basic chemicals, resins, and synthetic rubber; cellulosic and noncellulosic fibers and filaments; pesticides, fertilizers, and other agricultural chemicals; pharmaceuticals and medicines; paints, coatings, and adhesives; soaps, cleaning compounds, and toilet preparations; printing inks; and explosives).\n\nIllustrative Examples:\n\nActivated carbon and charcoal manufacturing\nAntifreeze preparations manufacturing\nCustom compounding (i.e., blending and mixing) of purchased plastics resins\nElectronic cigarette vapor liquids, including closed refills, manufacturing\nIndustrial salt manufacturing\nMatches and matchbook manufacturing\nPhotographic chemicals manufacturing\nPyrotechnics (e.g., flares, flashlight bombs, signals) manufacturing\nSugar substitutes (i.e., synthetic sweeteners blended with other ingredients) made from purchased synthetic sweeteners\nSwimming pool chemical preparations manufacturing\nWriting inks manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "325991": {
+                  "title": "Custom Compounding of Purchased Resins",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) custom mixing and blending plastics resins made elsewhere or (2) reformulating plastics resins from recycled plastics products.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "325992": {
+                  "title": "Photographic Film, Paper, Plate, Chemical, and Copy Toner Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing sensitized film, sensitized paper, sensitized cloth, sensitized plates, toners (i.e., for photocopiers, laser printers, and similar electrostatic printing devices), toner cartridges, and photographic chemicals.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "325998": {
+                  "title": "All Other Miscellaneous Chemical Product and Preparation Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing chemical products (except basic chemicals, resins, and synthetic rubber; cellulosic and noncellulosic fibers and filaments; pesticides, fertilizers, and other agricultural chemicals; pharmaceuticals and medicines; paints, coatings and adhesives; soaps, cleaning compounds, and toilet preparations; printing inks; explosives; custom compounding of purchased resins; and photographic films, papers, plates, chemicals, and copy toners).\n\nIllustrative Examples:\n\nActivated carbon and charcoal manufacturing\nAntifreeze preparations manufacturing\nElectronic cigarette vapor liquids, including closed refills, manufacturing\nIndustrial salt manufacturing\nLighter fluids (e.g., charcoal, cigarette) manufacturing\nMatches and matchbook manufacturing\nPyrotechnics (e.g., flares, flashlight bombs, signals) manufacturing\nSugar substitutes (i.e., synthetic sweeteners blended with other ingredients) made from purchased synthetic sweeteners\nSwimming pool chemical preparations manufacturing\nWriting inks manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "326": {
+      "title": "Plastics and Rubber Products ManufacturingT",
+      "desc": "Industries in the Plastics and Rubber Products Manufacturing subsector make goods by processing plastics materials and raw rubber.  The core technology employed by establishments in this subsector is that of plastics or rubber product production.  Plastics and rubber are combined in the same subsector because plastics are increasingly being used as a substitute for rubber; however, the subsector is generally restricted to the production of products made of just one material, either solely plastics or rubber.\n\nMany manufacturing activities use plastics or rubber, for example the manufacture of footwear or furniture.  Typically, the production process of these products involves more than one material.  In these cases, technologies that allow disparate materials to be formed and combined are of central importance in describing the manufacturing activity.  In NAICS, such activities (footwear and furniture manufacturing) are not classified in the Plastics and Rubber Products Manufacturing subsector because the core technologies for these activities are diverse and involve multiple materials.\n\nWithin the Plastics and Rubber Products Manufacturing subsector, a distinction is made between plastics and rubber products at the industry group level, although it is not a rigid distinction, as can be seen from the definition of Industry 32622, Rubber and Plastics Hoses and Belting Manufacturing.  In the case of hoses and belting, plastics are used as a substitute for rubber, and the distinction in materials is not useful as a basis for establishment classification.\n\nIn keeping with the core technology focus of plastics, lamination of plastics film to plastics film as well as the production of bags from plastics only is classified in this subsector.  Lamination and bag production involving plastics and materials other than plastics are classified in Subsector 322, Paper Manufacturing.\n",
+      "childNodes": {
+        "3261": {
+          "title": "Plastics Product ManufacturingT",
+          "desc": "This industry group comprises establishments primarily engaged in processing new or spent (i.e., recycled) plastics resins into intermediate or final products, using such processes as compression molding; extrusion molding; injection molding; blow molding; and casting.  Within most of these industries, the production process is such that a wide variety of products can be made.\n",
+          "childNodes": {
+            "32611": {
+              "title": "Plastics Packaging Materials and Unlaminated Film and Sheet ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in (1) converting plastics resins into unsupported plastics film and sheet and/or (2) forming, coating, or laminating plastics film and sheet into plastics bags.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "326111": {
+                  "title": "Plastics Bag and Pouch Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) converting plastics resins into plastics bags or pouches and/or (2) forming, coating, or laminating plastics film or sheet into single-web or multiweb plastics bags or pouches.  Establishments in this industry may print on the bags or pouches they manufacture.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "326112": {
+                  "title": "Plastics Packaging Film and Sheet (including Laminated) Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in converting plastics resins into plastics packaging (flexible) film and packaging sheet.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "326113": {
+                  "title": "Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in converting plastics resins into plastics film and unlaminated sheet (except packaging).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32612": {
+              "title": "Plastics Pipe, Pipe Fitting, and Unlaminated Profile Shape ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing plastics pipes and pipe fittings, and plastics profile shapes such as rod, tube, and sausage casings.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "326121": {
+                  "title": "Unlaminated Plastics Profile Shape Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in converting plastics resins into nonrigid plastics profile shapes (except film, sheet, bags, and hoses), such as rod, tube, and sausage casings.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "326122": {
+                  "title": "Plastics Pipe and Pipe Fitting Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in converting plastics resins into plastics pipes and pipe fittings.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32613": {
+              "title": "Laminated Plastics Plate, Sheet (except Packaging), and Shape ManufacturingT",
+              "desc": "See industry description for 326130.",
+              "childNodes": {
+                "326130": {
+                  "title": "Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in laminating plastics profile shapes such as plate, sheet (except packaging), and rod. The lamination process generally involves bonding or impregnating profiles with plastics resins and compressing them under heat.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32614": {
+              "title": "Polystyrene Foam Product ManufacturingT",
+              "desc": "See industry description for 326140.",
+              "childNodes": {
+                "326140": {
+                  "title": "Polystyrene Foam Product Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing polystyrene foam products.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32615": {
+              "title": "Urethane and Other Foam Product (except Polystyrene) ManufacturingT",
+              "desc": "See industry description for 326150.",
+              "childNodes": {
+                "326150": {
+                  "title": "Urethane and Other Foam Product (except Polystyrene) Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing plastics foam products (except polystyrene).\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32616": {
+              "title": "Plastics Bottle ManufacturingT",
+              "desc": "See industry description for 326160.",
+              "childNodes": {
+                "326160": {
+                  "title": "Plastics Bottle Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing plastics bottles.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32619": {
+              "title": "Other Plastics Product ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing plastics plumbing fixtures and other plastics products (except film, sheet, bags, profile shapes, pipes, pipe fittings, laminates, foam products, bottles, and hoses).\n\nIllustrative Examples:\n\nInflatable plastics swimming pool rafts and similar flotation devices manufacturing\nPlastics air mattresses manufacturing\nPlastics bottle caps and lids manufacturing\nPlastics bowls and bowl covers manufacturing\nPlastics clothes hangers manufacturing\nPlastics cups (except foam) manufacturing\nPlastics dinnerware (except foam) manufacturing\nPlastics gloves manufacturing\nPlastics hardware manufacturing\nPlastics ice chests or coolers (except plastics foam) manufacturing\nPlastics or fiberglass plumbing fixtures (e.g., toilets, shower stalls, urinals) manufacturing\nPlastics prefabricated buildings manufacturing\nPlastics siding manufacturing\nPlastics trash containers manufacturing\nResilient floor coverings (e.g., sheet, tiles) manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "326191": {
+                  "title": "Plastics Plumbing Fixture Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing plastics or fiberglass plumbing fixtures.  Examples of products made by these establishments are plastics or fiberglass bathtubs, hot tubs, portable toilets, and shower stalls.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "326199": {
+                  "title": "All Other Plastics Product Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing plastics products (except film, sheet, bags, profile shapes, pipes, pipe fittings, laminates, foam products, bottles, plumbing fixtures, and hoses).\n\nIllustrative Examples:\n\nInflatable plastics swimming pool rafts and similar flotation devices manufacturing\nPlastics air mattresses manufacturing\nPlastics bottle caps and lids manufacturing\nPlastics bowls and bowl covers manufacturing\nPlastics clothes hangers manufacturing\nPlastics cups (except foam) manufacturing\nPlastics dinnerware (except foam) manufacturing\nPlastics gloves manufacturing\nPlastics hardware manufacturing\nPlastics siding manufacturing\nPlastics trash containers manufacturing\nResilient floor coverings (e.g., sheet, tiles) manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3262": {
+          "title": "Rubber Product ManufacturingT",
+          "desc": "This industry group comprises establishments primarily engaged in processing natural, synthetic, or reclaimed rubber materials into intermediate or final products using processes, such as vulcanizing, cementing, molding, extruding, and lathe-cutting.\n",
+          "childNodes": {
+            "32621": {
+              "title": "Tire ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing tires and inner tubes from natural and synthetic rubber and retreading or rebuilding tires.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "326211": {
+                  "title": "Tire Manufacturing (except Retreading)",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing tires and inner tubes from natural and synthetic rubber.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "326212": {
+                  "title": "Tire Retreading",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in retreading or rebuilding tires.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32622": {
+              "title": "Rubber and Plastics Hoses and Belting ManufacturingT",
+              "desc": "See industry description for 326220.",
+              "childNodes": {
+                "326220": {
+                  "title": "Rubber and Plastics Hoses and Belting Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing rubber hose and/or plastics (reinforced) hose and belting from natural and synthetic rubber and/or plastics resins.  Establishments manufacturing garden hoses from purchased hose are included in this industry.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32629": {
+              "title": "Other Rubber Product ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing rubber products (except tires, hoses, and belting) from natural and synthetic rubber.\n\nIllustrative Examples:\n\nBirth control devices (e.g., diaphragms, prophylactics) manufacturing\nLatex foam rubber manufacturing\nMechanical rubber goods (i.e., molded, extruded, lathe-cut) manufacturing\nReclaiming rubber from waste and scrap\nRubber balloons manufacturing\nRubber bands manufacturing\nRubber floor mats (e.g., door, bath) manufacturing\nRubber hair care products (e.g., combs, curlers) manufacturing\nRubber tubing manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "326291": {
+                  "title": "Rubber Product Manufacturing for Mechanical Use",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing rubber goods (except tubing) for mechanical applications, using the processes of molding, extruding or lathe-cutting.  Products of this industry are generally parts for motor vehicles, machinery, and equipment.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "326299": {
+                  "title": "All Other Rubber Product Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing rubber products (except tires; hoses and belting; and molded, extruded, and lathe-cut rubber goods for mechanical applications (except rubber tubing)) from natural and synthetic rubber.  Establishments manufacturing rubber tubing made from natural and synthetic rubber, regardless of process used, are included in this industry.\n\nIllustrative Examples:\n\nBirth control devices (i.e., diaphragms, prophylactics) manufacturing\nLatex foam rubber manufacturing\nReclaiming rubber from waste and scrap\nRubber balloons manufacturing\nRubber bands manufacturing\nRubber floor mats (e.g., door, bath) manufacturing\nRubber hair care products (e.g., combs, curlers) manufacturing\nRubber tubing manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "327": {
+      "title": "Nonmetallic Mineral Product ManufacturingT",
+      "desc": "The Nonmetallic Mineral Product Manufacturing subsector is based on the transformation of mined or quarried nonmetallic minerals, such as sand, gravel, stone, clay, and refractory materials, into products for intermediate or final consumption.  Processes used include grinding, mixing, cutting, shaping, and honing.  Heat often is used in the process and chemicals are frequently mixed to change the composition, purity, and chemical properties for the intended product.  For example, glass is produced by heating silica sand to the melting point (sometimes combined with cullet or recycled glass) and then drawn, floated, or blow molded to the desired shape or thickness.  Refractory materials are heated and then formed into bricks or other shapes for use in industrial applications.\n\nThe Nonmetallic Mineral Product Manufacturing subsector includes establishments that manufacture bricks, refractories, ceramic products, and glass and glass products, such as plate glass and containers.  Also included are cement and concrete products, lime, gypsum, and other nonmetallic mineral products including abrasive products, ceramic plumbing fixtures, statuary, cut stone products, and mineral wool.  The products are used in a wide range of activities from construction and heavy and light manufacturing to articles for personal use.\n\nMining, beneficiating, and manufacturing activities often occur in a single location.  Separate receipts will be collected for these activities whenever possible.  When receipts cannot be broken out between mining and manufacturing, establishments that mine or quarry nonmetallic minerals, beneficiate the nonmetallic minerals, and further process the nonmetallic minerals into a more finished manufactured product are classified based on the primary activity of the establishment.  A mine that manufactures a small amount of finished products is classified in Sector 21, Mining, Quarrying, and Oil and Gas Extraction.  An establishment that mines whose primary output is a more finished manufactured product is classified in the Manufacturing sector.\n\nExcluded from the Nonmetallic Mineral Product Manufacturing subsector are establishments that primarily beneficiate mined nonmetallic minerals.  Beneficiation is the process whereby the extracted material is reduced to particles that can be separated into mineral and waste, the former suitable for further processing or direct use.  Beneficiation establishments are included in Sector 21, Mining, Quarrying, and Oil and Gas Extraction.\n",
+      "childNodes": {
+        "3271": {
+          "title": "Clay Product and Refractory ManufacturingT",
+          "desc": "This industry group comprises establishments primarily engaged in (1) shaping, molding, glazing, and firing pottery, ceramics, and plumbing fixtures, and electrical supplies made entirely or partly of clay or other ceramic materials or (2) shaping, molding, baking, burning, or hardening clay refractories, nonclay refractories, ceramic tile, structural clay tile, brick, and other structural clay building materials.\n",
+          "childNodes": {
+            "32711": {
+              "title": "Pottery, Ceramics, and Plumbing Fixture ManufacturingT",
+              "desc": "See industry description for 327110.",
+              "childNodes": {
+                "327110": {
+                  "title": "Pottery, Ceramics, and Plumbing Fixture Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in shaping, molding, glazing, and firing pottery, ceramics, plumbing fixtures, and electrical supplies made entirely or partly of clay or other ceramic materials.\n\nIllustrative Examples:\n\nBathroom accessories, vitreous china and earthenware, manufacturing\nCeramic or ferrite permanent magnets manufacturing\nChemical stoneware (i.e., pottery products) manufacturing\nClay and ceramic statuary manufacturing\nEarthenware table and kitchen articles, coarse, manufacturing\nPorcelain electrical insulators manufacturing\nVitreous china plumbing fixtures manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32712": {
+              "title": "Clay Building Material and Refractories ManufacturingT",
+              "desc": "See industry description for 327120.",
+              "childNodes": {
+                "327120": {
+                  "title": "Clay Building Material and Refractories Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in shaping, molding, baking, burning, or hardening clay refractories, nonclay refractories, ceramic tile, structural clay tile, brick, and other structural clay building materials.  A refractory is a material that will retain its shape and chemical identity when subjected to high temperatures and is used in applications that require extreme resistance to heat, such as furnace linings.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3272": {
+          "title": "Glass and Glass Product ManufacturingT",
+          "desc": "NULL",
+          "childNodes": {
+            "32721": {
+              "title": "Glass and Glass Product ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing glass and/or glass products.  Establishments in this industry may manufacture glass and/or glass products by melting silica sand or cullet, or from purchased glass.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "327211": {
+                  "title": "Flat Glass Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) manufacturing flat glass by melting silica sand or cullet or (2) manufacturing both flat glass and laminated glass by melting silica sand or cullet.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "327212": {
+                  "title": "Other Pressed and Blown Glass and Glassware Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing glass by melting silica sand or cullet and making pressed, blown, or shaped glass or glassware (except glass packaging containers).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "327213": {
+                  "title": "Glass Container Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing glass packaging, bottling, and canning containers.\n",
+                  "childNodes": {}
+                },
+                "327215": {
+                  "title": "Glass Product Manufacturing Made of Purchased Glass",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in coating, laminating, tempering, or shaping purchased glass.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3273": {
+          "title": "Cement and Concrete Product ManufacturingT",
+          "desc": "This industry group comprises establishments primarily engaged in one of the following: (1) manufacturing Portland, natural, masonry, pozzolanic, and other hydraulic cements; (2) acting as batch or mixing plants, manufacturing concrete delivered to a purchaser in a plastic and unhardened state; (3) manufacturing concrete pipe, brick, and block; or (4) manufacturing other concrete products (except block, brick, and pipe).\n",
+          "childNodes": {
+            "32731": {
+              "title": "Cement ManufacturingT",
+              "desc": "See industry description for 327310.",
+              "childNodes": {
+                "327310": {
+                  "title": "Cement Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing Portland, natural, masonry, pozzolanic, and other hydraulic cements.  Cement manufacturing establishments may calcine earths or mine, quarry, manufacture, or purchase lime.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32732": {
+              "title": "Ready-Mix Concrete ManufacturingT",
+              "desc": "See industry description for 327320.",
+              "childNodes": {
+                "327320": {
+                  "title": "Ready-Mix Concrete Manufacturing",
+                  "desc": "This industry comprises establishments, such as batch plants or mix plants, primarily engaged in manufacturing concrete delivered to a purchaser in a plastic and unhardened state.  Ready-mix concrete manufacturing establishments may mine, quarry, or purchase sand and gravel.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32733": {
+              "title": "Concrete Pipe, Brick, and Block ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing concrete pipe, brick, and block.\n\nCross-References.",
+              "childNodes": {
+                "327331": {
+                  "title": "Concrete Block and Brick Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing concrete block and brick.",
+                  "childNodes": {}
+                },
+                "327332": {
+                  "title": "Concrete Pipe Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing concrete pipe.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32739": {
+              "title": "Other Concrete Product ManufacturingT",
+              "desc": "See industry description for 327390.",
+              "childNodes": {
+                "327390": {
+                  "title": "Other Concrete Product Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing concrete products (except block, brick, and pipe).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3274": {
+          "title": "Lime and Gypsum Product ManufacturingT",
+          "desc": "This industry group comprises establishments primarily engaged in (1) manufacturing lime from calcitic limestone, dolomitic limestone, or other calcareous materials or (2) manufacturing gypsum products.\n",
+          "childNodes": {
+            "32741": {
+              "title": "Lime ManufacturingT",
+              "desc": "See industry description for 327410.",
+              "childNodes": {
+                "327410": {
+                  "title": "Lime Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing lime from calcitic limestone, dolomitic limestone, or other calcareous materials, such as coral, chalk, and shells.  Lime manufacturing establishments may mine, quarry, collect, or purchase the sources of calcium carbonate.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32742": {
+              "title": "Gypsum Product ManufacturingT",
+              "desc": "See industry description for 327420.",
+              "childNodes": {
+                "327420": {
+                  "title": "Gypsum Product Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing gypsum products, such as wallboard, plaster, plasterboard, molding, ornamental moldings, statuary, and architectural plaster work.  Gypsum product manufacturing establishments may mine, quarry, or purchase gypsum.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "3279": {
+          "title": "Other Nonmetallic Mineral Product ManufacturingT",
+          "desc": "This industry group comprises establishments manufacturing nonmetallic mineral products (except clay products, refractory products, glass products, cement and concrete products, lime, and gypsum products).\n",
+          "childNodes": {
+            "32791": {
+              "title": "Abrasive Product ManufacturingT",
+              "desc": "See industry description for 327910.",
+              "childNodes": {
+                "327910": {
+                  "title": "Abrasive Product Manufacturing",
+                  "desc": "This industry comprises establishments primarily engaged in manufacturing abrasive grinding wheels of natural or synthetic materials, abrasive-coated products, and other abrasive products.\n\nIllustrative Examples:\n\nAluminum oxide (fused) abrasives manufacturing\nBuffing and polishing wheels, abrasive and nonabrasive, manufacturing\nDiamond dressing wheels manufacturing\nSandpaper manufacturing\nSilicon carbide abrasives manufacturing\nWhetstones manufacturing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "32799": {
+              "title": "All Other Nonmetallic Mineral Product ManufacturingT",
+              "desc": "This industry comprises establishments primarily engaged in manufacturing nonmetallic mineral products (except pottery and plumbing fixtures; clay building materials and refractories; glass and glass products; cement; ready-mix concrete; concrete products; lime; gypsum products; and abrasive products).\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "327991": {
+                  "title": "Cut Stone and Stone Product Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in cutting, shaping, and finishing granite, marble, limestone, slate, and other stone for building and miscellaneous uses.  Stone product manufacturing establishments may mine, quarry, or purchase stone.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "327992": {
+                  "title": "Ground or Treated Mineral and Earth Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in calcining, dead burning, or otherwise processing beyond beneficiation, clays, ceramic and refractory minerals, barite, and miscellaneous nonmetallic minerals.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "327993": {
+                  "title": "Mineral Wool Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing mineral wool and mineral wool (i.e., fiberglass) insulation products made of such siliceous materials as rock, slag, and glass or combinations thereof.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "327999": {
+                  "title": "All Other Miscellaneous Nonmetallic Mineral Product Manufacturing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in manufacturing nonmetallic mineral products (except pottery, ceramics, and plumbing fixtures; clay building materials and refractories; glass and glass products; cement; ready-mix concrete; concrete products; lime; gypsum products; abrasive products; cut stone and stone products; ground and treated minerals and earth; and mineral wool).\n\nIllustrative Examples:\n\nDry mix concrete manufacturing\nMica products manufacturing\nManmade and engineered proppants (e.g., resin-coated sand, ceramic materials) manufacturing\nStucco and stucco products manufacturing\nSynthetic stones, for gem stones and industrial use, manufacturing \n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

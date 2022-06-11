@@ -1,147 +1,100 @@
 {
-  "sectors" : [
+  "sectors": [
     {
-      "11" : "Agriculture, Forestry, Fishing and Hunting",
-      "subsectors" : [
-        {
-          "111" : "Crop Production",
-          "Industry Group" : [
-            {
-              
-            },
-            {
-              
-            }
-          ]
-        },
-        {
-          "112" : "Animal Production and Aquaculture"
-
-        },
-        {
-          "113" : "Forestry and Logging"
-        },
-        {
-          "name" : "Fishing, Hunting and Trapping"
-        },
-        {
-          "name" : "Support Activities for Agriculture and Forestry"
-        }
-      ]
+      "code": "11",
+      "name": "Agriculture, Forestry, Fishing and Hunting"
     },
     {
-      "name" : "Mining, Quarrying, and Oil and Gas Extraction",
-      "subsectors" : {
-        "name" : "Oil and Gas Extraction"
-      }
+      "code": "21",
+      "name": "Mining, Quarrying, and Oil and Gas Extraction"
     },
     {
-      "name" : "Utilities",
-      "subsectors" : {
-        
-      }
+      "code": "22",
+      "name": "Utilities"
     },
     {
-      "name" : "Construction",
-      "subsectors" : {
-        
-      }
+      "code": "23",
+      "name": "Construction"
     },
     {
-      "name" : "Manufacturing",
-      "subsectors" : {
-        
-      }
+      "code": "31",
+      "name": "Manufacturing - Food and Textile"
     },
     {
-      "name" : "Wholesale Trade",
-      "subsectors" : {
-        
-      }
+      "code": "32",
+      "name": "Manufacturing- Wood"
     },
     {
-      "name" : "Retail Trade",
-      "subsectors" : {
-        
-      }
+      "code": "33",
+      "name": "Manufacturing - Metal"
     },
     {
-      "name" : "Transportation and Warehousing",
-      "subsectors" : {
-        
-      }
+      "code": "42",
+      "name": "Wholesale Trade"
     },
     {
-      "name" : "Information",
-      "subsectors" : {
-        
-      }
+      "code": "42",
+      "name": "Transportation and Warehousing"
     },
     {
-      "name" : "Finance and Insurance",
-      "subsectors" : {
-        
-      }
+      "code": "44",
+      "name": "Information"
     },
     {
-      "name" : "Real Estate and Rental and Leasing",
-      "subsectors" : {
-        
-      }
+      "code": "45",
+      "name": "Retail Trade"
     },
     {
-      "name" : "Professional, Scientific, and Technical Services",
-      "subsectors" : {
-        
-      }
+      "code": "48",
+      "name": "Transportation and Warehousing - Air, Water"
     },
     {
-      "name" : "Management of Companies and Enterprises",
-      "subsectors" : {
-        
-      }
+      "code": "49",
+      "name": "Transportation and Warehousing - Postal, Courier"
+    }, 
+    {
+      "code": "51",
+      "name": "Information"
     },
     {
-      "name" : "Administrative and Support and Waste Management and Remediation Services",
-      "subsectors" : {
-        
-      }
+      "code": "52",
+      "name": "Finance and Insurance"
     },
     {
-      "name" : "Educational Services",
-    "subsectors" : {
-      
+      "code": "53",
+      "name": "Real Estate and Rental and Leasing"
+    },
+    {
+      "code": "55",
+      "name": "Management of Companies and Enterprises"
+    },
+    {
+      "code": "56",
+      "name": "Administrative and Support and Waste Management and Remediation Services"
+    },
+    {
+      "code": "61",
+      "name": "Educational Services"
+    },
+    {
+      "code": "62",
+      "name": "Health Care and Social Assistance"
+    },
+    {
+      "code": "71",
+      "name": "Arts, Entertainment, and Recreation"
+    },
+    {
+      "code": "72",
+      "name": "Accommodation and Food Services"
+    },
+    {
+      "code": "81",
+      "name": "Other Services (except Public Administration)"
+    },
+    {
+      "code": "92",
+      "name": "Public Administration"
     }
-    },
-    {
-      "name" : "Health Care and Social Assistance",
-      "subsectors" : {
-        
-      }
-    },
-    {
-      "name" : "Arts, Entertainment, and Recreation",
-      "subsectors" : {
-        
-      }
-    },
-    {
-      "name" : "Accommodation and Food Services",
-      "subsectors" : {
-        
-      }
-    },
-    {
-      "name" : "Other Services (except Public Administration)",
-      "subsectors" : {
-        
-      }
-    },
-    {
-      "name" : "Public Administration",
-      "subsectors" : {
-        
-      }
-    }
-  ] 
+  ]
 }

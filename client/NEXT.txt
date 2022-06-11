@@ -1,27 +1,21 @@
 /** WEB DESIGN **//** WEB DESIGN **//** WEB DESIGN **//** WEB DESIGN **//** WEB DESIGN **//** WEB DESIGN **//** WEB DESIGN **//** WEB DESIGN **/
-1. Create Wireframes for Home, Business, Developer, About, Contact and Blog
+1. Create Wireframes: 
+  - Developer (Main Section)
+  - Business (Main Section) To signup
+  - Home (Tie Loose Ends)
+  - About
+  - Contact
+  - Blogs
 2. Create wireframes for Dashboards
-
-
-
-/** ARCHITECTURE **//** ARCHITECTURE **//** ARCHITECTURE **//** ARCHITECTURE **//** ARCHITECTURE **//** ARCHITECTURE **//** ARCHITECTURE **/
-1. Sequence Diagrams for server/database processes
-  - Authentication and Authorization for Signup and Login forms
-2. Build Schemas for our two databases
-  - Developer MongoDB
-  - Business Postgres
+3. Create Universal Fonts and Colors 
 
 
 
 /** STYLING **//** STYLING **//** STYLING **//** STYLING **//** STYLING **//** STYLING **//** STYLING **//** STYLING **//** STYLING **//** STYLING **/
-1. For each BENEFIT on the Intro component
-  - Find a fitting image
-  - Create a pitch or value proposition that goes well with the image
-  - Create a slideshow or carousel-like feature that moves through the images and value propositions on a timer
-  - Create a animated transition
-2. Make sure main section doesn't slide under the navigation
-3. Use flexbox to make sure the Footer component is locked to the bottom of the page
-4. Integrate smooth scrolling
+1. Convert Project to Styled Components (ONE MORE COMPONENT)
+2. Convert Animation to Styled Components
+3. Integrate smooth scrolling
+4. Fix scrollbars
 5. Responsive resizing for all components
 
 
@@ -32,6 +26,9 @@
 
 
 
-/** EXTERNAL TOOLS/APIS **//** EXTERNAL TOOLS/APIS **//** EXTERNAL TOOLS/APIS **//** EXTERNAL TOOLS/APIS **//** EXTERNAL TOOLS/APIS **/
-1. Restructure data from 2022_NAICS_Structure and present in formatted JSON
-2. 1  Import that NAICS data into client to use on the front end
+/** ARCHITECTURE **//** ARCHITECTURE **//** ARCHITECTURE **//** ARCHITECTURE **//** ARCHITECTURE **//** ARCHITECTURE **//** ARCHITECTURE **/
+1. Sequence Diagrams for server/database processes
+  - Authentication and Authorization for Signup and Login forms
+2. Build Schemas for our two databases
+  - Developer MongoDB
+  - Business Postgres

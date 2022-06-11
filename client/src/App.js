@@ -1,27 +1,60 @@
+// EXTERNAL MODULES // EXTERNAL MODULES // EXTERNAL MODULES
 import React from 'react';
 import { Routes, Route } from 'react-router';
-import './App.css';
+// LAYOUT // LAYOUT // LAYOUT // LAYOUT // LAYOUT 
 import Navigation from './components/Navigation';
 import Footer from './components/Footer';
+// ROUTES // ROUTES // ROUTES // ROUTES // ROUTES 
 import Home from './pages/Home';
 import Business from './pages/Business';
 import Developer from './pages/Developer';
-import Signup from './components/SignupForm';
-import Login from './components/LoginForm';
-
-import Blog from './components/BlogArticle';
-
 import About from './components/About';
-
 import Contact from './components/Contact';
+import Signup from './pages/Signup';
+import Login from './pages/Login';
+import Blog from './pages/Blog';
+// STYLES // STYLES // STYLES // STYLES // STYLES 
+import {
+  AppContainer,
+  RouteContainer,
+} from './AppStyles';
 
 const App = () => {
-  return (
-    <div className='app-container'>
-     
-      <Navigation />
+  // let [nextClassification, setNextClassification] = useState(NAICS.sectors);
+  // let [classification, setClassification] = useState({
+  //   "sector" : null,
+  //   "subsector" : null,
+  //   "industry_group" : null,
+  //   "industry" : null,
+  //   "detail_industry" : null
+  // });
 
-      <div className="route-container">
+  // let classificationProperty;
+  // if (classification.sector === null) {
+  //   classificationProperty = "sector";
+  // } else if (classification.subsector === null) {
+  //   classificationProperty = "subsector";
+  // } else if (classification.industry_group === null) {
+  //   classificationProperty = "industry_group";
+  // } else if (classification.industry === null) {
+  //   classificationProperty = "industry";
+  // } else if (classification.detail_industry === null) {
+  //   classificationProperty = "detail_industry";
+  // }
+
+  // const handleClassificationModification = (e) => {
+  //   setClassification({...classification, [classificationProperty] : e.target.innerText });
+  //   setNextClassification(NAICS.sectors[e.target.attributes[0].nodeValue].subsectors)
+  // }
+
+  // console.log(classification);
+
+  return (
+    <AppContainer>
+      
+      <Navigation />
+      
+      <RouteContainer>
         <Routes>
           <Route exact path='/' element={<Home/>}/>
           <Route path='/business' element={<Business/>}/>
@@ -32,11 +65,11 @@ const App = () => {
           <Route path='/blog' element={<Blog/>}/>
           <Route path='/contact' element={<Contact/>}/>
         </Routes>
-      </div>
+      </RouteContainer>
       
       <Footer />
       
-    </div>    
+    </AppContainer>    
 
   );
 };

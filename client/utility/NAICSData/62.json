@@ -1,0 +1,513 @@
+{
+  "title": "Health Care and Social AssistanceT",
+  "desc": "The Sector as a Whole\n\nThe Health Care and Social Assistance sector comprises establishments providing health care and social assistance for individuals.  The sector includes both health care and social assistance because it is sometimes difficult to distinguish between the boundaries of these two activities.  The industries in this sector are arranged on a continuum starting with establishments providing medical care exclusively, continuing with those providing health care and social assistance, and finally finishing with those providing only social assistance.  Establishments in this sector deliver services by trained professionals.  All industries in the sector share this commonality of process, namely, labor inputs of health practitioners or social workers with the requisite expertise.  Many of the industries in the sector are defined based on the educational degree held by the practitioners included in the industry.\n\nExcluded from this sector are yoga and aerobics instruction in Subsector 611, Educational Services, physical fitness facilities in Subsector 713, Amusement, Gambling, and Recreation Industries, and personal fitness training services and non-medical diet and weight reducing centers in Subsector 812, Personal and Laundry Services.  Although these can be viewed as health services, these services are not typically delivered by health practitioners.\n",
+  "childNodes": {
+    "621": {
+      "title": "Ambulatory Health Care ServicesT",
+      "desc": "Industries in the Ambulatory Health Care Services subsector provide health care services directly or indirectly to ambulatory patients and do not usually provide inpatient services.  Health practitioners in this subsector provide outpatient services, with the facilities and equipment not usually being the most significant part of the production process.\n",
+      "childNodes": {
+        "6211": {
+          "title": "Offices of PhysiciansT",
+          "desc": "NULL",
+          "childNodes": {
+            "62111": {
+              "title": "Offices of PhysiciansT",
+              "desc": "This industry comprises establishments of health practitioners having the degree of M.D. (Doctor of Medicine) or D.O. (Doctor of Osteopathic Medicine) primarily engaged in the independent practice of general or specialized medicine (e.g., anesthesiology, oncology, ophthalmology, psychiatry) or surgery.  These practitioners operate private or group practices in their own offices (e.g., centers, clinics) or in the facilities of others, such as hospitals or HMO medical centers.\n\nCross-References.",
+              "childNodes": {
+                "621111": {
+                  "title": "Offices of Physicians (except Mental Health Specialists)",
+                  "desc": "This U.S. industry comprises establishments of health practitioners having the degree of M.D. (Doctor of Medicine) or D.O. (Doctor of Osteopathic Medicine) primarily engaged in the independent practice of general or specialized medicine (except psychiatry or psychoanalysis) or surgery.  These practitioners operate private or group practices in their own offices (e.g., centers, clinics) or in the facilities of others, such as hospitals or HMO medical centers.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "621112": {
+                  "title": "Offices of Physicians, Mental Health Specialists",
+                  "desc": "This U.S. industry comprises establishments of health practitioners having the degree of M.D. (Doctor of Medicine) or D.O. (Doctor of Osteopathic Medicine) primarily engaged in the independent practice of psychiatry or psychoanalysis.  These practitioners operate private or group practices in their own offices (e.g., centers, clinics) or in the facilities of others, such as hospitals or HMO medical centers.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "6212": {
+          "title": "Offices of DentistsT",
+          "desc": "NULL",
+          "childNodes": {
+            "62121": {
+              "title": "Offices of DentistsT",
+              "desc": "See industry description for 621210.",
+              "childNodes": {
+                "621210": {
+                  "title": "Offices of Dentists",
+                  "desc": "This industry comprises establishments of health practitioners having the degree of D.M.D. (Doctor of Dental Medicine), D.D.S. (Doctor of Dental Surgery), or D.D.Sc. (Doctor of Dental Science) primarily engaged in the independent practice of general or specialized dentistry or dental surgery.  These practitioners operate private or group practices in their own offices (e.g., centers, clinics) or in the facilities of others, such as hospitals or HMO medical centers.  They can provide either comprehensive preventive, cosmetic, or emergency care, or specialize in a single field of dentistry.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "6213": {
+          "title": "Offices of Other Health PractitionersT",
+          "desc": "This industry group comprises establishments of independent health practitioners (except physicians and dentists).",
+          "childNodes": {
+            "62131": {
+              "title": "Offices of ChiropractorsT",
+              "desc": "See industry description for 621310.",
+              "childNodes": {
+                "621310": {
+                  "title": "Offices of Chiropractors",
+                  "desc": "This industry comprises establishments of health practitioners having the degree of D.C. (Doctor of Chiropractic) primarily engaged in the independent practice of chiropractic.  These practitioners provide diagnostic and therapeutic treatment of neuromusculoskeletal and related disorders through the manipulation and adjustment of the spinal column and extremities, and operate private or group practices in their own offices (e.g., centers, clinics) or in the facilities of others, such as hospitals or HMO medical centers.\n",
+                  "childNodes": {}
+                }
+              }
+            },
+            "62132": {
+              "title": "Offices of OptometristsT",
+              "desc": "See industry description for 621320.",
+              "childNodes": {
+                "621320": {
+                  "title": "Offices of Optometrists",
+                  "desc": "This industry comprises establishments of health practitioners having the degree of O.D. (Doctor of Optometry) primarily engaged in the independent practice of optometry.  These practitioners examine, diagnose, treat, and manage diseases and disorders of the visual system, the eye, and associated structures as well as diagnose related systemic conditions.  Offices of optometrists prescribe and/or provide eyeglasses, contact lenses, low vision aids, and vision therapy.  They operate private or group practices in their own offices (e.g., centers, clinics) or in the facilities of others, such as hospitals or HMO medical centers, and may also provide the same services as opticians, such as selling and fitting prescription eyeglasses and contact lenses.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "62133": {
+              "title": "Offices of Mental Health Practitioners (except Physicians)T",
+              "desc": "See industry description for 621330.",
+              "childNodes": {
+                "621330": {
+                  "title": "Offices of Mental Health Practitioners (except Physicians)",
+                  "desc": "This industry comprises establishments of independent mental health practitioners (except physicians) primarily engaged in (1) the diagnosis and treatment of mental, emotional, and behavioral disorders and/or (2) the diagnosis and treatment of individual or group social dysfunction brought about by such causes as mental illness, alcohol and substance abuse, physical and emotional trauma, or stress.  These practitioners operate private or group practices in their own offices (e.g., centers, clinics) or in the facilities of others, such as hospitals or HMO medical centers.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "62134": {
+              "title": "Offices of Physical, Occupational and Speech Therapists, and AudiologistsT",
+              "desc": "See industry description for 621340.",
+              "childNodes": {
+                "621340": {
+                  "title": "Offices of Physical, Occupational and Speech Therapists, and Audiologists",
+                  "desc": "This industry comprises establishments of independent health practitioners primarily engaged in one of the following: (1) providing physical therapy services to patients who have impairments, functional limitations, disabilities, or changes in physical functions and health status resulting from injury, disease or other causes, or who require prevention, wellness or fitness services; (2) planning and administering educational, recreational, and social activities designed to help patients or individuals with disabilities regain physical or mental functioning or adapt to their disabilities; and (3) diagnosing and treating speech, language, or hearing problems.  These practitioners operate private or group practices in their own offices (e.g., centers, clinics) or in the facilities of others, such as hospitals or HMO medical centers.\n\nIllustrative Examples:\n\nAudiologists' offices\nRecreational (e.g., art, dance, music) therapists' offices \nIndustrial therapists' offices\nSpeech pathologists' offices \nOccupational therapists' offices\nPhysical therapists' offices\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "62139": {
+              "title": "Offices of All Other Health PractitionersT",
+              "desc": "This industry comprises establishments of independent health practitioners (except physicians; dentists; chiropractors; optometrists; mental health specialists; physical, occupational, and speech therapists; and audiologists).  These practitioners operate private or group practices in their own offices (e.g., centers, clinics) or in the facilities of others, such as hospitals or HMO medical centers.\n\nIllustrative Examples:\n\nAcupuncturists' (except MDs or DOs) offices\nInhalation or respiratory therapists' offices\nDental hygienists' offices\nMidwives' offices\nDenturists' offices\nNaturopaths' offices\nDietitians' offices\t\nPodiatrists' offices\nHomeopaths' offices\nRegistered or licensed practical nurses' offices\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "621391": {
+                  "title": "Offices of Podiatrists",
+                  "desc": "This U.S. industry comprises establishments of health practitioners having the degree of D.P.M. (Doctor of Podiatric Medicine) primarily engaged in the independent practice of podiatry.  These practitioners diagnose and treat diseases and deformities of the foot and operate private or group practices in their own offices (e.g., centers, clinics) or in the facilities of others, such as hospitals or HMO medical centers.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "621399": {
+                  "title": "Offices of All Other Miscellaneous Health Practitioners",
+                  "desc": "This U.S. industry comprises establishments of independent health practitioners (except physicians; dentists; chiropractors; optometrists; mental health specialists; physical, occupational, and speech therapists; audiologists; and podiatrists).  These practitioners operate private or group practices in their own offices (e.g., centers, clinics) or in the facilities of others, such as hospitals or HMO medical centers.\n\nIllustrative Examples:\n\nAcupuncturists' (except MDs or DOs) offices\nHypnotherapists' offices\nDental hygienists' offices\nInhalation or respiratory therapists' offices\nDenturists' offices\nMidwives' offices\nDietitians' offices\nNaturopaths' offices\nHomeopaths' offices\nRegistered or licensed practical nurses' offices\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "6214": {
+          "title": "Outpatient Care CentersT",
+          "desc": "This industry group comprises establishments with medical staff primarily engaged in providing a range of outpatient services, such as family planning, diagnosis and treatment of mental health disorders and alcohol and other substance abuse, and other general or specialized outpatient care.  \n",
+          "childNodes": {
+            "62141": {
+              "title": "Family Planning CentersT",
+              "desc": "See industry description for 621410.",
+              "childNodes": {
+                "621410": {
+                  "title": "Family Planning Centers",
+                  "desc": "This industry comprises establishments with medical staff primarily engaged in providing a range of family planning services on an outpatient basis, such as contraceptive services, genetic and prenatal counseling, voluntary sterilization, and therapeutic and medically induced termination of pregnancy.\n\nIllustrative Examples:\n\nBirth control clinics\nFertility clinics\nChildbirth preparation classes\nPregnancy counseling centers\n",
+                  "childNodes": {}
+                }
+              }
+            },
+            "62142": {
+              "title": "Outpatient Mental Health and Substance Abuse CentersT",
+              "desc": "See industry description for 621420.",
+              "childNodes": {
+                "621420": {
+                  "title": "Outpatient Mental Health and Substance Abuse Centers",
+                  "desc": "This industry comprises establishments with medical staff primarily engaged in providing outpatient services related to the diagnosis and treatment of mental health disorders and alcohol and other substance abuse.  These establishments generally treat patients who do not require inpatient treatment.  They may provide a counseling staff and information regarding a wide range of mental health and substance abuse issues and/or refer patients to more extensive treatment programs, if necessary.\n\nIllustrative Examples:\n\nOutpatient alcoholism treatment centers and clinics (except hospitals)\nOutpatient mental health centers and clinics (except hospitals)\nOutpatient detoxification centers and clinics (except hospitals)\nOutpatient substance abuse treatment centers and clinics (except hospitals)\nOutpatient drug addiction treatment centers and clinics (except hospitals)\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "62149": {
+              "title": "Other Outpatient Care CentersT",
+              "desc": "This industry comprises establishments with medical staff primarily engaged in providing general or specialized outpatient care (except family planning centers and outpatient mental health and substance abuse centers).  Centers or clinics of health practitioners with different degrees from more than one industry practicing within the same establishment (e.g., Doctor of Medicine and Doctor of Dental Medicine) are included in this industry.\n\nIllustrative Examples:\n\nDialysis centers and clinics\nOutpatient biofeedback centers and clinics\nFreestanding ambulatory surgical centers and clinics\nOutpatient community health centers and clinics\nFreestanding emergency medical centers and clinics\nOutpatient sleep disorder centers and clinics\nHealth maintenance organization (HMO) medical centers and clinics\n\n\nCross-References.",
+              "childNodes": {
+                "621491": {
+                  "title": "HMO Medical Centers",
+                  "desc": "This U.S. industry comprises establishments with physicians and other medical staff primarily engaged in providing a range of outpatient medical services to the health maintenance organization (HMO) subscribers with a focus generally on primary health care.  These establishments are owned by the HMO.  Included in this industry are HMO establishments that both provide health care services and underwrite health and medical insurance policies.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "621492": {
+                  "title": "Kidney Dialysis Centers",
+                  "desc": "This U.S. industry comprises establishments with medical staff primarily engaged in providing outpatient kidney or renal dialysis services.\n",
+                  "childNodes": {}
+                },
+                "621493": {
+                  "title": "Freestanding Ambulatory Surgical and Emergency Centers",
+                  "desc": "This U.S. industry comprises establishments with physicians and other medical staff primarily engaged in (1) providing surgical services (e.g., orthoscopic and cataract surgery) on an outpatient basis or (2) providing emergency care services (e.g., setting broken bones, treating lacerations, or tending to patients suffering injuries as a result of accidents, trauma, or medical conditions necessitating immediate medical care) on an outpatient basis.  Outpatient surgical establishments have specialized facilities, such as operating and recovery rooms, and specialized equipment, such as anesthetic or X-ray equipment.\n\nIllustrative Examples:\n\nFreestanding ambulatory surgical centers and clinics\nFreestanding emergency medical centers and clinics\nFreestanding trauma centers (except hospitals)\nUrgent medical care centers and clinics (except hospitals)\n\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "621498": {
+                  "title": "All Other Outpatient Care Centers",
+                  "desc": "This U.S. industry comprises establishments with medical staff primarily engaged in providing general or specialized outpatient care (except family planning centers, outpatient mental health and substance abuse centers, HMO medical centers, kidney dialysis centers, and freestanding ambulatory surgical and emergency centers).  Centers or clinics of health practitioners with different degrees from more than one industry practicing within the same establishment (e.g., Doctor of Medicine and Doctor of Dental Medicine) are included in this industry.\n\nIllustrative Examples:\n\nOutpatient biofeedback centers and clinics\nOutpatient pain therapy centers and clinics\nOutpatient community health centers and clinics\nOutpatient sleep disorder centers and clinics\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "6215": {
+          "title": "Medical and Diagnostic LaboratoriesT",
+          "desc": "NULL",
+          "childNodes": {
+            "62151": {
+              "title": "Medical and Diagnostic LaboratoriesT",
+              "desc": "This industry comprises establishments known as medical and diagnostic laboratories primarily engaged in providing analytic or diagnostic services, including body fluid analysis and diagnostic imaging, generally to the medical profession or to the patient on referral from a health practitioner.\n\nIllustrative Examples:\n\nDental or medical X-ray laboratories\nMedical pathology laboratories\nDiagnostic imaging centers\nMedical testing laboratories\nMedical forensic laboratories\n\n\nCross-References.",
+              "childNodes": {
+                "621511": {
+                  "title": "Medical Laboratories",
+                  "desc": "This U.S. industry comprises establishments known as medical laboratories primarily engaged in providing analytic or diagnostic services, including body fluid analysis, generally to the medical profession or to the patient on referral from a health practitioner.\n\nIllustrative Examples:\n\nBlood analysis laboratories\nMedical pathology laboratories\nMedical bacteriological laboratories\nMedical testing laboratories\nMedical forensic laboratories\n\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "621512": {
+                  "title": "Diagnostic Imaging Centers",
+                  "desc": "This U.S. industry comprises establishments known as diagnostic imaging centers primarily engaged in producing images of the patient generally on referral from a health practitioner.\n\nIllustrative Examples:\n\nComputer tomography (CT-scan) centers\nMedical radiological laboratories\nDental or medical X-ray laboratories\nUltrasound imaging centers\nMagnetic resonance imaging (MRI) centers\n",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "6216": {
+          "title": "Home Health Care ServicesT",
+          "desc": "NULL",
+          "childNodes": {
+            "62161": {
+              "title": "Home Health Care ServicesT",
+              "desc": "See industry description for 621610.",
+              "childNodes": {
+                "621610": {
+                  "title": "Home Health Care Services",
+                  "desc": "This industry comprises establishments primarily engaged in providing skilled nursing services in the home, along with a range of the following: personal care services; homemaker and companion services; physical therapy; medical social services; medications; medical equipment and supplies; counseling; 24-hour home care; occupation and vocational therapy; dietary and nutritional services; speech therapy; audiology; and high-tech care, such as intravenous therapy.\n\nIllustrative Examples:\n\nHome health care agencies\nVisiting nurse associations\nHome infusion therapy services\nIn-home hospice care services\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "6219": {
+          "title": "Other Ambulatory Health Care ServicesT",
+          "desc": "This industry group comprises establishments primarily engaged in providing ambulatory health care services (except offices of physicians, dentists, and other health practitioners; outpatient care centers; medical laboratories and diagnostic imaging centers; and home health care providers).\n",
+          "childNodes": {
+            "62191": {
+              "title": "Ambulance ServicesT",
+              "desc": "See industry description for 621910.",
+              "childNodes": {
+                "621910": {
+                  "title": "Ambulance Services",
+                  "desc": "This industry comprises establishments primarily engaged in providing transportation of patients by ground or air, along with medical care.  These services are often provided during a medical emergency but are not restricted to emergencies.  The vehicles are equipped with lifesaving equipment operated by medically trained personnel.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "62199": {
+              "title": "All Other Ambulatory Health Care ServicesT",
+              "desc": "This industry comprises establishments primarily engaged in providing ambulatory health care services (except offices of physicians, dentists, and other health practitioners; outpatient care centers; medical and diagnostic laboratories; home health care providers; and ambulances).\n\nIllustrative Examples:\n\nBlood donor stations\nPacemaker monitoring services\nBlood or body organ banks\nPhysical fitness evaluation services (except by offices of health practitioners)\nHealth screening services (except by offices of health practitioners)\nSmoking cessation programs\nHearing testing services (except by offices of audiologists) \n\n\nCross-References.",
+              "childNodes": {
+                "621991": {
+                  "title": "Blood and Organ Banks",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in collecting, storing, and distributing blood and blood products and storing and distributing body organs.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "621999": {
+                  "title": "All Other Miscellaneous Ambulatory Health Care Services",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing ambulatory health care services (except offices of physicians, dentists, and other health practitioners; outpatient care centers; medical and diagnostic laboratories; home health care providers; ambulances; and blood and organ banks).\n\nIllustrative Examples:\n\nHealth screening services (except by offices of health practitioners)\nPhysical fitness evaluation services (except by offices of health practitioners)\nHearing testing services (except by offices of audiologists)\nSmoking cessation programs\nPacemaker monitoring services\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "622": {
+      "title": "HospitalsT",
+      "desc": "Industries in the Hospitals subsector provide medical, diagnostic, and treatment services that include physician, nursing, and other health services to inpatients and the specialized accommodation services required by inpatients.  Hospitals may also provide outpatient services as a secondary activity.  Establishments in the Hospitals subsector provide inpatient health services, many of which can only be provided using the specialized facilities and equipment that form a significant and integral part of the production process.\n",
+      "childNodes": {
+        "6221": {
+          "title": "General Medical and Surgical HospitalsT",
+          "desc": "NULL",
+          "childNodes": {
+            "62211": {
+              "title": "General Medical and Surgical HospitalsT",
+              "desc": "See industry description for 622110.",
+              "childNodes": {
+                "622110": {
+                  "title": "General Medical and Surgical Hospitals",
+                  "desc": "This industry comprises establishments known and licensed as general medical and surgical hospitals primarily engaged in providing diagnostic and medical treatment (both surgical and nonsurgical) to inpatients with any of a wide variety of medical conditions.  These establishments maintain inpatient beds and provide patients with food services that meet their nutritional requirements.  These hospitals have an organized staff of physicians and other medical staff to provide patient care services.  These establishments usually provide other services, such as outpatient services, anatomical pathology services, diagnostic X-ray services, clinical laboratory services, operating room services for a variety of procedures, and pharmacy services.\n",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "6222": {
+          "title": "Psychiatric and Substance Abuse HospitalsT",
+          "desc": "NULL",
+          "childNodes": {
+            "62221": {
+              "title": "Psychiatric and Substance Abuse HospitalsT",
+              "desc": "See industry description for 622210.",
+              "childNodes": {
+                "622210": {
+                  "title": "Psychiatric and Substance Abuse Hospitals",
+                  "desc": "This industry comprises establishments known and licensed as psychiatric and substance abuse hospitals primarily engaged in providing diagnostic, medical treatment, and monitoring services for inpatients who suffer from mental illness or substance abuse disorders.  The treatment often requires an extended stay in the hospital.  These establishments maintain inpatient beds and provide patients with food services that meet their nutritional requirements.  They have an organized staff of physicians and other medical staff to provide patient care services.  Psychiatric, psychological, and social work services are available at the facility.  These hospitals usually provide other services, such as outpatient services, clinical laboratory services, diagnostic X-ray services, and electroencephalograph services.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "6223": {
+          "title": "Specialty (except Psychiatric and Substance Abuse) HospitalsT",
+          "desc": "NULL",
+          "childNodes": {
+            "62231": {
+              "title": "Specialty (except Psychiatric and Substance Abuse) HospitalsT",
+              "desc": "See industry description for 622310.",
+              "childNodes": {
+                "622310": {
+                  "title": "Specialty (except Psychiatric and Substance Abuse) Hospitals",
+                  "desc": "This industry comprises establishments known and licensed as specialty hospitals primarily engaged in providing diagnostic and medical treatment to inpatients with a specific type of disease or medical condition (except psychiatric or substance abuse).  Hospitals providing long-term care for the chronically ill and hospitals providing rehabilitation, restorative, and adjustive services to physically challenged or disabled people are included in this industry.  These establishments maintain inpatient beds and provide patients with food services that meet their nutritional requirements.  They have an organized staff of physicians and other medical staff to provide patient care services.  These hospitals may provide other services, such as outpatient services, diagnostic X-ray services, clinical laboratory services, operating room services, physical therapy services, educational and vocational services, and psychological and social work services.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "623": {
+      "title": "Nursing and Residential Care FacilitiesT",
+      "desc": "Industries in the Nursing and Residential Care Facilities subsector provide residential care combined with either nursing, supervisory, or other types of care as required by the residents.  In this subsector, the facilities are a significant part of the production process, and the care provided is a mix of health and social services with the health services being largely some level of nursing services.\n",
+      "childNodes": {
+        "6231": {
+          "title": "Nursing Care Facilities (Skilled Nursing Facilities)T",
+          "desc": "NULL",
+          "childNodes": {
+            "62311": {
+              "title": "Nursing Care Facilities (Skilled Nursing Facilities)T",
+              "desc": "See industry description for 623110.",
+              "childNodes": {
+                "623110": {
+                  "title": "Nursing Care Facilities (Skilled Nursing Facilities)",
+                  "desc": "This industry comprises establishments primarily engaged in providing inpatient nursing and rehabilitative services.  The care is generally provided for an extended period of time to individuals requiring nursing care.  These establishments have a permanent core staff of registered or licensed practical nurses who, along with other staff, provide nursing and continuous personal care services.\n\nIllustrative Examples:\n\nConvalescent homes or convalescent hospitals (except psychiatric)\nNursing homes\nRest homes with nursing care\nAssisted living facilities (without nursing facilities) for the elderly with nursing care\nInpatient care hospices\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "6232": {
+          "title": "Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse FacilitiesT",
+          "desc": "This industry group comprises establishments primarily engaged in providing residential care (but not licensed hospital care) to people with intellectual and developmental disabilities, mental illness, or substance abuse problems.\n",
+          "childNodes": {
+            "62321": {
+              "title": "Residential Intellectual and Developmental Disability FacilitiesT",
+              "desc": "See industry description for 623210.",
+              "childNodes": {
+                "623210": {
+                  "title": "Residential Intellectual and Developmental Disability Facilities",
+                  "desc": "This industry comprises establishments (e.g., group homes, hospitals, intermediate care facilities) primarily engaged in providing residential care services for persons with intellectual and developmental disabilities.  These facilities may provide some health care, though the focus is room, board, protective supervision, and counseling.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "62322": {
+              "title": "Residential Mental Health and Substance Abuse FacilitiesT",
+              "desc": "See industry description for 623220.",
+              "childNodes": {
+                "623220": {
+                  "title": "Residential Mental Health and Substance Abuse Facilities",
+                  "desc": "This industry comprises establishments primarily engaged in providing residential care and treatment for patients with mental health and substance abuse illnesses.  These establishments provide room, board, supervision, and counseling services.  Although medical services may be available at these establishments, they are incidental to the counseling, mental rehabilitation, and support services offered.  These establishments generally provide a wide range of social services in addition to counseling.\n\nIllustrative Examples:\n\nAlcoholism or drug addiction rehabilitation \nfacilities (except licensed hospitals) \nPsychiatric convalescent homes or hospitals\nMental health halfway houses\nResidential group homes for the emotionally disturbed\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "6233": {
+          "title": "Continuing Care Retirement Communities and Assisted Living Facilities for the ElderlyT",
+          "desc": "NULL",
+          "childNodes": {
+            "62331": {
+              "title": "Continuing Care Retirement Communities and Assisted Living Facilities for the ElderlyT",
+              "desc": "This industry comprises establishments primarily engaged in providing residential and personal care services for (1) the elderly and other persons who are unable to fully care for themselves and/or (2) the elderly and other persons who do not desire to live independently.  The care typically includes room, board, supervision, and assistance in daily living, such as housekeeping services.  In some instances, these establishments provide skilled nursing care for residents in separate on-site facilities.\n\nIllustrative Examples:\n\nAssisted living facilities with on-site nursing care facilities\nAssisted living facilities for the elderly without nursing care\nContinuing care retirement communities\nRest homes without nursing care\n\n\nCross-References.",
+              "childNodes": {
+                "623311": {
+                  "title": "Continuing Care Retirement Communities",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing a range of residential and personal care services with on-site nursing care facilities for (1) the elderly and other persons who are unable to fully care for themselves and/or (2) the elderly and other persons who do not desire to live independently.  Individuals live in a variety of residential settings with meals, housekeeping, social, leisure, and other services available to assist residents in daily living.  Assisted living facilities with on-site nursing care facilities are included in this industry.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "623312": {
+                  "title": "Assisted Living Facilities for the Elderly",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing residential and personal care services without nursing care for (1) the elderly or other persons who are unable to fully care for themselves and/or (2) the elderly or other persons who do not desire to live independently.  The care typically includes room, board, supervision, and assistance in daily living, such as housekeeping services.\n\nIllustrative Examples:\n\nAssisted living facilities for the elderly without nursing care\nRest homes without nursing care \n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "6239": {
+          "title": "Other Residential Care FacilitiesT",
+          "desc": "NULL",
+          "childNodes": {
+            "62399": {
+              "title": "Other Residential Care FacilitiesT",
+              "desc": "See industry description for 623990.",
+              "childNodes": {
+                "623990": {
+                  "title": "Other Residential Care Facilities",
+                  "desc": "This industry comprises establishments primarily engaged in providing residential care (except residential intellectual and developmental disability facilities, residential mental health and substance abuse facilities, continuing care retirement communities, and assisted living facilities for the elderly).  These establishments also provide supervision and personal care services.\n\nIllustrative Examples:\n\nBoot or disciplinary camps (except correctional) for delinquent youth\nGroup homes for the hearing or visually impaired\nChild group foster homes\nDelinquent youth halfway group homes\nHalfway group homes for delinquents or ex-offenders\nHomes for unwed mothers\nGroup homes for the disabled without nursing care\nOrphanages\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "624": {
+      "title": "Social AssistanceT",
+      "desc": "Industries in the Social Assistance subsector provide a wide variety of social assistance services directly to their clients.  These services do not include residential or accommodation services, except on a short-stay basis.\n",
+      "childNodes": {
+        "6241": {
+          "title": "Individual and Family ServicesT",
+          "desc": "This industry group comprises establishments primarily engaged in providing nonresidential social assistance to children and youth, the elderly, persons with disabilities, and all other individuals and families.\n",
+          "childNodes": {
+            "62411": {
+              "title": "Child and Youth ServicesT",
+              "desc": "See industry description for 624110.",
+              "childNodes": {
+                "624110": {
+                  "title": "Child and Youth Services",
+                  "desc": "This industry comprises establishments primarily engaged in providing nonresidential social assistance services for children and youth.  These establishments provide for the welfare of children in such areas as adoption and foster care, drug prevention, life skills training, and positive social development.\n\nIllustrative Examples:\n\nAdoption agencies\nYouth centers (except recreational only)\nChild guidance organizations\nYouth self-help organizations\nFoster care placement services\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "62412": {
+              "title": "Services for the Elderly and Persons with DisabilitiesT",
+              "desc": "See industry description for 624120.",
+              "childNodes": {
+                "624120": {
+                  "title": "Services for the Elderly and Persons with Disabilities",
+                  "desc": "This industry comprises establishments primarily engaged in providing nonresidential social assistance services to improve the quality of life for the elderly or persons with intellectual and/or developmental disabilities.  These establishments provide for the welfare of these individuals in such areas as day care, non-medical home care or homemaker services, social activities, group support, and companionship.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "62419": {
+              "title": "Other Individual and Family ServicesT",
+              "desc": "See industry description for 624190.",
+              "childNodes": {
+                "624190": {
+                  "title": "Other Individual and Family Services",
+                  "desc": "This industry comprises establishments primarily engaged in providing nonresidential individual and family social assistance services (except those specifically directed toward children, the elderly, or persons with intellectual and/or developmental disabilities).\n\nIllustrative Examples:\n\nCommunity action services agencies\nMarriage counseling services (except by offices of mental health practitioners)\nCrisis intervention centers\nMulti-purpose social services centers\nFamily social services agencies\nFamily welfare services\nSelf-help organizations (except for disabled persons, the elderly)\nSuicide crisis centers\nHotline centers\nTelephone counseling services\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "6242": {
+          "title": "Community Food and Housing, and Emergency and Other Relief ServicesT",
+          "desc": "This industry group comprises establishments primarily engaged in one of the following: (1) collecting, preparing, and delivering food for the needy; (2) providing short-term emergency shelter, temporary residential shelter, transitional housing, volunteer construction or repair of low-cost housing, and/or repair of homes for individuals or families in need; or (3) providing food, shelter, clothing, medical relief, resettlement, and counseling to victims of domestic or international disasters or conflicts (e.g., wars).\n",
+          "childNodes": {
+            "62421": {
+              "title": "Community Food ServicesT",
+              "desc": "See industry description for 624210.",
+              "childNodes": {
+                "624210": {
+                  "title": "Community Food Services",
+                  "desc": "This industry comprises establishments primarily engaged in the collection, preparation, and delivery of food for the needy.  Establishments in this industry may also distribute clothing and blankets to the poor.  These establishments may prepare and deliver meals to persons who by reason of age, disability, or illness are unable to prepare meals for themselves; collect and distribute salvageable or donated food; or prepare and provide meals at fixed or mobile locations.  Food banks, meal delivery programs, and soup kitchens are included in this industry.\n",
+                  "childNodes": {}
+                }
+              }
+            },
+            "62422": {
+              "title": "Community Housing ServicesT",
+              "desc": "This industry comprises establishments primarily engaged in providing one or more of the following community housing services: (1) short-term emergency shelter for victims of domestic violence, sexual assault, or child abuse; (2) temporary residential shelter for the homeless, runaway youths, and patients and families caught in medical crises; (3) transitional housing for low-income individuals and families; (4) volunteer construction or repair of low-cost housing, in partnership with the homeowner who may assist in construction or repair work; and (5) repair of homes for elderly or disabled homeowners.  These establishments may operate their own shelter, they may subsidize housing using existing homes, apartments, hotels, or motels, or they may require a low-cost mortgage or work (sweat) equity.\n\nCross-References.",
+              "childNodes": {
+                "624221": {
+                  "title": "Temporary Shelters",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing (1) short-term emergency shelter for victims of domestic violence, sexual assault, or child abuse and/or (2) temporary residential shelter for homeless individuals or families, runaway youth, and patients and families caught in medical crises.  These establishments may operate their own shelters or may subsidize housing using existing homes, apartments, hotels, or motels.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "624229": {
+                  "title": "Other Community Housing Services",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing one or more of the following community housing services: (1) transitional housing to low-income individuals and families; (2) volunteer construction or repair of low-cost housing, in partnership with the homeowner who may assist in the construction or repair work; and (3) the repair of homes for elderly or disabled homeowners.  These establishments may subsidize housing using existing homes, apartments, hotels, or motels or may require a low-cost mortgage or sweat equity.  These establishments may also provide low-income families with furniture and household supplies.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "62423": {
+              "title": "Emergency and Other Relief ServicesT",
+              "desc": "See industry description for 624230.",
+              "childNodes": {
+                "624230": {
+                  "title": "Emergency and Other Relief Services",
+                  "desc": "This industry comprises establishments primarily engaged in providing food, shelter, clothing, medical relief, resettlement, and counseling to victims of domestic or international disasters or conflicts (e.g., wars).\n",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "6243": {
+          "title": "Vocational Rehabilitation ServicesT",
+          "desc": "NULL",
+          "childNodes": {
+            "62431": {
+              "title": "Vocational Rehabilitation ServicesT",
+              "desc": "See industry description for 624310.",
+              "childNodes": {
+                "624310": {
+                  "title": "Vocational Rehabilitation Services",
+                  "desc": "This industry comprises (1) establishments primarily engaged in providing vocational rehabilitation or habilitation services, such as job counseling, job training, and work experience, to unemployed and underemployed persons, persons with disabilities, and persons who have a job market disadvantage because of lack of education, job skill, or experience and (2) establishments primarily engaged in providing training and employment to persons with disabilities.  Vocational rehabilitation job training facilities (except schools) and sheltered workshops (i.e., work experience centers) are included in this industry.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "6244": {
+          "title": "Child Care ServicesT",
+          "desc": "NULL",
+          "childNodes": {
+            "62441": {
+              "title": "Child Care ServicesT",
+              "desc": "See industry description for 624410.",
+              "childNodes": {
+                "624410": {
+                  "title": "Child Care Services",
+                  "desc": "This industry comprises establishments primarily engaged in providing care and early learning opportunities for infants and children.  These establishments generally care for children from birth through school age and may also offer pre-kindergarten, kindergarten, and/or before- or after-school educational programs.  The care and early learning provided by these establishments may include opportunities for development in health, social and emotional learning, and family engagement.\n\nIllustrative Examples:\n\nBefore-school and after-school educational programs, separate from schools\nChild care babysitting services\nChild or infant care centers\nHead Start and Early Head Start programs, separate from schools\nNursery schools\nPreschool centers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

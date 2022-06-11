@@ -1,20 +1,26 @@
-import './Classification.css';
+import NAICSData from '../data/naics.json';
+
+import {
+  ClassificationContainer,
+  Question,
+  ClassificationCard
+} from './ClassificationStyles';
 
 const Classification = (props) => {
   return (
     <>
-      <div className="classification-container">
-        <h1 className="question">What's your Main Sector?</h1>
+      <ClassificationContainer>
+        <Question>What's your Main Sector?</Question>
         
-        {props.nextClassification.map((classification, index) => {
+        {NAICSData.sectors.map((sector, index) => {
             return (
-              <div key={index} value={index} id={classification.name} className="classification-card" onClick={props.handleClassificationModification}>
-                <h3 value={index}>{classification.name}</h3>
-              </div>
+              <ClassificationCard key={sector.code} value={index} id={sector.code} onClick={props.handleClassificationModification}>
+                <h3 value={sector.code}>{sector.name}</h3>
+              </ClassificationCard>
             )
         })}
 
-      </div>
+      </ClassificationContainer>
     </>
   );
 };

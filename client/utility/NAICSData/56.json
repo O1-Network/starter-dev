@@ -1,0 +1,478 @@
+{
+  "title": "Administrative and Support and Waste Management and Remediation ServicesT",
+  "desc": "The Sector as a Whole\n\nThe Administrative and Support and Waste Management and Remediation Services sector comprises establishments performing routine support activities for the day-to-day operations of other organizations.  These essential activities are often undertaken in-house by establishments in many sectors of the economy.  The establishments in this sector specialize in one or more of these support activities and provide these services to clients in a variety of industries and, in some cases, to households.  Activities performed include: office administration, hiring and placing of personnel, document preparation and similar clerical services, solicitation, collection, security and surveillance services, cleaning, and waste disposal services.\n\nThe administrative and management activities performed by establishments in this sector are typically on a contract or fee basis.  These activities may also be performed by establishments that are part of the company or enterprise.  However, establishments involved in administering, overseeing, and managing other establishments of the company or enterprise are classified in Sector 55, Management of Companies and Enterprises.  Establishments in Sector 55, Management of Companies and Enterprises, normally undertake the strategic and organizational planning and decision-making role of the company or enterprise.  Government establishments engaged in administering, overseeing, and managing governmental programs are classified in Sector 92, Public Administration.\n",
+  "childNodes": {
+    "561": {
+      "title": "Administrative and Support ServicesT",
+      "desc": "Industries in the Administrative and Support Services subsector group establishments engaged in activities that support the day-to-day operations of other organizations.  The processes employed in this sector (e.g., general management, personnel administration, clerical activities, cleaning activities) are often integral parts of the activities of establishments found in all sectors of the economy.  The establishments classified in this subsector have specialization in one or more of these activities and can, therefore, provide services to clients in a variety of industries and, in some cases, to households.  The individual industries of this subsector are defined on the basis of the particular process that they are engaged in and the particular services they provide.\n\nMany of the activities in this subsector are ongoing routine support functions that businesses and organizations perform in-house.  However, it is common to contract or purchase services from businesses that specialize in such activities and can, therefore, provide the services more efficiently.\n\nThe industries in this subsector cannot be viewed as strictly \"support.\"  The Travel Arrangement and Reservation Services industry group includes travel agents, tour operators, and providers of other travel arrangement services, such as hotel and restaurant reservations and arranging the purchase of tickets, serving many types of clients, including individual consumers.  This group was placed in this subsector because the services are often of the \"support\" nature (e.g., travel arrangement) to businesses and other organizations that purchase such services.\n\nThe administrative and management activities performed by establishments in this sector are typically on a contract or fee basis.  These activities may also be performed by establishments that are part of the company or enterprise.  However, establishments involved in administering, overseeing, and managing other establishments of the company or enterprise are classified in Sector 55, Management of Companies and Enterprises.  Establishments in Sector 55, Management of Companies and Enterprises, normally undertake the strategic and organizational planning and decision-making role of the company or enterprise.  Government establishments engaged in administering, overseeing, and managing governmental programs are classified in Sector 92, Public Administration.\n",
+      "childNodes": {
+        "5611": {
+          "title": "Office Administrative ServicesT",
+          "desc": "NULL",
+          "childNodes": {
+            "56111": {
+              "title": "Office Administrative ServicesT",
+              "desc": "See industry description for 561110.",
+              "childNodes": {
+                "561110": {
+                  "title": "Office Administrative Services",
+                  "desc": "This industry comprises establishments primarily engaged in providing a range of day-to-day office administrative services, such as financial planning; billing and recordkeeping; personnel; and physical distribution and logistics, for others on a contract or fee basis.  These establishments do not provide operating staff to carry out the complete operations of a business.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "5612": {
+          "title": "Facilities Support ServicesT",
+          "desc": "NULL",
+          "childNodes": {
+            "56121": {
+              "title": "Facilities Support ServicesT",
+              "desc": "See industry description for 561210.",
+              "childNodes": {
+                "561210": {
+                  "title": "Facilities Support Services",
+                  "desc": "This industry comprises establishments primarily engaged in providing operating staff to perform a combination of support services within a client's facilities.  Establishments in this industry typically provide a combination of services, such as janitorial, maintenance, trash disposal, guard and security, mail routing, reception, laundry, and related services to support operations within facilities.  These establishments provide operating staff to carry out these support activities, but are not involved with or responsible for the core business or activities of the client.  Establishments providing facilities (except computer and/or data processing) operation support services and establishments providing private jail services or operating correctional facilities (i.e., jails) on a contract or fee basis are included in this industry.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "5613": {
+          "title": "Employment ServicesT",
+          "desc": "This industry group comprises establishments primarily engaged in one of the following: (1) listing employment vacancies and referring or placing applicants for employment; (2) providing executive search, recruitment, and placement services; (3) supplying workers to clients' businesses for limited periods of time to supplement the working force of the client; or (4) providing human resources and human resource management services to client businesses and households.\n",
+          "childNodes": {
+            "56131": {
+              "title": "Employment Placement Agencies and Executive Search ServicesT",
+              "desc": "This industry comprises establishments primarily engaged in one of the following: (1) listing employment vacancies and referring or placing applicants for employment; or (2) providing executive search, recruitment, and placement services.\n\nIllustrative Examples:\n\nEmployment agencies\nExecutive placement agencies or services\nExecutive search services\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "561311": {
+                  "title": "Employment Placement Agencies",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in listing employment vacancies and in recruiting, referring, or placing applicants for employment.  The individuals referred or placed are not employees of the employment agencies.\n\nIllustrative Examples:\n\nBabysitting bureaus (i.e., registries)\nEmployment registries\nModel registries\nCasting agencies or bureaus (i.e., motion picture, theatrical, video)\nEmployment agencies\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "561312": {
+                  "title": "Executive Search Services",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing executive search, recruitment, and placement services for clients with specific executive and senior management position requirements.  The range of services provided by these establishments may include developing a search strategy and position specification based on the culture and needs of the client; researching, identifying, screening, and interviewing candidates; verifying candidate qualifications; and assisting in final offer negotiations and assimilation of the selected candidate.  The individuals identified, recruited, or placed are not employees of the executive search services establishments.\n\nIllustrative Examples:\n\nSenior executive search services\nExecutive placement services\nExecutive search services\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "56132": {
+              "title": "Temporary Help ServicesT",
+              "desc": "See industry description for 561320.",
+              "childNodes": {
+                "561320": {
+                  "title": "Temporary Help Services",
+                  "desc": "This industry comprises establishments primarily engaged in supplying workers to clients' businesses for limited periods of time to supplement the working force of the client.  The individuals provided are employees of the temporary help services establishment.  However, these establishments do not provide direct supervision of their employees at the clients' work sites.\n\nIllustrative Examples:\n\nHelp supply services\nModel supply services\nLabor (except farm) contractors (i.e., personnel suppliers)\nTemporary employment or temporary staffing services\nManpower pools\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "56133": {
+              "title": "Professional Employer OrganizationsT",
+              "desc": "See industry description for 561330.",
+              "childNodes": {
+                "561330": {
+                  "title": "Professional Employer Organizations",
+                  "desc": "This industry comprises establishments primarily engaged in providing human resources and human resource management services to client businesses and households.  Establishments in this industry operate in a co-employment relationship with client businesses or organizations and are specialized in performing a wide range of human resource and personnel management duties, such as payroll, payroll tax, benefits administration, workers' compensation, unemployment, and human resource administration.  Professional employer organizations (PEOs) are responsible for payroll, including withholding and remitting employment-related taxes, for some or all of the employees of their clients, and also serve as the employer of those employees for benefits and related purposes.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "5614": {
+          "title": "Business Support ServicesT",
+          "desc": "This industry group comprises establishments engaged in performing activities that are ongoing routine business support functions for clients on a contract or fee basis, or serving other establishments of the same enterprise.\n",
+          "childNodes": {
+            "56141": {
+              "title": "Document Preparation ServicesT",
+              "desc": "See industry description for 561410.",
+              "childNodes": {
+                "561410": {
+                  "title": "Document Preparation Services",
+                  "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) letter or resume writing; (2) document editing or proofreading; (3) typing, word processing, or desktop publishing; and (4) stenography (except court reporting or stenotype recording), transcription, and other secretarial services.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "56142": {
+              "title": "Telephone Call CentersT",
+              "desc": "This industry comprises (1) establishments primarily engaged in answering telephone calls and relaying messages and (2) establishments primarily engaged in providing telemarketing services, such as promoting products or services by telephone; taking orders by telephone, facsimile, email, or other communication modes; and soliciting contributions or providing information by telephone.  Telephone call centers provide these services on behalf of clients and do not own the products or provide the services that they are representing, or they serve other establishments of the same enterprise.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "561421": {
+                  "title": "Telephone Answering Services",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in answering telephone calls and relaying messages on behalf of clients or for other establishments of the same enterprise.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "561422": {
+                  "title": "Telemarketing Bureaus and Other Contact Centers",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in operating call centers that initiate or receive communications via telephone, facsimile, email, or other communication modes for purposes such as: (1) promoting products or services, (2) taking orders, (3) soliciting contributions, and (4) providing information or assistance regarding products or services.  Telemarketing bureaus and other contact centers provide these services on behalf of clients and do not own the products or provide the services that they are representing, or they serve other establishments of the same enterprise.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "56143": {
+              "title": "Business Service CentersT",
+              "desc": "This industry comprises (1) establishments primarily engaged in providing mailbox rental and other postal and mailing services (except direct mail advertising); (2) establishments, generally known as copy centers or shops, primarily engaged in providing photocopying, duplicating, blueprinting, and other document copying services without also providing printing services (i.e., offset printing, quick printing, digital printing, prepress services); and (3) establishments that provide a range of office support services (except printing services), such as mailing services, document copying services, facsimile services, word processing services, on-site PC rental services, and office product sales.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "561431": {
+                  "title": "Private Mail Centers",
+                  "desc": "This U.S. industry comprises (1) establishments primarily engaged in providing mailbox rental and other postal and mailing (except direct mail advertising) services or (2) establishments engaged in providing these mailing services along with one or more other office support services, such as facsimile services, word processing services, on-site PC rental services, and office product sales.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "561439": {
+                  "title": "Other Business Service Centers (including Copy Shops)",
+                  "desc": "This U.S. industry comprises (1) establishments generally known as copy centers or shops primarily engaged in providing photocopying, duplicating, blueprinting, and other document copying services, without also providing printing services (e.g., offset printing, quick printing, digital printing, prepress services) and (2) establishments (except private mail centers) engaged in providing a range of office support services (except printing services), such as document copying services, facsimile services, word processing services, on-site PC rental services, and office product sales.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "56144": {
+              "title": "Collection AgenciesT",
+              "desc": "See industry description for 561440.",
+              "childNodes": {
+                "561440": {
+                  "title": "Collection Agencies",
+                  "desc": "This industry comprises establishments primarily engaged in collecting payments for claims and remitting payments collected to their clients.\n\nIllustrative Examples:\n\nAccount or delinquent account collection services\nTax collection services on a contract or fee basis\nBill or debt collection services\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "56145": {
+              "title": "Credit BureausT",
+              "desc": "See industry description for 561450.",
+              "childNodes": {
+                "561450": {
+                  "title": "Credit Bureaus",
+                  "desc": "This industry comprises establishments primarily engaged in compiling information, such as credit and employment histories, and providing the information to financial institutions, retailers, and others who have a need to evaluate the creditworthiness of individuals and businesses.\n\nIllustrative Examples:\n\nCredit agencies\nCredit rating services\nCredit investigation services\nCredit reporting bureaus\n",
+                  "childNodes": {}
+                }
+              }
+            },
+            "56149": {
+              "title": "Other Business Support ServicesT",
+              "desc": "This industry comprises establishments primarily engaged in providing business support services (except secretarial and other document preparation services; telephone answering or telemarketing services; private mail services or document copying services conducted as separate activities or in conjunction with other office support services; monetary debt collection services; and credit reporting services).\n\nIllustrative Examples:\n\nAddress bar coding services\nMail presorting services\nBar code imprinting services\nCourt reporting services\nRepossession services\nReal-time (i.e., simultaneous) closed captioning of live television performances, meetings, conferences\nCharitable fundraising campaign organization services on a contract or fee basis\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "561491": {
+                  "title": "Repossession Services",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in repossessing tangible assets (e.g., automobiles, boats, equipment, planes, furniture, appliances) for the creditor as a result of delinquent debts.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "561492": {
+                  "title": "Court Reporting and Stenotype Services",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing verbatim reporting and stenotype recording of live legal proceedings and transcribing subsequent recorded materials.\n\nIllustrative Examples:\n\nReal-time (i.e., simultaneous) closed captioning of live television performances, meetings, conferences\nCourt reporting or stenotype recording services\nPublic stenography services\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "561499": {
+                  "title": "All Other Business Support Services",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing business support services (except secretarial and other document preparation services; telephone answering and telemarketing services; private mail services or document copying services conducted as separate activities or in conjunction with other office support services; monetary debt collection services; credit reporting services; repossession services; and court reporting and stenotype recording services).\n\nIllustrative Examples:\n\nAddress bar coding services\nCharitable fundraising campaign organization services on a contract or fee basis\nBar code imprinting services\nMail presorting services\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "5615": {
+          "title": "Travel Arrangement and Reservation ServicesT",
+          "desc": "This industry group comprises establishments primarily engaged in one of the following: (1) travel agency services; (2) arranging and assembling tours; or (3) other travel arrangement and reservation services.\n",
+          "childNodes": {
+            "56151": {
+              "title": "Travel AgenciesT",
+              "desc": "See industry description for 561510.",
+              "childNodes": {
+                "561510": {
+                  "title": "Travel Agencies",
+                  "desc": "This industry comprises establishments primarily engaged in acting as agents in selling travel, tour, and accommodation services to the general public and commercial clients.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "56152": {
+              "title": "Tour OperatorsT",
+              "desc": "See industry description for 561520.",
+              "childNodes": {
+                "561520": {
+                  "title": "Tour Operators",
+                  "desc": "This industry comprises establishments primarily engaged in arranging and assembling tours.  The tours are sold through travel agencies or tour operators.  Travel or wholesale tour operators are included in this industry.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "56159": {
+              "title": "Other Travel Arrangement and Reservation ServicesT",
+              "desc": "This industry comprises establishments (except travel agencies and tour operators) primarily engaged in providing travel arrangement and reservation services.\n\nIllustrative Examples:\n\nCondominium time-share exchange services\nRoad and travel services automobile clubs\nConvention or visitors bureaus\nTicket (e.g., amusement, sports, theatrical) agencies\nTicket (e.g., airline, bus, cruise ship, sports, theatrical) offices\nReservation (e.g., airline, car rental, hotel, restaurant) services\n\n\nCross-References.",
+              "childNodes": {
+                "561591": {
+                  "title": "Convention and Visitors Bureaus",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in marketing and promoting communities and facilities to businesses and leisure travelers through a range of activities, such as assisting organizations in locating meeting and convention sites; providing travel information on area attractions, lodging accommodations, restaurants; providing maps; and organizing group tours of local historical, recreational, and cultural attractions.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "561599": {
+                  "title": "All Other Travel Arrangement and Reservation Services",
+                  "desc": "This U.S. industry comprises establishments (except travel agencies, tour operators, and convention and visitors bureaus) primarily engaged in providing travel arrangement and reservation services.\n\nIllustrative Examples:\n\nCondominium time-share exchange services\nTicket (e.g., airline, bus, cruise ship, sports, theatrical) offices\nRoad and travel services automobile clubs\nReservation (e.g., airline, car rental, hotel, restaurant) services\nTicket (e.g., amusement, sports, theatrical) agencies\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "5616": {
+          "title": "Investigation and Security ServicesT",
+          "desc": "This industry group comprises establishments primarily engaged in one of the following: (1) investigation, guard, and armored car services; (2) selling security systems, such as burglar and fire alarms and locking devices, along with installation, repair, or monitoring services; or (3) remote monitoring of electronic security alarm systems.\n",
+          "childNodes": {
+            "56161": {
+              "title": "Investigation, Guard, and Armored Car ServicesT",
+              "desc": "This industry comprises establishments primarily engaged in providing one or more of the following: (1) investigation, detective, and personal background check services; (2) guard and patrol services; and (3) picking up and delivering money, receipts, or other valuable items with personnel and equipment to protect such properties while in transit.\n\nIllustrative Examples:\n\nArmored car services\nPrivate detective services\nBodyguard services\nSecurity guard services\nPolygraph services\n\n\nCross-References.",
+              "childNodes": {
+                "561611": {
+                  "title": "Investigation and Personal Background Check Services",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing investigation, detective, and personal background check services.\n\nIllustrative Examples:\n\nFingerprint services\nPrivate detective services\nPolygraph services\nPrivate investigative services (except credit)\n\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "561612": {
+                  "title": "Security Guards and Patrol Services",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing guard and patrol services, such as bodyguard, guard dog, and parking security services.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "561613": {
+                  "title": "Armored Car Services",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in picking up and delivering money, receipts, or other valuable items.  These establishments maintain personnel and equipment to protect such properties while in transit.\n",
+                  "childNodes": {}
+                }
+              }
+            },
+            "56162": {
+              "title": "Security Systems ServicesT",
+              "desc": "This industry comprises establishments engaged in (1) selling security systems, such as burglar and fire alarms and locking devices, along with installation, repair, or monitoring services or (2) remote monitoring of electronic security alarm systems.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "561621": {
+                  "title": "Security Systems Services (except Locksmiths)",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) selling security alarm systems, such as burglar and fire alarms, along with installation, repair, or monitoring services or (2) remote monitoring of electronic security alarm systems.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "561622": {
+                  "title": "Locksmiths",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) selling mechanical or electronic locking devices, safes, and security vaults, along with installation, repair, rebuilding, or adjusting services or (2) installing, repairing, rebuilding, and adjusting mechanical or electronic locking devices, safes, and security vaults.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "5617": {
+          "title": "Services to Buildings and DwellingsT",
+          "desc": "This industry group comprises establishments primarily engaged in one of the following: (1) exterminating and pest control services; (2) janitorial services; (3) landscaping services; (4) carpet and upholstery cleaning services; or (5) other services to buildings and dwellings.\n",
+          "childNodes": {
+            "56171": {
+              "title": "Exterminating and Pest Control ServicesT",
+              "desc": "See industry description for 561710.",
+              "childNodes": {
+                "561710": {
+                  "title": "Exterminating and Pest Control Services",
+                  "desc": "This industry comprises establishments primarily engaged in exterminating and controlling birds, mosquitoes, rodents, termites, and other insects and pests (except for crop production and forestry production).  Establishments providing fumigation services are included in this industry.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "56172": {
+              "title": "Janitorial ServicesT",
+              "desc": "See industry description for 561720.",
+              "childNodes": {
+                "561720": {
+                  "title": "Janitorial Services",
+                  "desc": "This industry comprises establishments primarily engaged in cleaning building interiors, interiors of transportation equipment (e.g., aircraft, rail cars, ships), and/or windows.\n\nIllustrative Examples:\n\nCustodial services\nService station cleaning and degreasing services\nHousekeeping (i.e., cleaning) services\nWashroom sanitation services\nMaid (i.e., cleaning) services\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "56173": {
+              "title": "Landscaping ServicesT",
+              "desc": "See industry description for 561730.",
+              "childNodes": {
+                "561730": {
+                  "title": "Landscaping Services",
+                  "desc": "This industry comprises (1) establishments primarily engaged in providing landscape care and maintenance services and/or installing trees, shrubs, plants, lawns, or gardens and (2) establishments primarily engaged in providing these services along with the design of landscape plans and/or the construction (i.e., installation) of walkways, retaining walls, decks, fences, ponds, and similar structures.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "56174": {
+              "title": "Carpet and Upholstery Cleaning ServicesT",
+              "desc": "See industry description for 561740.",
+              "childNodes": {
+                "561740": {
+                  "title": "Carpet and Upholstery Cleaning Services",
+                  "desc": "This industry comprises establishments primarily engaged in cleaning and dyeing used rugs, carpets, and upholstery.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "56179": {
+              "title": "Other Services to Buildings and DwellingsT",
+              "desc": "See industry description for 561790.",
+              "childNodes": {
+                "561790": {
+                  "title": "Other Services to Buildings and Dwellings",
+                  "desc": "This industry comprises establishments primarily engaged in providing services to buildings and dwellings (except exterminating and pest control; janitorial; landscaping care and maintenance; and carpet and upholstery cleaning).\n\nIllustrative Examples:\n\nBuilding exterior cleaning services (except sandblasting, window cleaning)\nSwimming pool cleaning and maintenance services\nChimney cleaning services\nVentilation duct cleaning services\nDrain or gutter cleaning services\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "5619": {
+          "title": "Other Support ServicesT",
+          "desc": "This industry group comprises establishments primarily engaged in providing day-to-day business and other organizational support services (except office administrative services; facilities support services; employment services; business support services; travel arrangement and reservation services; security and investigation services; and services to buildings and dwellings).\n",
+          "childNodes": {
+            "56191": {
+              "title": "Packaging and Labeling ServicesT",
+              "desc": "See industry description for 561910.",
+              "childNodes": {
+                "561910": {
+                  "title": "Packaging and Labeling Services",
+                  "desc": "This industry comprises establishments primarily engaged in packaging client-owned materials.  The services may include labeling and/or imprinting the package.\n\nIllustrative Examples:\n\nApparel and textile folding and packaging services\nKit assembling and packaging services\nBlister packaging services\nShrink wrapping services\nGift wrapping services\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "56192": {
+              "title": "Convention and Trade Show OrganizersT",
+              "desc": "See industry description for 561920.",
+              "childNodes": {
+                "561920": {
+                  "title": "Convention and Trade Show Organizers",
+                  "desc": "This industry comprises establishments primarily engaged in organizing, promoting, and/or managing events, such as business and trade shows, conventions, conferences, and meetings (whether or not they manage and provide the staff to operate the facilities in which these events take place).\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "56199": {
+              "title": "All Other Support ServicesT",
+              "desc": "See industry description for 561990.",
+              "childNodes": {
+                "561990": {
+                  "title": "All Other Support Services",
+                  "desc": "This industry comprises establishments primarily engaged in providing day-to-day business and other organizational support services (except office administrative services, facilities support services, employment services, business support services, travel arrangement and reservation services, security and investigation services, services to buildings and other structures, packaging and labeling services, and convention and trade show organizing services).\n\nIllustrative Examples:\n\nBartering services\nFlagging (i.e., traffic control) services\nBottle exchanges\nFloat decorating services\nInventory taking services\nContract meter reading services\nLumber grading services\nDiving services on a contract or fee basis\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "562": {
+      "title": "Waste Management and Remediation ServicesT",
+      "desc": "Industries in the Waste Management and Remediation Services subsector group establishments engaged in the collection, treatment, and disposal of waste materials.  This includes establishments engaged in local hauling of waste materials; operating materials recovery facilities (i.e., those that sort recyclable materials from the trash stream); providing remediation services (i.e., those that provide for the cleanup of contaminated buildings, mine sites, soil, or ground water); and providing septic pumping and other miscellaneous waste management services.  There are three industry groups within the subsector that separate these activities into waste collection, waste treatment and disposal, and remediation and other waste management.\n\nExcluded from this subsector are establishments primarily engaged in collecting, treating, and disposing waste through sewer systems or sewage treatment facilities that are classified in Industry 22132, Sewage Treatment Facilities, and establishments primarily engaged in long-distance hauling of waste materials that are classified in Industry 48423, Specialized Freight (except Used Goods) Trucking, Long-Distance.  Also, there are some activities that appear to be related to waste management, but that are not included in this subsector.  For example, establishments primarily engaged in providing waste management consulting services are classified in Industry 54162, Environmental Consulting Services.\n",
+      "childNodes": {
+        "5621": {
+          "title": "Waste Collection",
+          "desc": "NULL",
+          "childNodes": {
+            "56211": {
+              "title": "Waste Collection",
+              "desc": "This industry comprises establishments primarily engaged in (1) collecting and/or hauling hazardous waste, nonhazardous waste, and/or recyclable materials within a local area and/or (2) operating hazardous or nonhazardous waste transfer stations.  Hazardous waste collection establishments may be responsible for the identification, treatment, packaging, and labeling of waste for the purposes of transport.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "562111": {
+                  "title": "Solid Waste Collection",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in one or more of the following: (1) collecting and/or hauling nonhazardous solid waste (i.e., garbage) within a local area; (2) operating nonhazardous solid waste transfer stations; and (3) collecting and/or hauling mixed recyclable materials within a local area.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "562112": {
+                  "title": "Hazardous Waste Collection",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in collecting and/or hauling hazardous waste within a local area and/or operating hazardous waste transfer stations.  Hazardous waste collection establishments may be responsible for the identification, treatment, packaging, and labeling of waste for the purposes of transport.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "562119": {
+                  "title": "Other Waste Collection",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in collecting and/or hauling waste (except nonhazardous solid waste and hazardous waste) within a local area.  Establishments engaged in brush or rubble removal services are included in this industry.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "5622": {
+          "title": "Waste Treatment and Disposal",
+          "desc": "NULL",
+          "childNodes": {
+            "56221": {
+              "title": "Waste Treatment and Disposal",
+              "desc": "This industry comprises establishments primarily engaged in (1) operating waste treatment or disposal facilities (except sewer systems or sewage treatment facilities) or (2) the combined activity of collecting and/or hauling of waste materials within a local area and operating waste treatment or disposal facilities.  Waste combustors or incinerators (including those that may produce byproducts, such as electricity), solid waste landfills, and compost dumps are included in this industry.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "562211": {
+                  "title": "Hazardous Waste Treatment and Disposal",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) operating treatment and/or disposal facilities for hazardous waste or (2) the combined activity of collecting and/or hauling of hazardous waste materials within a local area and operating treatment or disposal facilities for hazardous waste.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "562212": {
+                  "title": "Solid Waste Landfill",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) operating landfills for the disposal of nonhazardous solid waste or (2) the combined activity of collecting and/or hauling nonhazardous waste materials within a local area and operating landfills for the disposal of nonhazardous solid waste.  These establishments may produce byproducts, such as methane.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "562213": {
+                  "title": "Solid Waste Combustors and Incinerators",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in operating combustors and incinerators for the disposal of nonhazardous solid waste.  These establishments may produce byproducts, such as electricity and steam.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "562219": {
+                  "title": "Other Nonhazardous Waste Treatment and Disposal",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) operating nonhazardous waste treatment and disposal facilities (except landfills, combustors, incinerators, and sewer systems or sewage treatment facilities) or (2) the combined activity of collecting and/or hauling of nonhazardous waste materials within a local area and operating waste treatment or disposal facilities (except landfills, combustors, incinerators, and sewer systems or sewage treatment facilities).  Compost dumps are included in this industry.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "5629": {
+          "title": "Remediation and Other Waste Management Services",
+          "desc": "This industry group comprises establishments primarily engaged in remediation and other waste management services (except waste collection, waste treatment and disposal, and waste management consulting services).\n",
+          "childNodes": {
+            "56291": {
+              "title": "Remediation Services",
+              "desc": "See industry description for 562910.",
+              "childNodes": {
+                "562910": {
+                  "title": "Remediation Services",
+                  "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) remediation and cleanup of contaminated buildings, mine sites, soil, or ground water; (2) integrated mine reclamation activities, including demolition, soil remediation, waste water treatment, hazardous material removal, contouring land, and revegetation; and (3) asbestos, lead paint, and other toxic material abatement.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "56292": {
+              "title": "Materials Recovery Facilities",
+              "desc": "See industry description for 562920.",
+              "childNodes": {
+                "562920": {
+                  "title": "Materials Recovery Facilities",
+                  "desc": "This industry comprises establishments primarily engaged in (1) operating facilities for separating and sorting recyclable materials from nonhazardous waste streams (i.e., garbage) and/or (2) operating facilities where commingled recyclable materials, such as paper, plastics, used beverage cans, and metals, are sorted into distinct categories.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "56299": {
+              "title": "All Other Waste Management Services",
+              "desc": "This industry comprises establishments primarily engaged in waste management services (except waste collection, waste treatment and disposal, remediation, operation of materials recovery facilities, and waste management consulting services).\n\nIllustrative Examples:\n\nBeach cleaning and maintenance services\nPumping (i.e., cleaning) cesspools, portable toilets, or septic tanks\nCesspool cleaning services\nSewer cleaning and rodding services\nPortable toilet renting and/or servicing\nSewer or storm basin cleanout services\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "562991": {
+                  "title": "Septic Tank and Related Services",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) pumping (i.e., cleaning) septic tanks and cesspools and/or (2) renting and/or servicing portable toilets.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "562998": {
+                  "title": "All Other Miscellaneous Waste Management Services",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing waste management services (except waste collection, waste treatment and disposal, remediation, operation of materials recovery facilities, septic tank pumping and related services, and waste management consulting services).\n\nIllustrative Examples:\n\nBeach cleaning and maintenance services\nSewer or storm basin cleanout services\nCatch basin cleaning services\nTank cleaning and disposal services, commercial or industrial\nSewer cleaning and rodding services\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "title": "Retail TradeT",
+  "desc": "The Sector as a Whole\n\nThe Retail Trade sector comprises establishments primarily engaged in retailing merchandise, generally without transformation, and rendering services incidental to the sale of merchandise.\n\nThe retailing process is the final step in the distribution of merchandise; retailers are, therefore, organized to sell merchandise in small quantities to the general public.  Retail stores are fixed point-of-sale locations, located and designed to attract a high volume of walk-in customers.  In general, retail stores have extensive displays of merchandise and use mass-media advertising to attract customers.  Retailers often reach customers and market merchandise with methods other than, or in addition to, physical stores, such as Internet websites, the broadcasting of \"infomercials,\" the broadcasting and publishing of direct-response advertising, the publishing of paper and electronic catalogs, door-to-door solicitation, in-home demonstration, selling from portable stalls (street vendors, except food), and distribution through vending machines.  Establishments engaged in the direct sale and home delivery of products, such as home heating oil dealers and home delivery newspaper routes, are included here.\n\nRetail establishments typically sell merchandise to the general public for personal or household consumption, but some also serve business and institutional clients.  These include office supply retailers, computer and software retailers, building materials dealers, plumbing supply retailers, and electrical supply retailers.\n\nIn addition to retailing merchandise, some retailers are also engaged in the provision of after-sales services, such as repair and installation.  For example, new automobile dealers, electronics and appliance retailers, and musical instrument and supplies retailers often provide repair services.  As a general rule, establishments engaged in retailing merchandise and providing after-sales services are classified in this sector.\n\nRetail trade establishments are grouped into industries and industry groups typically based on one or more of the following criteria:\n\n(a) The merchandise line or lines carried; for example, specialty retailers are distinguished from general-line retailers.\n\n(b) The usual trade designation of the establishments.  This criterion applies in cases where a retailer is well recognized by the industry and the public, but difficult to define strictly in terms of merchandise lines carried; for example, pharmacies and department stores.\n\n(c) Human resource requirements in terms of expertise; for example, the staff of an automobile dealer requires knowledge in financing, registering, and licensing issues that are not necessary in other retail industries.\n\nThe buying of goods for resale is a characteristic of retail trade establishments that particularly distinguishes them from establishments in the agriculture, manufacturing, and construction industries.  For example, farms that sell their products at or from the point of production are not classified in retail, but rather in agriculture.  Similarly, establishments that both manufacture and sell their products to the general public are not classified in retail, but rather in manufacturing.  However, establishments that engage in processing activities incidental to retailing are classified in retail.  This includes optical goods retailers that grind lenses, and meat and seafood retailers that process carcasses into cuts.\n\nWholesalers also engage in the buying of goods for resale, but they are not usually organized to serve the general public.  They typically operate from a warehouse or office, and neither the design nor the location of these premises is intended to solicit a high volume of walk-in traffic.  Wholesalers supply institutional, industrial, wholesale, and retail clients; their operations are, therefore, generally organized to purchase, sell, and deliver merchandise in larger quantities.  However, dealers of durable nonconsumer goods, such as farm machinery and heavy-duty trucks, are included in wholesale trade even if they often sell these products in single units.\n",
+  "childNodes": {
+    "441": {
+      "title": "Motor Vehicle and Parts Dealers",
+      "desc": "Industries in the Motor Vehicle and Parts Dealers subsector retail motor vehicles and parts.  Establishments in this subsector often operate from a showroom and/or an open lot where the vehicles are on display.  The display of vehicles and the related parts require little by way of display equipment.  The personnel generally include both the sales and sales support staff familiar with the requirements for registering and financing a vehicle as well as a staff of parts experts and mechanics trained to provide repair and maintenance services for the vehicles.  Specific industries included in this subsector identify the type of vehicle being retailed.\n\nSales of capital or durable nonconsumer goods, such as medium- and heavy-duty trucks, are always included in wholesale trade.\n",
+      "childNodes": {
+        "4411": {
+          "title": "Automobile Dealers",
+          "desc": "This industry group comprises establishments primarily engaged in retailing new and used automobiles and light trucks, such as sport utility vehicles, and passenger and cargo vans.\n",
+          "childNodes": {
+            "44111": {
+              "title": "New Car Dealers",
+              "desc": "See industry description for 441110.",
+              "childNodes": {
+                "441110": {
+                  "title": "New Car Dealers",
+                  "desc": "This industry comprises establishments primarily engaged in retailing new automobiles and light trucks, such as sport utility vehicles, and passenger and cargo vans, or retailing these new vehicles in combination with activities, such as repair services, retailing used cars, and selling replacement parts and accessories.\n\nIllustrative Examples:\n\nAutomobile dealers, new only, or new and used\nLight utility truck dealers, new only, or new and used\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "44112": {
+              "title": "Used Car Dealers",
+              "desc": "See industry description for 441120.",
+              "childNodes": {
+                "441120": {
+                  "title": "Used Car Dealers",
+                  "desc": "This industry comprises establishments primarily engaged in retailing used automobiles and light trucks, such as sport utility vehicles, and passenger and cargo vans.\n\nIllustrative Examples:\n\nAntique auto dealers\nLight truck dealers, used only\nAutomobile dealers, used only\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4412": {
+          "title": "Other Motor Vehicle Dealers",
+          "desc": "This industry group comprises establishments primarily engaged in retailing new and used vehicles (except automobiles, light trucks, such as sport utility vehicles, and passenger and cargo vans).\n",
+          "childNodes": {
+            "44121": {
+              "title": "Recreational Vehicle Dealers",
+              "desc": "See industry description for 441210.",
+              "childNodes": {
+                "441210": {
+                  "title": "Recreational Vehicle Dealers",
+                  "desc": "This industry comprises establishments primarily engaged in retailing new and/or used recreational vehicles commonly referred to as RVs or retailing these new vehicles in combination with activities, such as repair services and selling replacement parts and accessories.\n\nIllustrative Examples:\n\nMotor home dealers\nRecreational vehicle (RV) parts and accessories stores\nRecreational vehicle (RV) dealers\nTravel trailer dealers \n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "44122": {
+              "title": "Motorcycle, Boat, and Other Motor Vehicle Dealers",
+              "desc": "This industry comprises establishments primarily engaged in retailing new and used motorcycles, boats, and other vehicles (except automobiles, light trucks, and recreational vehicles), or retailing these new vehicles in combination with activities, such as repair services and selling replacement parts and accessories.\n\nIllustrative Examples:\n\nAircraft dealers\nMotorcycle dealers\nAll-terrain vehicle (ATV) dealers\nUtility trailer dealers\nBoat dealers, new and used\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "441222": {
+                  "title": "Boat Dealers",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in (1) retailing new and/or used boats or retailing new boats in combination with activities, such as repair services and selling replacement parts and accessories, and/or (2) retailing new and/or used outboard motors, boat trailers, marine supplies, parts, and accessories.\n\nIllustrative Examples:\n\nBoat dealers (e.g., power boats, rowboats, sailboats)\nOutboard motor dealers\nMarine supply dealers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "441227": {
+                  "title": "Motorcycle, ATV, and All Other Motor Vehicle Dealers",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in retailing new and/or used motorcycles, motor scooters, motorbikes, mopeds, off-road all-terrain vehicles (ATV), personal watercraft, utility trailers, and other motor vehicles (except automobiles, light trucks, recreational vehicles, and boats) or retailing these new vehicles in combination with activities, such as repair services and selling replacement parts and accessories.\n\nIllustrative Examples:\n\nAll-terrain vehicle (ATV) dealers\nMotorcycle dealers\nMoped dealers\nMotorcycle parts and accessories dealers\nPersonal watercraft dealers\nAircraft dealers\nSnowmobile dealers\nPowered golf cart dealers\nUtility trailer dealers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4413": {
+          "title": "Automotive Parts, Accessories, and Tire Retailers",
+          "desc": "This industry group comprises establishments primarily engaged in retailing new, used, and/or rebuilt automotive parts and accessories, including tires and tubes.  Included in this industry group are establishments primarily engaged in retailing automotive parts and accessories in combination with automotive repair services.\n",
+          "childNodes": {
+            "44133": {
+              "title": "Automotive Parts and Accessories Retailers",
+              "desc": "See industry description for 441330.",
+              "childNodes": {
+                "441330": {
+                  "title": "Automotive Parts and Accessories Retailers",
+                  "desc": "This industry comprises establishments primarily engaged in retailing new, used, and/or rebuilt automotive parts and accessories, with or without repairing automobiles; and/or establishments primarily engaged in retailing and installing automotive accessories.\n\nIllustrative Examples:\n\nAutomotive parts and supply retailers\nTruck cap retailers\nAutomotive stereo retailers\nUsed automotive parts retailers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "44134": {
+              "title": "Tire Dealers",
+              "desc": "See industry description for 441340.",
+              "childNodes": {
+                "441340": {
+                  "title": "Tire Dealers",
+                  "desc": "This industry comprises establishments primarily engaged in retailing new and/or used tires and tubes or retailing new tires in combination with automotive repair services.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "444": {
+      "title": "Building Material and Garden Equipment and Supplies Dealers",
+      "desc": "Industries in the Building Material and Garden Equipment and Supplies Dealers subsector retail new building materials, hardware, paint, and garden and outdoor power equipment and supplies.  Establishments in this subsector with fixed point-of-sale locations, including home centers and retail lumber yards, may display merchandise either indoors or outdoors under covered areas.  The staff is usually knowledgeable in the use of the specific products being retailed in the construction, repair, and maintenance of the home and associated grounds.\n",
+      "childNodes": {
+        "4441": {
+          "title": "Building Material and Supplies Dealers",
+          "desc": "This industry group comprises establishments primarily engaged in retailing new building materials and supplies.",
+          "childNodes": {
+            "44411": {
+              "title": "Home Centers",
+              "desc": "See industry description for 444110.",
+              "childNodes": {
+                "444110": {
+                  "title": "Home Centers",
+                  "desc": "This industry comprises establishments generally known as home centers primarily engaged in retailing a general line of new home repair and improvement materials and supplies, such as lumber, plumbing goods, electrical goods, tools, housewares, hardware, and lawn and garden supplies, with no one merchandise line predominating.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "44412": {
+              "title": "Paint and Wallpaper Retailers",
+              "desc": "See industry description for 444120.",
+              "childNodes": {
+                "444120": {
+                  "title": "Paint and Wallpaper Retailers",
+                  "desc": "This industry comprises establishments primarily engaged in retailing paint, wallpaper, and related supplies.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "44414": {
+              "title": "Hardware Retailers",
+              "desc": "See industry description for 444140.",
+              "childNodes": {
+                "444140": {
+                  "title": "Hardware Retailers",
+                  "desc": "This industry comprises establishments primarily engaged in retailing a general line of new hardware items, such as tools and builders' hardware.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "44418": {
+              "title": "Other Building Material Dealers",
+              "desc": "See industry description for 444180.",
+              "childNodes": {
+                "444180": {
+                  "title": "Other Building Material Dealers",
+                  "desc": "This industry comprises establishments (except home centers, paint and wallpaper retailers, and hardware retailers) primarily engaged in retailing specialized lines of new building materials, such as lumber, fencing, glass, doors, plumbing fixtures and supplies, electrical supplies, prefabricated buildings and kits, and kitchen and bath cabinets and countertops to be installed.\n\nIllustrative Examples:\n\nElectrical supply retailers\nKitchen cabinet (except custom) retailers\nFencing dealers\nLumber yards, retail\nFloor covering retailers, hardwood or ceramic tile only\nPlumbing supply retailers\nGarage door dealers\nPrefabricated building (except manufactured home) dealers\nGlass (except automotive) retailers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4442": {
+          "title": "Lawn and Garden Equipment and Supplies Retailers",
+          "desc": "This industry group comprises establishments primarily engaged in retailing new lawn and garden equipment and supplies.\n",
+          "childNodes": {
+            "44423": {
+              "title": "Outdoor Power Equipment Retailers",
+              "desc": "See industry description for 444230.",
+              "childNodes": {
+                "444230": {
+                  "title": "Outdoor Power Equipment Retailers",
+                  "desc": "This industry comprises establishments primarily engaged in retailing new outdoor power equipment or retailing new outdoor power equipment in combination with activities, such as repair services and selling replacement parts.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "44424": {
+              "title": "Nursery, Garden Center, and Farm Supply Retailers",
+              "desc": "See industry description for 444240.",
+              "childNodes": {
+                "444240": {
+                  "title": "Nursery, Garden Center, and Farm Supply Retailers",
+                  "desc": "This industry comprises establishments primarily engaged in retailing nursery and garden products, such as trees, shrubs, plants, seeds, bulbs, and sod, that are predominantly grown elsewhere.  These establishments may sell a limited amount of a product they grow themselves.  Also included in this industry are establishments primarily engaged in retailing farm supplies, such as animal (except pet) feed, fertilizers, agricultural chemicals, and pesticides.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "445": {
+      "title": "Food and Beverage Retailers",
+      "desc": "Industries in the Food and Beverage Retailers subsector primarily retail general or specialized lines of food and beverage products.  Establishments in this subsector with fixed point-of-sale locations have special equipment (e.g., freezers, refrigerated display cases, refrigerators) for displaying food and beverage products and have staff trained in the processing of food products to guarantee the proper storage and sanitary conditions required by regulatory authority.  Vending machine operators are also included in this subsector.\n",
+      "childNodes": {
+        "4451": {
+          "title": "Grocery and Convenience Retailers",
+          "desc": "This industry group comprises establishments primarily engaged in retailing a general line of food products. This industry group also includes vending machine operators.\n",
+          "childNodes": {
+            "44511": {
+              "title": "Supermarkets and Other Grocery Retailers (except Convenience Retailers)",
+              "desc": "See industry description for 445110.",
+              "childNodes": {
+                "445110": {
+                  "title": "Supermarkets and Other Grocery Retailers (except Convenience Retailers)",
+                  "desc": "This industry comprises establishments generally known as supermarkets and other grocery retailers (except convenience retailers) primarily engaged in retailing a general line of food, such as canned and frozen foods; fresh fruits and vegetables; and fresh and prepared meats, fish, and poultry.  Included in this industry are delicatessen-type establishments primarily engaged in retailing a general line of food.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "44513": {
+              "title": "Convenience Retailers and Vending Machine Operators",
+              "desc": "This industry comprises establishments primarily engaged in retailing a limited line of groceries that generally includes milk, bread, soda, and snacks.  Included in this industry are convenience retailers, such as convenience stores or food marts (except those operating fuel pumps), and vending machine operators.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "445131": {
+                  "title": "Convenience Retailers",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in retailing a limited line of groceries that generally includes milk, bread, soda, and snacks, such as convenience stores or food marts (except those operating fuel pumps).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "445132": {
+                  "title": "Vending Machine Operators",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in retailing merchandise through vending machines that they service.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4452": {
+          "title": "Specialty Food Retailers",
+          "desc": "This industry group comprises establishments primarily engaged in retailing specialized lines of food not for immediate consumption.\n",
+          "childNodes": {
+            "44523": {
+              "title": "Fruit and Vegetable Retailers",
+              "desc": "See industry description for 445230.",
+              "childNodes": {
+                "445230": {
+                  "title": "Fruit and Vegetable Retailers",
+                  "desc": "This industry comprises establishments primarily engaged in retailing fresh fruits and vegetables.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "44524": {
+              "title": "Meat Retailers",
+              "desc": "See industry description for 445240.",
+              "childNodes": {
+                "445240": {
+                  "title": "Meat Retailers",
+                  "desc": "This industry comprises establishments primarily engaged in retailing fresh, frozen, or cured meats and poultry not for immediate consumption.  Delicatessen-type establishments primarily engaged in retailing fresh meat are included in this industry.\n\nIllustrative Examples:\n\nBaked ham retailers\nMeat retailers\nButcher shops\nPoultry dealers\nFrozen meat retailers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "44525": {
+              "title": "Fish and Seafood Retailers",
+              "desc": "See industry description for 445250.",
+              "childNodes": {
+                "445250": {
+                  "title": "Fish and Seafood Retailers",
+                  "desc": "This industry comprises establishments primarily engaged in retailing fresh, frozen, or cured fish and seafood products not for immediate consumption.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "44529": {
+              "title": "Other Specialty Food Retailers",
+              "desc": "This industry comprises establishments primarily engaged in retailing specialty foods (except fruits and vegetables, meat, fish, and seafood) not for immediate consumption and not made on the premises.\n\nIllustrative Examples:\n\nBaked goods (not made on premises) retailers \nDairy product retailers\nCoffee and tea (i.e., packaged) retailers\nGourmet food retailers\nConfectionery (i.e., packaged) retailers\nNut (i.e., packaged) retailers\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "445291": {
+                  "title": "Baked Goods Retailers",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in retailing baked goods not for immediate consumption and not made on the premises.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "445292": {
+                  "title": "Confectionery and Nut Retailers",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in retailing candy and other confections, nuts, and popcorn not for immediate consumption and not made on the premises.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "445298": {
+                  "title": "All Other Specialty Food Retailers",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in retailing miscellaneous specialty foods (except fruit and vegetables, meat, fish, seafood, confections, nuts, popcorn, and baked goods) not for immediate consumption and not made on the premises.\n\nIllustrative Examples:\n\nCoffee and tea (i.e., packaged) retailers\nSoft drink (i.e., bottled) retailers\nDairy product retailers\nSpice retailers\nGourmet food retailers\nWater (i.e., bottled) retailers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4453": {
+          "title": "Beer, Wine, and Liquor Retailers",
+          "desc": "NULL",
+          "childNodes": {
+            "44532": {
+              "title": "Beer, Wine, and Liquor Retailers",
+              "desc": "See industry description for 445320.",
+              "childNodes": {
+                "445320": {
+                  "title": "Beer, Wine, and Liquor Retailers",
+                  "desc": "This industry comprises establishments primarily engaged in retailing packaged alcoholic beverages, such as ale, beer, wine, and liquor.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "449": {
+      "title": "Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+      "desc": "Industries in the Furniture, Home Furnishings, Electronics, and Appliance Retailers subsector retail new furniture, home furnishings, electronics, and appliances.  Establishments in this subsector with fixed point-of-sale locations may operate from showrooms or other locations that have substantial areas for the presentation or demonstration of their products.  Establishments in this subsector may provide incidental services, including interior decorating, product assembly, installation, or repair services.\n",
+      "childNodes": {
+        "4491": {
+          "title": "Furniture and Home Furnishings Retailers",
+          "desc": "This industry group comprises establishments primarily engaged in retailing new furniture and home furnishings.  Establishments in this industry group with fixed point-of-sale locations may operate from showrooms and have substantial areas for the presentation of their products.  Establishments in this industry group may provide incidental services, including interior decorating, product assembly, installation, or repair services.\n",
+          "childNodes": {
+            "44911": {
+              "title": "Furniture Retailers",
+              "desc": "See industry description for 449110.",
+              "childNodes": {
+                "449110": {
+                  "title": "Furniture Retailers",
+                  "desc": "This industry comprises establishments primarily engaged in retailing new furniture, such as household furniture (e.g., baby furniture, box springs, and mattresses) and outdoor furniture; office furniture (except sold in combination with office supplies and equipment); and/or furniture sold in combination with major appliances, home electronics, home furnishings, or floor coverings.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "44912": {
+              "title": "Home Furnishings Retailers",
+              "desc": "This industry comprises establishments primarily engaged in retailing new home furnishings (except furniture).\n\nIllustrative Examples:\n\nBath shops\nChinaware retailers\nFloor covering retailers (except hardwood or ceramic tile only)\nGlassware retailers\nKitchenware retailers\nWindow treatment retailers\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "449121": {
+                  "title": "Floor Covering Retailers",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in retailing new floor coverings, such as rugs and carpets, laminate and vinyl floor coverings, linoleum flooring, and floor tile (except ceramic tile or hardwood floor coverings only); or retailing new floor coverings in combination with installation and repair services.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "449122": {
+                  "title": "Window Treatment Retailers",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in retailing new window treatments, such as curtains, drapes, blinds, and shades.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "449129": {
+                  "title": "All Other Home Furnishings Retailers",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in retailing new home furnishings (except furniture, floor coverings, and window treatments).\n\nIllustrative Examples:\n\nBath shops\nKitchenware retailers\nChinaware retailers\nLinen retailers\nElectric lamp retailers\nPicture frame retailers, custom\nGlassware retailers\nWood-burning stove retailers\nHousewares retailers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4492": {
+          "title": "Electronics and Appliance Retailers",
+          "desc": "NULL",
+          "childNodes": {
+            "44921": {
+              "title": "Electronics and Appliance Retailers",
+              "desc": "See industry description for 449210.",
+              "childNodes": {
+                "449210": {
+                  "title": "Electronics and Appliance Retailers",
+                  "desc": "This industry comprises establishments primarily engaged in one of the following: (1) retailing an array of new household-type appliances and consumer-type electronic products, such as televisions, computers, electronic tablets, and cameras; (2) specializing in retailing a single line of new consumer-type electronic products; (3) retailing these new products in combination with repair and support services; (4) retailing new prepackaged or downloadable computer software (without publishing); and/or (5) retailing prerecorded audio and video media, such as downloadable digital music and video files (without production or publishing), CDs, and DVDs.\n\nIllustrative Examples:\n\nAppliance retailers, household-type\nConsumer-type electronics retailers (e.g., televisions, computers, cameras)\nCellular telephone accessories retailers\nStereo and sound system retailers (except automotive) \n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
