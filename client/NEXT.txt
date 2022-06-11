@@ -1,22 +1,15 @@
 /** WEB DESIGN **//** WEB DESIGN **//** WEB DESIGN **//** WEB DESIGN **//** WEB DESIGN **//** WEB DESIGN **//** WEB DESIGN **//** WEB DESIGN **/
 1. Create Wireframes: 
-  - Developer (Main Section)
-  - Business (Main Section) To signup
-  - Home (Tie Loose Ends)
   - About
   - Contact
-  - Blogs
 2. Create wireframes for Dashboards
 3. Create Universal Fonts and Colors 
 
 
 
 /** STYLING **//** STYLING **//** STYLING **//** STYLING **//** STYLING **//** STYLING **//** STYLING **//** STYLING **//** STYLING **//** STYLING **/
-1. Convert Project to Styled Components (ONE MORE COMPONENT)
-2. Convert Animation to Styled Components
-3. Integrate smooth scrolling
-4. Fix scrollbars
-5. Responsive resizing for all components
+1. Integrate smooth scrolling
+2. Responsive resizing for all components
 
 
 
