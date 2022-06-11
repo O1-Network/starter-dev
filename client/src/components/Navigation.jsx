@@ -7,8 +7,8 @@ import {
 
 const Navigation = () => {
     return (
-        <NavStyle>
-            <NavContainer>
+        <NavStyle >
+            <NavContainer className="nav">
                 <NavLinkBrand to="/" className="brand-name">Starter</NavLinkBrand>
                 <NavLink to='/login' className="nav-button">Login</NavLink>
                 <NavLink to='/signup' className="nav-button">Signup</NavLink>

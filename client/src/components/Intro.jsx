@@ -1,33 +1,41 @@
 import { useEffect, useState } from 'react';
-import './Intro.css';
-
+import { useState } from 'react';
 import {
   IntroContainer,
   ValueText,
   BenefitsList,
   BenefitsHeader,
   ListItem,
+  ImageContainer 
 } from './IntroStyles';
 
 const Intro = () => {
-  const Images=[
-  "image1-start","image1-middle","image1-middle","image1-middle","image1-middle","image1-middle","image1-middle","image1-middle","image1-end",
-  "image2-start","image2-middle","image2-middle","image2-middle","image2-middle","image2-middle","image2-middle","image2-middle","image2-end",
-  "image3-start","image3-middle","image3-middle","image3-middle","image3-middle","image3-middle","image3-middle","image3-middle","image3-end",
-  "image4-start","image4-middle","image4-middle","image4-middle","image4-middle","image4-middle","image4-middle","image4-middle","image4-end",
-  "image5-start","image5-middle","image5-middle","image5-middle","image5-middle","image5-middle","image5-middle","image5-middle","image5-end",
-  "image6-start","image6-middle","image6-middle","image6-middle","image6-middle","image6-middle","image6-middle","image6-middle","image6-end"
-  ]
-  const [currentImage, setImage]=useState(0);
-
-  useEffect(()=>{
-    setInterval(()=>{setImage(old => old + 1)},300);
-  },[]);
+  const [scrollVal,setScroll]=useState(0);
+  let lastKnownScrollPosition = 0;
+  let ticking = false;
+  
+  document.addEventListener('scroll', function(e) {
+    lastKnownScrollPosition = window.scrollY;
+  
+    if (!ticking) {
+      window.requestAnimationFrame(function() {
+        doSomething(lastKnownScrollPosition);
+        ticking = false;
+      });
+  
+      ticking = true;
+    }
+  });
+  
+  function doSomething(scrollPos) {
+    // Do something with the scroll position
+    setScroll(-scrollPos);
+ 
+  }
 
   return (
-    <IntroContainer>
-      {console.log(currentImage)}
-      <div className={[ "intro-background", Images[currentImage % (Images.length)]].join(' ')} >
+    <IntroContainer scroll={scrollVal}>
+       
         <ValueText>If your business is selected, our team of developers will build you a digital tool that takes your business to the next level.
         </ValueText>
       
@@ -39,8 +47,9 @@ const Intro = () => {
           <ListItem>Meet your Needs (Need Image)</ListItem>
           <ListItem>Gain an Advantage (Need Image)</ListItem>
         </BenefitsList>
-      </div>
+
    </IntroContainer>
+
   );
 }
 
