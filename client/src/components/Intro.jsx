@@ -1,6 +1,5 @@
 
 import './Intro.css';
-
 import {
   IntroContainer,
   ValueText,
@@ -8,13 +7,32 @@ import {
   BenefitsHeader,
   ListItem,ImageContainer 
 } from './IntroStyles';
-
+import { useState } from 'react';
 const Intro = () => {
 
+
+const [scrollVal,setScroll]=useState(0);
+{/*make responsive to scrolling*/ }
+let ticking = false;
+document.addEventListener('scroll', function(e) {
+lastKnownScrollPosition = window.scrollY;
+if (!ticking) {
+window.requestAnimationFrame(function() {
+doSomething(lastKnownScrollPosition);
+ticking = false;
+});
+ticking = true;
+}
+});
+function doSomething(scrollPos) {
+setScroll(-scrollPos/5);
+}
+  
+
   return (
-    <IntroContainer>
+    <IntroContainer scroll={scrollVal}>
     
-      <ImageContainer >
+      <ImageContainer  >
        
         <ValueText>If your business is selected, our team of developers will build you a digital tool that takes your business to the next level.
         </ValueText>
