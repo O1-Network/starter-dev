@@ -33,9 +33,7 @@ const Intro = () => {
   
   function doSomething(scrollPos) {
     // Do something with the scroll position
-    setScroll(scrollPos);
-  
-  
+    setScroll(-scrollPos);
   
   
   }
@@ -47,7 +45,7 @@ const Intro = () => {
   return (
     <IntroContainer scroll={scrollVal}>
     
-      <ImageContainer  >
+  
        
         <ValueText>If your business is selected, our team of developers will build you a digital tool that takes your business to the next level.
         </ValueText>
@@ -60,7 +58,7 @@ const Intro = () => {
           <ListItem>Meet your Needs (Need Image)</ListItem>
           <ListItem>Gain an Advantage (Need Image)</ListItem>
         </BenefitsList>
-      </ImageContainer >
+
    </IntroContainer>
   );
 }

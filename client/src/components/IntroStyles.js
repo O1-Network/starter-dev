@@ -39,16 +39,17 @@ const breatheAnimation = keyframes`
 
 export const IntroContainer = styled.div`
 height: auto;
-background-color: #031927;
-display: flex;
-flex-direction: row;
-justify-content: flex-start;
 animation-name: ${breatheAnimation};
-animation-duration: 20s;
+animation-duration: 40s;
 animation-iteration-count: infinite;
 background-repeat: no-repeat;
 background-size:cover;
 background-position: 0px ${props => props.scroll }px;
+display:flex;
+align-items:center;
+justify:content:center;
+min-height: 45vh;
+z-index:0;
 `;
 
 
@@ -63,10 +64,12 @@ export const BenefitsList = styled.ul`
   font-size: 1.2rem;
   font-size: 100;
   letter-spacing: .2rem;
+   width:70%;
+   flex:70%;
 `;
 
 export const ValueText = styled.p` 
-  width: 100%;
+  width: 50%;
   font-family: 'Julius Sans One';
   font-size: 36px;
   letter-spacing: 0.3rem;
@@ -74,7 +77,8 @@ export const ValueText = styled.p`
   text-align: center;
   color: #ffffff;
   text-shadow: -1px -1px 10px #C9F0FF, 2px 2px 10px #000000;
-  margin-left: 30%;
+  margin-left: 10%;
+  flex:50%;
 `; 
 
 export const BenefitsHeader = styled.h1`
@@ -114,5 +118,7 @@ display: grid;
 grid-template-columns: repeat(2, 1fr);
 min-height: 45vh;
 z-index:0;
+
 place-items: center;
+
 `;
