@@ -1,5 +1,6 @@
 
 import './Intro.css';
+
 import {
   IntroContainer,
   ValueText,
@@ -11,23 +12,37 @@ import { useState } from 'react';
 const Intro = () => {
 
 
-const [scrollVal,setScroll]=useState(0);
-{/*make responsive to scrolling*/ }
-let ticking = false;
-document.addEventListener('scroll', function(e) {
-lastKnownScrollPosition = window.scrollY;
-if (!ticking) {
-window.requestAnimationFrame(function() {
-doSomething(lastKnownScrollPosition);
-ticking = false;
-});
-ticking = true;
-}
-});
-function doSomething(scrollPos) {
-setScroll(-scrollPos/5);
-}
+  const [scrollVal,setScroll]=useState(0);
+  let lastKnownScrollPosition = 0;
+  let ticking = false;
   
+  
+  
+  document.addEventListener('scroll', function(e) {
+    lastKnownScrollPosition = window.scrollY;
+  
+    if (!ticking) {
+      window.requestAnimationFrame(function() {
+        doSomething(lastKnownScrollPosition);
+        ticking = false;
+      });
+  
+      ticking = true;
+    }
+  });
+  
+  function doSomething(scrollPos) {
+    // Do something with the scroll position
+    setScroll(scrollPos);
+  
+  
+  
+  
+  }
+  
+
+
+
 
   return (
     <IntroContainer scroll={scrollVal}>
