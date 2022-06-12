@@ -5,30 +5,23 @@ import {
   ValueText,
   BenefitsList,
   BenefitsHeader,
-  ListItem,ImageContainer 
+  ListItem,IntroBackground
 } from './IntroStyles';
 import { useState } from 'react';
 const Intro = () => {
-
-
-  const [scrollVal,setScroll]=useState(0);
-  let lastKnownScrollPosition = 0;
-  let ticking = false;
-  
-  
-  
-  document.addEventListener('scroll', function(e) {
-    lastKnownScrollPosition = window.scrollY;
-  
-    if (!ticking) {
-      window.requestAnimationFrame(function() {
-        doSomething(lastKnownScrollPosition);
-        ticking = false;
-      });
-  
-      ticking = true;
-    }
-  });
+const [scrollVal,setScroll]=useState(0);
+let lastKnownScrollPosition = 0;
+let ticking = false;
+document.addEventListener('scroll', function(e) {
+lastKnownScrollPosition = window.scrollY;
+if (!ticking) {
+window.requestAnimationFrame(function() {
+doSomething(lastKnownScrollPosition);
+ticking = false;
+});
+ticking = true;
+}
+});
   
   function doSomething(scrollPos) {
     // Do something with the scroll position
@@ -42,8 +35,8 @@ const Intro = () => {
 
 
   return (
-    <IntroContainer scroll={scrollVal}>
-    
+    <IntroContainer >
+     <IntroBackground scroll={scrollVal}/>
   
        
         <ValueText>If your business is selected, our team of developers will build you a digital tool that takes your business to the next level.

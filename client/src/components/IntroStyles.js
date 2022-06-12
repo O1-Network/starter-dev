@@ -1,16 +1,13 @@
 
 import styled,{ keyframes } from 'styled-components';
+import image1 from '../images/intro_images/1.jpg'
+import image2 from '../images/intro_images/2.jpg'
+import image3 from '../images/intro_images/3.jpg'
+import image4 from '../images/intro_images/4.jpg'
+import image5 from '../images/intro_images/5.jpg'
+import image6 from '../images/intro_images/6.jpg'
 
-
-const imageList = [
-  "https://i.ibb.co/z2gpHwL/tech-Pic-9.jpg",
-  "https://i.ibb.co/MfVqXPW/tech-Pic-8.jpg",
-  "https://i.ibb.co/6FhNqNv/tech-Pic-3.jpg",
-  "https://i.ibb.co/pfj9H4J/tech-Pic-7.jpg",
-  "https://i.ibb.co/W2LPGMq/tech-Pic-5.webp",
-  "https://i.ibb.co/L6BC5GR/tech-Pic-6.jpg",
-
-]
+const imageList = [image1,image2,image3,image4,image5,image6]
 
 
 // let keyFrames = "";
@@ -35,23 +32,32 @@ const breatheAnimation = keyframes`
 100% {background-image :url(${imageList[0]})}     
 `
 
-
-
 export const IntroContainer = styled.div`
 height: auto;
-animation-name: ${breatheAnimation};
-animation-duration: 40s;
-animation-iteration-count: infinite;
-background-repeat: no-repeat;
-background-size:cover;
-background-position: 0px ${props => props.scroll }px;
+
+
 display:flex;
 align-items:center;
 justify:content:center;
 min-height: 45vh;
-z-index:0;
+z-index:-1;
+position: relative;
 `;
+export const IntroBackground =styled.div`
+position: absolute;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+animation-name: ${breatheAnimation};
+animation-duration: 30s;
 
+background-repeat: no-repeat;
+background-size:cover;
+background-position: ${0}px ${props => props.scroll }px;
+z-index: -2;
+
+`
 
 
 
@@ -69,6 +75,7 @@ export const BenefitsList = styled.ul`
 `;
 
 export const ValueText = styled.p` 
+filter: brightness(100%)  blur(0px);
   width: 50%;
   font-family: 'Julius Sans One';
   font-size: 36px;
@@ -111,14 +118,3 @@ export const BenefitsHeader = styled.h1`
 
 ///link1:
 
-export const ImageContainer = styled.div`
-margin: 0 10% 0 10%;
-width: 90%;
-display: grid;
-grid-template-columns: repeat(2, 1fr);
-min-height: 45vh;
-z-index:0;
-
-place-items: center;
-
-`;
