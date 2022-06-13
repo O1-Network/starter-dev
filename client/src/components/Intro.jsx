@@ -1,43 +1,38 @@
-
-
 import {
   IntroContainer,
   ValueText,
   BenefitsList,
   BenefitsHeader,
-  ListItem,IntroBackground
+  ListItem
 } from './IntroStyles';
 import { useState } from 'react';
+
 const Intro = () => {
-const [scrollVal,setScroll]=useState(0);
-let lastKnownScrollPosition = 0;
-let ticking = false;
-document.addEventListener('scroll', function(e) {
-lastKnownScrollPosition = window.scrollY;
-if (!ticking) {
-window.requestAnimationFrame(function() {
-doSomething(lastKnownScrollPosition);
-ticking = false;
-});
-ticking = true;
-}
-});
+  const [scrollVal,setScroll]=useState(0);
+  let lastKnownScrollPosition = 0;
+  let ticking = false;
+  
+  document.addEventListener('scroll', function(e) {
+    lastKnownScrollPosition = window.scrollY;
+  
+    if (!ticking) {
+      window.requestAnimationFrame(function() {
+        doSomething(lastKnownScrollPosition);
+        ticking = false;
+      });
+  
+      ticking = true;
+    }
+  });
   
   function doSomething(scrollPos) {
     // Do something with the scroll position
     setScroll(-scrollPos);
-  
-  
+ 
   }
-  
-
-
-
 
   return (
-    <IntroContainer >
-     <IntroBackground scroll={scrollVal}/>
-  
+    <IntroContainer scroll={scrollVal}>
        
         <ValueText>If your business is selected, our team of developers will build you a digital tool that takes your business to the next level.
         </ValueText>
@@ -52,6 +47,7 @@ ticking = true;
         </BenefitsList>
 
    </IntroContainer>
+
   );
 }
 

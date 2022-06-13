@@ -9,7 +9,6 @@ import image6 from '../images/intro_images/6.jpg'
 
 const imageList = [image1,image2,image3,image4,image5,image6]
 
-
 // let keyFrames = "";
 // let percentageIncrement = 100 / imageList.length;
 // for(let i = 0; i < imageList.length;i++){
@@ -19,7 +18,6 @@ const imageList = [image1,image2,image3,image4,image5,image6]
 //         keyFrames += `${(i + 2) * percentageIncrement}%{background-image: url(${imageList[i + 2]});}`;
 //     }
 // }
-
 
 const breatheAnimation = keyframes`
 0% { background-image : url(${imageList[0]})}  
@@ -31,34 +29,21 @@ const breatheAnimation = keyframes`
 94% {background-image :url(${imageList[5]})}     
 100% {background-image :url(${imageList[0]})}     
 `
-
 export const IntroContainer = styled.div`
 height: auto;
-
-
 display:flex;
 align-items:center;
 justify:content:center;
 min-height: 45vh;
-z-index:-1;
-position: relative;
-`;
-export const IntroBackground =styled.div`
-position: absolute;
-top: 0;
-left: 0;
-right: 0;
-bottom: 0;
 animation-name: ${breatheAnimation};
-animation-duration: 30s;
-
+animation-iteration-count: infinite;
+animation-duration: 20s;
 background-repeat: no-repeat;
+
 background-size:cover;
-background-position: ${0}px ${props => props.scroll }px;
-z-index: -2;
-
-`
-
+background-position: 0px ${props=>props.scroll}px;
+z-index: -1;
+`;
 
 
 
@@ -75,7 +60,7 @@ export const BenefitsList = styled.ul`
 `;
 
 export const ValueText = styled.p` 
-filter: brightness(100%)  blur(0px);
+
   width: 50%;
   font-family: 'Julius Sans One';
   font-size: 36px;
