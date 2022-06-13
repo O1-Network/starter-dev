@@ -12,6 +12,7 @@ export const NavStyle = styled.nav`
 `;
 
 export const NavContainer = styled.div`
+
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -19,6 +20,7 @@ export const NavContainer = styled.div`
 `;
 
 export const NavLinkBrand = styled(Link)`
+
     flex-grow: 1;
     margin-right: 1rem;
     font-family: 'Inter';
@@ -31,6 +33,7 @@ export const NavLinkBrand = styled(Link)`
 `;
 
 export const NavLink = styled(Link)`
+
     margin-right: 1rem;
     width: 110px;
     height: 30px;
