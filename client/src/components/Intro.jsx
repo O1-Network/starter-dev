@@ -10,6 +10,7 @@ import {
 
 const Intro = () => {
   const [scrollVal,setScroll]=useState(0);
+  const [valueScroll,setValueScroll]=useState(0);
   let lastKnownScrollPosition = 0;
   let ticking = false;
   
@@ -29,23 +30,29 @@ const Intro = () => {
   function doSomething(scrollPos) {
     // Do something with the scroll position
     setScroll(-scrollPos);
- 
+    setValueScroll(-scrollPos*3);
   }
 
   return (
     <IntroContainer scroll={scrollVal}>
-       
-        <ValueText>If your business is selected, our team of developers will build you a digital tool that takes your business to the next level.
+
+        <ValueText scroll={valueScroll}>
+          <div></div>
+          <div>If your business is selected, our team of developers will build you a digital tool that takes your business to the next level.</div>
+          <div></div>
         </ValueText>
-      
-        <BenefitsList>
-          <BenefitsHeader>BENEFITS</BenefitsHeader> 
-          <ListItem>Open-Source Engineers</ListItem> 
-          <ListItem>Partner with a Nonprofit</ListItem>
-          <ListItem>Custom Tools (Need Image)</ListItem>
-          <ListItem>Meet your Needs (Need Image)</ListItem>
-          <ListItem>Gain an Advantage (Need Image)</ListItem>
+
+    
+        <BenefitsList >
+          <BenefitsHeader >BENEFITS</BenefitsHeader> 
+          <ListItem >Open-Source Engineers</ListItem> 
+          <ListItem >Partner with a Nonprofit</ListItem>
+          <ListItem >Custom Tools (Need Image)</ListItem>
+          <ListItem >Meet your Needs (Need Image)</ListItem>
+          <ListItem >Gain an Advantage (Need Image)</ListItem>
+           
         </BenefitsList>
+        
 
    </IntroContainer>
 

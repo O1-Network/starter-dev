@@ -1,16 +1,12 @@
 import styled,{ keyframes } from 'styled-components';
+import image1 from '../images/intro_images/1.jpg'
+import image2 from '../images/intro_images/2.jpg'
+import image3 from '../images/intro_images/3.jpg'
+import image4 from '../images/intro_images/4.jpg'
+import image5 from '../images/intro_images/5.jpg'
+import image6 from '../images/intro_images/6.jpg'
 
-
-const imageList = [
-  "https://i.ibb.co/z2gpHwL/tech-Pic-9.jpg",
-  "https://i.ibb.co/MfVqXPW/tech-Pic-8.jpg",
-  "https://i.ibb.co/6FhNqNv/tech-Pic-3.jpg",
-  "https://i.ibb.co/pfj9H4J/tech-Pic-7.jpg",
-  "https://i.ibb.co/W2LPGMq/tech-Pic-5.webp",
-  "https://i.ibb.co/L6BC5GR/tech-Pic-6.jpg",
-
-]
-
+const imageList = [image1,image2,image3,image4,image5,image6]
 
 // let keyFrames = "";
 // let percentageIncrement = 100 / imageList.length;
@@ -22,7 +18,6 @@ const imageList = [
 //     }
 // }
 
-
 const breatheAnimation = keyframes`
 0% { background-image : url(${imageList[0]})}  
 4% { background-image: url(${imageList[0]})}  
@@ -33,29 +28,26 @@ const breatheAnimation = keyframes`
 94% {background-image :url(${imageList[5]})}     
 100% {background-image :url(${imageList[0]})}     
 `
-
-
-
 export const IntroContainer = styled.div`
 height: auto;
-animation-name: ${breatheAnimation};
-animation-duration: 40s;
-animation-iteration-count: infinite;
-background-repeat: no-repeat;
-background-size:cover;
-background-position: 0px ${props => props.scroll }px;
 display:flex;
 align-items:center;
-justify:content:center;
-min-height: 45vh;
-z-index:0;
+justify-content:center;
+height: fit-content;
+
+animation-name: ${breatheAnimation};
+animation-iteration-count: infinite;
+animation-duration: 20s;
+background-repeat: no-repeat;
+background-size:cover;
+background-position: 0px ${props=>props.scroll}px;
+z-index: -1;
 `;
 
 
-
-
-
+/*need styling */
 export const BenefitsList = styled.ul`
+
   padding: 50px;
   color: #C9F0FF;
   list-style-type: circle;
@@ -63,21 +55,33 @@ export const BenefitsList = styled.ul`
   font-size: 1.2rem;
   font-size: 100;
   letter-spacing: .2rem;
-   width:70%;
-   flex:70%;
-`;
+  width:70%;
+  line-height:2rem;
+  background-color: rgba(25,25,25, .8);
+  padding:100px;
+  height:100%;
 
+  
+`;
+/*need styling */
 export const ValueText = styled.p` 
-  width: 50%;
-  font-family: 'Julius Sans One';
-  font-size: 36px;
-  letter-spacing: 0.3rem;
-  line-height: 3.5rem;
-  text-align: center;
-  color: #ffffff;
-  text-shadow: -1px -1px 10px #C9F0FF, 2px 2px 10px #000000;
-  margin-left: 10%;
-  flex:50%;
+display:flex;
+flex-flow:column;
+justify-content:center;
+padding: 50px;
+color: #C9F0FF;
+list-style-type: circle;
+margin: 20px 0 0 150px;
+font-size: 1.2rem;
+font-size: 100;
+letter-spacing: .2rem;
+background-color: rgba(79, 11, 11, .8);
+height:100%;
+margin-top: ${props=>props.scroll}px;
+border-radius:10px;
+line-height:2em;
+font-size:1.25em;
+
 `; 
 
 export const BenefitsHeader = styled.h1`
@@ -85,7 +89,7 @@ export const BenefitsHeader = styled.h1`
 `;
 
  export const ListItem = styled.li`
-  padding: 20px; 
+
 `;
 
 /*
@@ -111,14 +115,3 @@ export const BenefitsHeader = styled.h1`
 
 ///link1:
 
-export const ImageContainer = styled.div`
-margin: 0 10% 0 10%;
-width: 90%;
-display: grid;
-grid-template-columns: repeat(2, 1fr);
-min-height: 45vh;
-z-index:0;
-
-place-items: center;
-
-`;
