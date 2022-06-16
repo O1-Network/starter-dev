@@ -33,21 +33,22 @@ export const IntroContainer = styled.div`
 height: auto;
 display:flex;
 align-items:center;
-justify:content:center;
-min-height: 45vh;
+justify-content:center;
+height: fit-content;
+
 animation-name: ${breatheAnimation};
 animation-iteration-count: infinite;
 animation-duration: 20s;
 background-repeat: no-repeat;
-
 background-size:cover;
 background-position: 0px ${props=>props.scroll}px;
 z-index: -1;
 `;
 
 
-
+/*need styling */
 export const BenefitsList = styled.ul`
+
   padding: 50px;
   color: #C9F0FF;
   list-style-type: circle;
@@ -55,22 +56,33 @@ export const BenefitsList = styled.ul`
   font-size: 1.2rem;
   font-size: 100;
   letter-spacing: .2rem;
-   width:70%;
-   flex:70%;
+  width:70%;
+  line-height:2rem;
+  background-color: rgba(25,25,25, .8);
+  padding:100px;
+  height:100%;
+
+  
 `;
-
+/*need styling */
 export const ValueText = styled.p` 
+display:flex;
+flex-flow:column;
+justify-content:center;
+padding: 50px;
+color: #C9F0FF;
+list-style-type: circle;
+margin: 20px 0 0 150px;
+font-size: 1.2rem;
+font-size: 100;
+letter-spacing: .2rem;
+background-color: rgba(79, 11, 11, .8);
+height:100%;
+margin-top: ${props=>props.scroll}px;
+border-radius:10px;
+line-height:2em;
+font-size:1.25em;
 
-  width: 50%;
-  font-family: 'Julius Sans One';
-  font-size: 36px;
-  letter-spacing: 0.3rem;
-  line-height: 3.5rem;
-  text-align: center;
-  color: #ffffff;
-  text-shadow: -1px -1px 10px #C9F0FF, 2px 2px 10px #000000;
-  margin-left: 10%;
-  flex:50%;
 `; 
 
 export const BenefitsHeader = styled.h1`
@@ -78,8 +90,11 @@ export const BenefitsHeader = styled.h1`
 `;
 
  export const ListItem = styled.li`
-  padding: 20px; 
+
 `;
+
+
+
 /*
 <a href="https://ibb.co/2PRjNbh"><img src="https://i.ibb.co/L6BC5GR/tech-Pic-6.jpg" alt="tech-Pic-6" border="0"></a>
 <a href="https://ibb.co/TgsbY7p"><img src="https://i.ibb.co/W2LPGMq/tech-Pic-5.webp" alt="tech-Pic-5" border="0"></a>
