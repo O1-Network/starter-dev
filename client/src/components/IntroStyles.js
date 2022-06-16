@@ -1,4 +1,3 @@
-
 import styled,{ keyframes } from 'styled-components';
 import image1 from '../images/intro_images/1.jpg'
 import image2 from '../images/intro_images/2.jpg'
@@ -92,8 +91,6 @@ export const BenefitsHeader = styled.h1`
  export const ListItem = styled.li`
 
 `;
-
-
 
 /*
 <a href="https://ibb.co/2PRjNbh"><img src="https://i.ibb.co/L6BC5GR/tech-Pic-6.jpg" alt="tech-Pic-6" border="0"></a>

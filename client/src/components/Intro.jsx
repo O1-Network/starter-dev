@@ -1,11 +1,12 @@
+import { useState } from 'react';
 import {
   IntroContainer,
   ValueText,
   BenefitsList,
   BenefitsHeader,
   ListItem,
+  ImageContainer 
 } from './IntroStyles';
-import { useState } from 'react';
 
 const Intro = () => {
   const [scrollVal,setScroll]=useState(0);

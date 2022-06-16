@@ -1,0 +1,397 @@
+{
+  "title": "InformationT",
+  "desc": "The Sector as a Whole\n\nThe Information sector comprises establishments engaged in the following processes: (a) producing and distributing information and cultural products, (b) providing the means to transmit or distribute these products as well as data or communications, and (c) processing data.\n\nThe main components of this sector are motion picture and sound recording industries; publishing industries, including software publishing; broadcasting and content providers; telecommunications industries; computing infrastructure providers, data processing, Web hosting, and related services; and Web search portals, libraries, archives, and other information services.\n\nThe unique characteristics of information and cultural products, and of the processes involved in their production and distribution, distinguish the Information sector from the goods-producing and service-producing sectors.  Some of these characteristics are:\n\n1. Unlike traditional goods, an ''information or cultural product,'' such as an online newspaper or a television program, does not necessarily have tangible qualities, nor is it necessarily associated with a particular form.  A movie can be viewed at a movie theater or through television broadcast, video-on-demand, or streaming services.  A sound recording can be aired on radio, embedded in multimedia products, streamed, or sold at a record store.\n\n2. Unlike traditional services, the delivery of these products does not require direct contact between the supplier and the consumer.\n\n3. The value of these products to the consumer lies in their informational, educational, cultural, or entertainment content, not in the format in which they are distributed.  Most of these products are protected from unlawful reproduction by copyright laws. \n\n4. The intangible property aspect of information and cultural products makes the processes involved in their production and distribution very different from goods and services.  Only those possessing the rights to these works are authorized to reproduce, alter, improve, and distribute them.  Acquiring and using these rights often involves significant costs.  In addition, technology has revolutionized the distribution of these products.  It is possible to distribute them in a physical form, via broadcast, or online.\n\n5. Distributors of information and cultural products can easily add value to the products they distribute.  For instance, broadcasters add advertising not contained in the original product.  This capacity means that unlike traditional goods distributors, they derive revenue not from sale of the distributed product to the final consumer, but from those who pay for the privilege of adding information to the original product.  Similarly, a directory and mailing list publisher can acquire the rights to thousands of previously published newspaper and periodical articles and add new value by providing search and software and organizing the information in a way that facilitates research and retrieval.  These products often command a much higher price than the original information.\n\nExcluded from this sector are establishments primarily engaged in custom design of software; mass reproducing software or other prerecorded audio and video material on magnetic or optical media; producing live artistic and cultural works or productions; and performing in or creating artistic and cultural works or productions as independent (i.e., freelance) individuals.\n",
+  "childNodes": {
+    "512": {
+      "title": "Motion Picture and Sound Recording IndustriesT",
+      "desc": "Industries in the Motion Picture and Sound Recording Industries subsector group establishments involved in the production and distribution of motion pictures and sound recordings.  While producers and distributors of motion pictures and sound recordings issue works for sale as traditional publishers do, the processes are sufficiently different to warrant placing establishments engaged in these activities in a separate subsector.  Production is typically a complex process that involves several distinct types of establishments that are engaged in activities, such as contracting with performers, creating the film or sound content, and providing technical postproduction services.  Film distribution is often to exhibitors, such as theaters and broadcasters, rather than through the wholesale and retail distribution chain.  When the product is in a mass-produced form, NAICS treats production and distribution as the major economic activity as it does in the Publishing Industries subsector, rather than as a subsidiary activity to the manufacture of such products.\n\nThis subsector does not include establishments primarily engaged in the wholesale distribution of video and sound recordings, such as compact discs and audio tapes; these establishments are included in the Wholesale Trade sector.  Reproduction of video and sound recordings that is carried out separately from establishments engaged in production and distribution is treated in NAICS as a manufacturing activity.  Establishments that primarily acquire the rights to distribute video and sound recordings to the public via television or radio broadcast or streaming distribution services are classified in Subsector 516, Broadcasting and Content Providers.  Establishments using facilities and infrastructure that they operate to distribute cable and satellite television subscription programming are included in Subsector 517, Telecommunications.\n",
+      "childNodes": {
+        "5121": {
+          "title": "Motion Picture and Video IndustriesT",
+          "desc": "This industry group comprises establishments primarily engaged in the production and/or distribution of motion pictures, videos, television programs, or commercials; in the exhibition of motion pictures; or in the provision of postproduction and related services.\n",
+          "childNodes": {
+            "51211": {
+              "title": "Motion Picture and Video ProductionT",
+              "desc": "See industry description for 512110.",
+              "childNodes": {
+                "512110": {
+                  "title": "Motion Picture and Video Production",
+                  "desc": "This industry comprises establishments primarily engaged in producing, or producing and distributing motion pictures, videos, television programs, or television commercials.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "51212": {
+              "title": "Motion Picture and Video DistributionT",
+              "desc": "See industry description for 512120.",
+              "childNodes": {
+                "512120": {
+                  "title": "Motion Picture and Video Distribution",
+                  "desc": "This industry comprises establishments primarily engaged in acquiring distribution rights and distributing film and video productions to motion picture theaters, television networks and stations, other media broadcast and streaming outlets, and exhibitors.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "51213": {
+              "title": "Motion Picture and Video ExhibitionT",
+              "desc": "This industry comprises establishments primarily engaged in operating motion picture theaters and/or exhibiting motion pictures or videos at film festivals, and so forth.\n",
+              "childNodes": {
+                "512131": {
+                  "title": "Motion Picture Theaters (except Drive-Ins)",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in operating motion picture theaters (except drive-ins) and/or exhibiting motion pictures or videos at film festivals, and so forth.\n",
+                  "childNodes": {}
+                },
+                "512132": {
+                  "title": "Drive-In Motion Picture Theaters",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in operating drive-in motion picture theaters.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "51219": {
+              "title": "Postproduction Services and Other Motion Picture and Video IndustriesT",
+              "desc": "This industry comprises establishments primarily engaged in providing postproduction services and other services to the motion picture industry, including specialized motion picture or video postproduction services, such as editing, film/tape transfers, titling, subtitling, credits, closed captioning, and computer-produced graphics, animation and special effects, as well as developing and processing motion picture film.\n\nIllustrative Examples:\n\nMotion picture film laboratories\nStock footage film libraries\nPostproduction facilities\nTeleproduction services \n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "512191": {
+                  "title": "Teleproduction and Other Postproduction Services",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing specialized motion picture or video postproduction services, such as editing, film/tape transfers, subtitling, credits, closed captioning, and animation and special effects.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "512199": {
+                  "title": "Other Motion Picture and Video Industries",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing motion picture and video services (except motion picture and video production, distribution, exhibition, and teleproduction and other postproduction services).\n\nIllustrative Examples:\n\nMotion picture film laboratories\nStock footage film libraries\nFilm preservation services\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "5122": {
+          "title": "Sound Recording IndustriesT",
+          "desc": "This industry group comprises establishments primarily engaged in producing and distributing musical recordings, publishing music, or providing sound recording and related services.\n",
+          "childNodes": {
+            "51223": {
+              "title": "Music PublishersT",
+              "desc": "See industry description for 512230.",
+              "childNodes": {
+                "512230": {
+                  "title": "Music Publishers",
+                  "desc": "This industry comprises establishments primarily engaged in acquiring and registering copyrights for musical compositions in accordance with law and promoting and authorizing the use of these compositions in recordings, radio, television, motion pictures, live performances, print, or other media.  Establishments in this industry represent the interests of the songwriter or other owners of musical compositions to produce revenues from the use of such works, generally through licensing agreements.  These establishments may own the copyright or act as administrator of the music copyrights on behalf of copyright owners.  Publishers of music books and sheet music are included in this industry.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "51224": {
+              "title": "Sound Recording StudiosT",
+              "desc": "See industry description for 512240.",
+              "childNodes": {
+                "512240": {
+                  "title": "Sound Recording Studios",
+                  "desc": "This industry comprises establishments primarily engaged in providing the facilities and technical expertise for sound recording in a studio.  This industry includes establishments that provide audio production and postproduction services to produce master recordings.  These establishments may provide audio services for film, television, and video productions.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "51225": {
+              "title": "Record Production and DistributionT",
+              "desc": "See industry description for 512250.",
+              "childNodes": {
+                "512250": {
+                  "title": "Record Production and Distribution",
+                  "desc": "This industry comprises establishments primarily engaged in record production and/or releasing, promoting, and distributing sound recordings to wholesalers, retailers, or directly to the public.  These establishments contract with artists, arrange and finance the production of original master recordings, and/or produce master recordings themselves, such as digital music and compact discs.  Establishments in this industry hold the copyright to the master recording, or obtain reproduction and distribution rights to master recordings produced by others, and derive most of their revenues from the sales, leasing, licensing, or distribution of master recordings.  \n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "51229": {
+              "title": "Other Sound Recording IndustriesT",
+              "desc": "See industry description for 512290.",
+              "childNodes": {
+                "512290": {
+                  "title": "Other Sound Recording Industries",
+                  "desc": "This industry comprises establishments primarily engaged in providing sound recording services (except record production, distribution, music publishing, and sound recording in a studio).  Establishments in this industry provide services, such as the audio recording of meetings and conferences.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "513": {
+      "title": "Publishing IndustriesT",
+      "desc": "Industries in the Publishing Industries subsector group establishments engaged in publishing newspapers, magazines, other periodicals, books, directories, and software.  In general, establishments known as publishers issue copies of works for which they usually possess copyright.  Works may be in one or more formats including print form, CD-ROM, proprietary electronic networks, or exclusively on the Internet.  Publishers may publish works originally created by others for which they have obtained the rights and/or works that they have created in-house.  Publishers may publish only and license rights to others to distribute their content, or they may publish and distribute content they create or own.  Software publishing is included here because the activity, creation of a copyrighted product and bringing it to market, is equivalent to the creation process for other types of intellectual products.\n\nIn NAICS, publishing--the reporting, writing, editing, and other processes that are required to create an edition of a newspaper, for example--is treated as a major economic activity in its own right, rather than as a subsidiary activity to a manufacturing activity, printing.  Thus, publishing is classified in the Information sector; whereas, printing is in the Manufacturing sector.  The Publishing Industries subsector excludes printed products, such as manifold business forms and appointment books, for which information is not the essential component.  Establishments producing these items are included in Subsector 323, Printing and Related Support Activities.\n\nReproduction of prepackaged software is treated in NAICS as a manufacturing activity, and custom design of software to client specifications is included in the Professional, Scientific, and Technical Services sector.  These distinctions arise because of the different ways that software is created, reproduced, and distributed.\n\nMusic publishers and establishments primarily engaged in the production, or production and distribution, of motion pictures and sound recordings are included in Subsector 512, Motion Picture and Sound Recording Industries.  Establishments not engaged in publishing and exclusively obtaining rights from publishers to broadcast and distribute content are included in Subsector 516, Broadcasting and Content Providers.\n",
+      "childNodes": {
+        "5131": {
+          "title": "Newspaper, Periodical, Book, and Directory PublishersT",
+          "desc": "This industry group comprises establishments primarily engaged in publishing newspapers, magazines, other periodicals, books, directories and mailing lists, and other works, such as calendars, greeting cards, and maps.  These works are characterized by the intellectual creativity required in their development and are usually protected by copyright.  Publishers distribute or arrange for the distribution of these works.\n\nPublishing establishments may create the works in-house, or contract for, purchase, or compile works that were originally created by others.  These works may be published in one or more formats, such as print and/or electronic form, including proprietary electronic networks or exclusively on the Internet.  Establishments in this industry may print, reproduce, or offer direct access to the works themselves or may arrange with others to carry out such functions.\n\nEstablishments that both print and publish may fill excess capacity with commercial or job printing.  However, the publishing activity is still considered to be the primary activity of these establishments.\n",
+          "childNodes": {
+            "51311": {
+              "title": "Newspaper PublishersT",
+              "desc": "See industry description for 513110.",
+              "childNodes": {
+                "513110": {
+                  "title": "Newspaper Publishers",
+                  "desc": "This industry comprises establishments known as newspaper publishers.  Establishments in this industry carry out operations necessary for producing and distributing newspapers, including gathering news; writing news columns, feature stories, and editorials; and selling and preparing advertisements.  These establishments may publish newspapers in print or electronic form, including exclusively on the Internet.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "51312": {
+              "title": "Periodical PublishersT",
+              "desc": "See industry description for 513120.",
+              "childNodes": {
+                "513120": {
+                  "title": "Periodical Publishers",
+                  "desc": "This industry comprises establishments known either as magazine publishers or periodical publishers.  These establishments carry out the operations necessary for producing and distributing magazines and other periodicals, such as gathering, writing, and editing articles, and selling and preparing advertisements.  These establishments may publish magazines and other periodicals in print or electronic form, including exclusively on the Internet.\n\nIllustrative Examples:\n\nComic book publishers\nMagazine publishers\nScholarly journal publishers\nNewsletter publishers\nTrade journal publishers\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "51313": {
+              "title": "Book PublishersT",
+              "desc": "See industry description for 513130.",
+              "childNodes": {
+                "513130": {
+                  "title": "Book Publishers",
+                  "desc": "This industry comprises establishments known as book publishers.  Establishments in this industry carry out design, editing, and marketing activities necessary for producing and distributing books.  These establishments may publish books in print, electronic, or audio form, including exclusively on the Internet.\n\nIllustrative Examples:\n\nAtlas publishers\nReligious book publishers\nGraphic novel publishers\nSchool textbook publishers\nEncyclopedia publishers\nTechnical manual publishers\nMap publishers \nTravel guide book publishers\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "51314": {
+              "title": "Directory and Mailing List PublishersT",
+              "desc": "See industry description for 513140.",
+              "childNodes": {
+                "513140": {
+                  "title": "Directory and Mailing List Publishers",
+                  "desc": "This industry comprises establishments primarily engaged in publishing directories, mailing lists, and collections or compilations of fact.  The products are typically protected in their selection, arrangement and/or presentation.  Examples are lists of mailing addresses, telephone directories, directories of businesses, collections or compilations of proprietary drugs or legal case results, compilations of public records, etc.  These establishments may publish directories and mailing lists in print or electronic form, including exclusively on the Internet.\n\nIllustrative Examples:\n\nBusiness directory publishers\nMailing list publishers\nDirectory publishers\nTelephone directory publishers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "51319": {
+              "title": "Other PublishersT",
+              "desc": "This industry comprises establishments known as publishers (except newspaper, magazine, book, directory, mailing list, music, and software publishers).  These establishments may publish works in print or electronic form, including exclusively on the Internet.\n\nIllustrative Examples:\n\nArt publishers\nGreeting card publishers\nCalendar publishers\n\n\nCross-References.",
+              "childNodes": {
+                "513191": {
+                  "title": "Greeting Card Publishers",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in publishing greeting cards.  These establishments may publish works in print or electronic form, including exclusively on the Internet.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "513199": {
+                  "title": "All Other Publishers",
+                  "desc": "This U.S. industry comprises establishments generally known as publishers (except newspaper, magazine, book, directory, mailing list, music, software, and greeting card publishers).  These establishments may publish works in print or electronic form, including exclusively on the Internet.\n\nIllustrative Examples:\n\nArt publishers\nCalendar publishers\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "5132": {
+          "title": "Software PublishersT",
+          "desc": "NULL",
+          "childNodes": {
+            "51321": {
+              "title": "Software PublishersT",
+              "desc": "See industry description for 513210.",
+              "childNodes": {
+                "513210": {
+                  "title": "Software Publishers",
+                  "desc": "This industry comprises establishments primarily engaged in software publishing.  Establishments in this industry carry out operations necessary for producing and distributing computer software, such as designing, providing documentation, assisting in installation, and providing support services to software purchasers.  These establishments may design, develop, and publish, or publish only.  These establishments may publish and distribute software through subscriptions and/or downloads. \n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "516": {
+      "title": "Broadcasting and Content ProvidersT",
+      "desc": "Industries in the Broadcasting and Content Providers subsector include establishments that create content or acquire the right to distribute content and subsequently broadcast or distribute that content.  The industry groups (Radio and Television Broadcasting Stations and Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers) are based on differences in the methods of communication and the nature of services provided.  The Radio and Television Broadcasting Stations industry group includes establishments that operate radio or television broadcasting stations for the programming and transmission of programs to the public.  Programming may originate in their own studio, from an affiliated network, or from external sources.  The Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers industry group includes establishments providing media streaming distribution services, operating social network sites, operating media broadcasting and cable television networks, and supplying information, such as news reports, articles, pictures, and features, to the news media.  The establishments classified in this subsector are often engaged in the production and purchase of programs and other textual, audio, and/or video content, and they typically generate revenues from the sale of advertising space and air time, subscriptions, donations, subsidies, and/or the sale of programs.\n\nEstablishments operating telecommunications facilities and infrastructure and distributing audio and video programming, including cable and satellite television subscription programming, are included in Subsector 517, Telecommunications.  Establishments primarily engaged as independent contractors in the installation and maintenance of broadcasting systems are classified in Sector 23, Construction.  Establishments primarily engaged in the production, or production and distribution, of motion pictures and sound recordings are included in Subsector 512, Motion Picture and Sound Recording Industries.\n",
+      "childNodes": {
+        "5161": {
+          "title": "Radio and Television Broadcasting StationsT",
+          "desc": "This industry group comprises establishments operating radio or television broadcasting stations for the programming and transmission of programs to the public.  Programming may originate in their own studio, from an affiliated network, or from external sources.\n",
+          "childNodes": {
+            "51611": {
+              "title": "Radio Broadcasting StationsT",
+              "desc": "See industry description for 516110.",
+              "childNodes": {
+                "516110": {
+                  "title": "Radio Broadcasting Stations",
+                  "desc": "This industry comprises establishments primarily engaged in broadcasting aural programs by radio to the public.  These establishments operate radio broadcasting studios and facilities for the programming and transmission of programs to the public.  Programming may originate in their own studio, from an affiliated network, or from external sources.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "51612": {
+              "title": "Television Broadcasting StationsT",
+              "desc": "See industry description for 516120.",
+              "childNodes": {
+                "516120": {
+                  "title": "Television Broadcasting Stations",
+                  "desc": "This industry comprises establishments primarily engaged in broadcasting images together with sound.  These establishments operate television broadcasting studios and facilities for the programming and transmission of programs to the public.  Programming may originate in their own studio, from an affiliated network, or from external sources.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "5162": {
+          "title": "Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content ProvidersT",
+          "desc": "NULL",
+          "childNodes": {
+            "51621": {
+              "title": "Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content ProvidersT",
+              "desc": "See industry description for 516210.",
+              "childNodes": {
+                "516210": {
+                  "title": "Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers",
+                  "desc": "This industry comprises establishments primarily providing media streaming distribution services, operating social network sites, operating media broadcasting and cable television networks, and supplying information, such as news reports, articles, pictures, and features, to the news media.  These establishments distribute textual, audio, and/or video content of general or specific interest.\n\nIllustrative Examples:\n\nBroadcasting networks, radio\nBroadcasting networks, television\nCable broadcasting networks\nCable television networks\nInternet broadcasting\nPay-per-view cable programming\nSatellite radio networks\nSatellite television networks\nSocial network sites, Internet\nStand-alone streaming services\nSubscription Video on Demand (SVOD) services\nSyndicates, news\nVirtual Multichannel Video Programming Distributors (vMVPDs)\nWeb broadcasting\nWiki sites, Internet \n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "517": {
+      "title": "TelecommunicationsT",
+      "desc": "Industries in the Telecommunications subsector group establishments that provide telecommunications and the services related to that activity (e.g., telephony, including Voice over Internet Protocol (VoIP); cable and satellite television distribution services; Internet access; telecommunications reselling services).  The Telecommunications subsector is primarily engaged in operating and/or providing access to facilities for the transmission of voice, data, text, sound, and video.  Transmission facilities may be based on a single technology or a combination of technologies.\n\nEstablishments primarily engaged as independent contractors in the installation and maintenance of telecommunications systems are classified in Sector 23, Construction.\n",
+      "childNodes": {
+        "5171": {
+          "title": "Wired and Wireless Telecommunications (except Satellite)",
+          "desc": "This industry group comprises establishments primarily engaged in (1) operating transmission facilities and infrastructure that they own and/or lease, and providing telecommunications services using wired and wireless telecommunications networks; (2) reselling wired and wireless telecommunications services (except satellite); and (3) acting as agents for wireless telecommunications services.\n",
+          "childNodes": {
+            "51711": {
+              "title": "Wired and Wireless Telecommunications Carriers (except Satellite)",
+              "desc": "This industry comprises establishments primarily engaged in operating, maintaining, and/or providing access to switching and transmission facilities and infrastructure that they own and/or lease for the transmission of voice, data, text, sound, and video using wired and wireless telecommunications networks (except satellite).  Transmission facilities may be based on a single technology or a combination of technologies.  By exception, establishments providing satellite television distribution services using facilities and infrastructure that they operate are included in this industry.\n\nIllustrative Examples:\n\nBroadband Internet service providers, wired (e.g., cable, DSL)\nCable television distribution services\nCellular telephone service carriers\nDirect-to-home satellite system (DTH) services\nSatellite television distribution systems\nTelecommunications carriers, wired and wireless\nVoIP service providers, using own operated wired telecommunications infrastructure\nWireless Internet service providers, except satellite\nWireless telecommunications carriers, except satellite\nWireless telephone communications carriers, except satellite \n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "517111": {
+                  "title": "Wired Telecommunications Carriers",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in operating, maintaining, and/or providing access to transmission facilities and infrastructure that they own and/or lease for the transmission of voice, data, text, sound, and video using wired telecommunications networks.  Transmission facilities may be based on a single technology or a combination of technologies.  Establishments in this industry use the wired telecommunications network facilities that they operate to provide a variety of services, such as wired telephony services, including VoIP services; wired (cable) audio and video programming distribution; and wired broadband Internet services.  By exception, establishments providing satellite television distribution services using facilities and infrastructure that they operate are included in this industry.\n\nIllustrative Examples:\n\nBroadband Internet service providers, wired (e.g., cable, DSL)\nCable television distribution services\nClosed-circuit television (CCTV) services\nDirect-to-home satellite system (DTH) services\nLocal telephone carriers, wired\nLong-distance telephone carriers, wired\nMultichannel multipoint distribution services (MMDS)\nSatellite television distribution systems\nTelecommunications carriers, wired\nVoIP service providers, using own operated wired telecommunications infrastructure \n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "517112": {
+                  "title": "Wireless Telecommunications Carriers (except Satellite)",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in operating and maintaining switching and transmission facilities to provide communications via the airwaves.  Establishments in this industry have spectrum licenses and provide services using that spectrum, such as cellular phone services, paging services, wireless Internet access, and wireless video services.\n\nIllustrative Examples:\n\nCellular telephone service carriers\nWireless Internet service providers, except satellite\nPaging services, except satellite\nWireless telephone communications carriers, except satellite \n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "51712": {
+              "title": "Telecommunications Resellers and Agents for Wireless Telecommunication Services",
+              "desc": "This industry comprises establishments primarily engaged in (1) purchasing access and network capacity from owners and operators of telecommunications networks and reselling wired and wireless telecommunications services to businesses and households (except satellite telecommunications) or (2) acting as agents for wireless telecommunications carriers and resellers, selling wireless plans on a commission basis.  Establishments in this industry do not operate as telecommunications carriers.  Mobile virtual network operators (MVNOs) are included in this industry.\n\nIllustrative Examples:\n\nAgents for wireless telecommunications carriers\nCellular telephone stores, selling cellular phone service plans on an agent basis\nMobile phone stores, selling mobile phone service plans on an agent basis\nWired telecommunications resellers\nWireless phone service plan sales agents, selling on behalf of wireless telecommunications carriers\nWireless telecommunications resellers (except satellite telecommunications) \n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "517121": {
+                  "title": "Telecommunications Resellers",
+                  "desc": "This U.S. industry comprises establishments engaged in purchasing access and network capacity from owners and operators of telecommunications networks and reselling wired and wireless telecommunications services to businesses and households (except satellite telecommunications and agents for wireless telecommunications services).  Establishments in this industry resell telecommunications; they do not operate transmission facilities and infrastructure.\n\nIllustrative Examples:\n\nMobile virtual network operators (MVNOs) (except agents)\nPre-paid calling cards, telecommunications resellers\nWired telecommunications resellers\nWireless telecommunications resellers (except satellite telecommunications and agents) \n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "517122": {
+                  "title": "Agents for Wireless Telecommunications Services",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in acting as agents for wireless telecommunications carriers and resellers, selling wireless plans on a commission basis.\n\nIllustrative Examples:\n\nAgents for mobile virtual network operators (MVNOs)\nAgents for wireless telecommunications carriers\nCellular telephone stores, selling cellular phone service plans on an agent basis\nMobile phone stores, selling mobile phone service plans on an agent basis\nWireless phone service plan sales agents, selling on behalf of wireless telecommunications carriers  \n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "5174": {
+          "title": "Satellite TelecommunicationsT",
+          "desc": "NULL",
+          "childNodes": {
+            "51741": {
+              "title": "Satellite TelecommunicationsT",
+              "desc": "See industry description for 517410.",
+              "childNodes": {
+                "517410": {
+                  "title": "Satellite Telecommunications",
+                  "desc": "This industry comprises establishments primarily engaged in providing telecommunications services to other establishments in the telecommunications and broadcasting industries by forwarding and receiving communications signals via a system of satellites or reselling satellite telecommunications.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "5178": {
+          "title": "All Other Telecommunications",
+          "desc": "NULL",
+          "childNodes": {
+            "51781": {
+              "title": "All Other Telecommunications",
+              "desc": "See industry description for 517810.",
+              "childNodes": {
+                "517810": {
+                  "title": "All Other Telecommunications",
+                  "desc": "This industry comprises establishments primarily engaged in providing specialized telecommunications services, such as satellite tracking, communications telemetry, and radar station operation.  This industry also includes establishments primarily engaged in providing satellite terminal stations and associated facilities connected with one or more terrestrial systems and capable of transmitting telecommunications to, and receiving telecommunications from, satellite systems.  Establishments providing Internet services or Voice over Internet protocol (VoIP) services via client-supplied telecommunications connections are also included in this industry.  Establishments in this industry do not operate as telecommunications carriers.\n\nIllustrative Examples:\n\nDial-up Internet service providers\nInternet service providers, using client-supplied telecommunications connections (e.g., dial-up ISPs)\nSatellite tracking stations\nVoIP service providers, using client-supplied telecommunications connections\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "518": {
+      "title": "Computing Infrastructure Providers, Data Processing, Web Hosting, and Related ServicesT",
+      "desc": "The Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services subsector groups establishments that provide computing infrastructure, data processing services, Web hosting services (except software publishing), and related services, including streaming support services (except streaming distribution services).\n",
+      "childNodes": {
+        "5182": {
+          "title": "Computing Infrastructure Providers, Data Processing, Web Hosting, and Related ServicesT",
+          "desc": "NULL",
+          "childNodes": {
+            "51821": {
+              "title": "Computing Infrastructure Providers, Data Processing, Web Hosting, and Related ServicesT",
+              "desc": "See industry description for 518210.",
+              "childNodes": {
+                "518210": {
+                  "title": "Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",
+                  "desc": "This industry comprises establishments primarily engaged in providing computing infrastructure, data processing services, Web hosting services (except software publishing), and related services, including streaming support services (except streaming distribution services).  Data processing establishments provide complete processing and specialized reports from data supplied by clients or provide automated data processing and data entry services.\n\nIllustrative Examples:\n\nApplication hosting\nCloud storage services\nComputer data storage services\nComputing platform infrastructure provision\nInfrastructure as a service (IaaS)\nOptical scanning services\nPlatform as a service (PaaS)\nVideo and audio technical streaming support services\nWeb hosting\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "519": {
+      "title": "Web Search Portals, Libraries, Archives, and Other Information ServicesT",
+      "desc": "Industries in the Web Search Portals, Libraries, Archives, and Other Information Services subsector group establishments supplying information, storing and providing access to information, searching and retrieving information, and operating Web sites that use search engines to allow for searching information on the Internet.  The main components of the subsector are libraries, archives, and Web search portals.\n",
+      "childNodes": {
+        "5192": {
+          "title": "Web Search Portals, Libraries, Archives, and Other Information ServicesT",
+          "desc": "NULL",
+          "childNodes": {
+            "51921": {
+              "title": "Libraries and ArchivesT",
+              "desc": "See industry description for 519210.",
+              "childNodes": {
+                "519210": {
+                  "title": "Libraries and Archives",
+                  "desc": "This industry comprises establishments primarily engaged in providing library or archive services.  These establishments are engaged in maintaining collections of documents (e.g., books, journals, newspapers, and music) and facilitating the use of such documents (recorded information regardless of its physical form and characteristics) as required to meet the informational, research, educational, or recreational needs of their user.  These establishments may also acquire, research, store, preserve, and generally make accessible to the public historical documents, photographs, maps, audio material, audiovisual material, and other archival material of historical interest.  All or portions of these collections may be accessible electronically.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "51929": {
+              "title": "Web Search Portals and All Other Information ServicesT",
+              "desc": "See industry description for 519290.",
+              "childNodes": {
+                "519290": {
+                  "title": "Web Search Portals and All Other Information Services",
+                  "desc": "This industry comprises establishments primarily engaged in operating Web sites that use a search engine to generate and maintain extensive databases of Internet addresses and content in an easily searchable format (and known as Web search portals) or providing other information services not elsewhere classified.  Establishments known as Web search portals often provide additional Internet services, such as email, connections to other Web sites, auctions, news, and other limited content.\n\nIllustrative Examples:\n\nNews clipping services\nTelephone-based recorded information services\nStock photo agencies\nWeb search portals \n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

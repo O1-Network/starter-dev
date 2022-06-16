@@ -5,7 +5,7 @@ export const FooterElement = styled.footer`
   padding: 30px 0;
   display: flex;
   justify-content: center;
-
+  width: 100%;
   background-color: #C9F0FF;
 `;
 

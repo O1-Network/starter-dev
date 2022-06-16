@@ -1,9 +1,7 @@
 import styled from 'styled-components';
 
 export const FormContainer = styled.div`
-  width: 100%;
-  height: 100vh;
-  background-color: #031927;
+  width: auto;
   padding: 50px;
   display: flex;
   align-items: center;
@@ -12,15 +10,14 @@ export const FormContainer = styled.div`
 export const FormBox = styled.div`
   width: 560px;
   height: 620px;
-  /* Starter - Tertiary 3 */
-  background: #2260A1;
-  border: 1px solid #000000;
+  background: #F2FCFF;
   border-radius: 25px;
   margin: auto;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  box-shadow: -3px -3px 6px #F0F8FF, -1px -1px 3px #EFEFFF, 3px 3px 6px rgba(0, 0, 15, 0.4), 1px 1px 3px rgba(0, 0, 15, 0.4);
 `;
 
 export const FormStyles = styled.form`
@@ -28,7 +25,6 @@ export const FormStyles = styled.form`
   padding: 20px;
   margin: auto 0;
   padding: 20px;
-  /* box-shadow: -1px -1px 3px rgba(255, 230, 230, 0.5), -3px -3px 5px rgba(255, 230, 230, 0.5), 3px 3px 5px rgba(51, 0, 0, 0.3), 1px 1px 3px rgba(51, 0, 0, 0.3); */
   border-radius: 5px;
   margin-right:auto;
   margin-left:auto;
@@ -38,13 +34,12 @@ export const FormTitle = styled.h2`
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400; 
-
   text-align: center;
   font-size: 30px;
   font-weight: 100;
   margin-bottom: 30px;
   margin-top: 15px  ;
-  color: #C9F0FF;
+  color: #031927;
 `;
 
 export const FormList = styled.ul`
@@ -68,6 +63,7 @@ export const ListItem = styled.li`
 export const ItemLabel = styled.label`
   text-align: left;
   padding-bottom: 2px;
+  color: #031927;
 `;
 
 export const Input = styled.input`
@@ -81,8 +77,6 @@ export const Input = styled.input`
 `;
 
 export const ErrorBox = styled.div`
-  background: #2D7CD1;
-  border: 1px dashed #F2FCFF;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -101,6 +95,7 @@ export const SubmitButton = styled.button`
   background-color: #073959;
   color: #F2FCFF;
   border-radius: 10px;
+  border: none;
   width: 180px;
   height: 50px;
   font-size: 18px;

@@ -1,0 +1,294 @@
+{
+  "title": "Real Estate and Rental and LeasingT",
+  "desc": "The Sector as a Whole\n\nThe Real Estate and Rental and Leasing sector comprises establishments primarily engaged in renting, leasing, or otherwise allowing the use of tangible or intangible assets, and establishments providing related services.  The major portion of this sector comprises establishments that rent, lease, or otherwise allow the use of their own assets by others.  The assets may be tangible, as is the case of real estate and equipment, or intangible, as is the case with patents and trademarks.\n\nThis sector also includes establishments primarily engaged in managing real estate for others, selling, renting, and/or buying real estate for others, and appraising real estate.  These activities are closely related to this sector's main activity, and from a production basis they are included here.  In addition, a substantial proportion of property management is self-performed by lessors.\n\nThe main components of this sector are the real estate lessors industries (including equity real estate investment trusts (REITs)); equipment lessors industries (including motor vehicles, computers, and consumer goods); and lessors of nonfinancial intangible assets (except copyrighted works).\n\nExcluded from this sector are establishments primarily engaged in renting or leasing equipment with operators.  Establishments renting or leasing equipment with operators are classified in various subsectors of NAICS depending on the nature of the services provided (e.g., transportation, construction, agriculture).  These activities are excluded from this sector because the client is paying for the expertise and knowledge of the equipment operator, in addition to the rental of the equipment.  In many cases, such as the rental of heavy construction equipment, the operator is essential to operate the equipment.  Also excluded from this sector are mortgage REITs and establishments primarily engaged in managing the financial portfolio assets of REITs on a fee or commission basis.  These establishments are classified in Sector 52, Finance and Insurance.\n",
+  "childNodes": {
+    "531": {
+      "title": "Real EstateT",
+      "desc": "Industries in the Real Estate subsector group establishments primarily engaged in renting or leasing real estate to others; managing real estate for others; selling, buying, or renting real estate for others; and providing other real estate related services, such as appraisal services.\n\nThis subsector includes equity real estate investment trusts (REITs) primarily engaged in leasing buildings, dwellings, or other real estate property to others.  Mortgage REITs are classified in Subsector 525, Funds, Trusts, and Other Financial Vehicles.\n\nEstablishments primarily engaged in subdividing and developing unimproved real estate and constructing buildings for sale are classified in Subsector 236, Construction of Buildings.  Establishments primarily engaged in subdividing and improving raw land for subsequent sale to builders are classified in Subsector 237, Heavy and Civil Engineering Construction.\n",
+      "childNodes": {
+        "5311": {
+          "title": "Lessors of Real EstateT",
+          "desc": "This industry group comprises establishments primarily engaged in acting as lessors of (1) residential buildings and dwellings; (2) nonresidential buildings (except miniwarehouses); (3) miniwarehouses and self-storage units; and (4) other real estate property.  This industry group includes equity real estate investment trusts (REITs) primarily engaged in leasing buildings, dwellings, or other real estate property to others.\n",
+          "childNodes": {
+            "53111": {
+              "title": "Lessors of Residential Buildings and Dwellings",
+              "desc": "See industry description for 531110.",
+              "childNodes": {
+                "531110": {
+                  "title": "Lessors of Residential Buildings and Dwellings",
+                  "desc": "This industry comprises establishments primarily engaged in acting as lessors of buildings used as residences or dwellings, such as single-family homes, apartment buildings, and town homes.  Included in this industry are owner-lessors and establishments renting real estate and then acting as lessors in subleasing it to others.  The establishments in this industry may manage the property themselves or have another establishment manage it for them.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "53112": {
+              "title": "Lessors of Nonresidential Buildings (except Miniwarehouses)",
+              "desc": "See industry description for 531120.",
+              "childNodes": {
+                "531120": {
+                  "title": "Lessors of Nonresidential Buildings (except Miniwarehouses)",
+                  "desc": "This industry comprises establishments primarily engaged in acting as lessors of buildings (except miniwarehouses and self-storage units) that are not used as residences or dwellings.  Included in this industry are: (1) owner-lessors of nonresidential buildings; (2) establishments renting real estate and then acting as lessors in subleasing it to others; and (3) establishments providing full service office space, whether on a lease or service contract basis.  The establishments in this industry may manage the property themselves or have another establishment manage it for them.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "53113": {
+              "title": "Lessors of Miniwarehouses and Self-Storage Units",
+              "desc": "See industry description for 531130.",
+              "childNodes": {
+                "531130": {
+                  "title": "Lessors of Miniwarehouses and Self-Storage Units",
+                  "desc": "This industry comprises establishments primarily engaged in renting or leasing space for self-storage.  These establishments provide secure space (i.e., rooms, compartments, lockers, containers, or outdoor space) where clients can store and retrieve their goods.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "53119": {
+              "title": "Lessors of Other Real Estate Property",
+              "desc": "See industry description for 531190.",
+              "childNodes": {
+                "531190": {
+                  "title": "Lessors of Other Real Estate Property",
+                  "desc": "This industry comprises establishments primarily engaged in acting as lessors of real estate (except buildings), such as manufactured home (i.e., mobile home) sites, vacant lots, and grazing land.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "5312": {
+          "title": "Offices of Real Estate Agents and BrokersT",
+          "desc": "NULL",
+          "childNodes": {
+            "53121": {
+              "title": "Offices of Real Estate Agents and BrokersT",
+              "desc": "See industry description for 531210.",
+              "childNodes": {
+                "531210": {
+                  "title": "Offices of Real Estate Agents and Brokers",
+                  "desc": "This industry comprises establishments primarily engaged in acting as agents and/or brokers in one or more of the following: (1) selling real estate for others; (2) buying real estate for others; and (3) renting real estate for others.\n",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "5313": {
+          "title": "Activities Related to Real EstateT",
+          "desc": "This industry group comprises establishments primarily engaged in providing real estate services (except lessors of real estate and offices of real estate agents and brokers).  Included in this industry group are establishments primarily engaged in managing real estate for others and appraising real estate.\n",
+          "childNodes": {
+            "53131": {
+              "title": "Real Estate Property Managers",
+              "desc": "This industry comprises establishments primarily engaged in managing real property for others.  Management includes ensuring that various activities associated with the overall operation of the property are performed, such as collecting rents and overseeing other services (e.g., maintenance, security, trash removal).\n\nCross-References.",
+              "childNodes": {
+                "531311": {
+                  "title": "Residential Property Managers",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in managing residential real estate for others.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "531312": {
+                  "title": "Nonresidential Property Managers",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in managing nonresidential real estate for others.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "53132": {
+              "title": "Offices of Real Estate Appraisers",
+              "desc": "See industry description for 531320.",
+              "childNodes": {
+                "531320": {
+                  "title": "Offices of Real Estate Appraisers",
+                  "desc": "This industry comprises establishments primarily engaged in estimating the fair market value of real estate.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "53139": {
+              "title": "Other Activities Related to Real Estate",
+              "desc": "See industry description for 531390.",
+              "childNodes": {
+                "531390": {
+                  "title": "Other Activities Related to Real Estate",
+                  "desc": "This industry comprises establishments primarily engaged in performing real estate related services (except lessors of real estate, offices of real estate agents and brokers, real estate property managers, and offices of real estate appraisers).\n\nIllustrative Examples:\n\nReal estate escrow agencies\nReal estate listing services\nReal estate fiduciaries' offices\nLandman services\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "532": {
+      "title": "Rental and Leasing ServicesT",
+      "desc": "Industries in the Rental and Leasing Services subsector include establishments that provide a wide array of tangible goods, such as automobiles, computers, consumer goods, and industrial machinery and equipment, to customers in return for a periodic rental or lease payment.\n\nThe subsector includes two main types of establishments: (1) those that are engaged in renting consumer goods and equipment and (2) those that are engaged in leasing machinery and equipment often used for business operations.  The first type typically operates from a retail-like or storefront facility and maintains inventories of goods that are rented for short periods of time.  The latter type typically does not operate from retail-like locations or maintain inventories, and usually offers longer-term leases.  These establishments work directly with clients to enable them to acquire the use of equipment on a lease basis, or they work with equipment vendors or dealers to support the marketing of equipment to their customers under lease arrangements.  Equipment lessors generally structure lease contracts to meet the specialized needs of their clients and use their remarketing expertise to find other users for previously leased equipment.  Establishments that provide operating and capital (i.e., finance) leases are included in this subsector.\n\nEstablishments primarily engaged in leasing in combination with providing loans are classified in Sector 52, Finance and Insurance.  Establishments primarily engaged in leasing real property are classified in Subsector 531, Real Estate.  Establishments primarily engaged in renting or leasing equipment with operators are classified in various subsectors of NAICS depending on the nature of the services provided (e.g., transportation, construction, agriculture).  These activities are excluded from this subsector since the client is paying for the expertise and knowledge of the equipment operator, in addition to the rental of the equipment.  In many cases, such as the rental of heavy construction equipment, the operator is essential to operate the equipment.  Likewise, since the provision of crop harvesting services includes both the equipment and operator, it is included in Subsector 115, Support Activities for Agriculture and Forestry.  The rental or leasing of copyrighted works is classified in Sector 51, Information, and the rental or leasing of nonfinancial intangible assets, such as patents, trademarks, and/or licensing agreements, is classified in Subsector 533, Lessors of Nonfinancial Intangible Assets (except Copyrighted Works).\n",
+      "childNodes": {
+        "5321": {
+          "title": "Automotive Equipment Rental and LeasingT",
+          "desc": "This industry group comprises establishments primarily engaged in renting or leasing passenger cars and trucks without drivers and utility trailers.  These establishments generally operate from a retail-like facility.  Some establishments offer only short-term rental, others only longer-term leases, and some provide both types of services.\n",
+          "childNodes": {
+            "53211": {
+              "title": "Passenger Car Rental and LeasingT",
+              "desc": "This industry comprises establishments primarily engaged in renting or leasing passenger cars without drivers.\n\nIllustrative Examples:\n\nPassenger car rental or leasing\nPassenger truck (light duty) rental or leasing\nPassenger van rental or leasing\nSport utility vehicle rental or leasing\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "532111": {
+                  "title": "Passenger Car Rental",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in renting passenger cars without drivers, generally for short periods of time.\n\nIllustrative Examples:\n\nPassenger car rental\nPassenger truck (light duty) rental\nPassenger van rental\nSport utility vehicle rental\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "532112": {
+                  "title": "Passenger Car Leasing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in leasing passenger cars without drivers, generally for long periods of time.\n\nIllustrative Examples:\n\nPassenger car leasing\nPassenger truck (light duty) leasing\nPassenger van leasing\nSport utility vehicle leasing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "53212": {
+              "title": "Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and LeasingT",
+              "desc": "See industry description for 532120.",
+              "childNodes": {
+                "532120": {
+                  "title": "Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing",
+                  "desc": "This industry comprises establishments primarily engaged in renting or leasing, without drivers, one or more of the following: trucks, truck tractors, buses, semi-trailers, utility trailers, or RVs (recreational vehicles).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "5322": {
+          "title": "Consumer Goods RentalT",
+          "desc": "This industry group comprises establishments primarily engaged in renting personal and household-type goods.  Establishments classified in this industry group generally provide short-term rental although in some instances, the goods may be leased for longer periods of time.  These establishments often operate from a retail-like or storefront facility.\n",
+          "childNodes": {
+            "53221": {
+              "title": "Consumer Electronics and Appliances RentalT",
+              "desc": "See industry description for 532210.",
+              "childNodes": {
+                "532210": {
+                  "title": "Consumer Electronics and Appliances Rental",
+                  "desc": "This industry comprises establishments primarily engaged in renting consumer electronics equipment and appliances, such as televisions, stereos, and refrigerators.  Included in this industry are appliance rental centers.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "53228": {
+              "title": "Other Consumer Goods RentalT",
+              "desc": "This industry comprises establishments primarily engaged in renting consumer goods (except consumer electronics and appliances).\n\nIllustrative Examples:\n\nCostume rental\nFormal wear rental\nFurniture (i.e., residential) rental centers\nHospital bed rental and leasing (i.e., home use)\nParty rental supply centers\nSporting goods rental\nVideo disc rental for home electronic equipment (e.g., DVD) \n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "532281": {
+                  "title": "Formal Wear and Costume Rental",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in renting clothing, such as formal wear, costumes (e.g., theatrical), or other clothing (except laundered uniforms and work apparel).\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "532282": {
+                  "title": "Video Tape and Disc Rental",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in renting prerecorded video tapes and discs for home electronic equipment, including renting through vending machines.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "532283": {
+                  "title": "Home Health Equipment Rental",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in renting home-type health and invalid equipment, such as wheelchairs, hospital beds, oxygen tanks, walkers, and crutches.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "532284": {
+                  "title": "Recreational Goods Rental",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in renting recreational goods, such as bicycles, canoes, motorcycles, skis, sailboats, beach chairs, and beach umbrellas.\n",
+                  "childNodes": {}
+                },
+                "532289": {
+                  "title": "All Other Consumer Goods Rental",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in renting consumer goods and products (except consumer electronics and appliances; formal wear and costumes; prerecorded video tapes and discs for home electronic equipment; home health furniture and equipment; and recreational goods).  Included in this industry are furniture rental centers and party rental supply centers.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "5323": {
+          "title": "General Rental CentersT",
+          "desc": "NULL",
+          "childNodes": {
+            "53231": {
+              "title": "General Rental CentersT",
+              "desc": "See industry description for 532310.",
+              "childNodes": {
+                "532310": {
+                  "title": "General Rental Centers",
+                  "desc": "This industry comprises establishments primarily engaged in renting a range of consumer, commercial, and industrial equipment.  Establishments in this industry typically operate from conveniently located facilities where they maintain inventories of goods and equipment that they rent for short periods of time.  The type of equipment that establishments in this industry provide often includes, but is not limited to: audio visual equipment, contractors' and builders' tools and equipment, home repair tools, lawn and garden equipment, moving equipment and supplies, and party and banquet equipment and supplies.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "5324": {
+          "title": "Commercial and Industrial Machinery and Equipment Rental and LeasingT",
+          "desc": "This industry group comprises establishments primarily engaged in renting or leasing commercial-type and industrial-type machinery and equipment.  Establishments included in this industry group are generally involved in providing capital or investment-type equipment that clients use in their business operations.  These establishments typically cater to a business clientele and do not generally operate a retail-like or storefront facility.\n",
+          "childNodes": {
+            "53241": {
+              "title": "Construction, Transportation, Mining, and Forestry Machinery and Equipment Rental and LeasingT",
+              "desc": "This industry comprises establishments primarily engaged in renting or leasing one or more of the following without operators: heavy construction, off-highway transportation, mining, and forestry machinery and equipment.  Establishments in this industry may rent or lease products, such as aircraft, railroad cars, steamships, tugboats, bulldozers, earthmoving equipment, well drilling machinery and equipment, or cranes.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "532411": {
+                  "title": "Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in renting or leasing off-highway transportation equipment without operators, such as aircraft, railroad cars, steamships, or tugboats.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "532412": {
+                  "title": "Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in renting or leasing heavy equipment without operators that may be used for construction, mining, or forestry, such as bulldozers, earthmoving equipment, well drilling machinery and equipment, or cranes.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "53242": {
+              "title": "Office Machinery and Equipment Rental and LeasingT",
+              "desc": "See industry description for 532420.",
+              "childNodes": {
+                "532420": {
+                  "title": "Office Machinery and Equipment Rental and Leasing",
+                  "desc": "This industry comprises establishments primarily engaged in renting or leasing office machinery and equipment, such as computers, office furniture, duplicating machines (i.e., copiers), or facsimile machines.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "53249": {
+              "title": "Other Commercial and Industrial Machinery and Equipment Rental and LeasingT",
+              "desc": "See industry description for 532490.",
+              "childNodes": {
+                "532490": {
+                  "title": "Other Commercial and Industrial Machinery and Equipment Rental and Leasing",
+                  "desc": "This industry comprises establishments primarily engaged in renting or leasing nonconsumer-type machinery and equipment (except heavy construction, transportation, mining, and forestry machinery and equipment without operators; and office machinery and equipment).  Establishments in this industry rent or lease products, such as manufacturing equipment; metalworking, telecommunications, motion picture, theatrical machinery and equipment, or service industry machinery; institutional (i.e., public building) furniture, such as furniture for schools, theaters, or buildings; or agricultural equipment without operators.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "533": {
+      "title": "Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)T",
+      "desc": "Industries in the Lessors of Nonfinancial Intangible Assets (except Copyrighted Works) subsector include establishments primarily engaged in assigning rights to assets, such as patents, trademarks, brand names, and/or franchise agreements, for which a royalty payment or licensing fee is paid to the asset holder.  Establishments in this subsector own the patents, trademarks, and/or franchise agreements that they allow others to use or reproduce for a fee and may or may not have created those assets.\n\nEstablishments that allow franchisees the use of the franchise name, contingent on the franchisee buying products or services from the franchisor, are classified elsewhere.\n\nExcluded from this subsector are establishments primarily engaged in leasing real property and establishments primarily engaged in leasing tangible assets, such as automobiles, computers, consumer goods, and industrial machinery and equipment.  These establishments are classified in Subsector 531, Real Estate, and Subsector 532, Rental and Leasing Services, respectively.\n",
+      "childNodes": {
+        "5331": {
+          "title": "Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)T",
+          "desc": "NULL",
+          "childNodes": {
+            "53311": {
+              "title": "Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)T",
+              "desc": "See industry description for 533110.",
+              "childNodes": {
+                "533110": {
+                  "title": "Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)",
+                  "desc": "This industry comprises establishments primarily engaged in assigning rights to assets, such as patents, trademarks, brand names, and/or franchise agreements, for which a royalty payment or licensing fee is paid to the asset holder.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

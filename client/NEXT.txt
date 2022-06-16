@@ -1,23 +1,15 @@
 /** WEB DESIGN **//** WEB DESIGN **//** WEB DESIGN **//** WEB DESIGN **//** WEB DESIGN **//** WEB DESIGN **//** WEB DESIGN **//** WEB DESIGN **/
-1. Create Universal Fonts and Colors 
-2. Create Wireframes: 
-  - Home (Tie Loose Ends)
-  - Business (Main Section)
-  - Developer (Main Section)
+1. Create Wireframes: 
   - About
   - Contact
-  - Blogs
-3. Create wireframes for Dashboards
+2. Create wireframes for Dashboards
+3. Create Universal Fonts and Colors 
 
 
 
 /** STYLING **//** STYLING **//** STYLING **//** STYLING **//** STYLING **//** STYLING **//** STYLING **//** STYLING **//** STYLING **//** STYLING **/
-1. Convert Project to Styled Components
-2. For each BENEFIT on the Intro component
-  - Create a animated transition
-3. Use flexbox to push the Footer component to the bottom of the page
-4. Integrate smooth scrolling
-5. Responsive resizing for all components
+1. Integrate smooth scrolling
+2. Responsive resizing for all components
 
 
 

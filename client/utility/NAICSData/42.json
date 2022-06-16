@@ -1,0 +1,897 @@
+{
+  "title": "Wholesale TradeT",
+  "desc": "The Sector as a Whole\n\nThe Wholesale Trade sector comprises establishments engaged in wholesaling merchandise, generally without transformation, and rendering services incidental to the sale of merchandise.  The merchandise described in this sector includes the outputs of agriculture, mining, manufacturing, and certain information industries, such as publishing.\n\nThe wholesaling process is an intermediate step in the distribution of merchandise.  Wholesalers are organized to sell or arrange the purchase or sale of (a) goods for resale (i.e., goods sold to other wholesalers or retailers), (b) capital or durable nonconsumer goods, and (c) raw and intermediate materials and supplies used in production.\n\nWholesalers sell merchandise to other businesses and normally operate from a warehouse or office.  These warehouses and offices are characterized by having little or no display of merchandise.  In addition, neither the design nor the location of the premises is intended to solicit walk-in traffic.  Wholesalers do not normally use advertising directed to the general public.  Customers are generally reached initially via telephone, in-person marketing, or by specialized advertising that may include Internet and other electronic means.  Follow-up orders are either vendor-initiated or client-initiated, generally based on previous sales, and typically exhibit strong ties between sellers and buyers.  In fact, transactions are often conducted between wholesalers and clients that have long-standing business relationships.\n\nThis sector comprises two main types of wholesalers: merchant wholesalers that sell goods on their own account and agents and brokers that arrange sales and purchases for others generally for a commission or fee.\n\n(1)   Establishments that sell goods on their own account are known as wholesale merchants, distributors, jobbers, drop shippers, and import/export merchants.  Also included as wholesale merchants are sales offices and sales branches (but not retail stores) maintained by manufacturing, refining, or mining enterprises apart from their plants or mines for the purpose of marketing their products, and group purchasing organizations primarily purchasing and selling goods on their own account.  Merchant wholesale establishments typically maintain their own warehouse, where they receive and handle goods for their customers.  Goods are generally sold without transformation, but may include integral functions, such as sorting, packaging, labeling, and other marketing services.\n\n(2)   Establishments arranging for the purchase or sale of goods owned by others or purchasing goods, generally on a commission basis are known as business-to-business electronic markets, agents and brokers, commission merchants, import/export agents and brokers, auction companies, group purchasing organizations (acting as agents), and manufacturers' representatives.  These establishments operate from offices and generally do not own or handle the goods they sell.\n\nSome wholesale establishments may be connected with a single manufacturer and promote and sell the particular manufacturer's products to a wide range of other wholesalers or retailers.  Other wholesalers may be connected to a retail chain, or limited number of retail chains, and only provide a variety of products needed by that particular retail operation(s).  These wholesalers may obtain the products from a wide range of manufacturers.  Still other wholesalers may not take title to the goods, but act as agents and brokers for a commission.\n\nAlthough, in general, wholesaling normally denotes sales in large volumes, durable nonconsumer goods may be sold in single units.  Sales of capital or durable nonconsumer goods used in the production of goods and services, such as farm machinery, medium- and heavy-duty trucks, and industrial machinery, are always included in wholesale trade.\n",
+  "childNodes": {
+    "423": {
+      "title": "Merchant Wholesalers, Durable Goods",
+      "desc": "Industries in the Merchant Wholesalers, Durable Goods subsector sell capital or durable goods to other businesses.  Merchant wholesalers generally take title to the goods that they sell; in other words, they buy and sell goods on their own account.  Durable goods are new or used items generally with a normal life expectancy of three years or more.  Durable goods merchant wholesale trade establishments are engaged in wholesaling products, such as motor vehicles, furniture, construction materials, machinery and equipment (including household-type appliances), metals and minerals (except petroleum), sporting goods, toys and hobby goods, recyclable materials, and parts.\n\nAgents and brokers primarily engaged in wholesaling durable goods, generally on a commission or fee basis, are classified in Subsector 425, Wholesale Trade Agents and Brokers.\n",
+      "childNodes": {
+        "4231": {
+          "title": "Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers",
+          "desc": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of automobiles and other motor vehicles, motor vehicle supplies, tires, and new and used parts.\n",
+          "childNodes": {
+            "42311": {
+              "title": "Automobile and Other Motor Vehicle Merchant Wholesalers",
+              "desc": "See industry description for 423110.",
+              "childNodes": {
+                "423110": {
+                  "title": "Automobile and Other Motor Vehicle Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of new and used passenger automobiles, trucks, trailers, and other motor vehicles, such as motorcycles, motor homes, and snowmobiles.\n",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42312": {
+              "title": "Motor Vehicle Supplies and New Parts Merchant Wholesalers",
+              "desc": "See industry description for 423120.",
+              "childNodes": {
+                "423120": {
+                  "title": "Motor Vehicle Supplies and New Parts Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of motor vehicle supplies, accessories, tools, and equipment; and new motor vehicle parts (except new tires and tubes).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42313": {
+              "title": "Tire and Tube Merchant Wholesalers",
+              "desc": "See industry description for 423130.",
+              "childNodes": {
+                "423130": {
+                  "title": "Tire and Tube Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of new and/or used tires and tubes for passenger and commercial vehicles.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42314": {
+              "title": "Motor Vehicle Parts (Used) Merchant Wholesalers",
+              "desc": "See industry description for 423140.",
+              "childNodes": {
+                "423140": {
+                  "title": "Motor Vehicle Parts (Used) Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of used motor vehicle parts (except used tires and tubes) and establishments primarily engaged in dismantling motor vehicles for the purpose of selling the parts.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4232": {
+          "title": "Furniture and Home Furnishing Merchant Wholesalers",
+          "desc": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of furniture (except hospital beds, medical furniture, and drafting tables), home furnishings, and/or housewares.\n",
+          "childNodes": {
+            "42321": {
+              "title": "Furniture Merchant Wholesalers",
+              "desc": "See industry description for 423210.",
+              "childNodes": {
+                "423210": {
+                  "title": "Furniture Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of furniture (except hospital beds, medical furniture, and drafting tables).\n\nIllustrative Examples:\n\nHousehold-type furniture merchant wholesalers\nOutdoor furniture merchant wholesalers\nMattresses merchant wholesalers\nPublic building furniture merchant wholesalers\nOffice furniture merchant wholesalers\nReligious furniture merchant wholesalers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42322": {
+              "title": "Home Furnishing Merchant Wholesalers",
+              "desc": "See industry description for 423220.",
+              "childNodes": {
+                "423220": {
+                  "title": "Home Furnishing Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of home furnishings and/or housewares.\n\nIllustrative Examples:\n\nCarpet merchant wholesalers\nFloor coverings (except wood flooring) merchant wholesalers\nGlassware, household-type, merchant wholesalers\nChinaware, household-type, merchant wholesalers\nLamps (i.e., lighting fixtures) merchant wholesalers\nHousehold-type cooking utensils merchant wholesalers\nCurtains merchant wholesalers\nDraperies merchant wholesalers\nLinens (e.g., bath, bed, table) merchant wholesalers\nWindow shades and blinds merchant wholesalers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4233": {
+          "title": "Lumber and Other Construction Materials Merchant Wholesalers",
+          "desc": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of lumber, plywood, millwork, and wood panels; brick, stone, and related construction materials; roofing, siding, and insulation materials; and other construction materials, including manufactured homes (i.e., mobile homes) and/or prefabricated buildings.\n",
+          "childNodes": {
+            "42331": {
+              "title": "Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers",
+              "desc": "See industry description for 423310.",
+              "childNodes": {
+                "423310": {
+                  "title": "Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of lumber; plywood; reconstituted wood fiber products; wood fencing; doors and windows and their frames (all materials); wood roofing and siding; and/or other wood or metal millwork.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42332": {
+              "title": "Brick, Stone, and Related Construction Material Merchant Wholesalers",
+              "desc": "See industry description for 423320.",
+              "childNodes": {
+                "423320": {
+                  "title": "Brick, Stone, and Related Construction Material Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of stone, cement, lime, construction sand, and gravel; brick; asphalt and concrete mixtures; and/or concrete, stone, and structural clay products.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42333": {
+              "title": "Roofing, Siding, and Insulation Material Merchant Wholesalers",
+              "desc": "See industry description for 423330.",
+              "childNodes": {
+                "423330": {
+                  "title": "Roofing, Siding, and Insulation Material Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of nonwood roofing and nonwood siding and insulation materials.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42339": {
+              "title": "Other Construction Material Merchant Wholesalers",
+              "desc": "See industry description for 423390.",
+              "childNodes": {
+                "423390": {
+                  "title": "Other Construction Material Merchant Wholesalers",
+                  "desc": "This industry comprises (1) establishments primarily engaged in the merchant wholesale distribution of manufactured homes (i.e., mobile homes) and/or prefabricated buildings and (2) establishments primarily engaged in the merchant wholesale distribution of construction materials (except lumber, plywood, millwork, wood panels, brick, stone, roofing, siding, electrical and wiring supplies, and insulation materials).\n\nIllustrative Examples:\n\nFlat glass merchant wholesalers\nPrefabricated buildings (except wood) merchant wholesalers\nOrnamental ironwork merchant wholesalers\nFencing and fencing accessories (except wood) merchant wholesalers\nPlate glass merchant wholesalers\nStorage bins merchant wholesalers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4234": {
+          "title": "Professional and Commercial Equipment and Supplies Merchant Wholesalers",
+          "desc": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of photographic equipment and supplies; office, computer, and computer peripheral equipment; and medical, dental, hospital, ophthalmic, and other commercial and professional equipment and supplies.\n",
+          "childNodes": {
+            "42341": {
+              "title": "Photographic Equipment and Supplies Merchant Wholesalers",
+              "desc": "See industry description for 423410.",
+              "childNodes": {
+                "423410": {
+                  "title": "Photographic Equipment and Supplies Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of photographic equipment and supplies (except office equipment).\n\nIllustrative Examples:\n\nPhotofinishing equipment merchant wholesalers\nTelevision cameras merchant wholesalers\nPhotographic camera equipment and supplies merchant wholesalers\nVideo cameras (except household-type) merchant wholesalers\nPhotographic film and plates merchant wholesalers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42342": {
+              "title": "Office Equipment Merchant Wholesalers",
+              "desc": "See industry description for 423420.",
+              "childNodes": {
+                "423420": {
+                  "title": "Office Equipment Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of office machines and related equipment (except computers and computer peripheral equipment).\n\nIllustrative Examples:\n\nAutomated teller machines (ATM) merchant wholesalers\nCalculators and calculating machines merchant wholesalers\nCash registers merchant wholesalers\nSecurity safes merchant wholesalers\nCopying machines merchant wholesalers\nPoint of sale terminals merchant wholesalers\nPaper shredders merchant wholesalers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42343": {
+              "title": "Computer and Computer Peripheral Equipment and Software Merchant Wholesalers",
+              "desc": "See industry description for 423430.",
+              "childNodes": {
+                "423430": {
+                  "title": "Computer and Computer Peripheral Equipment and Software Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of computers, computer peripheral equipment, loaded computer boards, and/or computer software.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42344": {
+              "title": "Other Commercial Equipment Merchant Wholesalers",
+              "desc": "See industry description for 423440.",
+              "childNodes": {
+                "423440": {
+                  "title": "Other Commercial Equipment Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of commercial and related machines and equipment (except photographic equipment and supplies; office equipment; and computers and computer peripheral equipment and software) generally used in restaurants and stores.\n\nIllustrative Examples:\n\nBalances and scales (except laboratory) merchant wholesalers\nCommercial shelving merchant wholesalers\nCoin- or card-operated merchandising machine merchant wholesalers\nElectrical signs merchant wholesalers\nCommercial chinaware merchant wholesalers\nPartitions merchant wholesalers\nCommercial cooking equipment merchant wholesalers\nStore fixtures (except refrigerated) merchant wholesalers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42345": {
+              "title": "Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers",
+              "desc": "See industry description for 423450.",
+              "childNodes": {
+                "423450": {
+                  "title": "Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of professional medical equipment, instruments, and supplies (except ophthalmic equipment and instruments and goods used by ophthalmologists, optometrists, and opticians).\n\nIllustrative Examples:\n\nDental equipment and supplies merchant wholesalers\nSurgical dressings merchant wholesalers\nElectromedical equipment merchant wholesalers\nPatient monitoring equipment merchant wholesalers\nHospital beds merchant wholesalers\nProsthetic appliances and supplies merchant wholesalers\nHospital furniture merchant wholesalers\nSurgical instruments and apparatus merchant wholesalers\nMedical and dental X-ray machines and parts merchant wholesalers\nFirst-aid kits (except household) merchant wholesalers\nSurgical and medical masks merchant wholesalers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42346": {
+              "title": "Ophthalmic Goods Merchant Wholesalers",
+              "desc": "See industry description for 423460.",
+              "childNodes": {
+                "423460": {
+                  "title": "Ophthalmic Goods Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of professional equipment, instruments, and/or goods sold, prescribed, or used by ophthalmologists, optometrists, and opticians.\n\nIllustrative Examples:\n\nBinoculars merchant wholesalers\nOptometric equipment and supplies merchant wholesalers\nOphthalmic frames merchant wholesalers\nSunglasses merchant wholesalers\nOphthalmic lenses merchant wholesalers\n\n",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42349": {
+              "title": "Other Professional Equipment and Supplies Merchant Wholesalers",
+              "desc": "See industry description for 423490.",
+              "childNodes": {
+                "423490": {
+                  "title": "Other Professional Equipment and Supplies Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of professional equipment and supplies (except ophthalmic goods and medical, dental, and hospital equipment and supplies).\n\nIllustrative Examples:\n\nChurch supplies (except silverware, plated ware) merchant wholesalers\nSchool equipment and supplies (except books, furniture) merchant wholesalers\nDrafting tables and instruments merchant wholesalers\nScientific instruments merchant wholesalers\nLaboratory equipment (except medical, dental) merchant wholesalers\nSurveying equipment and supplies merchant wholesalers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4235": {
+          "title": "Metal and Mineral (except Petroleum) Merchant Wholesalers",
+          "desc": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of products of the primary metals industries (including metal service centers) and coal, coke, metal ores, and/or nonmetallic minerals (except precious and semiprecious stones and minerals used in construction).\n",
+          "childNodes": {
+            "42351": {
+              "title": "Metal Service Centers and Other Metal Merchant Wholesalers",
+              "desc": "See industry description for 423510.",
+              "childNodes": {
+                "423510": {
+                  "title": "Metal Service Centers and Other Metal Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of products of the primary metals industries.  Service centers maintain inventory and may perform functions, such as sawing, shearing, bending, leveling, cleaning, or edging, on a custom basis as part of sales transactions.\n\nIllustrative Examples:\n\nCast iron pipe merchant wholesalers\nMetal rods merchant wholesalers\nMetal bars (except precious) merchant wholesalers\nMetal sheets merchant wholesalers\nMetal spikes merchant wholesalers\nMetal ingots (except precious) merchant wholesalers\nMetal pipe merchant wholesalers\nNails merchant wholesalers\nMetal plates merchant wholesalers\nNoninsulated wire merchant wholesalers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42352": {
+              "title": "Coal and Other Mineral and Ore Merchant Wholesalers",
+              "desc": "See industry description for 423520.",
+              "childNodes": {
+                "423520": {
+                  "title": "Coal and Other Mineral and Ore Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of coal, coke, metal ores, and/or nonmetallic minerals (except precious and semiprecious stones and minerals used in construction, such as sand and gravel).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4236": {
+          "title": "Household Appliances and Electrical and Electronic Goods Merchant Wholesalers",
+          "desc": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of electrical apparatus and equipment, wiring supplies, and related equipment; household appliances, electric housewares, and consumer electronics; and other electronic parts and equipment.\n",
+          "childNodes": {
+            "42361": {
+              "title": "Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers",
+              "desc": "See industry description for 423610.",
+              "childNodes": {
+                "423610": {
+                  "title": "Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of electrical construction materials; wiring supplies; electric light fixtures; light bulbs; and/or electrical power equipment for the generation, transmission, distribution, or control of electric energy.\n",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42362": {
+              "title": "Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers",
+              "desc": "See industry description for 423620.",
+              "childNodes": {
+                "423620": {
+                  "title": "Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of household-type gas and electric appliances (except water heaters and heating stoves (i.e., noncooking)), room air-conditioners, and/or household-type audio or video equipment.\n\nIllustrative Examples:\n\nHousehold-type sewing machines merchant wholesalers\nHousehold-type radios (including automotive) merchant wholesalers\t\nHousehold-type video cameras merchant wholesalers\nHousehold-type refrigerators merchant wholesalers\nTelevision sets merchant wholesalers\nToothbrushes, electric, merchant wholesalers\nCurling irons, electric, merchant wholesalers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42369": {
+              "title": "Other Electronic Parts and Equipment Merchant Wholesalers",
+              "desc": "See industry description for 423690.",
+              "childNodes": {
+                "423690": {
+                  "title": "Other Electronic Parts and Equipment Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of electronic parts and equipment (except electrical apparatus and equipment, wiring supplies, and construction materials; electrical and electronic appliances; and television sets and radios).\n\nIllustrative Examples:\n\nBlank compact discs (CDs) merchant wholesalers\nBlank digital video discs (DVDs) merchant wholesalers\nBroadcasting equipment merchant wholesalers\nCellular telephones merchant wholesalers\nCommunications equipment merchant wholesalers\nModems and routers merchant wholesalers\nRadar equipment merchant wholesalers\nTeleconferencing equipment merchant wholesalers\nUnloaded computer boards merchant wholesalers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4237": {
+          "title": "Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers",
+          "desc": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of hardware; plumbing and heating equipment and supplies (hydronics); warm air heating and air-conditioning equipment and supplies; and refrigeration equipment and supplies.\n",
+          "childNodes": {
+            "42371": {
+              "title": "Hardware Merchant Wholesalers",
+              "desc": "See industry description for 423710.",
+              "childNodes": {
+                "423710": {
+                  "title": "Hardware Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of hardware, knives, or handtools.\n\nIllustrative Examples:\n\nBrads merchant wholesalers\nCutlery merchant wholesalers\nKnives (except disposable plastics) merchant wholesalers\nPower handtools (e.g., drills, saws, sanders) merchant wholesalers\nFasteners (e.g., bolts, nuts, rivets, screws) merchant wholesalers\nStaples merchant wholesalers\nHandtools (except motor vehicle, machinists' precision) merchant wholesalers\nHardware (except motor vehicle) merchant wholesalers\nTacks merchant wholesalers\nKeys and locks merchant wholesalers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42372": {
+              "title": "Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers",
+              "desc": "See industry description for 423720.",
+              "childNodes": {
+                "423720": {
+                  "title": "Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of plumbing equipment, hydronic heating equipment, household-type water heaters, and/or supplies.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42373": {
+              "title": "Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers",
+              "desc": "See industry description for 423730.",
+              "childNodes": {
+                "423730": {
+                  "title": "Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of warm air heating and air-conditioning equipment and supplies.\n\nIllustrative Examples:\n\nAir pollution control equipment and supplies merchant wholesalers\nNonportable electric baseboard heaters merchant wholesalers\nAir-conditioning equipment (except room units) merchant wholesalers\nWarm air central heating equipment merchant wholesalers\nAutomotive air-conditioners merchant wholesalers\nDuctless heating and air-conditioning system equipment merchant wholesalers \n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42374": {
+              "title": "Refrigeration Equipment and Supplies Merchant Wholesalers",
+              "desc": "See industry description for 423740.",
+              "childNodes": {
+                "423740": {
+                  "title": "Refrigeration Equipment and Supplies Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of refrigeration equipment (except household-type refrigerators, freezers, and air-conditioners).\n\nIllustrative Examples:\n\nCold storage machinery merchant wholesalers\nRefrigerated display cases merchant wholesalers\nCommercial refrigerators merchant wholesalers\nWater coolers merchant wholesalers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4238": {
+          "title": "Machinery, Equipment, and Supplies Merchant Wholesalers",
+          "desc": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of construction, mining, farm, garden, industrial, service establishment, and transportation machinery, equipment, and supplies.\n",
+          "childNodes": {
+            "42381": {
+              "title": "Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers",
+              "desc": "See industry description for 423810.",
+              "childNodes": {
+                "423810": {
+                  "title": "Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of specialized machinery, equipment, and related parts generally used in construction, mining (except oil well), and logging activities.\n\nIllustrative Examples:\n\nExcavating machinery and equipment merchant wholesalers\nRoad construction and maintenance machinery merchant wholesalers\nForestry machinery and equipment merchant wholesalers\nScaffolding merchant wholesalers\nMining cranes merchant wholesalers\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42382": {
+              "title": "Farm and Garden Machinery and Equipment Merchant Wholesalers",
+              "desc": "See industry description for 423820.",
+              "childNodes": {
+                "423820": {
+                  "title": "Farm and Garden Machinery and Equipment Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of specialized machinery, equipment, and related parts generally used in agricultural, farm, and lawn and garden activities.\n\nIllustrative Examples:\n\nAnimal feeders merchant wholesalers\nLawnmowers merchant wholesalers\nMilking machinery and equipment merchant wholesalers\nHarvesting machinery and equipment merchant wholesalers\nPlanting machinery and equipment merchant wholesalers\n\n",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42383": {
+              "title": "Industrial Machinery and Equipment Merchant Wholesalers",
+              "desc": "See industry description for 423830.",
+              "childNodes": {
+                "423830": {
+                  "title": "Industrial Machinery and Equipment Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of specialized machinery, equipment, and related parts generally used in manufacturing, oil well, and warehousing activities.\n\nIllustrative Examples:\n\nFluid power transmission equipment merchant wholesalers\nMetalworking machinery and equipment merchant wholesalers\nFood processing machinery and equipment merchant wholesalers\nOil well machinery and equipment merchant wholesalers\nMaterial handling machinery and equipment merchant wholesalers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42384": {
+              "title": "Industrial Supplies Merchant Wholesalers",
+              "desc": "See industry description for 423840.",
+              "childNodes": {
+                "423840": {
+                  "title": "Industrial Supplies Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of supplies for machinery and equipment generally used in manufacturing, oil well, and warehousing activities.\n\nIllustrative Examples:\n\nIndustrial containers merchant wholesalers\nIndustrial diamonds merchant wholesalers\nPrinting inks merchant wholesalers\nIndustrial sand merchant wholesalers\nRefractory materials (e.g., brick, blocks, shapes) merchant wholesalers\nWelding supplies (except welding gases) merchant wholesalers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42385": {
+              "title": "Service Establishment Equipment and Supplies Merchant Wholesalers",
+              "desc": "See industry description for 423850.",
+              "childNodes": {
+                "423850": {
+                  "title": "Service Establishment Equipment and Supplies Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of specialized equipment and supplies of the type used by service establishments (except specialized equipment and supplies used in offices, stores, hotels, restaurants, schools, health and medical facilities, photographic facilities, and specialized equipment used in transportation and construction activities).\n\nIllustrative Examples:\n\nAmusement park equipment merchant wholesalers\nBeauty parlor equipment and supplies merchant wholesalers\nCar wash equipment and supplies merchant wholesalers\nDrycleaning equipment and supplies merchant wholesalers\nVoting machines merchant wholesalers\nJanitorial equipment and supplies merchant wholesalers\nUndertakers' equipment and supplies merchant wholesalers\nUpholsterers' equipment and supplies (except fabrics) merchant wholesalers\nWater treatment equipment, municipal, merchant wholesalers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42386": {
+              "title": "Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers",
+              "desc": "See industry description for 423860.",
+              "childNodes": {
+                "423860": {
+                  "title": "Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of transportation equipment and supplies (except marine pleasure craft and motor vehicles).\n\nIllustrative Examples:\n\nAircraft merchant wholesalers\nRailroad cars merchant wholesalers\nShips merchant wholesalers\nMotorized passenger golf carts merchant wholesalers\nBoats (except pleasure) merchant wholesalers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4239": {
+          "title": "Miscellaneous Durable Goods Merchant Wholesalers",
+          "desc": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of sporting, recreational, toy, hobby, and jewelry goods and supplies, and precious stones and metals.\n",
+          "childNodes": {
+            "42391": {
+              "title": "Sporting and Recreational Goods and Supplies Merchant Wholesalers",
+              "desc": "See industry description for 423910.",
+              "childNodes": {
+                "423910": {
+                  "title": "Sporting and Recreational Goods and Supplies Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of sporting goods and accessories; billiard and pool supplies; sporting firearms and ammunition; and/or marine pleasure craft, equipment, and supplies.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42392": {
+              "title": "Toy and Hobby Goods and Supplies Merchant Wholesalers",
+              "desc": "See industry description for 423920.",
+              "childNodes": {
+                "423920": {
+                  "title": "Toy and Hobby Goods and Supplies Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of games, toys, fireworks, playing cards, hobby goods and supplies, and/or related goods.\n",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42393": {
+              "title": "Recyclable Material Merchant Wholesalers",
+              "desc": "See industry description for 423930.",
+              "childNodes": {
+                "423930": {
+                  "title": "Recyclable Material Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of automotive scrap, industrial scrap, and other recyclable materials.  Included in this industry are auto wreckers primarily engaged in dismantling motor vehicles for the purpose of wholesaling scrap.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42394": {
+              "title": "Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers",
+              "desc": "See industry description for 423940.",
+              "childNodes": {
+                "423940": {
+                  "title": "Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of jewelry, precious and semiprecious stones, precious metals and metal flatware, costume jewelry, watches, clocks, silverware, and/or jewelers' findings.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42399": {
+              "title": "Other Miscellaneous Durable Goods Merchant Wholesalers",
+              "desc": "See industry description for 423990.",
+              "childNodes": {
+                "423990": {
+                  "title": "Other Miscellaneous Durable Goods Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of durable goods (except motor vehicles and motor vehicle parts and supplies; furniture and home furnishings; lumber and other construction materials; professional and commercial equipment and supplies; metals and minerals (except petroleum); electrical goods; hardware, and plumbing and heating equipment and supplies; machinery, equipment, and supplies; sporting and recreational goods and supplies; toy and hobby goods and supplies; recyclable materials; and jewelry, watches, precious stones, and precious metals).\n\nIllustrative Examples:\n\nFirearms (except sporting) merchant wholesalers\nMusical instruments merchant wholesalers\nLuggage merchant wholesalers\nMonuments and grave markers merchant wholesalers\nPrerecorded compact discs (CDs) and digital video discs (DVDs) merchant wholesalers\nTimber and timber products (except lumber) merchant wholesalers\nPersonal safety devices and supplies (e.g., eye shields, face shields, nonelectric respirators) merchant wholesalers\nSigns (except electrical) merchant wholesalers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "424": {
+      "title": "Merchant Wholesalers, Nondurable Goods",
+      "desc": "Industries in the Merchant Wholesalers, Nondurable Goods subsector sell nondurable goods to other businesses.  Nondurable goods are items generally with a normal life expectancy of less than three years.  Nondurable goods merchant wholesale trade establishments are engaged in wholesaling products, such as paper and paper products, chemicals and chemical products, drugs, textiles and textile products, apparel, footwear, groceries, farm products, petroleum and petroleum products, alcoholic beverages, books, magazines, newspapers, flowers and nursery stock, and tobacco products.\n\nThe detailed industries within the subsector are organized in the classification structure based on the products sold.\n\nAgents and brokers primarily engaged in wholesaling nondurable goods, generally on a commission or fee basis, are classified in Subsector 425, Wholesale Trade Agents and Brokers.\n",
+      "childNodes": {
+        "4241": {
+          "title": "Paper and Paper Product Merchant Wholesalers",
+          "desc": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of bulk printing and writing paper; stationery and office supplies; and industrial and personal service paper. \n",
+          "childNodes": {
+            "42411": {
+              "title": "Printing and Writing Paper Merchant Wholesalers",
+              "desc": "See industry description for 424110.",
+              "childNodes": {
+                "424110": {
+                  "title": "Printing and Writing Paper Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of bulk printing and/or writing paper generally on rolls for further processing.\n\nIllustrative Examples:\n\nBulk envelope paper merchant wholesalers\nBulk paper (e.g., fine, printing, writing) merchant wholesalers\nBulk groundwood paper merchant wholesalers\nNewsprint merchant wholesalers \n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42412": {
+              "title": "Stationery and Office Supplies Merchant Wholesalers",
+              "desc": "See industry description for 424120.",
+              "childNodes": {
+                "424120": {
+                  "title": "Stationery and Office Supplies Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of stationery, office supplies, and/or gift wrap.\n\nIllustrative Examples:\n\nPhotocopy supplies merchant wholesalers\nEnvelopes merchant wholesalers\nSocial stationery merchant wholesalers\nFile cards and folders merchant wholesalers\nGreeting cards merchant wholesalers\nOffice paper (e.g., printer, copier) merchant wholesalers\nWriting pens merchant wholesalers\nPencils merchant wholesalers\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42413": {
+              "title": "Industrial and Personal Service Paper Merchant Wholesalers",
+              "desc": "See industry description for 424130.",
+              "childNodes": {
+                "424130": {
+                  "title": "Industrial and Personal Service Paper Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of kraft wrapping and other coarse paper, paperboard, converted paper (except stationery and office supplies), and/or related disposable plastics products.\n\nIllustrative Examples:\n\nCorrugated paper merchant wholesalers\nPaper and disposable plastics tableware (e.g., utensils, dishes, cups) merchant wholesalers\nPaper napkins merchant wholesalers\nPaperboard and disposable plastics boxes and containers merchant wholesalers\nPlastics bags merchant wholesalers\nPaper and disposable plastics shipping supplies merchant wholesalers\nPaper towels merchant wholesalers\nPaper bags merchant wholesalers\nSanitary paper products merchant wholesalers\nWrapping paper (except gift wrap) merchant wholesalers\nWaxed paper merchant wholesalers\nPlastics foam products, disposable (except packaging, packing), merchant wholesalers \n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4242": {
+          "title": "Drugs and Druggists' Sundries Merchant Wholesalers",
+          "desc": "NULL",
+          "childNodes": {
+            "42421": {
+              "title": "Drugs and Druggists' Sundries Merchant Wholesalers",
+              "desc": "See industry description for 424210.",
+              "childNodes": {
+                "424210": {
+                  "title": "Drugs and Druggists' Sundries Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of biological and medical products; botanical drugs and herbs; and pharmaceutical products intended for internal and/or external consumption in such forms as ampoules, tablets, capsules, vials, ointments, powders, solutions, and suspensions.\n\nIllustrative Examples:\n\nAntibiotics merchant wholesalers\nEndocrine substances merchant wholesalers\nBlood derivatives merchant wholesalers\nIn-vitro and in-vivo diagnostics merchant wholesalers\nDrugs merchant wholesalers\nBotanicals merchant wholesalers\nVaccines merchant wholesalers\nCosmetics merchant wholesalers\nVitamins merchant wholesalers\nVeterinarians' medicines merchant wholesalers\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4243": {
+          "title": "Apparel, Piece Goods, and Notions Merchant Wholesalers",
+          "desc": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of piece goods, notions, and other dry goods; footwear; and clothing and clothing accessories.\n",
+          "childNodes": {
+            "42431": {
+              "title": "Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers",
+              "desc": "See industry description for 424310.",
+              "childNodes": {
+                "424310": {
+                  "title": "Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of piece goods, fabrics, knitting yarns (except industrial), thread and other notions, and/or hair accessories.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42434": {
+              "title": "Footwear Merchant Wholesalers",
+              "desc": "See industry description for 424340.",
+              "childNodes": {
+                "424340": {
+                  "title": "Footwear Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of footwear of leather, rubber, and other materials, including athletic footwear (except specialty athletic footwear).\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42435": {
+              "title": "Clothing and Clothing Accessories Merchant Wholesalers",
+              "desc": "See industry description for 424350.",
+              "childNodes": {
+                "424350": {
+                  "title": "Clothing and Clothing Accessories Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of clothing and clothing accessories.\n\nIllustrative Examples:\n\nBaby bottles merchant wholesalers\nDiapers (except disposable) merchant wholesalers\nDresses merchant wholesalers\nFur clothing merchant wholesalers\nHandbags merchant wholesalers\nHosiery merchant wholesalers\nLingerie merchant wholesalers\nMillinery merchant wholesalers\nNightwear merchant wholesalers\nOuterwear merchant wholesalers\nSportswear merchant wholesalers\nSwimwear merchant wholesalers\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4244": {
+          "title": "Grocery and Related Product Merchant Wholesalers",
+          "desc": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of (1) a general line of groceries; (2) packaged frozen food; (3) dairy products; (4) poultry and poultry products; (5) confectioneries; (6) fish and seafood; (7) meats and meat products; (8) fresh fruits and vegetables; and (9) other grocery and related products.\n",
+          "childNodes": {
+            "42441": {
+              "title": "General Line Grocery Merchant Wholesalers",
+              "desc": "See industry description for 424410.",
+              "childNodes": {
+                "424410": {
+                  "title": "General Line Grocery Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of a general line (wide range) of groceries.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42442": {
+              "title": "Packaged Frozen Food Merchant Wholesalers",
+              "desc": "See industry description for 424420.",
+              "childNodes": {
+                "424420": {
+                  "title": "Packaged Frozen Food Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of packaged frozen foods (except dairy products).\n\nIllustrative Examples:\n\nFrozen bakery products merchant wholesalers\nPackaged frozen fish merchant wholesalers\nFrozen juices merchant wholesalers\nPackaged frozen meats merchant wholesalers\nFrozen vegetables merchant wholesalers\nPackaged frozen poultry merchant wholesalers\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42443": {
+              "title": "Dairy Product (except Dried or Canned) Merchant Wholesalers",
+              "desc": "See industry description for 424430.",
+              "childNodes": {
+                "424430": {
+                  "title": "Dairy Product (except Dried or Canned) Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of dairy products (except dried or canned).\n\nIllustrative Examples:\n\nButter merchant wholesalers\nFluid milk (except canned) merchant wholesalers\nCheese merchant wholesalers\nIce cream and ices merchant wholesalers\nCream merchant wholesalers\nYogurt merchant wholesalers \n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42444": {
+              "title": "Poultry and Poultry Product Merchant Wholesalers",
+              "desc": "See industry description for 424440.",
+              "childNodes": {
+                "424440": {
+                  "title": "Poultry and Poultry Product Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of poultry and/or poultry products (except canned and packaged frozen).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42445": {
+              "title": "Confectionery Merchant Wholesalers",
+              "desc": "See industry description for 424450.",
+              "childNodes": {
+                "424450": {
+                  "title": "Confectionery Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of confectioneries; salted or roasted nuts; popcorn; potato, corn, and similar chips; and/or fountain fruits and syrups.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42446": {
+              "title": "Fish and Seafood Merchant Wholesalers",
+              "desc": "See industry description for 424460.",
+              "childNodes": {
+                "424460": {
+                  "title": "Fish and Seafood Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of fish and seafood (except canned or packaged frozen).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42447": {
+              "title": "Meat and Meat Product Merchant Wholesalers",
+              "desc": "See industry description for 424470.",
+              "childNodes": {
+                "424470": {
+                  "title": "Meat and Meat Product Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of meats and meat products (except canned and packaged frozen) and/or lard.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42448": {
+              "title": "Fresh Fruit and Vegetable Merchant Wholesalers",
+              "desc": "See industry description for 424480.",
+              "childNodes": {
+                "424480": {
+                  "title": "Fresh Fruit and Vegetable Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of fresh fruits and vegetables.\n",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42449": {
+              "title": "Other Grocery and Related Products Merchant Wholesalers",
+              "desc": "See industry description for 424490.",
+              "childNodes": {
+                "424490": {
+                  "title": "Other Grocery and Related Products Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of groceries and related products (except a general line of groceries; packaged frozen food; dairy products (except dried and canned); poultry products (except canned); confectioneries; fish and seafood (except canned); meat products (except canned); and fresh fruits and vegetables).  Included in this industry are establishments primarily engaged in the bottling and merchant wholesale distribution of spring and mineral waters processed by others.\n\nIllustrative Examples:\n\nBakery products (except frozen) merchant wholesalers\nCanned seafood merchant wholesalers\nCanned fish merchant wholesalers\nCanned vegetables merchant wholesalers\nCanned fruits merchant wholesalers\nDried milk merchant wholesalers\nCanned meats merchant wholesalers\nSoft drinks merchant wholesalers\nCanned milk merchant wholesalers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4245": {
+          "title": "Farm Product Raw Material Merchant Wholesalers",
+          "desc": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of agricultural products (except raw milk, live poultry, and fresh fruits and vegetables), such as grains, field beans, livestock, and other farm product raw materials (excluding seeds).\n",
+          "childNodes": {
+            "42451": {
+              "title": "Grain and Field Bean Merchant Wholesalers",
+              "desc": "See industry description for 424510.",
+              "childNodes": {
+                "424510": {
+                  "title": "Grain and Field Bean Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of grains, such as corn, wheat, oats, barley, and unpolished rice; dry beans; and soybeans and other inedible beans.  Included in this industry are establishments primarily engaged in operating country or terminal grain elevators primarily for the purpose of wholesaling.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42452": {
+              "title": "Livestock Merchant Wholesalers",
+              "desc": "See industry description for 424520.",
+              "childNodes": {
+                "424520": {
+                  "title": "Livestock Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of livestock (except horses and mules).\n\nIllustrative Examples:\n\nCattle merchant wholesalers\nHogs merchant wholesalers\nGoats merchant wholesalers\nSheep merchant wholesalers\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42459": {
+              "title": "Other Farm Product Raw Material Merchant Wholesalers",
+              "desc": "See industry description for 424590.",
+              "childNodes": {
+                "424590": {
+                  "title": "Other Farm Product Raw Material Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of farm products (except grain and field beans, livestock, raw milk, live poultry, and fresh fruits and vegetables).\n\nIllustrative Examples:\n\nChicks, live, merchant wholesalers\nHemp merchant wholesalers\nMules merchant wholesalers\nHides merchant wholesalers\nRaw cotton merchant wholesalers\nHorses merchant wholesalers\nNuts, unprocessed or shelled only, merchant wholesalers\nRaw pelts merchant wholesalers\nLeaf tobacco merchant wholesalers\nSod merchant wholesalers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4246": {
+          "title": "Chemical and Allied Products Merchant Wholesalers",
+          "desc": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of chemicals, plastics materials and basic forms and shapes, and allied products.\n",
+          "childNodes": {
+            "42461": {
+              "title": "Plastics Materials and Basic Forms and Shapes Merchant Wholesalers",
+              "desc": "See industry description for 424610.",
+              "childNodes": {
+                "424610": {
+                  "title": "Plastics Materials and Basic Forms and Shapes Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of plastics materials and resins, and unsupported plastics film, sheet, sheeting, rod, tube, and other basic forms and shapes.\n",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42469": {
+              "title": "Other Chemical and Allied Products Merchant Wholesalers",
+              "desc": "See industry description for 424690.",
+              "childNodes": {
+                "424690": {
+                  "title": "Other Chemical and Allied Products Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of chemicals and allied products (except agricultural and medicinal chemicals, paints and varnishes, fireworks, and plastics materials and basic forms and shapes).\n\nIllustrative Examples:\n\nAcids merchant wholesalers\nIndustrial chemicals merchant wholesalers\nAutomotive chemicals (except lubricating oils and greases) merchant wholesalers\nIndustrial salts merchant wholesalers\nDyestuffs merchant wholesalers\nRosins merchant wholesalers\nExplosives (except ammunition and fireworks) merchant wholesalers\nTurpentine merchant wholesalers \n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4247": {
+          "title": "Petroleum and Petroleum Products Merchant Wholesalers",
+          "desc": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of petroleum and petroleum products, including liquefied petroleum gas.\n",
+          "childNodes": {
+            "42471": {
+              "title": "Petroleum Bulk Stations and Terminals",
+              "desc": "See industry description for 424710.",
+              "childNodes": {
+                "424710": {
+                  "title": "Petroleum Bulk Stations and Terminals",
+                  "desc": "This industry comprises establishments with bulk liquid storage facilities primarily engaged in the merchant wholesale distribution of crude petroleum and petroleum products, including liquefied petroleum gas.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42472": {
+              "title": "Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)",
+              "desc": "See industry description for 424720.",
+              "childNodes": {
+                "424720": {
+                  "title": "Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of petroleum and petroleum products (except from bulk liquid storage facilities).\n\nIllustrative Examples:\n\nGasoline merchant wholesalers (except bulk stations, terminals)\nLubricating oil and grease merchant wholesalers (except bulk stations, terminals)\nBottled liquid petroleum gas merchant wholesalers\nFuel oil merchant wholesalers (except bulk stations, terminals)\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4248": {
+          "title": "Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers",
+          "desc": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of beer, ale, wine, and/or distilled alcoholic beverages.\n",
+          "childNodes": {
+            "42481": {
+              "title": "Beer and Ale Merchant Wholesalers",
+              "desc": "See industry description for 424810.",
+              "childNodes": {
+                "424810": {
+                  "title": "Beer and Ale Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of beer, ale, porter, and other fermented malt beverages.\n",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42482": {
+              "title": "Wine and Distilled Alcoholic Beverage Merchant Wholesalers",
+              "desc": "See industry description for 424820.",
+              "childNodes": {
+                "424820": {
+                  "title": "Wine and Distilled Alcoholic Beverage Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of wine, distilled alcoholic beverages, and/or neutral spirits and ethyl alcohol used in blended wines and distilled liquors.\n",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "4249": {
+          "title": "Miscellaneous Nondurable Goods Merchant Wholesalers",
+          "desc": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of nondurable goods, such as farm supplies; books, periodicals, and newspapers; flowers; nursery stock; paints; varnishes; tobacco and tobacco products; and other miscellaneous nondurable goods, such as cut Christmas trees and pet supplies.\n",
+          "childNodes": {
+            "42491": {
+              "title": "Farm Supplies Merchant Wholesalers",
+              "desc": "See industry description for 424910.",
+              "childNodes": {
+                "424910": {
+                  "title": "Farm Supplies Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of farm supplies, such as animal feeds, fertilizers, agricultural chemicals, pesticides, plant seeds, and plant bulbs.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42492": {
+              "title": "Book, Periodical, and Newspaper Merchant Wholesalers",
+              "desc": "See industry description for 424920.",
+              "childNodes": {
+                "424920": {
+                  "title": "Book, Periodical, and Newspaper Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of books, periodicals, and newspapers.\n",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42493": {
+              "title": "Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers",
+              "desc": "See industry description for 424930.",
+              "childNodes": {
+                "424930": {
+                  "title": "Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of flowers, florists' supplies, and/or nursery stock (except plant seeds and plant bulbs).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42494": {
+              "title": "Tobacco Product and Electronic Cigarette Merchant Wholesalers",
+              "desc": "See industry description for 424940.",
+              "childNodes": {
+                "424940": {
+                  "title": "Tobacco Product and Electronic Cigarette Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of tobacco products, such as cigarettes, snuff, cigars, pipe tobacco, and electronic cigarettes (including related parts and accessories).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42495": {
+              "title": "Paint, Varnish, and Supplies Merchant Wholesalers",
+              "desc": "See industry description for 424950.",
+              "childNodes": {
+                "424950": {
+                  "title": "Paint, Varnish, and Supplies Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of paints, varnishes, and similar coatings; pigments; wallpaper; and supplies, such as paintbrushes and rollers.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "42499": {
+              "title": "Other Miscellaneous Nondurable Goods Merchant Wholesalers",
+              "desc": "See industry description for 424990.",
+              "childNodes": {
+                "424990": {
+                  "title": "Other Miscellaneous Nondurable Goods Merchant Wholesalers",
+                  "desc": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of nondurable goods (except printing and writing paper; stationery and office supplies; industrial and personal service paper; drugs and druggists' sundries; apparel, piece goods, and notions; grocery and related products; farm product raw materials; chemical and allied products; petroleum and petroleum products; beer, wine, and distilled alcoholic beverages; farm supplies; books, periodicals, and newspapers; flowers, nursery stock, and florists' supplies; tobacco and tobacco products; and paint, varnishes, wallpaper, and supplies).\n\nIllustrative Examples:\n\nArtists' supplies merchant wholesalers\nPet supplies (except pet food) merchant wholesalers\nBurlap merchant wholesalers\nStatuary (except religious) merchant wholesalers\nChristmas trees (e.g., artificial, cut) merchant wholesalers\nTextile bags merchant wholesalers\nIndustrial yarns merchant wholesalers\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "425": {
+      "title": "Wholesale Trade Agents and Brokers",
+      "desc": "The Wholesale Trade Agents and Brokers subsector groups establishments that arrange for the sale of goods owned by others, generally on a fee or commission basis.  They act on behalf of the buyers and sellers of goods to facilitate wholesale trade.\n",
+      "childNodes": {
+        "4251": {
+          "title": "Wholesale Trade Agents and Brokers",
+          "desc": "NULL",
+          "childNodes": {
+            "42512": {
+              "title": "Wholesale Trade Agents and Brokers",
+              "desc": "See industry description for 425120.",
+              "childNodes": {
+                "425120": {
+                  "title": "Wholesale Trade Agents and Brokers",
+                  "desc": "This industry comprises wholesale trade agents and brokers acting on behalf of buyers or sellers in the wholesale distribution of goods, including those that use the Internet or other electronic means to bring together buyers and sellers.  Agents and brokers do not take title to the goods being sold but rather receive a commission or fee for their service.  Agents and brokers for all durable and nondurable goods are included in this industry.\n\nIllustrative Examples:\n\nIndependent sales representatives\nManufacturers' sales representatives\nGroup purchasing organizations (acting as agents for goods distribution)\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

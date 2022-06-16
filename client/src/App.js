@@ -16,9 +16,7 @@ import Blog from './pages/Blog';
 // STYLES // STYLES // STYLES // STYLES // STYLES 
 import {
   AppContainer,
-  HeaderContainer,
   RouteContainer,
-  FooterContainer
 } from './AppStyles';
 
 const App = () => {
@@ -53,9 +51,9 @@ const App = () => {
 
   return (
     <AppContainer>
-      <HeaderContainer>
-        <Navigation />
-      </HeaderContainer>
+      
+      <Navigation />
+      
       <RouteContainer>
         <Routes>
           <Route exact path='/' element={<Home/>}/>
@@ -68,9 +66,9 @@ const App = () => {
           <Route path='/contact' element={<Contact/>}/>
         </Routes>
       </RouteContainer>
-      <FooterContainer>
-        <Footer />
-      </FooterContainer>
+      
+      <Footer />
+      
     </AppContainer>    
 
   );

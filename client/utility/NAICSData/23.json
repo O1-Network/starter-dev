@@ -1,0 +1,407 @@
+{
+  "title": "ConstructionT",
+  "desc": "The Sector as a Whole\n\nThe Construction sector comprises establishments primarily engaged in the construction of buildings or engineering projects (e.g., highways and utility systems).  Establishments primarily engaged in the preparation of sites for new construction and establishments primarily engaged in subdividing land for sale as building sites also are included in this sector.\n\nConstruction work done may include new work, additions, alterations, or maintenance and repairs.  Activities of these establishments generally are managed at a fixed place of business, but they usually perform construction activities at multiple project sites.  Production responsibilities for establishments in this sector are usually specified in (1) contracts with the owners of construction projects (prime contracts) or (2) contracts with other construction establishments (subcontracts).\n\nEstablishments primarily engaged in contracts that include responsibility for all aspects of individual construction projects are commonly known as general contractors, but also may be known as design-builders, construction managers, turnkey contractors, or (in cases where two or more establishments jointly secure a general contract) joint-venture contractors.  Construction managers that provide oversight and scheduling only (i.e., agency) as well as construction managers that are responsible for the entire project (i.e., at risk) are included as general contractor type establishments.  Establishments of the \"general contractor type\" frequently arrange construction of separate parts of their projects through subcontracts with other construction establishments.\n\nEstablishments primarily engaged in activities to produce a specific component (e.g., masonry, painting, and electrical work) of a construction project are commonly known as specialty trade contractors.  Activities of specialty trade contractors are usually subcontracted from other construction establishments, but especially in remodeling and repair construction, the work may be done directly for the owner of the property.\n\nEstablishments primarily engaged in activities to construct buildings to be sold on sites that they own are known as for-sale builders, but also may be known as speculative builders or merchant builders.  For-sale builders produce buildings in a manner similar to general contractors, but their production processes also include site acquisition and securing of financial backing.  For-sale builders are most often associated with the construction of residential buildings.  Like general contractors, they may subcontract all or part of the actual construction work on their buildings.\n\nThere are substantial differences in the types of equipment, work force skills, and other inputs required by establishments in this sector.  To highlight these differences and variations in the underlying production functions, this sector is divided into three subsectors.\n\nSubsector 236, Construction of Buildings, comprises establishments of the general contractor type and for-sale builders involved in the construction of buildings.  Subsector 237, Heavy and Civil Engineering Construction, comprises establishments involved in the construction of engineering projects.  Subsector 238, Specialty Trade Contractors, comprises establishments engaged in specialty trade activities generally needed in the construction of all types of buildings.\n\nForce account construction is construction work performed by an enterprise primarily engaged in some business other than construction for its own account, using employees of the enterprise.  This activity is not included in the construction sector unless the construction work performed is the primary activity of a separate establishment of the enterprise.  The installation and the ongoing repair and maintenance of telecommunications and utility networks is excluded from construction when the establishments performing the work are not independent contractors.  Although a growing proportion of this work is subcontracted to independent contractors in the Construction sector, the operating units of telecommunications and utility companies performing this work are included with the telecommunications or utility activities.\n",
+  "childNodes": {
+    "236": {
+      "title": "Construction of BuildingsT",
+      "desc": "The Construction of Buildings subsector comprises establishments primarily responsible for the construction of buildings.  The work performed may include new work, additions, alterations, or maintenance and repairs.  The on-site assembly of precut, panelized, and prefabricated buildings and construction of temporary buildings are included in this subsector.  Part or all of the production work for which the establishments in this subsector have responsibility may be subcontracted to other construction establishments--usually specialty trade contractors.\n\nEstablishments in this subsector are classified based on the types of buildings they construct.  This classification reflects variations in the requirements of the underlying production processes.\n",
+      "childNodes": {
+        "2361": {
+          "title": "Residential Building ConstructionT",
+          "desc": "NULL",
+          "childNodes": {
+            "23611": {
+              "title": "Residential Building ConstructionT",
+              "desc": "This industry comprises establishments primarily responsible for the construction or remodeling and renovation of single-family and multifamily residential buildings.  Included in this industry are residential housing general contractors (i.e., new construction, remodeling, or renovating existing residential structures), for-sale builders and remodelers of residential structures, residential project construction management firms, and residential design-build firms.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "236115": {
+                  "title": "New Single-Family Housing Construction (except For-Sale Builders)",
+                  "desc": "This U.S. industry comprises general contractor establishments primarily responsible for the entire construction of new single-family housing, such as single-family detached houses and town houses or row houses where each housing unit (1) is separated from its neighbors by a ground-to-roof wall and (2) has no housing units constructed above or below.  This industry includes general contractors responsible for the on-site assembly of modular and prefabricated houses.  Single-family housing design-build firms and single-family construction management firms acting as general contractors are included in this industry.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "236116": {
+                  "title": "New Multifamily Housing Construction (except For-Sale Builders)",
+                  "desc": "This U.S. industry comprises general contractor establishments primarily responsible for the construction of new multifamily residential housing units (e.g., high-rise, garden, town house apartments, and condominiums where each unit is not separated from its neighbors by a ground-to-roof wall).  Multifamily design-build firms and multifamily housing construction management firms acting as general contractors are included in this industry.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "236117": {
+                  "title": "New Housing For-Sale Builders",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in building new homes on land that is owned or controlled by the builder rather than the homebuyer or investor.  The land is included with the sale of the home.  Establishments in this industry build single-family and/or multifamily homes.  These establishments are often referred to as merchant builders, but are also known as production or for-sale builders.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "236118": {
+                  "title": "Residential Remodelers",
+                  "desc": "This U.S. industry comprises establishments primarily responsible for the remodeling construction (including additions, alterations, reconstruction, maintenance, and repairs) of houses and other residential buildings, single-family and multifamily.  Included in this industry are remodeling general contractors, for-sale remodelers, remodeling design-build firms, and remodeling project construction management firms.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "2362": {
+          "title": "Nonresidential Building ConstructionT",
+          "desc": "This industry group comprises establishments primarily responsible for the construction (including new work, additions, alterations, maintenance, and repairs) of nonresidential buildings.  This industry group includes nonresidential general contractors, nonresidential for-sale builders, nonresidential design-build firms, and nonresidential project construction management firms.\n",
+          "childNodes": {
+            "23621": {
+              "title": "Industrial Building ConstructionT",
+              "desc": "See industry description for 236210.",
+              "childNodes": {
+                "236210": {
+                  "title": "Industrial Building Construction",
+                  "desc": "This industry comprises establishments primarily responsible for the construction (including new work, additions, alterations, maintenance, and repairs) of industrial buildings (except warehouses).  The construction of selected additional structures, whose production processes are similar to those for industrial buildings (e.g., incinerators, cement plants, blast furnaces, and similar nonbuilding structures), is included in this industry.  Included in this industry are industrial building general contractors, industrial building for-sale builders, industrial building design-build firms, and industrial building construction management firms.\n\nIllustrative Examples:\n\nAssembly plant construction\nFurnace, industrial plant, construction\nCannery construction\nMine loading and discharging station construction\nCement plant construction\nPaper or pulp mill construction\nSteel mill construction\nChemical plant (except petrochemical) construction\nPharmaceutical manufacturing plant construction\nFactory construction\nFood processing plant construction\nWaste disposal plant (except sewage treatment) construction\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "23622": {
+              "title": "Commercial and Institutional Building ConstructionT",
+              "desc": "See industry description for 236220.",
+              "childNodes": {
+                "236220": {
+                  "title": "Commercial and Institutional Building Construction",
+                  "desc": "This industry comprises establishments primarily responsible for the construction (including new work, additions, alterations, maintenance, and repairs) of commercial and institutional buildings and related structures, such as stadiums, grain elevators, and indoor swimming facilities.  This industry includes establishments responsible for the on-site assembly of modular or prefabricated commercial and institutional buildings.  Included in this industry are commercial and institutional building general contractors, commercial and institutional building for-sale builders, commercial and institutional building design-build firms, and commercial and institutional building project construction management firms.\n\nIllustrative Examples:\n\nAirport building construction\nOffice building construction\nArena construction\nParking garage construction\nBarrack construction\nPrison construction\nFarm building construction\nRadio and television broadcast studio construction\nFire station construction\nGrain elevator or bin construction\nData center construction\nReligious building (e.g., church, synagogue, mosque, temple) construction\nRestaurant construction\nHospital construction\nSchool building construction\nHotel construction\nShopping mall construction\nIndoor swimming facility construction\nWarehouse construction (e.g., commercial, industrial, manufacturing, private)\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "237": {
+      "title": "Heavy and Civil Engineering ConstructionT",
+      "desc": "The Heavy and Civil Engineering Construction subsector comprises establishments whose primary activity is the construction of entire engineering projects (e.g., highways and dams), and specialty trade contractors, whose primary activity is the production of a specific component for such projects.  Specialty trade contractors in the Heavy and Civil Engineering Construction subsector generally are performing activities that are specific to heavy and civil engineering construction projects and are not normally performed on buildings.  The work performed may include new work, additions, alterations, or maintenance and repairs. \n\nSpecialty trade activities are classified in this subsector if the skills and equipment present are specific to heavy or civil engineering construction projects.  For example, specialized equipment is needed to paint lines on highways.  This equipment is not normally used in building applications so the activity is classified in this subsector.  Traffic signal installation, while specific to highways, uses much of the same skills and equipment that are needed for electrical work in building projects and is therefore classified in Subsector 238, Specialty Trade Contractors.\n\nConstruction projects involving water resources (e.g., dredging and land drainage) and projects involving open space improvement (e.g., parks and trails) are included in this subsector.  Establishments whose primary activity is the subdivision of land into individual building lots usually perform various additional site-improvement activities (e.g., road building and utility line installation) and are included in this subsector. \n\nEstablishments in this subsector are classified based on the types of structures that they construct.  This classification reflects variations in the requirements of the underlying production processes.\n",
+      "childNodes": {
+        "2371": {
+          "title": "Utility System ConstructionT",
+          "desc": "This industry group comprises establishments primarily engaged in the construction of distribution lines and related buildings and structures for utilities (i.e., water, sewer, petroleum, gas, power, and communication).  All structures (including buildings) that are integral parts of utility systems (e.g., storage tanks, pumping stations, power plants, and refineries) are included in this industry group.\n",
+          "childNodes": {
+            "23711": {
+              "title": "Water and Sewer Line and Related Structures ConstructionT",
+              "desc": "See industry description for 237110.",
+              "childNodes": {
+                "237110": {
+                  "title": "Water and Sewer Line and Related Structures Construction",
+                  "desc": "This industry comprises establishments primarily engaged in the construction of water and sewer lines, mains, pumping stations, treatment plants, and storage tanks.  The work performed may include new work, reconstruction, rehabilitation, and repairs.  Specialty trade contractors are included in this industry if they are engaged in activities primarily related to water, sewer line, and related structures construction.  All structures (including buildings) that are integral parts of water and sewer networks (e.g., storage tanks, pumping stations, water treatment plants, and sewage treatment plants) are included in this industry.\n\nIllustrative Examples:\n\nDistribution line, sewer and water, construction\nSewer main, pipe and connection, construction\nFire hydrant installation\nStorm sewer construction\nIrrigation systems construction\nWater main and line construction\nSewage disposal plant construction\nWater treatment plant construction\nPumping station, water and sewage system, construction\nWater system storage tank and tower construction\nReservoir construction\nWater well drilling, digging, boring, or sinking (except water intake wells in oil and gas fields)\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "23712": {
+              "title": "Oil and Gas Pipeline and Related Structures ConstructionT",
+              "desc": "See industry description for 237120.",
+              "childNodes": {
+                "237120": {
+                  "title": "Oil and Gas Pipeline and Related Structures Construction",
+                  "desc": "This industry comprises establishments primarily engaged in the construction of oil and gas lines, mains, refineries, and storage tanks.  The work performed may include new work, reconstruction, rehabilitation, and repairs.  Specialty trade contractors are included in this industry if they are engaged in activities primarily related to oil and gas pipeline and related structures construction.  All structures (including buildings) that are integral parts of oil and gas networks (e.g., storage tanks, pumping stations, and refineries) are included in this industry.\n\nIllustrative Examples:\n\nDistribution line, gas and oil, construction\nOil refinery construction\nGas main construction\nPetrochemical plant construction\nGathering line, gas and oil field, construction\nNatural gas pipeline construction\nPumping station, gas and oil transmission, construction\nStorage tank, natural gas or oil, tank farm or field, construction\nNatural gas processing plant construction\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "23713": {
+              "title": "Power and Communication Line and Related Structures ConstructionT",
+              "desc": "See industry description for 237130.",
+              "childNodes": {
+                "237130": {
+                  "title": "Power and Communication Line and Related Structures Construction",
+                  "desc": "This industry comprises establishments primarily engaged in the construction of power lines and towers, power plants, and radio, television, and telecommunications transmitting/receiving towers.  The work performed may include new work, reconstruction, rehabilitation, and repairs.  Specialty trade contractors are included in this industry if they are engaged in activities primarily related to power and communication line and related structures construction.  All structures (including buildings) that are integral parts of power and communication networks (e.g., transmitting towers, substations, and power plants) are included.\n\nIllustrative Examples:\n\nAlternative energy (e.g., geothermal, ocean wave, solar, wind) structure construction\nPower line stringing\nCellular phone tower construction\nRadio transmitting tower construction\nCo-generation plant construction\nSatellite receiving station construction\nCommunication tower construction\nNuclear power plant construction\nTelephone line stringing\nElectric light and power plant (except hydroelectric) construction\nTransformer station and substation, electric power, construction\nElectric power transmission line and tower construction\nUnderground cable (e.g., fiber optic, electricity, telephone, cable television) laying\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "2372": {
+          "title": "Land SubdivisionT",
+          "desc": "NULL",
+          "childNodes": {
+            "23721": {
+              "title": "Land SubdivisionT",
+              "desc": "See industry description for 237210.",
+              "childNodes": {
+                "237210": {
+                  "title": "Land Subdivision",
+                  "desc": "This industry comprises establishments primarily engaged in servicing land and subdividing real property into lots, for subsequent sale to builders.  Servicing of land may include excavation work for the installation of roads and utility lines.  The extent of work may vary from project to project.  Land subdivision precedes building activity and the subsequent building is often residential, but may also be commercial tracts and industrial parks.  These establishments may do all the work themselves or subcontract the work to others.  Establishments that perform only the legal subdivision of land are not included in this industry.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "2373": {
+          "title": "Highway, Street, and Bridge ConstructionT",
+          "desc": "NULL",
+          "childNodes": {
+            "23731": {
+              "title": "Highway, Street, and Bridge ConstructionT",
+              "desc": "See industry description for 237310.",
+              "childNodes": {
+                "237310": {
+                  "title": "Highway, Street, and Bridge Construction",
+                  "desc": "This industry comprises establishments primarily engaged in the construction of highways (including elevated), streets, roads, airport runways, public sidewalks, or bridges.  The work performed may include new work, reconstruction, rehabilitation, and repairs.  Specialty trade contractors are included in this industry if they are engaged in activities primarily related to highway, street, and bridge construction (e.g., installing guardrails on highways).\n\nIllustrative Examples:\n\nAirport runway construction\nHighway line painting\nCauseway construction\nPainting traffic lanes or parking lot lines\nCulverts, highway, road, and street, construction\nPothole filling, highway, road, street, or bridge\nElevated highway construction\nResurfacing, highway, road, street, or bridge\nGuardrail construction\nSign erection, highway, road, street, or bridge \n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "2379": {
+          "title": "Other Heavy and Civil Engineering ConstructionT",
+          "desc": "NULL",
+          "childNodes": {
+            "23799": {
+              "title": "Other Heavy and Civil Engineering ConstructionT",
+              "desc": "See industry description for 237990.",
+              "childNodes": {
+                "237990": {
+                  "title": "Other Heavy and Civil Engineering Construction",
+                  "desc": "This industry comprises establishments primarily engaged in heavy and civil engineering construction projects (excluding highway, street, bridge, and distribution line construction).  The work performed may include new work, reconstruction, rehabilitation, and repairs.  Specialty trade contractors are included in this industry if they are engaged in activities primarily related to heavy and civil engineering construction projects (excluding highway, street, bridge, distribution line, oil and gas structure, and utilities building and structure construction).  Construction projects involving water resources (e.g., dredging and land drainage), development of marine facilities, and projects involving open space improvement (e.g., parks and trails) are included in this industry.\n\nIllustrative Examples:\n\nChannel construction\nLand drainage contractors\nDam construction\nMarine construction\nDock construction\nMicrotunneling contractors\nDredging (e.g., canal, channel, ditch, waterway)\nNuclear waste disposal site construction\nEarth retention system construction\nFlood control project construction\nPark ground and recreational open space improvement construction\nRailroad construction\nGolf course construction\nSubway construction\nHorizontal drilling (e.g., cable, pipeline, sewer installation)\nTrenching, underwater\nHydroelectric generating station construction\nTunnel construction \n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "238": {
+      "title": "Specialty Trade ContractorsT",
+      "desc": "The Specialty Trade Contractors subsector comprises establishments whose primary activity is performing specific activities (e.g., pouring concrete, site preparation, plumbing, painting, and electrical work) involved in building construction or other activities that are similar for all types of construction, but that are not responsible for the entire project.  The work performed may include new work, additions, alterations, maintenance, and repairs.  The production work performed by establishments in this subsector is usually subcontracted from establishments of the general contractor type or for-sale builders, but especially in remodeling and repair construction, work also may be done directly for the owner of the property.  Specialty trade contractors usually perform most of their work at the construction site, although they may have shops where they perform prefabrication and other work.  Establishments primarily engaged in preparing sites for new construction are also included in this subsector.\n\nThere are substantial differences in types of equipment, work force skills, and other inputs required by specialty trade contractors.  Establishments in this subsector are classified based on the underlying production function for the specialty trade in which they specialize.  Throughout the Specialty Trade Contractors subsector, establishments commonly provide both the parts and labor required to complete work.  For example, electrical contractors supply the current-carrying and noncurrent-carrying wiring devices that are required to install a circuit.  Plumbing, heating, and air-conditioning contractors also supply the parts required to complete a contract. \n\nEstablishments that specialize in activities primarily related to heavy and civil engineering construction that are not normally performed on buildings, such as the painting of lines on highways, are classified in Subsector 237, Heavy and Civil Engineering Construction.\n\nEstablishments that are primarily engaged in selling construction materials are classified in Sector 42, Wholesale Trade, or Sector 44-45, Retail Trade, based on the characteristics of the selling unit.\n",
+      "childNodes": {
+        "2381": {
+          "title": "Foundation, Structure, and Building Exterior ContractorsT",
+          "desc": "This industry group comprises establishments primarily engaged in the specialty trades needed to complete the basic structure (i.e., foundation, frame, and shell) of buildings.  The work performed may include new work, additions, alterations, maintenance, and repairs.\n",
+          "childNodes": {
+            "23811": {
+              "title": "Poured Concrete Foundation and Structure Contractors",
+              "desc": "See industry description for 238110.",
+              "childNodes": {
+                "238110": {
+                  "title": "Poured Concrete Foundation and Structure Contractors",
+                  "desc": "This industry comprises establishments primarily engaged in pouring and finishing concrete foundations and structural elements.  This industry also includes establishments performing grout and shotcrete work.  The work performed may include new work, additions, alterations, maintenance, and repairs.\n\nIllustrative Examples:\n\nConcrete pouring and finishing\nGunite contractors\nConcrete pumping (i.e., placement)\nMud-jacking contractors\nConcrete work (except paving)\nShotcrete contractors\nFooting and foundation concrete contractors\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "23812": {
+              "title": "Structural Steel and Precast Concrete Contractors",
+              "desc": "See industry description for 238120.",
+              "childNodes": {
+                "238120": {
+                  "title": "Structural Steel and Precast Concrete Contractors",
+                  "desc": "This industry comprises establishments primarily engaged in (1) erecting and assembling structural parts made from steel or precast concrete (e.g., steel beams, structural steel components, and similar products of precast concrete) and/or (2) assembling and installing other steel construction products (e.g., steel rods, bars, rebar, mesh, and cages) to reinforce poured-in-place concrete.  The work performed may include new work, additions, alterations, maintenance, and repairs.\n\nIllustrative Examples:\n\nConcrete product (e.g., structural precast, structural prestressed) installation\nRebar contractors\nErecting structural steel\nReinforcing steel contractors\nPlacing and tying reinforcing rod at a construction site\nStructural steel contractors\nPrecast concrete panel, slab, or form installation\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "23813": {
+              "title": "Framing Contractors",
+              "desc": "See industry description for 238130.",
+              "childNodes": {
+                "238130": {
+                  "title": "Framing Contractors",
+                  "desc": "This industry comprises establishments primarily engaged in structural framing and sheathing using materials other than structural steel or concrete.  The work performed may include new work, additions, alterations, maintenance, and repairs.\n\nIllustrative Examples:\n\nBuilding framing (except structural steel)\nPost framing contractors\nFoundation, building, wood, contractors\nSteel framing contractors\nFraming contractors\nWood frame component (e.g., truss) fabrication on site\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "23814": {
+              "title": "Masonry Contractors",
+              "desc": "See industry description for 238140.",
+              "childNodes": {
+                "238140": {
+                  "title": "Masonry Contractors",
+                  "desc": "This industry comprises establishments primarily engaged in masonry work, stone setting, bricklaying, and other stone work. The work performed may include new work, additions, alterations, maintenance, and repairs.\n\nIllustrative Examples:\n\nBlock laying\nMarble, granite, and slate, exterior, contractors\nBricklaying\nMasonry pointing, cleaning, or caulking\nConcrete block laying\nStucco contractors\nFoundation (e.g., brick, block, stone), building, contractors\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "23815": {
+              "title": "Glass and Glazing Contractors",
+              "desc": "See industry description for 238150.",
+              "childNodes": {
+                "238150": {
+                  "title": "Glass and Glazing Contractors",
+                  "desc": "This industry comprises establishments primarily engaged in installing glass panes in prepared openings (i.e., glazing work) and other glass work for buildings.  The work performed may include new work, additions, alterations, maintenance, and repairs.\n\nIllustrative Examples:\n\nDecorative glass and mirror installation\nGlazing contractors\nGlass cladding installation\nStained glass installation\nWindow pane or sheet installation\nGlass coating and tinting (except automotive) contractors\nGlass installation (except automotive) contractors\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "23816": {
+              "title": "Roofing Contractors",
+              "desc": "See industry description for 238160.",
+              "childNodes": {
+                "238160": {
+                  "title": "Roofing Contractors",
+                  "desc": "This industry comprises establishments primarily engaged in roofing.  This industry also includes establishments treating roofs (i.e., spraying, painting, or coating) and installing skylights.  The work performed may include new work, additions, alterations, maintenance, and repairs.\n\nIllustrative Examples:\n\nPainting, spraying, or coating, roof\nSheet metal roofing installation\nShake and shingle, roof, installation\t\nSkylight installation\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "23817": {
+              "title": "Siding Contractors",
+              "desc": "See industry description for 238170.",
+              "childNodes": {
+                "238170": {
+                  "title": "Siding Contractors",
+                  "desc": "This industry comprises establishments primarily engaged in installing siding of wood, aluminum, vinyl, or other exterior finish material (except brick, stone, stucco, or curtain wall).  This industry also includes establishments installing gutters and downspouts.  The work performed may include new work, additions, alterations, maintenance, and repairs.\n\nIllustrative Examples:\n\nDownspout, gutter, and gutter guard installation\nFascia and soffit installation\nSiding (e.g., vinyl, wood, aluminum) installation\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "23819": {
+              "title": "Other Foundation, Structure, and Building Exterior Contractors",
+              "desc": "See industry description for 238190.",
+              "childNodes": {
+                "238190": {
+                  "title": "Other Foundation, Structure, and Building Exterior Contractors",
+                  "desc": "This industry comprises establishments primarily engaged in building foundation and structure trades work (except poured concrete, structural steel, precast concrete, framing, masonry, glass and glazing, roofing, and siding).  The work performed may include new work, additions, alterations, maintenance, and repairs.\n\nIllustrative Examples:\n\nCurtain wall, metal, installation\nForms for poured concrete, erecting and dismantling\nWelding, on-site, contractors\nOrnamental metal work installation\nFire escape installation\nDecorative steel and wrought iron work installation\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "2382": {
+          "title": "Building Equipment ContractorsT",
+          "desc": "This industry group comprises establishments primarily engaged in installing or servicing equipment that forms part of a building mechanical system (e.g., electricity, water, heating, and cooling).  The work performed may include new work, additions, alterations, maintenance, and repairs.  Contractors installing specialized building equipment, such as elevators, escalators, service station equipment, and central vacuum cleaning systems, are also included.\n",
+          "childNodes": {
+            "23821": {
+              "title": "Electrical Contractors and Other Wiring Installation ContractorsT",
+              "desc": "See industry description for 238210.",
+              "childNodes": {
+                "238210": {
+                  "title": "Electrical Contractors and Other Wiring Installation Contractors",
+                  "desc": "This industry comprises establishments primarily engaged in installing and servicing electrical wiring and equipment.  Contractors included in this industry may include both the parts and labor when performing work.  These contractors may perform new work, additions, alterations, maintenance, and repairs.\n\nIllustrative Examples:\n\nAirport runway lighting contractors\nFiber optic cable (except transmission line) contractors\nAlarm system (e.g., fire, burglar), electric, installation only\nHighway, street, and bridge lighting and electrical signal installation\nAudio equipment (except automotive) installation contractors\nHome automation system installation\nLighting system installation\nCable television hookup contractors\nTelecommunications equipment and wiring (except transmission line) installation contractors\nComputer and network cable installation\nTraffic signal installation\nEnvironmental control system installation\nCable splicing, electrical or fiber optic\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "23822": {
+              "title": "Plumbing, Heating, and Air-Conditioning ContractorsT",
+              "desc": "See industry description for 238220.",
+              "childNodes": {
+                "238220": {
+                  "title": "Plumbing, Heating, and Air-Conditioning Contractors",
+                  "desc": "This industry comprises establishments primarily engaged in installing and servicing plumbing, heating, and air-conditioning equipment.  Contractors in this industry may provide both parts and labor when performing work.  The work performed may include new work, additions, alterations, maintenance, and repairs.\n\nIllustrative Examples:\n\nCooling tower installation\nHeating, ventilation, and air-conditioning (HVAC) contractors\nDuct work (e.g., cooling, dust collection, exhaust, heating, ventilation) installation\nLawn sprinkler system installation\nFire sprinkler system installation\nMechanical contractors\nFireplace, natural gas, installation\nRefrigeration system (e.g., commercial, industrial, scientific) installation\nFurnace installation\nSewer hookup and connection, building\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "23829": {
+              "title": "Other Building Equipment ContractorsT",
+              "desc": "See industry description for 238290.",
+              "childNodes": {
+                "238290": {
+                  "title": "Other Building Equipment Contractors",
+                  "desc": "This industry comprises establishments primarily engaged in installing or servicing building equipment (except electrical, plumbing, heating, cooling, or ventilation equipment).  The repair and maintenance of miscellaneous building equipment is included in this industry.  The work performed may include new work, additions, alterations, maintenance, and repairs.\n\nIllustrative Examples:\n\nAutomated and revolving door installation\nLightning protection equipment (e.g., lightning rod) installation\nBoiler and pipe insulation installation\nMachine rigging\nCommercial-type door installation\nMillwrights\nConveyor system installation\nRevolving door installation\nOverhead door, commercial- or industrial-type, installation\nDismantling large-scale machinery and equipment\nElevator installation\nSatellite dish, household-type, installation\nEscalator installation\nVacuum cleaning system, built-in, installation\nGasoline pump, service station, installation\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "2383": {
+          "title": "Building Finishing ContractorsT",
+          "desc": "This industry group comprises establishments primarily engaged in the specialty trades needed to finish buildings.  The work performed may include new work, additions, alterations, maintenance, and repairs.\n",
+          "childNodes": {
+            "23831": {
+              "title": "Drywall and Insulation ContractorsT",
+              "desc": "See industry description for 238310.",
+              "childNodes": {
+                "238310": {
+                  "title": "Drywall and Insulation Contractors",
+                  "desc": "This industry comprises establishments primarily engaged in drywall, plaster work, and building insulation work.  Plaster work includes applying plain or ornamental plaster, and installation of lath to receive plaster.  The work performed may include new work, additions, alterations, maintenance, and repairs.  Establishments primarily engaged in providing firestop services are included in this industry.\n\nIllustrative Examples:\n\nAcoustical ceiling tile and panel installation\nLathing contractors\nDrop ceiling installation\nPlastering (i.e., ornamental, plain) contractors\nDrywall contractors\nSoundproofing contractors\nFirestop contractors\nFresco (i.e., decorative plaster finishing) contractors\nTaping and finishing drywall\nGypsum board installation\nWall cavity and attic space insulation installation\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "23832": {
+              "title": "Painting and Wall Covering ContractorsT",
+              "desc": "See industry description for 238320.",
+              "childNodes": {
+                "238320": {
+                  "title": "Painting and Wall Covering Contractors",
+                  "desc": "This industry comprises establishments primarily engaged in interior or exterior painting or interior wall covering.  The work performed may include new work, additions, alterations, maintenance, and repairs.\n\nIllustrative Examples:\n\nBridge painting\nPaperhanging or removal contractors\nHouse painting\nShip painting contractors\nPaint and wallpaper stripping\nWallpaper hanging and removal contractors\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "23833": {
+              "title": "Flooring ContractorsT",
+              "desc": "See industry description for 238330.",
+              "childNodes": {
+                "238330": {
+                  "title": "Flooring Contractors",
+                  "desc": "This industry comprises establishments primarily engaged in the installation of resilient floor tile, carpeting, linoleum, and hardwood flooring.  The work performed may include new work, additions, alterations, maintenance, and repairs.\n\nIllustrative Examples:\n\nCarpet, installation only\nResilient floor tile or sheet (e.g., linoleum, rubber, vinyl), installation only\nVinyl flooring contractors\nResurfacing hardwood flooring\nHardwood flooring, installation only\nFloor laying, scraping, finishing, and refinishing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "23834": {
+              "title": "Tile and Terrazzo ContractorsT",
+              "desc": "See industry description for 238340.",
+              "childNodes": {
+                "238340": {
+                  "title": "Tile and Terrazzo Contractors",
+                  "desc": "This industry comprises establishments primarily engaged in setting and installing ceramic tile, stone (interior only), and mosaic and/or mixing marble particles and cement to make terrazzo at the job site.  The work performed may include new work, additions, alterations, maintenance, and repairs.\n\nIllustrative Examples:\n\nCeramic tile installation\nMosaic work\nMantel, marble or stone, installation\nTile (except resilient) laying and setting\nStone flooring installation\nMarble, granite, and slate, interior installation contractors\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "23835": {
+              "title": "Finish Carpentry ContractorsT",
+              "desc": "See industry description for 238350.",
+              "childNodes": {
+                "238350": {
+                  "title": "Finish Carpentry Contractors",
+                  "desc": "This industry comprises establishments primarily engaged in finish carpentry work.  The work performed may include new work, additions, alterations, maintenance, and repairs.\n\nIllustrative Examples:\n\nBuilt-in wood cabinets constructed on site\nMolding or trim, wood or plastic, installation\nCountertop (except ceramic tile or stone), residential-type, installation\nPaneling installation\nDoor and window frame construction\nGarage door, residential-type, installation\nPrefabricated kitchen and bath cabinet, residential-type, installation\nShip joinery contractors\nMillwork installation\nWindow and door, residential-type, of any material, prefabricated, installation\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "23839": {
+              "title": "Other Building Finishing ContractorsT",
+              "desc": "See industry description for 238390.",
+              "childNodes": {
+                "238390": {
+                  "title": "Other Building Finishing Contractors",
+                  "desc": "This industry comprises establishments primarily engaged in building finishing trade work (except drywall, plaster, and insulation work; painting and wall covering work; flooring work; tile and terrazzo work; and finish carpentry work).  The work performed may include new work, additions, alterations, maintenance, and repairs.\n\nIllustrative Examples:\n\nBathtub refinishing, on-site\nFabricating metal cabinets or countertops on site\nCloset organizer system installation\nModular furniture system attachment and installation\nConcrete coating, glazing, or sealing\nTrade show exhibit installation and dismantling\nCountertop and cabinet, metal (except residential-type), installation\nWaterproofing contractors\nDrapery fixture (e.g., hardware, rods, tracks) installation\nWindow shade and blind installation\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "2389": {
+          "title": "Other Specialty Trade ContractorsT",
+          "desc": "This industry group comprises establishments primarily engaged in site preparation activities and in specialized trades (except foundation, structure, and building exterior contractors; building equipment contractors; and building finishing contractors).  The specialty trade work performed includes new work, additions, alterations, maintenance, and repairs.\n",
+          "childNodes": {
+            "23891": {
+              "title": "Site Preparation ContractorsT",
+              "desc": "See industry description for 238910.",
+              "childNodes": {
+                "238910": {
+                  "title": "Site Preparation Contractors",
+                  "desc": "This industry comprises establishments primarily engaged in site preparation activities, such as excavating and grading, demolition of buildings and other structures, and septic system installation.  Earthmoving and land clearing for all types of sites (e.g., building, nonbuilding, mining) is included in this industry.  Establishments primarily engaged in construction equipment rental with operator (except cranes) are also included.\n\nIllustrative Examples:\n\nBlasting, building demolition\nBuilding interior gutting and stripping\nConcrete breaking and cutting for demolition\nCutting new rights of way\nDemolition, building and structure\nExterior demolition contractors\nFoundation digging (i.e., excavation)\nFoundation drilling contractors\nGrading construction sites\nInterior demolition contractors\nDewatering contractors\nDirt moving for construction\nEquipment rental (except crane), construction, with operator\nExcavating, earthmoving, or land clearing contractors\nLine slashing or cutting (except maintenance)\nSeptic system contractors\nTrenching (except underwater)\nUnderground tank (except hazardous) removal\nWrecking, building or other structure\nWhole building deconstruction\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "23899": {
+              "title": "All Other Specialty Trade ContractorsT",
+              "desc": "See industry description for 238990.",
+              "childNodes": {
+                "238990": {
+                  "title": "All Other Specialty Trade Contractors",
+                  "desc": "This industry comprises establishments primarily engaged in specialized trades (except foundation, structure, and building exterior contractors; building equipment contractors; building finishing contractors; and site preparation contractors).  The specialty trade work performed includes new work, additions, alterations, maintenance, and repairs.\n\nIllustrative Examples:\n\nBillboard erection\nOutdoor swimming pool construction\nPaver, brick (e.g., driveway, patio, sidewalk), installation\nCrane rental with operator\nPaving, residential and commercial driveway and parking lot\nSandblasting building exteriors\nFence installation\nScaffold erecting and dismantling\nInterlocking brick and block installation\nSteeplejack work\nManufactured (mobile) home set up and tie-down work\nDriveway paving or sealing\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

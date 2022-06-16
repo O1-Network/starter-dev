@@ -1,0 +1,225 @@
+{
+  "title": "Mining, Quarrying, and Oil and Gas ExtractionT",
+  "desc": "The Sector as a Whole\n\nThe Mining, Quarrying, and Oil and Gas Extraction sector comprises establishments that extract naturally occurring mineral solids, such as coal and ores; liquid minerals, such as crude petroleum; and gases, such as natural gas.  The term \"mining\" is used in the broad sense to include quarrying, well operations, beneficiating (e.g., crushing, screening, washing, and flotation), and other preparation customarily performed at the mine site, or as a part of mining activity.\n\nThe Mining, Quarrying, and Oil and Gas Extraction sector distinguishes two basic activities: mine operation and mining support activities.  Mine operation includes establishments operating mines, quarries, or oil and gas wells on their own account or for others on a contract or fee basis.  Mining support activities include establishments that perform exploration (except geophysical surveying and mapping) on a contract or fee basis and/or other mining services on a contract or fee basis (except mine site preparation, construction, and transportation activities).\n\nEstablishments in the Mining, Quarrying, and Oil and Gas Extraction sector are grouped and classified according to the natural resource mined or to be mined.  Industries include establishments that develop and/or operate the mine site, extract the natural resources, beneficiate (i.e., prepare) the mineral mined, or provide mining support activities.  Beneficiation is the process whereby the extracted material is reduced to particles that can be separated into mineral and waste, the former suitable for further processing or direct use.  The operations that take place in beneficiation are primarily mechanical, such as grinding, washing, magnetic separation, and centrifugal separation.  In contrast, manufacturing operations primarily use chemical and electrochemical processes, such as electrolysis and distillation.  However, some treatments, such as heat treatments, take place in both the beneficiation and the manufacturing (i.e., smelting/refining) stages.  The range of preparation activities varies by mineral and the purity of any given ore deposit.  While some minerals, such as petroleum and natural gas, require little or no preparation, others are washed and screened, while yet others, such as gold and silver, can be transformed into bullion before leaving the mine site.\n\nMining, beneficiating, and manufacturing activities often occur in a single location.  Separate receipts will be collected for these activities whenever possible.  When receipts cannot be broken out between mining and manufacturing, establishments that mine or quarry nonmetallic minerals, and then beneficiate the nonmetallic minerals into more finished manufactured products are classified based on the primary activity of the establishment.  A mine that manufactures a small amount of finished products will be classified in Sector 21, Mining, Quarrying, and Oil and Gas Extraction.  An establishment that mines whose primary output is a more finished manufactured product will be classified in Sector 31-33, Manufacturing.\n",
+  "childNodes": {
+    "211": {
+      "title": "Oil and Gas ExtractionT",
+      "desc": "Industries in the Oil and Gas Extraction subsector operate and/or develop oil and gas field properties.  Operation and development activities include exploration for crude petroleum and natural gas; drilling, completing, and equipping wells; operating separators, emulsion breakers, desilting equipment, and field gathering lines for crude petroleum and natural gas; and all other activities in the preparation of oil and gas up to the point of shipment from the producing property.  This subsector includes the production of crude petroleum, the mining and extraction of oil from oil shale and oil sands, the production of natural gas, sulfur recovery from natural gas, and recovery of hydrocarbon liquids.\n\nEstablishments in this subsector include those that operate oil and gas wells on their own account or for others on a contract or fee basis.  Establishments primarily engaged in providing support services, on a contract or fee basis, required for the drilling or operation of oil and gas wells (except geophysical surveying and mapping, mine site preparation, construction of oil/gas pipelines, and transportation activities) are classified in Subsector 213, Support Activities for Mining.\n",
+      "childNodes": {
+        "2111": {
+          "title": "Oil and Gas ExtractionT",
+          "desc": "NULL",
+          "childNodes": {
+            "21112": {
+              "title": "Crude Petroleum Extraction",
+              "desc": "See industry description for 211120.",
+              "childNodes": {
+                "211120": {
+                  "title": "Crude Petroleum Extraction",
+                  "desc": "This industry comprises establishments primarily engaged in (1) the exploration, development, and/or the production of petroleum from wells in which the hydrocarbons will initially flow or can be produced using normal or enhanced drilling and extraction techniques or (2) the production of crude petroleum from surface shales or tar sands or from reservoirs in which the hydrocarbons are semisolids.  Establishments in this industry operate oil wells on their own account or for others on a contract or fee basis.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "21113": {
+              "title": "Natural Gas Extraction",
+              "desc": "See industry description for 211130.",
+              "childNodes": {
+                "211130": {
+                  "title": "Natural Gas Extraction",
+                  "desc": "This industry comprises establishments primarily engaged in (1) the exploration, development, and/or the production of natural gas from wells in which the hydrocarbons will initially flow or can be produced using normal or enhanced drilling and extraction techniques or (2) the recovery of liquid hydrocarbons from oil and gas field gases.  Establishments primarily engaged in sulfur recovery from natural gas are included in this industry.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "212": {
+      "title": "Mining (except Oil and Gas)T",
+      "desc": "Industries in the Mining (except Oil and Gas) subsector primarily engage in mining, mine site development, and beneficiating (i.e., preparing) metallic minerals and nonmetallic minerals, including coal.  The term \"mining\" is used in the broad sense to include ore extraction, quarrying, and beneficiating (e.g., crushing, screening, washing, sizing, concentrating, and flotation), customarily done at the mine site.\n\nBeneficiation is the process whereby the extracted material is reduced to particles which can be separated into mineral and waste, the former suitable for further processing or direct use.  The operations that take place in beneficiation are primarily mechanical, such as grinding, washing, magnetic separation, centrifugal separation, and so on. In contrast, manufacturing operations primarily use chemical and electrochemical processes, such as electrolysis, distillation, and so on.  However, some treatments, such as heat treatments, take place in both stages: the beneficiation and the manufacturing (i.e., smelting/refining) stages.  The range of preparation activities varies by mineral and the purity of any given ore deposit.  While some minerals, such as petroleum and natural gas, require little or no preparation, others are washed and screened, while yet others, such as gold and silver, can be transformed into bullion before leaving the mine site.\n\nEstablishments in the Mining (except Oil and Gas) subsector include those that have complete responsibility for operating mines and quarries (except oil and gas wells) and those that operate mines and quarries (except oil and gas wells) for others on a contract or fee basis.  Establishments primarily engaged in providing support services, on a contract or fee basis (except geophysical surveying and mapping, mine site preparation, construction, and transportation activities), required for the mining and quarrying of minerals are classified in Subsector 213, Support Activities for Mining.\n",
+      "childNodes": {
+        "2121": {
+          "title": "Coal MiningT",
+          "desc": "NULL",
+          "childNodes": {
+            "21211": {
+              "title": "Coal MiningT",
+              "desc": "This industry comprises establishments primarily engaged in one or more of the following: (1) mining bituminous coal, anthracite coal, and lignite by underground mining, auger mining, strip mining, culm bank mining, and other surface mining; (2) developing coal mine sites; and (3) beneficiating (i.e., preparing) coal (e.g., cleaning, washing, screening, and sizing).\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "212114": {
+                  "title": "Surface Coal Mining",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in one or more of the following: (1) surface mining of bituminous coal, lignite, and anthracite coal; (2) developing bituminous coal, lignite, and anthracite coal surface mine sites; (3) surface mining and beneficiating (e.g., cleaning, washing, screening, and sizing) of bituminous coal, lignite, and anthracite coal; or (4) beneficiating (e.g., cleaning, washing, screening, and sizing), but not mining, bituminous coal, lignite, and anthracite coal.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "212115": {
+                  "title": "Underground Coal Mining",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in one or more of the following: (1) underground mining of bituminous and anthracite coal; (2) developing bituminous and anthracite coal underground mine sites; and (3) underground mining and beneficiating (e.g., cleaning, washing, screening, and sizing) of bituminous and anthracite coal.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "2122": {
+          "title": "Metal Ore MiningT",
+          "desc": "This industry group comprises establishments primarily engaged in developing mine sites or mining metallic minerals, and establishments primarily engaged in ore dressing and beneficiating (i.e., preparing) operations, such as crushing, grinding, washing, drying, sintering, concentrating, calcining, and leaching.  Beneficiating may be performed at mills operated in conjunction with the mines served or at mills, such as custom mills, operated separately.\n",
+          "childNodes": {
+            "21221": {
+              "title": "Iron Ore MiningT",
+              "desc": "See industry description for 212210.",
+              "childNodes": {
+                "212210": {
+                  "title": "Iron Ore Mining",
+                  "desc": "This industry comprises establishments primarily engaged in (1) developing mine sites, mining, and/or beneficiating (i.e., preparing) iron ores and manganiferous ores valued chiefly for their iron content and/or (2) producing sinter iron ore (except iron ore produced in iron and steel mills) and other iron ore agglomerates.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "21222": {
+              "title": "Gold Ore and Silver Ore MiningT",
+              "desc": "See industry description for 212220.",
+              "childNodes": {
+                "212220": {
+                  "title": "Gold Ore and Silver Ore Mining",
+                  "desc": "This industry comprises establishments primarily engaged in developing the mine site, mining, and/or beneficiating (i.e., preparing) ores valued chiefly for their gold and/or silver content.  Establishments primarily engaged in the transformation of the gold and silver into bullion or dore bar in combination with mining activities are included in this industry.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "21223": {
+              "title": "Copper, Nickel, Lead, and Zinc MiningT",
+              "desc": "See industry description for 212230.",
+              "childNodes": {
+                "212230": {
+                  "title": "Copper, Nickel, Lead, and Zinc Mining",
+                  "desc": "This industry comprises establishments primarily engaged in developing the mine site, mining, and/or beneficiating (i.e., preparing) ores valued chiefly for their copper, nickel, lead, or zinc content.  Beneficiating includes the transformation of ores into concentrates.  Establishments primarily engaged in recovering copper concentrates by the precipitation, leaching, or electrowinning of copper ore are included in this industry.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "21229": {
+              "title": "Other Metal Ore MiningT",
+              "desc": "See industry description for 212290.",
+              "childNodes": {
+                "212290": {
+                  "title": "Other Metal Ore Mining",
+                  "desc": "This industry comprises establishments primarily engaged in developing the mine site, mining, and/or beneficiating (i.e., preparing) metal ores (except iron and manganiferous ores valued for their iron content, gold ore, silver ore, copper, nickel, lead, and zinc ore).\n\nIllustrative Examples:\n\nAntimony ores mining and/or beneficiating\nTantalum ores mining and/or beneficiating\nColumbite ores mining and/or beneficiating\nTungsten ores mining and/or beneficiating\nIlmenite ores mining and/or beneficiating\nUranium-radium-vanadium ores mining and/or beneficiating\nMolybdenum ores mining and/or beneficiating\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "2123": {
+          "title": "Nonmetallic Mineral Mining and QuarryingT",
+          "desc": "This industry group comprises establishments primarily engaged in developing mine sites, or in mining or quarrying nonmetallic minerals (except fuels).  Also included are certain well and brine operations, and preparation plants primarily engaged in beneficiating (e.g., crushing, grinding, washing, and concentrating) nonmetallic minerals.\n\nBeneficiation is the process whereby the extracted material is reduced to particles which can be separated into mineral and waste, the former suitable for further processing or direct use.  The operations that take place in beneficiation are primarily mechanical, such as grinding, washing, magnetic separation, and centrifugal separation.  In contrast, manufacturing operations primarily use chemical and electrochemical processes, such as electrolysis and distillation.  However, some treatments, such as heat treatments, take place in both the beneficiation and the manufacturing (i.e., smelting/refining) stages.  The range of preparation activities varies by mineral and the purity of any given ore deposit.  While some minerals, such as petroleum and natural gas, require little or no preparation, others are washed and screened, while yet others, such as gold and silver, can be transformed into bullion before leaving the mine site.\n",
+          "childNodes": {
+            "21231": {
+              "title": "Stone Mining and QuarryingT",
+              "desc": "This industry comprises (1) establishments primarily engaged in developing the mine site, mining or quarrying dimension stone (i.e., rough blocks and/or slabs of stone), or mining and quarrying crushed and broken stone and/or (2) preparation plants primarily engaged in beneficiating stone (e.g., crushing, grinding, washing, screening, pulverizing, and sizing).\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "212311": {
+                  "title": "Dimension Stone Mining and Quarrying",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in developing the mine site and/or mining or quarrying dimension stone (i.e., rough blocks and/or slabs of stone).\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "212312": {
+                  "title": "Crushed and Broken Limestone Mining and Quarrying",
+                  "desc": "This U.S. industry comprises (1) establishments primarily engaged in developing the mine site, mining or quarrying crushed and broken limestone (including related rocks, such as dolomite, cement rock, marl, travertine, and calcareous tufa) and (2) preparation plants primarily engaged in beneficiating limestone (e.g., grinding or pulverizing).\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "212313": {
+                  "title": "Crushed and Broken Granite Mining and Quarrying",
+                  "desc": "This U.S. industry comprises (1) establishments primarily engaged in developing the mine site, and/or mining or quarrying crushed and broken granite (including related rocks, such as gneiss, syenite (except nepheline), and diorite) and (2) preparation plants primarily engaged in beneficiating granite (e.g., grinding or pulverizing).\n",
+                  "childNodes": {}
+                },
+                "212319": {
+                  "title": "Other Crushed and Broken Stone Mining and Quarrying",
+                  "desc": "This U.S. industry comprises: (1) establishments primarily engaged in developing the mine site and/or mining or quarrying crushed and broken stone (except limestone and granite); (2) preparation plants primarily engaged in beneficiating (e.g., grinding and pulverizing) stone (except limestone and granite); and (3) establishments primarily engaged in mining or quarrying bituminous limestone and bituminous sandstone.\n\nIllustrative Examples:\n\nBituminous limestone mining and/or beneficiating\nMarble crushed and broken stone mining and/or beneficiating\nBituminous sandstone mining and/or beneficiating\nSandstone crushed and broken stone mining and/or beneficiating\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "21232": {
+              "title": "Sand, Gravel, Clay, and Ceramic and Refractory Minerals Mining and QuarryingT",
+              "desc": "This industry comprises (1) establishments primarily engaged in developing the mine site and/or mining, quarrying, dredging for sand and gravel, or mining clay (e.g., china clay, paper clay and slip clay) or ceramic and refractory minerals and (2) preparation plants primarily engaged in beneficiating (e.g., washing, screening, and grinding) sand and gravel, clay, and ceramic and refractory minerals.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "212321": {
+                  "title": "Construction Sand and Gravel Mining",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in one or more of the following: (1) operating commercial grade (i.e., construction) sand and gravel pits; (2) dredging for commercial grade sand and gravel; and (3) washing, screening, or otherwise preparing commercial grade sand and gravel.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "212322": {
+                  "title": "Industrial Sand Mining",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in one or more of the following: (1) operating industrial grade sand pits; (2) dredging for industrial grade sand; and (3) washing, screening, or otherwise preparing industrial grade sand.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "212323": {
+                  "title": "Kaolin, Clay, and Ceramic and Refractory Minerals Mining",
+                  "desc": "This U.S. industry comprises (1) establishments primarily engaged in developing the mine site and/or mining clay (e.g., china clay, paper clay and slip clay) or ceramic and refractory minerals and (2) establishments primarily engaged in beneficiating (i.e., preparing) clay or ceramic and refractory minerals.\n\nIllustrative Examples:\n\nBentonite mining and/or beneficiating\nFuller's earth mining and/or beneficiating\nCommon clay mining and/or beneficiating\nKaolin mining and/or beneficiating\nFeldspar mining and/or beneficiating\nBall clay mining and/or beneficiating\nFire clay mining and/or beneficiating\nShale (except oil shale) mining and/or beneficiating\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "21239": {
+              "title": "Other Nonmetallic Mineral Mining and QuarryingT",
+              "desc": "See industry description for 212390.",
+              "childNodes": {
+                "212390": {
+                  "title": "Other Nonmetallic Mineral Mining and Quarrying",
+                  "desc": "This industry comprises establishments primarily engaged in developing the mine site, mining, and/or milling or otherwise beneficiating (i.e., preparing) nonmetallic minerals (except coal, stone, sand, gravel, clay, and ceramic and refractory minerals).  Drylake brine operations are included in this industry, as well as establishments engaged in producing the specified minerals from underground and open pit mines.\n\nIllustrative Examples:\n\nBarite mining and/or beneficiating\nPhosphate rock mining and/or beneficiating\nBorate, natural, mining and/or beneficiating\nPotash mining and/or beneficiating\nPeat mining and/or beneficiating\nRock salt mining and/or beneficiating\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "213": {
+      "title": "Support Activities for MiningT",
+      "desc": "Industries in the Support Activities for Mining subsector group establishments primarily providing support services, on a contract or fee basis (except geophysical surveying and mapping, mine site preparation, construction, and transportation activities), required for the mining and quarrying of minerals and for the extraction of oil and gas.  Establishments performing exploration for minerals, on a contract or fee basis, are included in this subsector.  Exploration services include traditional prospecting methods, such as taking core samples and making geological observations at prospective sites.\n\nThe activities performed on a contract or fee basis by establishments in the Support Activities for Mining subsector are also often performed in-house by mining operators.  These activities include taking core samples, making geological observations at prospective sites, excavating slush pits and cellars, and such oil and gas operations as spudding in, drilling in, redrilling, directional drilling, and well surveying; running, cutting, and pulling casings, tubes, and rods; cementing and shooting wells; perforating well casings; acidizing and chemically treating wells; cleaning out, bailing, and swabbing wells; and operating oil and gas field gathering lines.\n\nEstablishments primarily engaged in providing site preparation and related construction activities on a contract or fee basis are classified in Sector 23, Construction.  Establishments primarily engaged in providing transportation activities in support of mining, quarrying, or oil and gas extraction are classified in Sector 48-49, Transportation and Warehousing, based on the primary activity.\n",
+      "childNodes": {
+        "2131": {
+          "title": "Support Activities for MiningT",
+          "desc": "NULL",
+          "childNodes": {
+            "21311": {
+              "title": "Support Activities for MiningT",
+              "desc": "This industry comprises establishments primarily engaged in providing support services, on a contract or fee basis (except geophysical surveying and mapping, mine site preparation, construction, and transportation activities), required for the mining and quarrying of minerals and for the extraction of oil and gas.  Drilling, taking core samples, and making geological observations at prospective sites for minerals, on a contract or fee basis, are included in this industry.\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "213111": {
+                  "title": "Drilling Oil and Gas Wells",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in drilling oil and gas wells for others on a contract or fee basis.  This industry includes contractors that specialize in spudding in, drilling in, redrilling, and directional drilling.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "213112": {
+                  "title": "Support Activities for Oil and Gas Operations",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in performing support activities, on a contract or fee basis, for oil and gas operations (except geophysical surveying and mapping, site preparation, construction, and transportation activities).  Services included are exploration; excavating slush pits and cellars, well surveying; running, cutting, and pulling casings, tubes, and rods; cementing wells, shooting wells; perforating well casings; acidizing and chemically treating wells; and cleaning out, bailing, and swabbing wells.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "213113": {
+                  "title": "Support Activities for Coal Mining",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing support activities for coal mining (except geophysical surveying and mapping, site preparation, construction, and transportation activities) on a contract or fee basis.  Exploration for coal is included in this industry.  Exploration services include traditional prospecting methods, such as taking core samples and making geological observations at prospective sites.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "213114": {
+                  "title": "Support Activities for Metal Mining",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing support activities (except geophysical surveying and mapping, site preparation, construction, and transportation activities), on a contract or fee basis, for the mining and quarrying of metallic minerals and for the extraction of metal ores.  Exploration for these minerals is included in this industry.  Exploration services include traditional prospecting methods, such as taking core samples and making geological observations at prospective sites.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "213115": {
+                  "title": "Support Activities for Nonmetallic Minerals (except Fuels) Mining",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing support activities, on a contract or fee basis, for the mining and quarrying of nonmetallic minerals (except fuel) and for the extraction of nonmetallic minerals (except geophysical surveying and mapping, site preparation, construction, and transportation activities).  Exploration for these minerals is included in this industry.  Exploration services include traditional prospecting methods, such as taking core samples and making geological observations at prospective sites.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

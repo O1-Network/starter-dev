@@ -1,0 +1,439 @@
+{
+  "title": "Finance and InsuranceT",
+  "desc": "The Sector as a Whole\n\nThe Finance and Insurance sector comprises establishments primarily engaged in financial transactions (transactions involving the creation, liquidation, or change in ownership of financial assets) and/or in facilitating financial transactions.  Three principal types of activities are identified:\n\n1.  Raising funds by taking deposits and/or issuing securities and, in the process, incurring liabilities.  Establishments engaged in this activity use raised funds to acquire financial assets by making loans and/or purchasing securities.  Putting themselves at risk, they channel funds from lenders to borrowers and transform or repackage the funds with respect to maturity, scale, and risk.  This activity is known as financial intermediation.\n\n2.  Pooling of risk by underwriting insurance and annuities.  Establishments engaged in this activity collect fees, insurance premiums, or annuity considerations; build up reserves; invest those reserves; and make contractual payments.  Fees are based on the expected incidence of the insured risk and the expected return on investment.\n\n3.  Providing specialized services facilitating or supporting financial intermediation, insurance, and employee benefit programs.\n\nIn addition, monetary authorities charged with monetary control are included in this sector.\n\nThe subsectors, industry groups, and industries within the Finance and Insurance sector are defined on the basis of their unique production processes.  As with all industries, the production processes are distinguished by their use of specialized human resources and specialized physical capital.  In addition, the way in which these establishments acquire and allocate financial capital, their source of funds, and the use of those funds provides a third basis for distinguishing characteristics of the production process.  For instance, the production process in raising funds through deposit-taking is different from the process of raising funds in bond or money markets.  The process of making loans to individuals also requires different production processes than does the creation of investment pools or the underwriting of securities.\n\nMost of the Finance and Insurance subsectors contain one or more industry groups of (1) intermediaries with similar patterns of raising and using funds and (2) establishments engaged in activities that facilitate, or are otherwise related to, that type of financial or insurance intermediation.  Industries within this sector are defined in terms of activities for which a production process can be specified, and many of these activities are not exclusive to a particular type of financial institution.  To deal with the varied activities taking place within existing financial institutions, the approach is to split these institutions into components performing specialized services.  This requires defining the units engaged in providing those services and developing procedures that allow for their delineation.  These units are the equivalents for finance and insurance of the establishments defined for other industries.\n\nThe output of many financial services, as well as the inputs and the processes by which they are combined, cannot be observed at a single location and can only be defined at a higher level of the organizational structure of the enterprise.  Additionally, a number of independent activities that represent separate and distinct production processes may take place at a single location belonging to a multilocation financial firm.  Activities are more likely to be homogeneous with respect to production characteristics than are locations, at least in financial services.  The classification defines activities broadly enough that it can be used both by those classifying by location and by those employing a more top-down approach to the delineation of the establishment.\n\nEstablishments engaged in activities that facilitate, or are otherwise related to, the various types of intermediation are included in multiple subsectors, rather than in a separate subsector dedicated to services alone, because these services are performed by intermediaries, as well as by specialist establishments, and the extent to which the activity of the intermediaries can be separately identified is not clear.\n\nFinancial industries are extensive users of electronic means for facilitating the verification of financial balances, authorizing transactions, transferring funds to and from transactors' accounts, notifying banks (or credit card issuers) of the individual transactions, and providing daily summaries.  Since these transaction processing activities are integral to the production of finance and insurance services, establishments that principally provide a financial transaction processing service are classified in this sector, rather than in the data processing industry in the Information sector.\n\nLegal entities that hold portfolios of assets on behalf of others are significant and data on them are required for a variety of purposes.  Thus, for NAICS, these funds, trusts, and other financial vehicles are the fifth subsector of the Finance and Insurance sector.  These entities earn interest, dividends, and other property income, but have little or no employment and no revenue from the sale of services.  Separate establishments and employees devoted to the management of funds are classified in Industry Group 5239, Other Financial Investment Activities.\n",
+  "childNodes": {
+    "521": {
+      "title": "Monetary Authorities-Central BankT",
+      "desc": "The Monetary Authorities-Central Bank subsector groups establishments that engage in performing central banking functions, such as issuing currency, managing the Nation's money supply and international reserves, holding deposits that represent the reserves of other banks and other central banks, and acting as a fiscal agent for the central government.\n",
+      "childNodes": {
+        "5211": {
+          "title": "Monetary Authorities-Central BankT",
+          "desc": "NULL",
+          "childNodes": {
+            "52111": {
+              "title": "Monetary Authorities-Central BankT",
+              "desc": "See industry description for 521110.",
+              "childNodes": {
+                "521110": {
+                  "title": "Monetary Authorities-Central Bank",
+                  "desc": "This industry comprises establishments primarily engaged in performing central banking functions, such as issuing currency, managing the Nation's money supply and international reserves, holding deposits that represent the reserves of other banks and other central banks, and acting as a fiscal agent for the central government.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "522": {
+      "title": "Credit Intermediation and Related ActivitiesT",
+      "desc": "Industries in the Credit Intermediation and Related Activities subsector group establishments that (1) lend funds raised from depositors; (2) lend funds raised from credit market borrowing; or (3) facilitate the lending of funds or issuance of credit by engaging in such activities as mortgage and loan brokerage, clearinghouse and reserve services, and check cashing services.\n",
+      "childNodes": {
+        "5221": {
+          "title": "Depository Credit Intermediation",
+          "desc": "This industry group comprises establishments primarily engaged in accepting deposits (or share deposits) and in lending funds from these deposits.  Within this group, industries are defined on the basis of differences in the types of deposit liabilities assumed and in the nature of the credit extended.\n",
+          "childNodes": {
+            "52211": {
+              "title": "Commercial Banking",
+              "desc": "See industry description for 522110.",
+              "childNodes": {
+                "522110": {
+                  "title": "Commercial Banking",
+                  "desc": "This industry comprises establishments primarily engaged in accepting demand and other deposits and making commercial, industrial, and consumer loans.  Commercial banks and branches of foreign banks are included in this industry.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "52213": {
+              "title": "Credit Unions",
+              "desc": "See industry description for 522130.",
+              "childNodes": {
+                "522130": {
+                  "title": "Credit Unions",
+                  "desc": "This industry comprises establishments primarily engaged in accepting members' share deposits in cooperatives that are organized to offer consumer loans to their members.\n",
+                  "childNodes": {}
+                }
+              }
+            },
+            "52218": {
+              "title": "Savings Institutions and Other Depository Credit Intermediation",
+              "desc": "See industry description for 522180.",
+              "childNodes": {
+                "522180": {
+                  "title": "Savings Institutions and Other Depository Credit Intermediation",
+                  "desc": "This industry comprises establishments primarily engaged in accepting deposits, making mortgage, real estate, and other consumer and commercial loans, and investing in high-grade securities (except commercial banking and credit unions).  Savings and loan associations, savings banks, private banks (i.e., unincorporated banks), and establishments known as industrial banks or Morris Plans and primarily engaged in accepting deposits are included in this industry.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "5222": {
+          "title": "Nondepository Credit Intermediation",
+          "desc": "This industry group comprises establishments, both public (government-sponsored enterprises) and private, primarily engaged in extending credit or lending funds raised by credit market borrowing, such as issuing commercial paper or other debt instruments or by borrowing from other financial intermediaries.  Within this group, industries are defined on the basis of the type of credit being extended.\n",
+          "childNodes": {
+            "52221": {
+              "title": "Credit Card Issuing",
+              "desc": "See industry description for 522210.",
+              "childNodes": {
+                "522210": {
+                  "title": "Credit Card Issuing",
+                  "desc": "This industry comprises establishments primarily engaged in providing credit by issuing credit cards.  Credit card issuance provides the funds required to purchase goods and services in return for payment of the full balance or payments on an installment basis.  Credit card banks are included in this industry.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "52222": {
+              "title": "Sales Financing",
+              "desc": "See industry description for 522220.",
+              "childNodes": {
+                "522220": {
+                  "title": "Sales Financing",
+                  "desc": "This industry comprises establishments primarily engaged in sales financing or sales financing in combination with leasing.  Sales financing establishments are primarily engaged in lending money for the purpose of providing collateralized goods through a contractual installment sales agreement, either directly from or through arrangements with dealers.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "52229": {
+              "title": "Other Nondepository Credit Intermediation",
+              "desc": "This industry comprises establishments primarily engaged in making cash loans or extending credit through credit instruments (except credit cards and sales finance agreements).\n\nIllustrative Examples:\n\nConsumer finance companies (i.e., unsecured cash loans)\nMortgage companies \nInternational trade financing\nSecondary market financing\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "522291": {
+                  "title": "Consumer Lending",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in making unsecured cash loans to consumers.\n\nIllustrative Examples:\n\nFinance companies (i.e., unsecured cash loans)\nPersonal credit institutions (i.e., unsecured cash loans)\nLoan companies (i.e., consumer, personal, student, small)\nStudent loan companies\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "522292": {
+                  "title": "Real Estate Credit",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in lending funds with real estate as collateral.\n\nIllustrative Examples:\n\nHome equity credit lending\nMortgage companies\nReverse mortgage lending\nMortgage banking (i.e., nondepository mortgage lending)\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "522299": {
+                  "title": "International, Secondary Market, and All Other Nondepository Credit Intermediation",
+                  "desc": "This U.S. industry comprises (1) establishments primarily engaged in providing working capital funds to U.S. exporters, lending funds to foreign buyers of U.S. goods, and/or lending funds to domestic buyers of imported goods; (2) establishments primarily engaged in buying, pooling, and repackaging loans for sale to others on the secondary market; and (3) establishments primarily providing other nondepository credit (except credit card issuing, sales financing, consumer lending, and real estate credit).  Examples of types of lending in this industry are short-term inventory credit, agricultural lending (except real estate and sales financing), and consumer cash lending secured by personal property.\n\nIllustrative Examples:\n\nCommodity Credit Corporation\nFactoring accounts receivable\nIndustrial banks (i.e., known as), nondepository\nInternational trade financing\nMorris Plans (i.e., known as), nondepository\nPawnshops\nSecondary market financing\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "5223": {
+          "title": "Activities Related to Credit Intermediation",
+          "desc": "This industry group comprises establishments primarily engaged in facilitating credit intermediation by performing activities, such as arranging loans by bringing borrowers and lenders together and clearing checks and credit card transactions.\n",
+          "childNodes": {
+            "52231": {
+              "title": "Mortgage and Nonmortgage Loan Brokers",
+              "desc": "See industry description for 522310.",
+              "childNodes": {
+                "522310": {
+                  "title": "Mortgage and Nonmortgage Loan Brokers",
+                  "desc": "This industry comprises establishments primarily engaged in arranging loans by bringing borrowers and lenders together on a commission or fee basis.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "52232": {
+              "title": "Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+              "desc": "See industry description for 522320.",
+              "childNodes": {
+                "522320": {
+                  "title": "Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+                  "desc": "This industry comprises establishments primarily engaged in providing one or more of the following: (1) financial transaction processing (except central bank); (2) reserve and liquidity services (except central bank); and/or (3) check or other financial instrument clearinghouse services (except central bank).\n\nIllustrative Examples:\n\nAutomated clearinghouses, bank or check (except central bank)\nCredit card processing services\nCheck clearing services (except central bank)\nElectronic funds transfer services, including peer-to-peer payment services \n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "52239": {
+              "title": "Other Activities Related to Credit Intermediation",
+              "desc": "See industry description for 522390.",
+              "childNodes": {
+                "522390": {
+                  "title": "Other Activities Related to Credit Intermediation",
+                  "desc": "This industry comprises establishments primarily engaged in facilitating credit intermediation (except mortgage and loan brokerage; and financial transactions processing, reserve, and clearinghouse activities).\n\nIllustrative Examples:\n\nCheck cashing services\nMoney order issuance services\nLoan servicing\nTravelers' check issuance services\nMoney transmission services\nPayday lending services\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "523": {
+      "title": "Securities, Commodity Contracts, and Other Financial Investments and Related ActivitiesT",
+      "desc": "Industries in the Securities, Commodity Contracts, and Other Financial Investments and Related Activities subsector group establishments that are primarily engaged in one of the following: (1) underwriting securities issues and/or making markets for securities and commodities; (2) acting as agents (i.e., brokers) between buyers and sellers of securities and commodities; (3) providing securities and commodity exchange services; and (4) providing other services, such as managing portfolios of assets; providing investment advice; and trust, fiduciary, and custody services.\n",
+      "childNodes": {
+        "5231": {
+          "title": "Securities and Commodity Contracts Intermediation and BrokerageT",
+          "desc": "This industry group comprises establishments primarily engaged in putting capital at risk in the process of underwriting securities issues or in making markets for securities and commodities; and those acting as agents and/or brokers between buyers and sellers of securities and commodities, usually charging a commission.\n",
+          "childNodes": {
+            "52315": {
+              "title": "Investment Banking and Securities Intermediation",
+              "desc": "See industry description for 523150.",
+              "childNodes": {
+                "523150": {
+                  "title": "Investment Banking and Securities Intermediation",
+                  "desc": "This industry comprises establishments primarily engaged in underwriting, originating, and/or maintaining markets for issues of securities, or acting as agents (i.e., brokers) between buyers and sellers in buying or selling securities on a commission or transaction fee basis.  Investment bankers act as principals (i.e., investors who buy or sell on their own account) in firm commitment transactions or act as agents in best effort and standby commitments.  This industry also includes establishments acting as principals in buying or selling securities generally on a spread basis, such as securities dealers or stock option dealers.\n\nIllustrative Examples:\n\nBond dealing (i.e., acting as a principal in dealing securities to investors)\nMutual fund agencies (i.e., brokerages)\nSecurities brokerages\nSecurities underwriting\nStock brokerages\nStock options dealing\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "52316": {
+              "title": "Commodity Contracts Intermediation",
+              "desc": "See industry description for 523160.",
+              "childNodes": {
+                "523160": {
+                  "title": "Commodity Contracts Intermediation",
+                  "desc": "This industry comprises establishments primarily engaged in acting as principals (i.e., investors who buy or sell for their own account) in buying or selling spot or futures commodity contracts or options, such as precious metals, foreign currency, oil, or agricultural products, generally on a spread basis, or acting as agents (i.e., brokers) in buying or selling spot or futures commodity contracts or options on a commission or transaction fee basis.\n\nIllustrative Examples:\n\nCommodity contract trading companies\nCommodity contracts brokerages\nCommodity futures brokerages\nFutures commodity contracts dealing (i.e., acting as a principal in dealing commodities to investors)\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "5232": {
+          "title": "Securities and Commodity ExchangesT",
+          "desc": "NULL",
+          "childNodes": {
+            "52321": {
+              "title": "Securities and Commodity ExchangesT",
+              "desc": "See industry description for 523210.",
+              "childNodes": {
+                "523210": {
+                  "title": "Securities and Commodity Exchanges",
+                  "desc": "This industry comprises establishments primarily engaged in furnishing physical or electronic marketplaces for the purpose of facilitating the buying and selling of stocks, stock options, bonds, or commodity contracts.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "5239": {
+          "title": "Other Financial Investment ActivitiesT",
+          "desc": "This industry group comprises establishments primarily engaged in one of the following: (1) acting as principals in buying or selling financial contracts (except investment bankers, securities dealers, and commodity contracts dealers); (2) acting as agents (i.e., brokers) (except securities brokerages and commodity contracts brokerages) in buying or selling financial contracts; or (3) providing other investment services (except securities and commodity exchanges), such as portfolio management; investment advice; and trust, fiduciary, and custody services.\n",
+          "childNodes": {
+            "52391": {
+              "title": "Miscellaneous Intermediation",
+              "desc": "See industry description for 523910.",
+              "childNodes": {
+                "523910": {
+                  "title": "Miscellaneous Intermediation",
+                  "desc": "This industry comprises establishments primarily engaged in acting as principals (except investment bankers, securities dealers, and commodity contracts dealers) in buying or selling financial contracts generally on a spread basis.  Principals are investors that buy or sell for their own account.\n\nIllustrative Examples:\n\nInvestment clubs\nTax liens dealing (i.e., acting as a principal in dealing tax liens to investors)\nVenture capital companies\nMineral royalties or leases dealing (i.e., acting as a principal in dealing royalties or leases to investors)\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "52394": {
+              "title": "Portfolio Management and Investment Advice",
+              "desc": "See industry description for 523940.",
+              "childNodes": {
+                "523940": {
+                  "title": "Portfolio Management and Investment Advice",
+                  "desc": "This industry comprises establishments primarily engaged in managing the portfolio assets (i.e., funds) of others on a fee or commission basis and/or providing customized investment advice to clients on a fee basis.  Establishments providing portfolio management have the authority to make investment decisions, and they derive fees based on the size and/or overall performance of the portfolio.  Establishments providing investment advice provide financial planning advice and investment counseling to meet the goals and needs of specific clients, but do not have the authority to execute trades.\n\nIllustrative Examples:\n\nFinancial planning services, customized, fees paid by client\nInvestment advisory services, customized, fees paid by client\nManaging trusts\nPortfolio fund managing\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "52399": {
+              "title": "All Other Financial Investment Activities",
+              "desc": "This industry comprises establishments primarily engaged in acting as agents or brokers (except securities brokerages and commodity contracts brokerages) in buying and selling financial contracts and those providing financial investment services (except securities and commodity exchanges, portfolio management, and investment advice).\n\nIllustrative Examples:\n\nBank trust offices\nFiduciary agencies (except real estate)\nExchange clearinghouses, commodities or securities\nEscrow agencies (except real estate)\nStock quotation services\n\n\nCross-References.",
+              "childNodes": {
+                "523991": {
+                  "title": "Trust, Fiduciary, and Custody Activities",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing trust, fiduciary, and custody services to others, as instructed, on a fee or contract basis, such as bank trust offices and escrow agencies (except real estate).\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "523999": {
+                  "title": "Miscellaneous Financial Investment Activities",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in acting as agents and/or brokers (except securities brokerages and commodity contracts brokerages) in buying or selling financial contracts and those providing financial investment services (except securities and commodity exchanges; portfolio management; investment advice; and trust, fiduciary, and custody services) on a fee or commission basis.\n\nIllustrative Examples:\n\nExchange clearinghouses, commodities or securities\nStock quotation services\nGas lease brokers' offices\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "524": {
+      "title": "Insurance Carriers and Related ActivitiesT",
+      "desc": "Industries in the Insurance Carriers and Related Activities subsector group establishments that are primarily engaged in one of the following: (1) underwriting (assuming the risk, assigning premiums, and so forth) annuities and insurance policies or (2) facilitating such underwriting by selling insurance policies and by providing other insurance and employee benefit related services.\n",
+      "childNodes": {
+        "5241": {
+          "title": "Insurance CarriersT",
+          "desc": "This industry group comprises establishments primarily engaged in underwriting (assuming the risk, assigning premiums, and so forth) annuities and insurance policies and investing premiums to build up a portfolio of financial assets to be used against future claims.  Direct insurance carriers are establishments that are primarily engaged in initially underwriting and assuming the risk of annuities and insurance policies.  Reinsurance carriers are establishments that are primarily engaged in assuming all or part of the risk associated with an existing insurance policy (or set of policies) originally underwritten by another insurance carrier.\n\nIndustries are defined in terms of the type of risk being insured against, such as death, loss of employment because of age or disability, and/or property damage.  Contributions and premiums are set on the basis of actuarial calculations of probable payouts based on risk factors from experience tables and expected investment returns on reserves.\n",
+          "childNodes": {
+            "52411": {
+              "title": "Direct Life, Health, and Medical Insurance Carriers",
+              "desc": "This industry comprises establishments primarily engaged in initially underwriting (i.e., assuming the risk and assigning premiums) annuities and life insurance policies, disability income insurance policies, accidental death and dismemberment insurance policies, and health and medical insurance policies.\n\nCross-References.",
+              "childNodes": {
+                "524113": {
+                  "title": "Direct Life Insurance Carriers",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in initially underwriting (i.e., assuming the risk and assigning premiums) annuities and life insurance policies, disability income insurance policies, and accidental death and dismemberment insurance policies.\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "524114": {
+                  "title": "Direct Health and Medical Insurance Carriers",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in initially underwriting (i.e., assuming the risk and assigning premiums) health and medical insurance policies.  Group hospitalization plans and HMO establishments that provide health and medical insurance policies without providing health care services are included in this industry.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            },
+            "52412": {
+              "title": "Direct Insurance (except Life, Health, and Medical) Carriers",
+              "desc": "This industry comprises establishments primarily engaged in initially underwriting (i.e., assuming the risk and assigning premiums) various types of insurance policies (except life, disability income, accidental death and dismemberment, and health and medical insurance policies).\n\nIllustrative Examples:\n\nAutomobile insurance carriers, direct\nProperty and casualty insurance carriers, direct\nBank deposit insurance carriers, direct\nTitle insurance carriers, real estate, direct\nMortgage guaranty insurance carriers, direct\nWarranty insurance carriers (e.g., appliance, automobile, homeowners', product), direct\n\n\nCross-References.",
+              "childNodes": {
+                "524126": {
+                  "title": "Direct Property and Casualty Insurance Carriers",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in initially underwriting (i.e., assuming the risk and assigning premiums) insurance policies that protect policyholders against losses that may occur as a result of property damage or liability.\n\nIllustrative Examples:\n\nAutomobile insurance carriers, direct\nMalpractice insurance carriers, direct\nFidelity insurance carriers, direct\nMortgage guaranty insurance carriers, direct\nHomeowners' insurance carriers, direct\nSurety insurance carriers, direct\nLiability insurance carriers, direct\n\n\nCross-References.",
+                  "childNodes": {}
+                },
+                "524127": {
+                  "title": "Direct Title Insurance Carriers",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in initially underwriting (i.e., assuming the risk and assigning premiums) insurance policies to protect the owners of real estate or real estate creditors against loss sustained by reason of any title defect to real property.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "524128": {
+                  "title": "Other Direct Insurance (except Life, Health, and Medical) Carriers",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in initially underwriting (e.g., assuming the risk, assigning premiums) insurance policies (except life, disability income, accidental death and dismemberment, health and medical, property and casualty, and title insurance policies).\n\nIllustrative Examples:\n\nBank deposit insurance carriers, direct\nProduct warranty insurance carriers, direct\nDeposit or share insurance carriers, direct\nWarranty insurance carriers (e.g., appliance, automobile, homeowners', product), direct\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "52413": {
+              "title": "Reinsurance Carriers",
+              "desc": "See industry description for 524130.",
+              "childNodes": {
+                "524130": {
+                  "title": "Reinsurance Carriers",
+                  "desc": "This industry comprises establishments primarily engaged in assuming all or part of the risk associated with existing insurance policies originally underwritten by other insurance carriers.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "5242": {
+          "title": "Agencies, Brokerages, and Other Insurance Related ActivitiesT",
+          "desc": "This industry group comprises establishments primarily engaged in (1) acting as agents (i.e., brokers) in selling annuities and insurance policies or (2) providing other employee benefits and insurance related services, such as claims adjustment and third party administration.\n",
+          "childNodes": {
+            "52421": {
+              "title": "Insurance Agencies and Brokerages",
+              "desc": "See industry description for 524210.",
+              "childNodes": {
+                "524210": {
+                  "title": "Insurance Agencies and Brokerages",
+                  "desc": "This industry comprises establishments primarily engaged in acting as agents (i.e., brokers) in selling annuities and insurance policies.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "52429": {
+              "title": "Other Insurance Related Activities",
+              "desc": "This industry comprises establishments primarily engaged in providing services related to insurance (except insurance agencies and brokerages).\n\nIllustrative Examples:\n\nClaims adjusting, insurance\nInsurance plan administrative services, third party\nInsurance actuarial services\nInsurance claims adjusting\n\n\nCross-References. Establishments primarily engaged in--",
+              "childNodes": {
+                "524291": {
+                  "title": "Claims Adjusting",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in investigating, appraising, and settling insurance claims.",
+                  "childNodes": {}
+                },
+                "524292": {
+                  "title": "Pharmacy Benefit Management and Other Third Party Administration of Insurance and Pension Funds",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing pharmacy benefit management (PBM) services and other third party administration services of insurance and pension funds, such as claims processing and other administrative services to insurance carriers, employee benefit plans, and self-insurance funds.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                },
+                "524298": {
+                  "title": "All Other Insurance Related Activities",
+                  "desc": "This U.S. industry comprises establishments primarily engaged in providing insurance services on a contract or fee basis (except insurance agencies and brokerages, claims adjusting, and third party administration).  Insurance advisory services, insurance actuarial services, and insurance ratemaking services are included in this industry.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "525": {
+      "title": "Funds, Trusts, and Other Financial Vehicles",
+      "desc": "Industries in the Funds, Trusts, and Other Financial Vehicles subsector group legal entities (i.e., funds, plans, and/or programs) organized to pool securities or other assets on behalf of shareholders or beneficiaries of employee benefit or other trust funds.  The portfolios are customized to achieve specific investment characteristics, such as diversification, risk, rate of return, and price volatility.  These entities earn interest, dividends, and other investment income, but have little or no employment and no revenue from the sale of services.  Establishments with employees devoted to the management of funds are classified in Industry Group 5239, Other Financial Investment Activities.\n\nEstablishments primarily engaged in holding the securities of (or other equity interests in) other firms are classified in Sector 55, Management of Companies and Enterprises.  Equity real estate investment trusts (REITs) that are primarily engaged in leasing buildings, dwellings, or other real estate property to others are classified in Subsector 531, Real Estate.\n",
+      "childNodes": {
+        "5251": {
+          "title": "Insurance and Employee Benefit Funds",
+          "desc": "This industry group comprises legal entities (i.e., funds, plans, and/or programs) organized to provide insurance and employee benefits exclusively for the sponsor, firm, or its employees or members.\n",
+          "childNodes": {
+            "52511": {
+              "title": "Pension Funds",
+              "desc": "See industry description for 525110.",
+              "childNodes": {
+                "525110": {
+                  "title": "Pension Funds",
+                  "desc": "This industry comprises legal entities (i.e., funds, plans, and/or programs) organized to provide retirement income benefits exclusively for the sponsor's employees or members.\n\nIllustrative Examples:\n\nEmployee benefit plans\nRetirement plans\nPension funds and plans\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "52512": {
+              "title": "Health and Welfare Funds",
+              "desc": "See industry description for 525120.",
+              "childNodes": {
+                "525120": {
+                  "title": "Health and Welfare Funds",
+                  "desc": "This industry comprises legal entities (i.e., funds, plans, and/or programs) organized to provide medical, surgical, hospital, vacation, training, and other health- and welfare-related employee benefits exclusively for the sponsor's employees or members.\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "52519": {
+              "title": "Other Insurance Funds",
+              "desc": "See industry description for 525190.",
+              "childNodes": {
+                "525190": {
+                  "title": "Other Insurance Funds",
+                  "desc": "This industry comprises legal entities (i.e., funds (except pension, and health- and welfare-related employee benefit funds)) organized to provide insurance exclusively for the sponsor, firm, or its employees or members.  Self-insurance funds (except employee benefit funds) and workers' compensation insurance funds are included in this industry.\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        },
+        "5259": {
+          "title": "Other Investment Pools and Funds",
+          "desc": "This industry group comprises legal entities (i.e., investment pools and/or funds) organized to pool securities or other assets (except insurance and employee benefit funds) on behalf of shareholders, unitholders, or beneficiaries.\n",
+          "childNodes": {
+            "52591": {
+              "title": "Open-End Investment Funds",
+              "desc": "See industry description for 525910.",
+              "childNodes": {
+                "525910": {
+                  "title": "Open-End Investment Funds",
+                  "desc": "This industry comprises legal entities (i.e., open-end investment funds) organized to pool assets that consist of securities or other financial instruments.  Shares in these pools are offered to the public in an initial offering with additional shares offered continuously and perpetually and redeemed at a specific price determined by the net asset value.\n\nIllustrative Examples:\n\nInvestment funds, open-ended\nMoney market mutual funds, open-ended\n",
+                  "childNodes": {}
+                }
+              }
+            },
+            "52592": {
+              "title": "Trusts, Estates, and Agency Accounts",
+              "desc": "See industry description for 525920.",
+              "childNodes": {
+                "525920": {
+                  "title": "Trusts, Estates, and Agency Accounts",
+                  "desc": "This industry comprises legal entities, trusts, estates, or agency accounts, administered on behalf of the beneficiaries under the terms of a trust agreement, will, or agency agreement.\n\nIllustrative Examples:\n\nBankruptcy estates\nPrivate estates (i.e., administering on behalf of beneficiaries)\nPersonal investment trusts\nTestamentary trusts\n\n\nCross-References. Establishments primarily engaged in--",
+                  "childNodes": {}
+                }
+              }
+            },
+            "52599": {
+              "title": "Other Financial Vehicles",
+              "desc": "See industry description for 525990.",
+              "childNodes": {
+                "525990": {
+                  "title": "Other Financial Vehicles",
+                  "desc": "This industry comprises legal entities (i.e., funds (except insurance and employee benefit funds; open-end investment funds; trusts, estates, and agency accounts)).  Included in this industry are mortgage real estate investment trusts (REITs).\n\nIllustrative Examples:\n\nClosed-end investment funds\nSpecial purpose financial vehicles\nCollateralized mortgage obligations (CMOs)\nUnit investment trust funds\nFace-amount certificate funds\nMortgage real estate investment trusts (REITs)\nReal estate mortgage investment conduits (REMICs)\n\n\nCross-References.",
+                  "childNodes": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
