@@ -1,5 +1,6 @@
 import psycopg2
 from flask import Flask
+from server.app.settings import CONNECTION_HOST
 
 
 app = Flask(__name__)
@@ -13,7 +14,7 @@ def hello_world():
         database='development',
         user='development',
         password='development',
-        host='database',
+        host=CONNECTION_HOST,
     )
 
     cursor = connection.cursor()

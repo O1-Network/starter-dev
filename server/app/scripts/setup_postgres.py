@@ -3,6 +3,8 @@ import random
 import string
 import time
 
+from server.app.settings import CONNECTION_HOST
+
 SAMPLE_RECORD_COUNT = 100
 LETTERS = string.ascii_letters
 
@@ -20,7 +22,7 @@ def create_tables():
             database='development',
             user='development',
             password='development',
-            host='database',
+            host=CONNECTION_HOST,
         )
         connection.autocommit = True
 
