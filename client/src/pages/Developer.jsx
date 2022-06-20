@@ -1,13 +1,10 @@
-import Intro from '../components/Intro';
-import Classification from '../components/Classification';
+import DevLanding from '../components/DeveloperLanding.jsx'
 
 const Developer = () => {
   return (
-    <div>
-      <Intro />
-
-      
-    </div>
+    <>
+      <DevLanding/>
+    </>
   );
 }
 
