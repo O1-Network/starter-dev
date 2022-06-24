@@ -18,30 +18,95 @@ const imageList = [image1,image2,image3,image4,image5,image6]
 //     }
 // }
 
+
+/**
+
+*idea5 mask with scroll menu behind it 
+
+   breaking points :1200px ,768px :widing the benfif section 
+  breaking point :768px for beneift slide behind the value (mask)
+
+  ///done 1200 px resposive (medium screen)
+ */
 const breatheAnimation = keyframes`
-0% { background-image : url(${imageList[0]})}  
-4% { background-image: url(${imageList[0]})}  
-12% {background-image :url(${imageList[1]})}     
-38% {background-image :url(${imageList[2]})}    
+0% { background-image: url(${imageList[0]})}  
+4% { background-image: url(${imageList[0]})} 
+12% {background-image :url(${imageList[1]})}  
+38% {background-image :url(${imageList[2]})}     
 52% {background-image :url(${imageList[3]})}     
 68% {background-image :url(${imageList[4]})}     
-94% {background-image :url(${imageList[5]})}     
-100% {background-image :url(${imageList[0]})}     
+94% {background-image :url(${imageList[5]})}    
+100% {background-image :url(${imageList[0]})}   
 `
 export const IntroContainer = styled.div`
-height: auto;
-display:flex;
-align-items:center;
-justify-content:center;
-height: fit-content;
 
+
+height: auto;
+display: flex;
+align-items: center;
+justify-content: center;
+height: fit-content;
 animation-name: ${breatheAnimation};
 animation-iteration-count: infinite;
 animation-duration: 20s;
 background-repeat: no-repeat;
-background-size:cover;
+background-size: cover;
 background-position: 0px ${props=>props.scroll}px;
 z-index: -1;
+
+`;
+
+/** Responsive small screens animation */
+//-30px :::benefit 1
+//-80px for each slide 
+
+const benefitAnimation = keyframes`
+0% { transform: translatey(-30)}  
+33% { transform: translatey(-110px)}  
+66% {transform: translatey(-190px)}     
+99% {transform: translatey(-270px)} 
+100% {transform: translatey(-30px)}     
+
+
+//99% {transform: translatey(-290px)}  
+//100% {transform: translatey(-30px)}     
+`
+export const Dropdown = styled.div`
+ display:none;
+  
+ @media(max-width:992px){
+  height:20px;
+  overflow:hidden;
+  background:rgba(125,125,125,0.8);
+  padding:20px;
+  width:fit-content;
+  margin:auto;
+  display:block;
+  
+
+}
+
+`;
+
+export const Sliding = styled.div`
+@media(max-width:992px){
+  position:relative;
+  display: flex;
+  flex-direction: column;
+  animation-iteration-count: infinite;
+  animation-duration: 10s;
+  animation-name: ${benefitAnimation};
+}
+`;
+
+export const LargeScreen = styled.div`
+
+
+
+@media(max-width:992px){
+   display:none;
+ }
+
 `;
 
 
@@ -51,9 +116,8 @@ export const BenefitsList = styled.ul`
   padding: 50px;
   color: #C9F0FF;
   list-style-type: circle;
-  margin: 20px 0 0 150px;
+  margin: 0px 0 0 150px;
   font-size: 1.2rem;
-  font-size: 100;
   letter-spacing: .2rem;
   width:70%;
   line-height:2rem;
@@ -61,7 +125,14 @@ export const BenefitsList = styled.ul`
   padding:100px;
   height:100%;
 
-  
+@media(max-width:1200px){
+  margin: 0px 0 0 0px;
+
+}
+@media(max-width:992px){
+  display:none;
+
+}
 `;
 /*need styling */
 export const ValueText = styled.p` 
@@ -81,7 +152,11 @@ margin-top: ${props=>props.scroll}px;
 border-radius:10px;
 line-height:2em;
 font-size:1.25em;
+@media(max-width:1200px){
+  margin: 20px;
+  padding: 100px;
 
+}
 `; 
 
 export const BenefitsHeader = styled.h1`
@@ -91,6 +166,7 @@ export const BenefitsHeader = styled.h1`
  export const ListItem = styled.li`
 
 `;
+
 
 /*
 <a href="https://ibb.co/2PRjNbh"><img src="https://i.ibb.co/L6BC5GR/tech-Pic-6.jpg" alt="tech-Pic-6" border="0"></a>

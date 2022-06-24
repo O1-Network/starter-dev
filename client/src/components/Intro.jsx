@@ -5,7 +5,10 @@ import {
   BenefitsList,
   BenefitsHeader,
   ListItem,
-  ImageContainer 
+  ImageContainer ,
+  Dropdown,
+  LargeScreen,
+  Sliding
 } from './IntroStyles';
 
 const Intro = () => {
@@ -38,7 +41,14 @@ const Intro = () => {
 
         <ValueText scroll={valueScroll}>
           <div></div>
-          <div>If your business is selected, our team of developers will build you a digital tool that takes your business to the next level.</div>
+        <div>If your business is selected, our team of developers will build you a digital tool that <Dropdown>
+          <Sliding>
+          <p>Benefit 1</p>
+          <p>Benefit 2</p>
+          <p>Benefit 3</p>
+          <p>Benefit 4</p>
+          </Sliding>
+        </Dropdown><LargeScreen>takes your business to the next level.</LargeScreen></div>
           <div></div>
         </ValueText>
 
