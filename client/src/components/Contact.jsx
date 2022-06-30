@@ -7,9 +7,23 @@ import {
   SubmitButton,
   NameField,
   FieldArea,
-  ContactCard
+  ContactCard,
+  SubmitContainer
 } from './ContactStyles';
 import React, {useState}  from 'react'
+
+/*
+side card  alllison  
+
+label issue /submit button /margin/padding configaration  : David
+  
+resposive    omaran
+
+
+*/
+
+
+
 /*
 *idea: make the field horizontal          saxx // done
 *idea: put first and last name at the same line // done
@@ -69,7 +83,7 @@ const Contact = () => {
 
 
       <ContactCard>
-          Hello world
+         
       </ContactCard>
 
       
@@ -77,7 +91,7 @@ const Contact = () => {
           <FormContainer>
      
             <form action="action_page.php" >
-              <NameField>
+             <NameField>
                 <FieldArea>
                 <TextInput type="text" id="fname" name="firstname" onChange={()=>{setFirstName(this.target.value)}}/>
                   <span> First Name </span>
@@ -85,18 +99,18 @@ const Contact = () => {
                 <FieldArea>
                   <TextInput type="text" id="lname" name="lastname" onChange={()=>{setLastName(this.target.value)}} />
                   <span>Last Name</span>
-                  </FieldArea>
-                 </NameField>
-                 <label htmlFor="country">Country</label>
+                </FieldArea>
+             </NameField>
+                 {/* <label htmlFor="country">Country</label>
                 <SelectInput id="country" name="country">
                 <option value="australia">Australia</option>
                 <option value="canada">Canada</option>
                 <option value="usa">USA</option>
-              </SelectInput>
+              </SelectInput> */}
 
               <FieldArea>
                 <TextInput type="email" id="email" name="email" onChange={()=>{setEmail(this.target.value)}}></TextInput>
-                <span>email</span>
+                <span>Email</span>
               </FieldArea>
 
               <FieldArea>
@@ -105,10 +119,10 @@ const Contact = () => {
               </FieldArea>
           
               <label htmlFor="subject">Subject</label>
-              <TextAreaInput id="subject" name="subject" rows={5} placeholder="Write something.." onChange={()=>{setSubject(this.target.value)}}></TextAreaInput>
-          
+              <TextAreaInput id="subject" name="subject" rows={9} placeholder="Write something.." onChange={()=>{setSubject(this.target.value)}}></TextAreaInput>
+              <SubmitContainer>
               <SubmitButton type="submit" value="Submit" />
-          
+              </SubmitContainer>
             </form>
             
             
