@@ -14,7 +14,7 @@ export const ContactContainer = styled.div`
   align-items:center;
   height:600px;
   margin:auto;
-  @media(max-width:720px){
+  @media(max-width:900px){
     width:90%;
   }
 `;
@@ -30,7 +30,10 @@ display: flex;
 justify-content: center;
 align-items: center;
 color: white;
-@media (max-width:720px){
+animation-name: ${fadeAnimation};
+animation-duration: 1s;
+animation-iteration-count: easy-in;
+@media (max-width:900px){
   display:none;
 }
 `;
@@ -84,6 +87,7 @@ export const TextAreaInput = styled.textarea`
   margin-top: 6px;
   margin-bottom: 16px;
   resize: none;
+  
   &:focus {
     outline: none;
     box-shadow: 0px 0px 2px red;
@@ -127,21 +131,17 @@ export const FieldArea = styled.div`
   
   &> input:focus ~ span, 
   &> input:placeholder-shown ~ span {
-    // font-size: 14px;
     position: absolute;
-    top: -12px;
-    left: 14px;
-    // transform: scale(1.2);
+    transform: scale(1.05);
     color: black;
     font-style: bold;
   }
 
   &> input ~ span {
-    font-size: 14px;
+    font-size: 16px;
     position: absolute;
-    // top: 5px;
+    top: -3px;
     left: 10px;
-    // transform: translateY(-50%);
     color: gray;
     transition: all 0.5s;
   }
@@ -160,7 +160,7 @@ export const NameField = styled.div `
     outline: none;
     box-shadow: 0px 0px 2px red;
   }
-  @media(max-width: 720px) {
+  @media(max-width: 900px) {
     flex-direction: column;
   }
 `

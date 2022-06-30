@@ -93,11 +93,11 @@ const Contact = () => {
             <form action="action_page.php" >
              <NameField>
                 <FieldArea>
-                <TextInput type="text" id="fname" name="firstname" onChange={()=>{setFirstName(this.target.value)}}/>
+                <TextInput type="text" id="fname" name="firstname" onChange={()=>{setFirstName(this.target.value)}} required/>
                   <span> First Name </span>
                 </FieldArea>
                 <FieldArea>
-                  <TextInput type="text" id="lname" name="lastname" onChange={()=>{setLastName(this.target.value)}} />
+                  <TextInput type="text" id="lname" name="lastname" onChange={()=>{setLastName(this.target.value)}} required/>
                   <span>Last Name</span>
                 </FieldArea>
              </NameField>
@@ -110,16 +110,16 @@ const Contact = () => {
 
               <FieldArea>
                 <TextInput type="email" id="email" name="email" onChange={()=>{setEmail(this.target.value)}}></TextInput>
-                <span>Email</span>
+                <span>Email(optional)</span>
               </FieldArea>
 
               <FieldArea>
-                <TextInput type="text" id="title" name="title" ></TextInput>
+                <TextInput type="text" id="title" name="title" required></TextInput>
                 <span>Title</span>
               </FieldArea>
           
               <label htmlFor="subject">Subject</label>
-              <TextAreaInput id="subject" name="subject" rows={9} placeholder="Write something.." onChange={()=>{setSubject(this.target.value)}}></TextAreaInput>
+              <TextAreaInput id="subject" name="subject" rows={9} placeholder="Write something.." onChange={()=>{setSubject(this.target.value)}} required></TextAreaInput>
               <SubmitContainer>
               <SubmitButton type="submit" value="Submit" />
               </SubmitContainer>
