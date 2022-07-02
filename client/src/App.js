@@ -13,11 +13,13 @@ import Contact from './components/Contact';
 import Signup from './pages/Signup';
 import Login from './pages/Login';
 import Blog from './pages/Blog';
+import DeveloperDashboardPage from './pages/DeveloperDashboardPage';
 // STYLES // STYLES // STYLES // STYLES // STYLES 
 import {
   AppContainer,
   RouteContainer,
 } from './AppStyles';
+
 
 const App = () => {
   // let [nextClassification, setNextClassification] = useState(NAICS.sectors);
@@ -64,6 +66,7 @@ const App = () => {
           <Route path='/about' element={<About/>}/>
           <Route path='/blog' element={<Blog/>}/>
           <Route path='/contact' element={<Contact/>}/>
+          <Route path="/developerdashboard" element={<DeveloperDashboardPage />} />
         </Routes>
       </RouteContainer>
       

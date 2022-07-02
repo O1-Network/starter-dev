@@ -11,6 +11,7 @@ export default function Footer() {
         <FooterLink to='/about'>About</FooterLink>
         <FooterLink to='/contact'>Contact</FooterLink>
         <FooterLink to='/blog'>Blog</FooterLink>
+        <FooterLink to='/developerdashboard'>Developer-Dashboard</FooterLink>
       </FooterLinks>
     </FooterElement>
   );
