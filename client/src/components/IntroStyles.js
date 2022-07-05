@@ -59,7 +59,7 @@ z-index: -1;
 /** Responsive small screens animation */
 //-30px :::benefit 1
 //-80px for each slide 
-
+///README For Benefit animation
 const benefitAnimation = keyframes`
 0% { transform: translatey(-30)}  
 33% { transform: translatey(-110px)}  

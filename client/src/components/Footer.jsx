@@ -5,20 +5,13 @@ import LinkedinIcon from '../images/logos/LinkedinIcon'
 
 export default function Footer() {
   return (
-    <>
-      <FooterElement>
-        <div>
-          <h3>STARTER APPLICATION © 2022</h3>
-        </div>
-        <FooterLinks>
-          <FooterLink to="https://www.github.com">
-            <GithubIcon />
-          </FooterLink>
-          <FooterLink to="https://www.linkedin.com">
-            <LinkedinIcon />
-          </FooterLink>
-        </FooterLinks>
-      </FooterElement>
-    </>
-  )
+    <FooterElement>
+      <FooterLinks>
+        <FooterLink to='/about'>About</FooterLink>
+        <FooterLink to='/contact'>Contact</FooterLink>
+        <FooterLink to='/blog'>Blog</FooterLink>
+        <FooterLink to='/developerdashboard'>Developer-Dashboard</FooterLink>
+      </FooterLinks>
+    </FooterElement>
+  );
 }
