@@ -1,20 +1,27 @@
-import { 
-    NavStyle, 
-    NavContainer, 
-    NavLinkBrand, 
-    NavLink 
-} from './NavigationStyles'; 
+import {
+  NavStyle,
+  NavContainer,
+  NavLinkBrand,
+  NavLink,
+} from './NavigationStyles'
+
+const navItems = [
+  { name: 'About', herf: '/about' },
+  { name: 'Contact', herf: '/contact' },
+  { name: 'Blog', herf: '/blog' },
+]
 
 const Navigation = () => {
-    return (
-        <NavStyle >
-            <NavContainer className="nav">
-                <NavLinkBrand to="/" className="brand-name">Starter</NavLinkBrand>
-                <NavLink to='/login' className="nav-button">Login</NavLink>
-                <NavLink to='/signup' className="nav-button">Signup</NavLink>
-            </NavContainer>
-        </NavStyle>
-    );
+  return (
+    <NavStyle>
+      <NavContainer>
+        <NavLinkBrand to="/">Starter Application</NavLinkBrand>
+        {navItems.map((item) => (
+          <NavLink to={item.herf}>{item.name}</NavLink>
+        ))}
+      </NavContainer>
+    </NavStyle>
+  )
 }
 
-export default Navigation;
+export default Navigation

@@ -1,23 +1,20 @@
 // EXTERNAL MODULES // EXTERNAL MODULES // EXTERNAL MODULES
 import React from 'react';
 import { Routes, Route } from 'react-router';
-// LAYOUT // LAYOUT // LAYOUT // LAYOUT // LAYOUT 
+// LAYOUT // LAYOUT // LAYOUT // LAYOUT // LAYOUT
 import Navigation from './components/Navigation';
 import Footer from './components/Footer';
-// ROUTES // ROUTES // ROUTES // ROUTES // ROUTES 
+// ROUTES // ROUTES // ROUTES // ROUTES // ROUTES
 import Home from './pages/Home';
 import Business from './pages/Business';
 import Developer from './pages/Developer';
-import About from './components/About';
+import About from './pages/About';
 import Contact from './components/Contact';
 import Signup from './pages/Signup';
 import Login from './pages/Login';
 import Blog from './pages/Blog';
-// STYLES // STYLES // STYLES // STYLES // STYLES 
-import {
-  AppContainer,
-  RouteContainer,
-} from './AppStyles';
+// STYLES // STYLES // STYLES // STYLES // STYLES
+import { AppContainer, RouteContainer } from './AppStyles';
 
 const App = () => {
   // let [nextClassification, setNextClassification] = useState(NAICS.sectors);
@@ -51,26 +48,23 @@ const App = () => {
 
   return (
     <AppContainer>
-      
       <Navigation />
-      
+
       <RouteContainer>
         <Routes>
-          <Route exact path='/' element={<Home/>}/>
-          <Route path='/business' element={<Business/>}/>
-          <Route path='/developer' element={<Developer/>}/>
-          <Route path='/login' element={<Login/>}/>
-          <Route path='/signup' element={<Signup/>}/>
-          <Route path='/about' element={<About/>}/>
-          <Route path='/blog' element={<Blog/>}/>
-          <Route path='/contact' element={<Contact/>}/>
+          <Route exact path='/' element={<Home />} />
+          <Route path='/business' element={<Business />} />
+          <Route path='/developer' element={<Developer />} />
+          <Route path='/login' element={<Login />} />
+          <Route path='/signup' element={<Signup />} />
+          <Route path='/about' element={<About />} />
+          <Route path='/blog' element={<Blog />} />
+          <Route path='/contact' element={<Contact />} />
         </Routes>
       </RouteContainer>
-      
-      <Footer />
-      
-    </AppContainer>    
 
+      <Footer />
+    </AppContainer>
   );
 };
 

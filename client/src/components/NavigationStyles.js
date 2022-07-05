@@ -27,7 +27,7 @@ export const NavLinkBrand = styled(Link)`
     font-family: 'Inter';
     font-style: normal;
     font-weight: 500;
-    font-size: 3rem;
+    font-size: 2rem;
     text-decoration: none;
     color: #BA1200;
     text-shadow: -3px -3px 5px rgba(255, 204, 204, 0.25), -1px -1px 3px rgba(255, 204, 204, 0.25), 1px 1px 3px rgba(51, 0, 0, 0.25), 3px 3px 5px rgba(51, 0, 0, 0.32);
@@ -40,7 +40,7 @@ export const NavLink = styled(Link)`
     height: 30px;
     background: #F2FCFF;
     border-style: none;
-    box-shadow: -1px -1px 3px rgba(255, 230, 230, 0.5), -3px -3px 5px rgba(255, 230, 230, 0.5), 3px 3px 5px rgba(51, 0, 0, 0.3), 1px 1px 3px rgba(51, 0, 0, 0.3);
+    // box-shadow: -1px -1px 3px rgba(255, 230, 230, 0.5), -3px -3px 5px rgba(255, 230, 230, 0.5), 3px 3px 5px rgba(51, 0, 0, 0.3), 1px 1px 3px rgba(51, 0, 0, 0.3);
     border-radius: 5px;
     color: #BA1200;
     font-family: 'Inter';
@@ -53,6 +53,8 @@ export const NavLink = styled(Link)`
     align-items: center;
 
     &:hover {
-        background: #fff1f1;
+       // background: #fff1f1;
+       text-decoration: underline;
     }
+    padding: 10px;
 `;
