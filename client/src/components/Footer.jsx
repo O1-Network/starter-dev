@@ -1,8 +1,7 @@
-import {
-  FooterElement,
-  FooterLinks,
-  FooterLink
-} from './FooterStyles';
+import { FooterElement, FooterLinks, FooterLink } from './FooterStyles'
+
+import GithubIcon from '../images/logos/GithubIcon'
+import LinkedinIcon from '../images/logos/LinkedinIcon'
 
 export default function Footer() {
   return (

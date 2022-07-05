@@ -9,6 +9,7 @@ export const NavStyle = styled.nav`
     display: block;
     position: sticky;
     top: 0;
+
 `;
 
 export const NavContainer = styled.div`
