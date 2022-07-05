@@ -18,10 +18,11 @@ export const SubSection = styled.h3`
 
 export const Text = styled.p`
   font-size: 18px;
-  letter-spacing: .1rem;
+  letter-spacing: 0.1rem;
   line-height: 2rem;
 `;
 
 export const ResourcesSection = styled.h4`
   font-size: 24px;
 `;
+
