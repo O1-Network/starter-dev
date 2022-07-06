@@ -1,9 +1,17 @@
 import psycopg2
 from flask import Flask
+from server.app.routes import authentication
 from server.app.settings import CONNECTION_HOST
 
 
 app = Flask(__name__)
+
+
+
+
+
+# Register blueprints
+app.register_blueprint(authentication.blueprint, url_prefix='/auth')
 
 
 @app.route('/')

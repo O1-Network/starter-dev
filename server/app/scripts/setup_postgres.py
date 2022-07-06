@@ -8,13 +8,11 @@ from server.app.settings import CONNECTION_HOST
 SAMPLE_RECORD_COUNT = 100
 LETTERS = string.ascii_letters
 
-# Sample file to fill postgres with some mock data at start up
-
 def create_tables():
     try:
         print("LOADING TABLES")
         commands = [
-            "CREATE TABLE sample (sample_id SERIAL PRIMARY KEY, sample_data VARCHAR(255) NOT NULL)"
+            "CREATE TABLE AUTHENTICATION (email VARCHAR(255) PRIMARY KEY, pwd VARCHAR(255) NOT NULL, account_type VARCHAR(255) NOT NULL, user_id SERIAL)"
         ]
 
         # Establish Database connection
@@ -32,15 +30,17 @@ def create_tables():
             cursor.execute(command)
 
         # Generate some sample records
-        for record_idx in range(0, SAMPLE_RECORD_COUNT):
-            sample_id = record_idx
-            sample_data = ''.join(random.choice(LETTERS) for i in range(10))
+        # for record_idx in range(0, SAMPLE_RECORD_COUNT):
+        #     sample_id = record_idx
+        #     sample_data = ''.join(random.choice(LETTERS) for i in range(10))
 
-            cursor.execute(
-                f"INSERT INTO sample (sample_id, sample_data) VALUES ({sample_id}, '{sample_data}')"
-            )
-            time.sleep(0.01)
+        #     cursor.execute(
+        #         f"INSERT INTO sample (sample_id, sample_data) VALUES ({sample_id}, '{sample_data}')"
+        #     )
+        #     time.sleep(0.01)
 
+
+        cursor.execute(f"INSERT INTO AUTHENTICATION (email, pwd, account_type) VALUES ('admin@test.com', 'password', 'ADMIN')")
         cursor.close()
         print("TABLES LOADED")
     except Exception as e:
