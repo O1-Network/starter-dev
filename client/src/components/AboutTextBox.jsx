@@ -1,8 +1,11 @@
-import { StyledHeader } from './AboutTextBoxStyles';
+import { StyledHeader, WhyContainer, HowContainer } from './AboutTextBoxStyles';
+// import { WhyHow } from './AboutTextBoxStyles';
 const AboutTextBox = () => {
   return (
           <StyledHeader>
-          <div className="Why">
+            <WhyContainer>
+
+       
           <h2>Why Starter?</h2>
           <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -13,14 +16,21 @@ const AboutTextBox = () => {
               nulla pariatur. Excepteur sint occaecat cupidatat non proident,
               sunt in culpa qui officia deserunt mollit anim id est laborum
           </p>
-          </div>
+       
+            </WhyContainer>
 
-          <div className="How">
+            <HowContainer>
+
+        
           <h2 className='right-text'>How Does It Work?</h2>
           <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           </p>
-          </div>
+        
+            </HowContainer>
           </StyledHeader>   
 
   );

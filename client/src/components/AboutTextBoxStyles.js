@@ -1,10 +1,28 @@
 import styled from 'styled-components';
 
 export const StyledHeader = styled.div`
-  display: flex;
-  padding-left: 80px;
+
+
+  flex-direction: row;
   width: 80%;
-  margin: auto;
-  border-right: 0px;
- 
-`;
+  margin:auto;
+  display: flex;
+  align-content: space-around;
+  flex-wrap: wrap;
+  `;
+
+  export const WhyContainer = styled.div` 
+  display: flex;
+  flex-direction: column;
+  width: 48%;
+  align-items: center;
+  padding-right: 3px;
+  `;
+  export const HowContainer = styled.div` 
+  display: flex;
+  flex-direction: column;
+  width: 48%;
+  align-items: center;
+  padding-left: 3px;
+
+  `;
