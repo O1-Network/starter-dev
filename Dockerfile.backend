@@ -7,7 +7,10 @@ WORKDIR /usr/src/app
 COPY . .
 
 # Install dependencies
-RUN pip install --no-cache-dir -r ./requirements.txt
+RUN pip install --no-cache-dir -r ./server/app/requirements.txt
+
+# Pick port to run on
+EXPOSE 3000
 
 # Run the command
-CMD ["python", "-m", "flask", "run", "--host=0.0.0.0"]
+CMD ["python", "-m", "server.application"]

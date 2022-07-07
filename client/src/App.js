@@ -1,14 +1,14 @@
 // EXTERNAL MODULES // EXTERNAL MODULES // EXTERNAL MODULES
 import React from 'react';
 import { Routes, Route } from 'react-router';
-// LAYOUT // LAYOUT // LAYOUT // LAYOUT // LAYOUT 
+// LAYOUT // LAYOUT // LAYOUT // LAYOUT // LAYOUT
 import Navigation from './components/Navigation';
 import Footer from './components/Footer';
-// ROUTES // ROUTES // ROUTES // ROUTES // ROUTES 
+// ROUTES // ROUTES // ROUTES // ROUTES // ROUTES
 import Home from './pages/Home';
 import Business from './pages/Business';
 import Developer from './pages/Developer';
-import About from './components/About';
+import About from './pages/About';
 import Contact from './components/Contact';
 import Signup from './pages/Signup';
 import Login from './pages/Login';
@@ -53,9 +53,8 @@ const App = () => {
 
   return (
     <AppContainer>
-      
       <Navigation />
-      
+
       <RouteContainer>
         <Routes>
           <Route exact path='/' element={<Home/>}/>
@@ -69,11 +68,9 @@ const App = () => {
           <Route path="/developerdashboard" element={<DeveloperDashboardPage />} />
         </Routes>
       </RouteContainer>
-      
-      <Footer />
-      
-    </AppContainer>    
 
+      <Footer />
+    </AppContainer>
   );
 };
 
