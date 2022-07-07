@@ -1,6 +1,7 @@
 # TODO: Implement authentication methods
 from flask import Blueprint, jsonify, request, make_response
 from server.app.settings import CONNECTION_HOST
+from server.app.repositories import authentication
 import psycopg2
 
 
@@ -19,26 +20,12 @@ def signup():
         response = {"msg": "Invalid request for user sign up"}
         return jsonify(response), 400
 
-    # TODO: Ensure email is unique
-
     # Establish connection and commit record
     try:
-        connection = psycopg2.connect(
-            database='development',
-            user='development',
-            password='development',
-            host=CONNECTION_HOST,
-        )
-        connection.autocommit = True
-
-        cursor = connection.cursor()        
-
-        # Create user record in database
-        command = f"INSERT INTO AUTHENTICATION (email, pwd, account_type) VALUES ('{email}', '{password}', '{account_type}')"
-        cursor.execute(command)
-        cursor.close()
+        authentication.signup(email, password, account_type)
     except Exception as e:
         # TODO: Narrow down exception handling
+        print(e)
         response = {"msg": "Internal Server Error"}
         return jsonify(response), 500
     

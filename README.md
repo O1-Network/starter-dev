@@ -9,7 +9,7 @@ Step 1 : Pre-requisities
     - https://nodejs.org/en/download/
     - https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
     - https://kinsta.com/blog/how-to-install-node-js/
-  - Install visual studio code
+  - Install Visual Studio Code
     * Install live share extension by following the below steps
     
     * Go to "View" in your Visual Studio Code and select "Extensions"
